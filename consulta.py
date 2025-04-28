@@ -5,7 +5,6 @@ import streamlit as st
 @st.cache_data(ttl=0)
 def carregar_dados():
     url = 'https://raw.githubusercontent.com/rafael011996/consulta/main/produtos.csv'
-'
     return pd.read_csv(url, delimiter=';', encoding='utf-8')
 
 
