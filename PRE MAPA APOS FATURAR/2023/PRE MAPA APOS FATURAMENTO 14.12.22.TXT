@@ -1,0 +1,168 @@
+ g 
+---------------------------------------------------------------------------------------------------------
+01                                                                   12 Faturamento   Ref:ft12368
+Filial: 00                                                                        Emissao    Hora   Folha
+                                           PRE-MAPA DE CARGA                      14/12/22   13:01   0001
+-----GRUPO TRIUNFANTE-------------------------------------------------------------Usuario: luiz----------
+
+Cidade                         DtUltFat    Quantidade     Peso Bruto  Valor Entrega QtdEn QtdNF RegCidade                         DtUltFat    Quantidade     Peso Bruto  Valor Entrega QtdEn QtdNF RegCidade                         DtUltFat    Quantidade     Peso Bruto  Valor Entrega QtdEn QtdNF Reg
+
+
+  30 TRES LAGOAS - BRASILANDIA  30 TRES LAGOAS - BRASILANDIA  30 TRES LAGOAS - BRASILANDIA
+3076 TRES LAGOAS               09/12/22         181,0          65,29       2.926,47     7     7  30
+     Totais da Regiao:                          181,0          65,29       2.926,47     7     7     Totais da Regiao:                          181,0          65,29       2.926,47     7     7     Totais da Regiao:                          181,0          65,29       2.926,47     7     7
+
+  31 AMAMBAI - SETE QUEDAS  31 AMAMBAI - SETE QUEDAS  31 AMAMBAI - SETE QUEDAS
+3003 AMAMBAI                   09/12/22         879,0       1.570,52      61.515,50     3     4  31
+3010 ARAL MOREIRA              12/12/22           2,0           2,64         151,04     1     1  31
+3070 SETE QUEDAS               00/00/00         340,0          56,08       2.128,11     3     3  31
+3073 TACURU                    00/00/00         145,0          66,72       1.835,06     1     1  31
+     Totais da Regiao:                        1.366,0       1.695,97      65.629,71     8     9     Totais da Regiao:                        1.366,0       1.695,97      65.629,71     8     9     Totais da Regiao:                        1.366,0       1.695,97      65.629,71     8     9
+
+  32 PONTA PORA  32 PONTA PORA  32 PONTA PORA
+3007 ANTONIO JOAO              12/12/22          57,0          62,82       3.685,22     6     6  32
+3060 PONTA PORA                12/12/22         939,0         574,42      20.274,70    13    13  32
+     Totais da Regiao:                          996,0         637,25      23.959,92    19    19     Totais da Regiao:                          996,0         637,25      23.959,92    19    19     Totais da Regiao:                          996,0         637,25      23.959,92    19    19
+
+  33 AQUIDAUANA - ANASTACIO  33 AQUIDAUANA - ANASTACIO  33 AQUIDAUANA - ANASTACIO
+3004 ANASTACIO                 12/12/22          50,0           6,90         239,50     1     1  33
+3009 AQUIDAUANA                12/12/22          99,0          53,05       1.468,42     2     5  33
+3075 TERENOS                   30/11/22          23,0          13,91         467,02     1     1  33
+     Totais da Regiao:                          172,0          73,87       2.174,94     4     7     Totais da Regiao:                          172,0          73,87       2.174,94     4     7     Totais da Regiao:                          172,0          73,87       2.174,94     4     7
+
+  35 DOURADOS  35 DOURADOS  35 DOURADOS
+3032 DOURADOS                  09/12/22       1.699,0         503,81      22.727,91    46    50  35
+3039 ITAPORA                   09/12/22          84,0          19,30         835,01     4     5  35
+     Totais da Regiao:                        1.783,0         523,12      23.562,92    50    55     Totais da Regiao:                        1.783,0         523,12      23.562,92    50    55     Totais da Regiao:                        1.783,0         523,12      23.562,92    50    55
+
+  36 NOVA ALVORADA  36 NOVA ALVORADA  36 NOVA ALVORADA
+3054 NOVA ALVORADA DO SUL      12/12/22           7,0          58,21       2.331,21     1     1  36
+     Totais da Regiao:                            7,0          58,21       2.331,21     1     1     Totais da Regiao:                            7,0          58,21       2.331,21     1     1     Totais da Regiao:                            7,0          58,21       2.331,21     1     1
+
+  38 SIDROLANDIA  38 SIDROLANDIA  38 SIDROLANDIA
+3071 SIDROLANDIA               12/12/22          77,0          22,17       1.290,57     7     7  38
+     Totais da Regiao:                           77,0          22,17       1.290,57     7     7     Totais da Regiao:                           77,0          22,17       1.290,57     7     7     Totais da Regiao:                           77,0          22,17       1.290,57     7     7
+
+  39 CHAPADAO -COSTA RICA  39 CHAPADAO -COSTA RICA  39 CHAPADAO -COSTA RICA
+3022 CASSILANDIA               09/12/22         138,0          65,50       2.862,04     5     5  39
+3023 CHAPADAO DO SUL           12/12/22         337,0         128,66       4.838,22     6     6  39
+3027 COSTA RICA                12/12/22         398,0          63,77       3.463,37     3     3  39
+     Totais da Regiao:                          873,0         257,94      11.163,63    14    14     Totais da Regiao:                          873,0         257,94      11.163,63    14    14     Totais da Regiao:                          873,0         257,94      11.163,63    14    14
+
+  40 PARANAIBA - SELVIRIA  40 PARANAIBA - SELVIRIA  40 PARANAIBA - SELVIRIA
+3057 PARANAIBA                 09/12/22          27,0         118,35       6.428,45     1     1  40
+     Totais da Regiao:                           27,0         118,35       6.428,45     1     1     Totais da Regiao:                           27,0         118,35       6.428,45     1     1     Totais da Regiao:                           27,0         118,35       6.428,45     1     1
+
+  41 RIO VERDE - SONORA  41 RIO VERDE - SONORA  41 RIO VERDE - SONORA
+3002 ALCINOPOLIS               30/11/22           1,0           8,31         357,89     1     1  41
+---------------------------------------------------------------------------------------------------------
+01                                                                   12 Faturamento   Ref:ft12368
+Filial: 00                                                                        Emissao    Hora   Folha
+                                           PRE-MAPA DE CARGA                      14/12/22   13:01   0002
+-----GRUPO TRIUNFANTE-------------------------------------------------------------Usuario: luiz----------
+
+Cidade                         DtUltFat    Quantidade     Peso Bruto  Valor Entrega QtdEn QtdNF RegCidade                         DtUltFat    Quantidade     Peso Bruto  Valor Entrega QtdEn QtdNF RegCidade                         DtUltFat    Quantidade     Peso Bruto  Valor Entrega QtdEn QtdNF Reg
+
+3028 COXIM                     09/12/22          92,0         235,68      13.172,49     6     7  41
+3059 PEDRO GOMES               08/12/22         181,0         104,81       5.556,69     4     4  41
+3065 RIO VERDE DE MATO GROSSO  08/12/22         615,0         229,26       9.832,15     7     9  41
+3072 SONORA                    02/12/22          34,0         183,91      10.380,54     1     1  41
+     Totais da Regiao:                          923,0         761,99      39.299,76    19    22     Totais da Regiao:                          923,0         761,99      39.299,76    19    22     Totais da Regiao:                          923,0         761,99      39.299,76    19    22
+
+  42 NAVIRAI  42 NAVIRAI  42 NAVIRAI
+3046 JUTI                      09/12/22          22,0          29,04       1.679,23     3     3  42
+3052 NAVIRAI                   09/12/22         300,0         228,64      12.609,26    25    26  42
+     Totais da Regiao:                          322,0         257,68      14.288,49    28    29     Totais da Regiao:                          322,0         257,68      14.288,49    28    29     Totais da Regiao:                          322,0         257,68      14.288,49    28    29
+
+  43 MUNDO NOVO - ITAQUIRAI  43 MUNDO NOVO - ITAQUIRAI  43 MUNDO NOVO - ITAQUIRAI
+3033 ELDORADO                  09/12/22         515,0         450,91      20.955,26     5     6  43
+3037 IGUATEMI                  30/11/22          10,0          55,70       3.118,97     1     1  43
+3040 ITAQUIRAI                 09/12/22          35,0          46,20       2.733,52     3     3  43
+3051 MUNDO NOVO                30/11/22          83,0          84,01       2.467,76     1     1  43
+     Totais da Regiao:                          643,0         636,83      29.275,51    10    11     Totais da Regiao:                          643,0         636,83      29.275,51    10    11     Totais da Regiao:                          643,0         636,83      29.275,51    10    11
+
+  44 FATIMA DO SUL - DEODAPOLI  44 FATIMA DO SUL - DEODAPOLI  44 FATIMA DO SUL - DEODAPOLI
+3029 DEODAPOLIS                12/12/22         197,0         155,87       7.533,71     5     6  44
+3034 FATIMA DO SUL             12/12/22         293,0       1.244,39      51.986,27     5     5  44
+     Totais da Regiao:                          490,0       1.400,26      59.519,98    10    11     Totais da Regiao:                          490,0       1.400,26      59.519,98    10    11     Totais da Regiao:                          490,0       1.400,26      59.519,98    10    11
+
+  45 NOVA ANDRADINA - BATAYPOR  45 NOVA ANDRADINA - BATAYPOR  45 NOVA ANDRADINA - BATAYPOR
+3013 BATAIPORA                 12/12/22       1.076,0         501,13      17.542,41     4     8  45
+3055 NOVA ANDRADINA            12/12/22         226,0          53,82       2.049,75     4     4  45
+     Totais da Regiao:                        1.302,0         554,96      19.592,16     8    12     Totais da Regiao:                        1.302,0         554,96      19.592,16     8    12     Totais da Regiao:                        1.302,0         554,96      19.592,16     8    12
+
+  46 BELA VISTA - PORTO MURTIN  46 BELA VISTA - PORTO MURTIN  46 BELA VISTA - PORTO MURTIN
+3014 BELA VISTA                09/12/22         399,0         242,48       4.674,05     7     8  46
+3061 PORTO MURTINHO            09/12/22         106,0          28,08       1.197,14     5     6  46
+     Totais da Regiao:                          505,0         270,56       5.871,19    12    14     Totais da Regiao:                          505,0         270,56       5.871,19    12    14     Totais da Regiao:                          505,0         270,56       5.871,19    12    14
+
+  47 BONITO - NIOAQUE  47 BONITO - NIOAQUE  47 BONITO - NIOAQUE
+3016 BONITO                    09/12/22          14,0          32,83       1.524,24     2     2  47
+3036 GUIA LOPES DA LAGUNA      30/11/22          36,0           8,64         380,36     3     3  47
+3044 JARDIM                    09/12/22         705,0         151,77       6.252,55     6     9  47
+3053 NIOAQUE                   30/11/22         650,0         154,14       4.893,52     4     5  47
+     Totais da Regiao:                        1.405,0         347,40      13.050,67    15    19     Totais da Regiao:                        1.405,0         347,40      13.050,67    15    19     Totais da Regiao:                        1.405,0         347,40      13.050,67    15    19
+
+  48 MARACAJU  48 MARACAJU  48 MARACAJU
+3049 MARACAJU                  12/12/22         133,0         144,35       5.646,97     3     4  48
+     Totais da Regiao:                          133,0         144,35       5.646,97     3     4     Totais da Regiao:                          133,0         144,35       5.646,97     3     4     Totais da Regiao:                          133,0         144,35       5.646,97     3     4
+
+  49 GRANDES REDES DOURADOS  49 GRANDES REDES DOURADOS  49 GRANDES REDES DOURADOS
+3032 DOURADOS                  09/12/22          40,0          50,56       2.329,80     1     1  49
+     Totais da Regiao:                           40,0          50,56       2.329,80     1     1     Totais da Regiao:                           40,0          50,56       2.329,80     1     1     Totais da Regiao:                           40,0          50,56       2.329,80     1     1
+
+  51 CAMAPUA- BANDEI. JARAGUAR  51 CAMAPUA- BANDEI. JARAGUAR  51 CAMAPUA- BANDEI. JARAGUAR
+3019 CAMAPUA                   30/11/22          58,0         196,49       7.327,89     1     1  51
+---------------------------------------------------------------------------------------------------------
+01                                                                   12 Faturamento   Ref:ft12368
+Filial: 00                                                                        Emissao    Hora   Folha
+                                           PRE-MAPA DE CARGA                      14/12/22   13:01   0003
+-----GRUPO TRIUNFANTE-------------------------------------------------------------Usuario: luiz----------
+
+Cidade                         DtUltFat    Quantidade     Peso Bruto  Valor Entrega QtdEn QtdNF RegCidade                         DtUltFat    Quantidade     Peso Bruto  Valor Entrega QtdEn QtdNF RegCidade                         DtUltFat    Quantidade     Peso Bruto  Valor Entrega QtdEn QtdNF Reg
+
+     Totais da Regiao:                           58,0         196,49       7.327,89     1     1     Totais da Regiao:                           58,0         196,49       7.327,89     1     1     Totais da Regiao:                           58,0         196,49       7.327,89     1     1
+
+ 302 AGUA CLARA 302 AGUA CLARA 302 AGUA CLARA
+3001 AGUA CLARA                12/12/22         815,0         329,41       9.927,67    21    21 302
+     Totais da Regiao:                          815,0         329,41       9.927,67    21    21     Totais da Regiao:                          815,0         329,41       9.927,67    21    21     Totais da Regiao:                          815,0         329,41       9.927,67    21    21
+
+ 330 DAMASCENO AQUIDAUANA 330 DAMASCENO AQUIDAUANA 330 DAMASCENO AQUIDAUANA
+3009 AQUIDAUANA                12/12/22         100,0          13,80         479,00     2     2 330
+     Totais da Regiao:                          100,0          13,80         479,00     2     2     Totais da Regiao:                          100,0          13,80         479,00     2     2     Totais da Regiao:                          100,0          13,80         479,00     2     2
+
+ 331 MIRANDA - BODOQUENA 331 MIRANDA - BODOQUENA 331 MIRANDA - BODOQUENA
+3015 BODOQUENA                 12/12/22          15,0          13,26         235,35     1     1 331
+3050 MIRANDA                   12/12/22         403,0         334,66       9.610,04     8    14 331
+     Totais da Regiao:                          418,0         347,92       9.845,39     9    15     Totais da Regiao:                          418,0         347,92       9.845,39     9    15     Totais da Regiao:                          418,0         347,92       9.845,39     9    15
+
+ 338 OLIVEIRA ESQUERDO-CHAPADA 338 OLIVEIRA ESQUERDO-CHAPADA 338 OLIVEIRA ESQUERDO-CHAPADA
+3022 CASSILANDIA               09/12/22           6,0          31,68       1.928,28     1     1 338
+3023 CHAPADAO DO SUL           12/12/22           6,0          31,68       1.928,28     1     1 338
+     Totais da Regiao:                           12,0          63,36       3.856,56     2     2     Totais da Regiao:                           12,0          63,36       3.856,56     2     2     Totais da Regiao:                           12,0          63,36       3.856,56     2     2
+
+ 370 REDE PIRES RIO BRILHANTE 370 REDE PIRES RIO BRILHANTE 370 REDE PIRES RIO BRILHANTE
+3063 RIO BRILHANTE             12/12/22          80,0         101,06       3.825,58     3     3 370
+     Totais da Regiao:                           80,0         101,06       3.825,58     3     3     Totais da Regiao:                           80,0         101,06       3.825,58     3     3     Totais da Regiao:                           80,0         101,06       3.825,58     3     3
+
+ 410 BENFICA - SAO GABRIELDO O 410 BENFICA - SAO GABRIELDO O 410 BENFICA - SAO GABRIELDO O
+3068 SAO GABRIEL DO OESTE      09/12/22          99,0         145,63       7.892,25     7     9 410
+     Totais da Regiao:                           99,0         145,63       7.892,25     7     9     Totais da Regiao:                           99,0         145,63       7.892,25     7     9     Totais da Regiao:                           99,0         145,63       7.892,25     7     9
+
+ 411 BENFICA - SAO GABRIEL 411 BENFICA - SAO GABRIEL 411 BENFICA - SAO GABRIEL
+3068 SAO GABRIEL DO OESTE      09/12/22         100,0         174,75       9.309,75     1     1 411
+     Totais da Regiao:                          100,0         174,75       9.309,75     1     1     Totais da Regiao:                          100,0         174,75       9.309,75     1     1     Totais da Regiao:                          100,0         174,75       9.309,75     1     1
+
+ 413 CORGUINHO - RIO NEGRO 413 CORGUINHO - RIO NEGRO 413 CORGUINHO - RIO NEGRO
+3075 TERENOS                   30/11/22         148,0         149,70       1.734,34     8     9 413
+     Totais da Regiao:                          148,0         149,70       1.734,34     8     9     Totais da Regiao:                          148,0         149,70       1.734,34     8     9     Totais da Regiao:                          148,0         149,70       1.734,34     8     9
+
+ 441 IVINHEMA - ANGELICA 441 IVINHEMA - ANGELICA 441 IVINHEMA - ANGELICA
+3006 ANGELICA                  12/12/22          11,0           5,21         132,64     1     1 441
+     Totais da Regiao:                           11,0           5,21         132,64     1     1     Totais da Regiao:                           11,0           5,21         132,64     1     1     Totais da Regiao:                           11,0           5,21         132,64     1     1
+
+ 450 BATAGUASSU - SANTA RITA 450 BATAGUASSU - SANTA RITA 450 BATAGUASSU - SANTA RITA
+3012 BATAGUASSU                30/11/22         148,0         286,01      17.884,92     1     3 450
+3067 SANTA RITA DO PARDO       30/11/22         410,0          82,22       3.003,51     1     1 450
+     Totais da Regiao:                          558,0         368,23      20.888,43     2     4     Totais da Regiao:                          558,0         368,23      20.888,43     2     4     Totais da Regiao:                          558,0         368,23      20.888,43     2     4
+     Total Geral....:                        13.644,0       9.772,43     403.561,85   274   311     Total Geral....:                        13.644,0       9.772,43     403.561,85   274   311     Total Geral....:                        13.644,0       9.772,43     403.561,85   274   311

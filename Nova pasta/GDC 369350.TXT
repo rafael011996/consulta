@@ -1,0 +1,94 @@
+ M 
+------------------------------------------------------------------------------------------------------------------------------------------------------
+TCG - TRIUNFANTE MATOGROSSENSE ALIMENTOS                                                                          12 Faturamento   Ref:lf07500
+Filial: CAMPO GRANDE                                                                                                           Emissao    Hora   Folha
+                                                               ESPELHO DE NOTA FISCAL                                          29/11/23   16:27   0001
+-----GRUPO TRIUNFANTE----------------------------------------------------------------------------------------------------------Usuario: willian-------
+
+    Operacao: 02102 COMPRA P/ COMERCIALIZACAO                                            Serie: 003 Nota:      369.350
+
+Destinatario: A-GDC ALIMENTOS SA.........-M-                   002.279.324/0001 36               Emissao: 27/11/23
+
+    Endereco: R EUGENIO PEZZINI 500                     Numero:         Cidade: ITAJAI               UF: SC Telefone: 473.341.2600
+
+  Chave NF-e: 42231102279324000136550030003693501234566747
+
+  Codigo    Qtd Uni Descricao                                 Custo Vig   Custo NF  Custo Rep   Unitario   Desc   Vlr.Desc         Total ICMS MBruta  Codigo    Qtd Uni Descricao                                 Custo Vig   Custo NF  Custo Rep   Unitario   Desc   Vlr.Desc         Total ICMS MBruta  Codigo    Qtd Uni Descricao                                 Custo Vig   Custo NF  Custo Rep   Unitario   Desc   Vlr.Desc         Total ICMS MBruta
+----------------------------------------------------------------------------------------------------------------------------------------------------
+  117111     60 CX  ATUM GDC PEDACO AO OLEO (LC15)....24X170     130,03     130,03     130,03     130,03   0,00       0,00      7.801,80   07  34,00
+  196441     55 CX  ATUM GDC PEDACO AO NATURAL........24X170     130,03     130,03     130,03     130,03   0,00       0,00      7.151,65   07  34,00
+  117351     80 CX  ATUM GDC SOLIDO EM OLEO (LC15)....24X170     141,34     141,34     141,34     141,34   0,00       0,00     11.307,20   07  34,00
+  117421    150 CX  ATUM GDC RALADO EM OLEO (LC15)....24X170      99,16      99,16      99,16      99,16   0,00       0,00     14.874,00   07  31,00
+  196641     32 CX  ATUM GDC SOLIDO AO NATURAL (LC15).24X170     141,34     141,34     141,34     141,34   0,00       0,00      4.522,88   07  34,00
+  196551     85 CX  ATUM GDC RALADO AO NATURAL (LC15).24X170      99,16      99,16      99,16      99,16   0,00       0,00      8.428,60   07  31,00
+  117801      5 CX  ATUM GDC SOLIDO CLARO NATURAL.....24X170     172,25     165,36     172,25     165,36   0,00       0,00        826,80   07  34,00
+  118441    115 CX  PATE DE ATUM GDC (LC15)...........10x150      53,54      53,54      53,54      53,54   0,00       0,00      6.157,10   07  34,00
+  118501     40 CX  PATE DE ATUM GDC LIGHT............10X150      53,54      53,54      53,54      53,54   0,00       0,00      2.141,60   07  34,00
+  118601     80 CX  PATE DE ATUM GDC COM AZEITONAS....10X150      53,54      53,54      53,54      53,54   0,00       0,00      4.283,20   07  34,00
+  196611    200 CX  SARD.GDC MOLHO TOMATE TEMP.(LC15).50X125     141,95     144,69     144,69     144,69   0,00       0,00     28.938,00   07  31,72
+  196631      7 CX  SARD.GDC SABOR LIMAO (LC15).......50X125     141,95     144,69     144,69     144,69   0,00       0,00      1.012,83   07  31,72
+  196621      7 CX  SARD.GDC COM MOLHO DE ERVAS.......50X125     141,95     144,69     144,69     144,69   0,00       0,00      1.012,83   07  31,72
+  211441      6 CX  FILE SARDINHA GDC EM OLEO (LC15)..24X125     146,20     146,18     146,20     146,18   0,00       0,00        877,08   07  34,00
+  214461      5 CX  FILE SARDINHA GDC COM PIMENTA.....24X125     146,20     146,18     146,20     146,18   0,00       0,00        730,90   07  34,00
+  196711      6 CX  FILE SARDINHA GDC MOLHO DE TOMATE.24X125     152,27     146,18     152,27     146,18   0,00       0,00        877,08   07  34,00
+  169701      1 CX  FILE SARDINHA GDC COM LIMAO.......24X125     152,27     146,18     152,27     146,18   0,00       0,00        146,18   07  34,00
+  196511     75 CX  ATUM GDC RLD MOLHO TOMATE (LC15)..24X170      99,16      99,16      99,16      99,16   0,00       0,00      7.437,00   07  34,00
+  196531     15 CX  ATUM GDC RALADO AO MOLHO PICANTE..24X170      99,16      99,16      99,16      99,16   0,00       0,00      1.487,40   07  34,00
+  199641     19 CX  ATUM GDC SOLIDO DEFUMADO..........24X170     141,34     141,34     141,34     141,34   0,00       0,00      2.685,46   07  34,00
+  196651    600 CX  SARD.GDC OLEO COMEST (LC15).......50X125     141,95     144,69     144,69     144,69   0,00       0,00     86.814,00   07  31,72
+  196741    300 CX  SARD.88 COM OLEO COMESTIVEL.......50X125     129,30     131,78     131,78     131,78   0,00       0,00     39.534,00   07  31,92
+  230201    130 CX  SARD.88 COM MOLHO DE TOMATE.......50X125     129,30     131,78     131,78     131,78   0,00       0,00     17.131,40   07  31,92
+  196591     60 CX  SARD.GDC COM MOLHO DE TOMATE......48X250     242,30     247,54     247,54     247,54   0,00       0,00     14.852,40   07  34,60
+  220501      1 CX  FILE ATUM GDC AZT DE OLIVA (LC15).24X125     182,32     182,32     182,32     182,32   0,00       0,00        182,32   07  34,00
+  220601      1 CX  FILE ATUM AZEITE OLIVA E ALHO.....24X125     182,32     182,32     182,32     182,32   0,00       0,00        182,32   07  34,00
+  150191     20 CX  PATE DE ATUM GDC DEFUMADO.........10x150      53,54      53,54      53,54      53,54   0,00       0,00      1.070,80   07  34,00
+  196791      5 CX  ATUM 88 RALADO....................12X500     186,60     186,97     186,97     186,97   0,00       0,00        934,85   07  34,30
+  216751      1 CX  SALADA DE ATUM E BATATA (LC15)....10X150      50,92      50,91      50,92      50,91   0,00       0,00         50,91   07  34,00
+  196001     60 CX  SARD.GDC OLEO COMEST (LC15).......48X250     242,30     247,54     247,54     247,54   0,00       0,00     14.852,40   07  34,60
+  216761      2 CX  SALADA DE ATUM BATATA MAION AZEIT.10X170      51,45      50,91      51,45      50,91   0,00       0,00        101,82   07  34,00
+  150291     24 CX  PATE DE ATUM GDC PICANTE..........10X150      53,54      53,54      53,54      53,54   0,00       0,00      1.284,96   07  34,00
+  120771      5 CX  ATUM SOLIDO YELLOWFIN AZEIT OLIVA.24X170     165,40     165,36     165,40     165,36   0,00       0,00        826,80   07  34,00
+  120661      7 CX  ATUM GDC SOLIDO NATURAL B.TEOR....24X170     161,95     155,47     161,95     155,47   0,00       0,00      1.088,29   07  34,00
+  121071     30 CX  ATUM GDC RALADO DEFUMADO..........24X170      99,16      99,16      99,16      99,16   0,00       0,00      2.974,80   07  34,00
+  141411      2 CX  SALADA ATUM BATATA ERVILHA CENOUR.10X150      50,92      50,91      50,92      50,91   0,00       0,00        101,82   07  34,00
+  216781      2 CX  SALADA DE ATUM BATATA DOCE E AZEI.10X150      50,92      50,91      50,92      50,91   0,00       0,00        101,82   07  34,00
+  196771     10 CX  SARD.88 COM OLEO COMESTIVEL.......48X250     257,86     227,98     257,86     227,98   0,00       0,00      2.279,80   07  34,10
+  196781     17 CX  SARD.88 COM MOLHO DE TOMATE.......48X250     257,86     227,98     257,86     227,98   0,00       0,00      3.875,66   07  34,10
+  218261     10 CX  ATUM 88 RALADO MOLHO DE TOMATE....24X140      83,30      83,30      83,30      83,30   0,00       0,00        833,00   07  34,00
+------------------------------------------------------------------------------------------------------------------------------------------------------
+TCG - TRIUNFANTE MATOGROSSENSE ALIMENTOS                                                                          12 Faturamento   Ref:lf07500
+Filial: CAMPO GRANDE                                                                                                           Emissao    Hora   Folha
+                                                               ESPELHO DE NOTA FISCAL                                          29/11/23   16:27   0002
+-----GRUPO TRIUNFANTE----------------------------------------------------------------------------------------------------------Usuario: willian-------
+
+    Operacao: 02102 COMPRA P/ COMERCIALIZACAO                                            Serie: 003 Nota:      369.350
+
+Destinatario: A-GDC ALIMENTOS SA.........-M-                   002.279.324/0001 36               Emissao: 27/11/23
+
+    Endereco: R EUGENIO PEZZINI 500                     Numero:         Cidade: ITAJAI               UF: SC Telefone: 473.341.2600
+
+  Chave NF-e: 42231102279324000136550030003693501234566747
+
+  Codigo    Qtd Uni Descricao                                 Custo Vig   Custo NF  Custo Rep   Unitario   Desc   Vlr.Desc         Total ICMS MBruta  Codigo    Qtd Uni Descricao                                 Custo Vig   Custo NF  Custo Rep   Unitario   Desc   Vlr.Desc         Total ICMS MBruta  Codigo    Qtd Uni Descricao                                 Custo Vig   Custo NF  Custo Rep   Unitario   Desc   Vlr.Desc         Total ICMS MBruta
+----------------------------------------------------------------------------------------------------------------------------------------------------
+  215401      4 CX  ATUM 88 SOLIDO EM OLEO............24X140     119,71     119,71     119,71     119,71   0,00       0,00        478,84   07  34,00
+  218151     32 CX  ATUM 88 RALADO AO NATURAL.........24X140      83,30      83,30      83,30      83,30   0,00       0,00      2.665,60   07  31,00
+  196671      5 CX  SARD.GDC RALADA AO MOLHO TOMATE...50X125     133,66     133,66     133,66     133,66   0,00       0,00        668,30   07  31,22
+                                                                                                   Total das Mercadorias:     305.586,50                                                                                                   Total das Mercadorias:     305.586,50
+
+                       Frete:           0,00 Seguro:           0,00 Outras:           0,00 IPI:           0,00  Total NF:     305.586,50
+                                                                                                         Total de Trocas:           0,00
+                                                                                                      Total de Descontos:           0,00
+Base de Calculo(1):     305.586,50 Aliquota.......(1):   7,00 Valor ICMS.....(1):      21.391,06
+Base de Calculo(2):           0,00 Aliquota.......(2):   0,00 Valor ICMS.....(2):           0,00
+Base de Calculo(3):           0,00 Aliquota.......(3):   0,00 Valor ICMS.....(3):           0,00
+Base de Calculo(4):           0,00 Aliquota.......(4):   0,00 Valor ICMS.....(4):           0,00
+Isento............:           0,00 Outros............:           0,00
+
+Setor: 0000 Pedido:       0 Portador: BANCO
+
+Motivo da Devolucao:
+
+Desdobramentos: Titulo             Vecto          Valor
+                     0003693500 31/12/23     152.793,25
+                     0003693500 29/02/24     152.793,25

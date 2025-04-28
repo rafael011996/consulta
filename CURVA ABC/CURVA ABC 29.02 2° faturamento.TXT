@@ -1,0 +1,773 @@
+ M 
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+TRIUNFANTE MATOGROSSENSE ALIMENTOS LTDA                                                                                                    12 Faturamento          Ref:em11302
+Filial: CAMPO GRANDE                                                                                                                                    Emissao    Hora   Folha
+                                          CURVA ABC DE CLIENTES SOBRE VENDAS REFERENTE A VALORES NO PERIODO DE 29/02/24 A 29/02/24                      29/02/24   00:16   0001
+-----GRUPO TRIUNFANTE-----------------------------------------------------------------------------------------------------------------------------------Usuario: willian-------
+Ranking *---------------Cliente----------------* Cidade          Endereco            Peso Bruto      Caixas          Valor    %PB    %Cx   %Vlr   %ACP   %ACG  Repr Pr.Medio Censo
+
+ Fornec: GERAL                Repres: GERAL                 Linha: GERAL                 Censo: GERAL
+
+      1  12887219000133 NOVA ESTRELA COMERCIO DE TRES LAGOAS     CLODOALDO GARCIA         2.761     482,494     148.685,14   7,64   6,88   8,74   8,74   8,74   211     6,01  A36
+      2   2318826000200 VRA COMERCIO LTDA        CORUMBA         PEDRO DE MEDEIROS        2.129     321,759     102.955,34   5,89   4,58   6,05  14,79  14,79    23     5,16  A35
+      3  12887219000214 NOVA ESTRELA COMERCIO DE TRES LAGOAS     CAPITAO OLINTO MANCI     1.432     262,661      76.411,83   3,96   3,74   4,49  19,28  19,28   211     5,54  A36
+      4   5027616000170 JORGE PAULO SILVA        FATIMA DO SUL   RUA PRESIDENTE VARGA     1.251     308,844      67.275,76   3,46   4,40   3,95  23,24  23,24     4     2,93  A36
+      5   2291605000104 DEWES E CIA LTDA         DOURADOS        ROSEMIRO R VIEIRA        1.083     202,100      63.586,62   2,99   2,88   3,73  26,98  26,98   407     4,41  A36
+      6   5880618000298 QUEIROZ E SOUSA ALIMENTO BATAGUASSU      PORTO XV DE NOVEMBRO     1.085     226,211      47.555,33   3,00   3,22   2,79  29,77  29,77     5     2,08  A36
+      7  12887219000567 NOVA ESTRELA COMERCIO DE TRES LAGOAS     RUA DUQUE DE CAXIAS        832     138,496      46.337,24   2,30   1,97   2,72  32,50  32,50   211     6,21  A03
+      8  43437785000177 UNIBEM ATACADISTA LTDA   SONORA          RUA NORBERTO ANTONIO       895     144,189      38.910,62   2,47   2,05   2,28  34,78  34,78     8     3,12  A03
+      9  12887219000303 NOVA ESTRELA COMERCIO DE TRES LAGOAS     WILSON CARVALHO VIAN       681     115,997      36.005,23   1,88   1,65   2,11  36,90  36,90   211     5,65  A36
+     10    565974000112 TRAZZI ESPINOSA E CIA LT CAMPO GRANDE    SOUTO MAIOR                697     164,181      31.390,66   1,93   2,34   1,84  38,75  38,75   403     3,88  A35
+     11  18862844000107 CIDADE BRANCA COM DE ALI CORUMBA         RUA LUIZ FEITOSA ROD       723     156,132      28.060,20   2,00   2,22   1,64  40,40  40,40    14     2,23  A36
+     12   9473933000928 MARINO E COSTA LTDA      RIBAS DO RIO PA GUSTAVO TEIXEIRA           532     105,412      22.501,50   1,47   1,50   1,32  41,72  41,72    21     3,81  A35
+     13   1274396000632 DAMASCENO E DAMASCENO LT ANASTACIO       DA INTEGRACAO              433      84,206      21.276,78   1,19   1,20   1,25  42,97  42,97     3     2,20  A36
+     14  46876542000123 SUPERMERCADO FERNANDES P CORUMBA         AV PORTO CARREIRO          577      80,036      21.128,05   1,59   1,14   1,24  44,21  44,21    14     2,97  A35
+     15   2318826000633 VRA COMERCIO LTDA        COSTA RICA      AV JOSE FERREIRA DA        681     104,334      18.466,73   1,88   1,48   1,08  45,30  45,30    23     2,82  A35
+     16  37178340000117 ROBERTO CARLOS TERENCIAN ANGELICA        STEFAN DUDAS               308      41,103      17.816,25   0,85   0,58   1,04  46,35  46,35     5     7,98  A35
+     17   7297361000190 SOUZA E QUEIROZ ALIMENTO NOVA ANDRADINA  MILTON MODESTO             330      75,843      16.953,97   0,91   1,08   0,99  47,34  47,34     5     4,52  A35
+     18  12075667000728 S PIRES COMERCIO DE ALIM CAMPO GRANDE    MARQUES DE POMBAL          297      76,858      16.698,70   0,82   1,09   0,98  48,32  48,32   203     3,15  A36
+     19    202986000182 DAVI OLIVEIRA FURTADO    ALCINOPOLIS     AV DARLINDO JOSE CAR       364      59,732      16.450,82   1,00   0,85   0,96  49,29  49,29     8     3,20  A15
+     20  19943952000177 SUPERMERCADO CERRADO LTD NOVA ALVORADA D ANTONIO STRADIOTTO         302      97,253      16.085,59   0,83   1,38   0,94  50,24  50,24    10     7,33  A15
+     21  10513998000262 BONANCA COMERCIO DE ALIM RIO BRILHANTE   PROFESSORA ETELVINA        329      79,421      15.738,11   0,91   1,13   0,92  51,16  51,16   402     4,45  A36
+     22  10513998001234 BONANCA COMERCIO DE ALIM MARACAJU        RUA JOAQUIM MURTINHO       294      80,609      15.173,67   0,81   1,14   0,89  52,05  52,05   402     3,94  A36
+     23  10341960000330 GABY SUPERMERCADOS LTDA  CAMPO GRANDE    RUA ZACARIA DE PAULA       246      33,999      14.944,13   0,68   0,48   0,87  52,93  52,93    23    10,86  A15
+     24  11580120000121 COMERCIAL DE ALIMENTOS N SIDROLANDIA     DORVALINO DOS SANTOS       409      62,303      14.106,22   1,13   0,88   0,82  53,76  53,76    10     2,24  A35
+     25  10513998000696 BONANCA COMERCIO DE ALIM CAMPO GRANDE    JERONIMO DE ALBUQUER       260      60,549      13.953,44   0,72   0,86   0,82  54,58  54,58   203     4,27  A36
+     26  12934721000158 CRISPINIANO E FILHOS LTD IVINHEMA        BRASIL                     310      68,345      13.783,75   0,85   0,97   0,81  55,39  55,39     5     3,24  A35
+     27  12075667001376 S PIRES COMERCIO DE ALIM CAMPO GRANDE    RUA FATIMA DO SUL          273      63,046      13.568,28   0,75   0,89   0,79  56,19  56,19   203     3,42  A35
+     28   9473933000170 MARINO E COSTA LTDA      RIBAS DO RIO PA AURELIO MOURA BRANDA       298      63,454      13.144,44   0,82   0,90   0,77  56,96  56,96    21     3,05  A36
+     29  14870472000100 VASCONSELOS SANTOS E CIA CAMPO GRANDE    PRESIDENTE DELFIM MO       357      60,992      13.141,16   0,98   0,86   0,77  57,74  57,74    23     3,65  A35
+     30  39575110000117 BUY AT HOME COM VAREJ DE CAMPO GRANDE    AV CONSUL ASSAF TRAD       189      31,162      12.931,38   0,52   0,44   0,76  58,50  58,50   401     3,19  456
+     31  10513998000777 BONANCA COMERCIO DE ALIM DEODAPOLIS      DEODATO LEONARDO  DA       222      66,964      12.199,44   0,61   0,95   0,71  59,21  59,21   203     1,48  A35
+     32  12075667001457 S PIRES COMERCIO DE ALIM CAMPO GRANDE    RUA MARIA LUIZA MORA       236      51,586      12.017,14   0,65   0,73   0,70  59,92  59,92   203     3,10  A35
+     33   7140724000180 GAEDICKE E CIA LTDA      CAMPO GRANDE    SANTO ANGELO               262      45,937      11.991,62   0,72   0,65   0,70  60,62  60,62    23     2,87  A35
+     34  12075667001295 S PIRES COMERCIO DE ALIM CAMPO GRANDE    AV CAPIBARIBE              224      51,440      11.785,24   0,62   0,73   0,69  61,32  61,32   203     3,88  A35
+     35  10513998001315 BONANCA COMERCIO DE ALIM CAMPO GRANDE    AV DOS CAFEZAIS            218      56,905      11.757,17   0,60   0,81   0,69  62,01  62,01   203     4,21  A35
+     36    565974000384 TRAZZI ESPINOSA E CIA LT CAMPO GRANDE    RUA CLEVELANDIA            264      54,509      11.204,17   0,73   0,77   0,65  62,67  62,67   403     2,77  A15
+     37   2318826000986 VRA COMERCIO LTDA        AMAMBAI         AV PEDRO MANVAILER         357      58,595      10.499,97   0,98   0,83   0,61  63,29  63,29    23     2,98  A15
+     38  12075667000302 S PIRES COMERCIO DE ALIM CAMPO GRANDE    RACHEL DE QUEIROZ          227      32,280      10.480,74   0,63   0,46   0,61  63,90  63,90   402     2,73  A36
+     39   7719683000423 PIRES E CIA LTDA         CAMPO GRANDE    GUAICURUS                  230      31,560      10.361,68   0,63   0,45   0,60  64,51  64,51   402     2,71  A36
+     40   9473933000251 MARINO E COSTA LTDA      RIBAS DO RIO PA AURELIANO MOURA BRAN       214      45,633      10.143,81   0,59   0,65   0,59  65,11  65,11    21     3,59  A35
+     41  10513998001587 BONANCA COMERCIO DE ALIM MARACAJU        MAJOR CARLOS DA SILV       172      50,183      10.143,27   0,47   0,71   0,59  65,70  65,70   402     4,24  A35
+     42   4738857000164 SUPERMERCADO DUARTE LTDA CAMPO GRANDE    MANOEL DA COSTA LIMA       211      36,470       9.980,21   0,58   0,52   0,58  66,29  66,29    23     2,47  A35
+     43    565974000201 TRAZZI ESPINOSA E CIA LT CAMPO GRANDE    ANTONIO LUIZ PEREIRA       225      48,211       9.725,39   0,62   0,68   0,57  66,86  66,86   403     3,76  A15
+     44  15534654000253 MERCADO PAG POKO LTDA    CAMPO GRANDE    PINHAO                     180      27,060       9.371,84   0,49   0,38   0,55  67,41  67,41   401     2,79  A35
+     45  10513998001072 BONANCA COMERCIO DE ALIM DOURADOS        AV JOAQUIM TEIXEIRA        168      42,463       9.313,60   0,46   0,60   0,54  67,96  67,96   203     3,56  A35
+     46  12075667000990 S PIRES COMERCIO DE ALIM CAMPO GRANDE    RAUL PIRES BARBOSA         175      31,086       9.015,72   0,48   0,44   0,53  68,49  68,49   203     3,38  A35
+     47  49359282000107 KS SUPERMERCADOS LTDA    CAMPO GRANDE    RUA TEOBALDO KAFER         217      46,665       8.746,59   0,60   0,66   0,51  69,00  69,00   403     4,12  A15
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+TRIUNFANTE MATOGROSSENSE ALIMENTOS LTDA                                                                                                    12 Faturamento          Ref:em11302
+Filial: CAMPO GRANDE                                                                                                                                    Emissao    Hora   Folha
+                                          CURVA ABC DE CLIENTES SOBRE VENDAS REFERENTE A VALORES NO PERIODO DE 29/02/24 A 29/02/24                      29/02/24   00:16   0002
+-----GRUPO TRIUNFANTE-----------------------------------------------------------------------------------------------------------------------------------Usuario: willian-------
+Ranking *---------------Cliente----------------* Cidade          Endereco            Peso Bruto      Caixas          Valor    %PB    %Cx   %Vlr   %ACP   %ACG  Repr Pr.Medio Censo
+
+ Fornec: GERAL                Repres: GERAL                 Linha: GERAL                 Censo: GERAL
+
+     48  10513998000424 BONANCA COMERCIO DE ALIM CAMPO GRANDE    DOS CAFEZAIS               169      24,758       8.658,59   0,46   0,35   0,50  69,51  69,51   402     2,95  A35
+     49  10513998001404 BONANCA COMERCIO DE ALIM DOURADOS        LINDALVA MARQUES FER       126      44,083       8.455,91   0,34   0,62   0,49  70,01  70,01   203     5,58  A35
+     50  12075667000485 S PIRES COMERCIO DE ALIM CAMPO GRANDE    ACAIA                      152      42,715       8.241,93   0,42   0,60   0,48  70,50  70,50   203     5,59  A35
+     51   7719683000342 PIRES E CIA LTDA         CAMPO GRANDE    GOIATUBA                   183      24,807       8.126,98   0,50   0,35   0,47  70,97  70,97   402     2,83  A35
+     52  12075667000809 S PIRES COMERCIO DE ALIM CAMPO GRANDE    AV JULIO DE CASTILHO       146      32,663       8.092,80   0,40   0,46   0,47  71,45  71,45   203     3,38  A35
+     53   7719683000180 PIRES E CIA LTDA         CAMPO GRANDE    ANA LUIZA DE SOUZA         178      22,221       7.901,74   0,49   0,31   0,46  71,91  71,91   402     2,45  A35
+     54  12075667000132 S PIRES COMERCIO DE ALIM CAMPO GRANDE    RACHEL DE QUEIROZ          140      44,164       7.739,89   0,38   0,62   0,45  72,37  72,37   203     3,75  A36
+     55   1274396000390 DAMASCENO E DAMASCENO LT AQUIDAUANA      SETE DE SETEMBRO           153      24,497       7.436,42   0,42   0,34   0,43  72,81  72,81   413     4,13  A35
+     56  81584278006358 COOPERATIVA AGROINDUSTRI ELDORADO        RUI BARBOSA                180      36,992       7.374,68   0,49   0,52   0,43  73,24  73,24    19     2,75  A36
+     57  33168717000600 GMAIS COMERCIO DE ALIMEN NOVA ALVORADA D RUA IRINEU DE SOUZA        135      26,500       7.247,83   0,37   0,37   0,42  73,67  73,67    12     9,13  A36
+     58  12075667000566 S PIRES COMERCIO DE ALIM CAMPO GRANDE    BARUERI                    155      21,601       7.180,40   0,42   0,30   0,42  74,09  74,09   402     2,70  A36
+     59   9473933000685 MARINO E COSTA LTDA      RIBAS DO RIO PA AV AURELIANO MOURA B       156      28,949       6.884,14   0,43   0,41   0,40  74,49  74,49    21     5,32  A15
+     60  12075667001023 S PIRES COMERCIO DE ALIM CAMPO GRANDE    BOM PASTOR                 134      20,419       6.711,52   0,37   0,29   0,39  74,89  74,89   203     4,45  A35
+     61  10513998000343 BONANCA COMERCIO DE ALIM RIO BRILHANTE   SIDNEY COELHO NOGUEI       109      35,296       6.669,89   0,30   0,50   0,39  75,28  75,28   402     3,55  A35
+     62  10513998000181 BONANCA COM DE ALIMENTOS CAMPO GRANDE    TUPINIQUINS                141      21,668       6.620,37   0,39   0,30   0,38  75,67  75,67   402     2,08  A35
+     63  46876542000204 SUPERMERCADO FERNANDES P LADARIO         RUA AFONSO PENA            196      27,669       6.404,09   0,54   0,39   0,37  76,04  76,04    14     1,84  A15
+     64  10513998000505 BONANCA COMERCIO DE ALIM CAMPO GRANDE    TAMANDARE                  132      17,472       6.062,79   0,36   0,24   0,35  76,40  76,40   402     3,62  A35
+     65   5415585000205 ATACADO FERNANDES GEN AL CORUMBA         TREZE DE JUNHO             128      17,470       5.894,41   0,35   0,24   0,34  76,75  76,75   414     4,46  A36
+     66   7719683000261 PIRES E CIA LTDA         CAMPO GRANDE    SOUZA LIMA                 113      16,652       5.589,39   0,31   0,23   0,32  77,08  77,08   402     3,26  A35
+     67   1274396000209 DAMASCENO E DAMASCENO LT ANASTACIO       JOAO LEITE RIBEIRO         111      18,288       5.525,51   0,30   0,26   0,32  77,40  77,40   413     3,96  A35
+     68  35831943000493 SUPERMERCADO GAUCHAO LTD SIDROLANDIA     RUA PONTA PORA             127      27,500       5.324,83   0,35   0,39   0,31  77,71  77,71    23     2,97  A15
+     69  37193828000113 G P COMERCIAL DE ALIMENT COXIM           FILINTO MULLER             202      29,387       5.266,02   0,56   0,41   0,30  78,02  78,02     8     4,73  A35
+     70  35831943000221 SUPERMERCADO GAUCHAO LTD NOVA ALVORADA D AV IRINEU SOUZA ARAU       120      26,499       5.117,68   0,33   0,37   0,30  78,32  78,32    23     3,35  A15
+     71  15534654000415 MERCADO PAG POKO LTDA    CAMPO GRANDE    AV CORONEL ANTONINO         95      18,056       5.115,41   0,26   0,25   0,30  78,63  78,63   401     1,39  A35
+     72   4738857000245 SUPERMERCADO DUARTE LTDA CAMPO GRANDE    RUA ANACA                  131      23,422       4.961,03   0,36   0,33   0,29  78,92  78,92    23     2,01  A35
+     73  10513998000939 BONANCA COMERCIO DE ALIM RIO BRILHANTE   EXPEDICIONARIO HUGO        105      24,716       4.757,73   0,29   0,35   0,27  79,20  79,20   402     3,62  A35
+     74  17218647000197 IRMAOS MARQUES SUPERMERC AGUA CLARA      JOAO GARCIA DE SOUZA        88      25,346       4.724,13   0,24   0,36   0,27  79,47  79,47    21     2,01  A15
+     75  31398994000170 PRISCILA OCTACIO DE SOUZ MARACAJU        SEBASTIAO ESTANISLAU        85      18,647       4.623,22   0,23   0,26   0,27  79,75  79,75    10     3,44  A15
+     76  16811326000139 COMERCIAL SAO JOSE DE AL JARDIM          TUIUTI                      84      24,626       4.464,85   0,23   0,35   0,26  80,01  80,01    12     1,19  A35
+     77  12476120000149 SOUZA E BERTEMES LTDA    CAMPO GRANDE    KAMA NAKAZATO               69      15,046       4.421,70   0,19   0,21   0,25  80,27  80,27   459     2,77  A15
+     78   5472732000106 SUPERMERCADO FORTALEZA L DOURADOS        CLOVIS CERZOSIMO DE        111      16,739       4.324,43   0,30   0,23   0,25  80,52  80,52   407     3,19  A36
+     79   8608892000209 SUPERMERCADO BEIRA RIO P BRASILANDIA     RUA MANOEL GALDINO D       175      25,000       4.288,75   0,48   0,35   0,25  80,78  80,78    11     1,52  A35
+     80   9473933000847 MARINO E COSTA LTDA      RIBAS DO RIO PA AV ALENTINO SOUZA OL        85      13,000       4.268,93   0,23   0,18   0,25  81,03  81,03    21     5,14  A35
+     81   5472732000289 SUPERMERCADO FORTALEZA L DOURADOS        RUA CUIABA                 109      15,506       4.202,90   0,30   0,22   0,24  81,27  81,27   407     3,27  A35
+     82  12075667000213 S PIRES COMERCIO DE ALIM CAMPO GRANDE    ANCHIETA                    91      11,424       4.125,29   0,25   0,16   0,24  81,52  81,52   402     2,27  A35
+     83   8931657000184 MELO E CUENCA LTDA       NOVA ALVORADA D DORIVAL MONTEIRO NOG        63      30,941       4.025,81   0,17   0,44   0,23  81,75  81,75    10    10,51  A36
+     84  20335148000780 A R S SUPERMERCADOS LTDA DOURADOS        RUA GROSSETO                56      32,583       4.025,73   0,15   0,46   0,23  81,99  81,99    15    10,29  A35
+     85  15901440000197 JOSE MANUEL DE JESUS SUP BATAYPORA       JAIR ABRANCHES MELLA        83      10,000       3.967,29   0,23   0,14   0,23  82,22  82,22     5     5,28  A15
+     86  22045361000197 RIVALDO DO AMARAL OLIVEI CASSILANDIA     GUILHERME BEZERRA          146      22,894       3.865,09   0,40   0,32   0,22  82,45  82,45     9     1,66  A15
+     87  13822789000108 ADILSON GONCALVES DE OLI CAMPO GRANDE    RUA EVELINA FIGUEIRE       105      15,622       3.822,59   0,29   0,22   0,22  82,67  82,67   453     2,31  K11
+     88  33756461000148 NANTES E BRITO LTDA      COXIM           VIRGINIA FERREIRA          107      14,544       3.809,55   0,29   0,20   0,22  82,90  82,90     8     4,52  A36
+     89  12075667000647 S PIRES COMERCIO DE ALIM CAMPO GRANDE    OURO VERDE                  82      10,016       3.799,85   0,22   0,14   0,22  83,12  83,12   402     2,70  A35
+     90  37577145000240 RUY RODRIGUES PANIAGO    AGUA CLARA      BENEVENUTO OTTONE           81      12,876       3.789,50   0,22   0,18   0,22  83,34  83,34    21     5,54  A15
+     91  70357496000130 DALLE GRAVE E MARIOTTI L CAMPO GRANDE    DOM AQUINO                  31      13,099       3.772,88   0,08   0,18   0,22  83,57  83,57   120    14,62  K15
+     92  70357496000211 DALLE GRAVE E MARIOTTI L CAMPO GRANDE    QUATORZE DE JULHO           31      13,099       3.772,88   0,08   0,18   0,22  83,79  83,79   120    14,62  K15
+     93  70357496000483 DALLE GRAVE E MARIOTTI L CAMPO GRANDE    RUA 14 DE JULHO             31      13,099       3.772,88   0,08   0,18   0,22  84,01  84,01   120    14,62  A08
+     94   5958813000102 NUNES E SOUZA LTDA       NOVA ANDRADINA  ANTONIO J MOURA ANDR       100      21,625       3.705,72   0,27   0,30   0,21  84,23  84,23     5     2,46  A35
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+TRIUNFANTE MATOGROSSENSE ALIMENTOS LTDA                                                                                                    12 Faturamento          Ref:em11302
+Filial: CAMPO GRANDE                                                                                                                                    Emissao    Hora   Folha
+                                          CURVA ABC DE CLIENTES SOBRE VENDAS REFERENTE A VALORES NO PERIODO DE 29/02/24 A 29/02/24                      29/02/24   00:16   0003
+-----GRUPO TRIUNFANTE-----------------------------------------------------------------------------------------------------------------------------------Usuario: willian-------
+Ranking *---------------Cliente----------------* Cidade          Endereco            Peso Bruto      Caixas          Valor    %PB    %Cx   %Vlr   %ACP   %ACG  Repr Pr.Medio Censo
+
+ Fornec: GERAL                Repres: GERAL                 Linha: GERAL                 Censo: GERAL
+
+     95   3723375000178 JOSE LEONARDO AGUILAR AZ COXIM           RONDONOPOLIS                84      11,838       3.671,37   0,23   0,16   0,21  84,44  84,44     8     2,77  A15
+     96  33128620000160 SUPERMERCADO MARDEGAN LT RIBAS DO RIO PA NELSON LIRIO               101      15,500       3.654,39   0,28   0,22   0,21  84,66  84,66    21     4,24  A35
+     97  37577145000160 RUY RODRIGUES PANIAGO    AGUA CLARA      JULIO MAIA                  75      12,126       3.603,63   0,21   0,17   0,21  84,87  84,87    21     5,63  A36
+     98   4860926000108 SUPERMERCADO PIRACEMA LT COXIM           FEDERAL                     91      14,387       3.399,80   0,25   0,20   0,19  85,07  85,07     8     3,29  A15
+     99  10454480000114 SUPERMERCADO KAIO EIRELI ANTONIO JOAO    AMANTINO RODRIGUES D        75      13,375       3.373,49   0,21   0,19   0,19  85,27  85,27   415     1,89  A14
+    100  22866770000154 CRISTINA APARECIDA OLIVE RIO BRILHANTE   JOAO M S MARQUES            95      18,387       3.327,99   0,26   0,26   0,19  85,46  85,46    10     1,31  A02
+    101   5415585000124 ATACADO FERNANDES GEN AL CORUMBA         RUA AMERICA                 61      11,389       3.326,12   0,16   0,16   0,19  85,66  85,66   414     4,14  A36
+    102   5415585000477 ATACADO FERNANDES GEN AL CORUMBA         RUA DUQUE DE CAXIAS         71      10,347       3.151,52   0,19   0,14   0,18  85,85  85,85   414     4,25  A35
+    103   4738857000750 SUPERMERCADO DUARTE LTDA SIDROLANDIA     RUA EVARISTO ROBERTO        72      13,696       3.085,16   0,20   0,19   0,18  86,03  86,03    23     2,11  A15
+    104   1274396000713 DAMASCENO E DAMASCENO LT MIRANDA         RUA GEN AMARO BITENC        80      11,998       3.065,28   0,22   0,17   0,18  86,21  86,21   413     3,60  A35
+    105   4738857000598 SUPERMERCADO DUARTE LTDA CAMPO GRANDE    GUALTER BARBOSA             80      13,520       2.960,84   0,22   0,19   0,17  86,38  86,38    23     2,01  A15
+    106  10389924000185 SUPERMERCADO NACAGAMI AQ AQUIDAUANA      RUA ESTEVAO ALVES CO        71      13,644       2.935,26   0,19   0,19   0,17  86,55  86,55     3     6,05  A35
+    107   7027727000101 PELLIM E DE NADAI LTDA   GLORIA DE DOURA PRESIDENTE VARGAS           33       8,401       2.879,16   0,09   0,11   0,16  86,72  86,72     4     5,78  A35
+    108  13425704000158 MARDEGAN E SANTOS LTDA   RIBAS DO RIO PA AURELIANO MOURA BRAN        66      12,078       2.822,95   0,18   0,17   0,16  86,89  86,89    21     2,61  A02
+    109   2318826000714 VRA COMERCIO LTDA        CHAPADAO DO SUL AV DAS GARCAS              202      20,000       2.680,96   0,56   0,28   0,15  87,05  87,05    23     8,27  A35
+    110   5901906000109 IRMAOS SARRUF LTDA       DOURADINA       PRESIDENTE DUTRA            62      12,659       2.524,14   0,17   0,18   0,14  87,19  87,19   407     1,29  A02
+    111   1274396000470 DAMASCENO E DAMASCENO LT MIRANDA         SAO BENEDITO                50      12,082       2.523,24   0,13   0,17   0,14  87,34  87,34   413     1,29  A35
+    112   1274396000985 DAMASCENO E DAMASCENO LT MIRANDA         RUA NICOLA CANDIA           60      11,750       2.490,17   0,16   0,16   0,14  87,49  87,49   413     1,75  A35
+    113  26676257000151 AMOROSO DELICATESSEN LTD NOVA ANDRADINA  HIDELBRANDO NENO DE         64       9,500       2.359,20   0,17   0,13   0,13  87,63  87,63     5     5,10  456
+    114  13425704000239 MARDEGAN E SANTOS LTDA E RIBAS DO RIO PA AV AURELIANO MOURA B        60      12,691       2.327,58   0,16   0,18   0,13  87,77  87,77    21     2,38  A02
+    115  35831943000574 SUPERMERCADO GAUCHAO LTD CAMPO GRANDE    AV HIROSHIMA                57      15,011       2.318,59   0,15   0,21   0,13  87,90  87,90    23     4,41  A35
+    116   5472732000360 SUPERMERCADO FORTALEZA L DOURADOS        AVENIDA JOSE ROBERTO        67      10,467       2.276,14   0,18   0,14   0,13  88,04  88,04   407     2,48  A15
+    117   4738857000326 SUPERMERCADO DUARTE LTDA CAMPO GRANDE    RUA PLANALTINA              58      10,233       2.275,60   0,16   0,14   0,13  88,17  88,17    23     1,96  A15
+    118   8931657000265 MELO E CUENCA LTDA       NOVA ALVORADA D JOFRE DE ARAUJO             35      18,000       2.266,38   0,09   0,25   0,13  88,30  88,30    10    10,49  A36
+    119  15455012000188 COMERCIAL DE ALIMENTOS P CASSILANDIA     JUSCELINO KUBITSCHEK        50       8,086       2.242,06   0,13   0,11   0,13  88,43  88,43     9     4,37  A15
+    120  10513998001668 BONANCA COMERCIO DE ALIM DOURADOS        RUA MONTE ALEGRE            35      10,316       2.240,30   0,09   0,14   0,13  88,57  88,57   203     3,98  A35
+    121   6954973000146 SUPERMERCADO ARCO IRIS L BELA VISTA      TEODORO SATIVA              49      13,122       2.228,80   0,13   0,18   0,13  88,70  88,70    16     7,82  A35
+    122   2947326000156 MINI MERCADO SORRISO LTD RIO BRILHANTE   DALTON AILTON DOS SA        41       8,066       2.219,59   0,11   0,11   0,13  88,83  88,83    10     2,00  A14
+    123   7028514000528 CENTRAL SUPERMERCADOS LT PARANAIBA       AV ARISTIDES KLAFKE         39       6,000       2.095,98   0,10   0,08   0,12  88,95  88,95     6    11,64  A35
+    124  28399099000165 A M DE MATOS E CIA LTDA  BRASILANDIA     AV SAO JOSE                 25      13,914       1.847,54   0,07   0,19   0,10  89,06  89,06    11     8,35  A15
+    125  29728376000107 FABIO HENRIQUE DOS SANTO TRES LAGOAS     RUA EGIDIO THOME            53       9,892       1.809,75   0,14   0,14   0,10  89,17  89,17    11     1,97  A14
+    126   9318613000146 COMERCIAL J L CINTRA GEN CORUMBA         DOM AQUINO CORREA           39       8,020       1.745,70   0,10   0,11   0,10  89,27  89,27   414     1,82  A02
+    127   2318826001010 VRA COMERCIO LTDA        AMAMBAI         RUA DA REPUBLICA           116      12,000       1.709,82   0,32   0,17   0,10  89,37  89,37    23    10,36  A15
+    128   7140724000260 GAEDICKE E CIA LTDA      CAMPO GRANDE    NORTE                       59       9,349       1.651,48   0,16   0,13   0,09  89,47  89,47    23     9,07  A35
+    129  14749448000117 SUPERMERCADO COLOMBI LTD ALCINOPOLIS     RUA MARIA BARBOSA CA        22       6,015       1.608,60   0,06   0,08   0,09  89,56  89,56     8     6,00  A15
+    130  27774673000155 MERCADO RANCHO 2 P LTDA  CARACOL         JOAO LOUREIRO               39       6,507       1.584,04   0,11   0,09   0,09  89,65  89,65    16     4,95  A14
+    131  13822789000370 ADILSON GONCALVES DE OLI CAMPO GRANDE    AVENIDA SOUZA LIMA          38       6,341       1.563,38   0,10   0,09   0,09  89,75  89,75   453     1,99  A15
+    132   4545185000170 AGUINALDO ANDRETO DA SIL ANGELICA        ANTONIO ALVES DE SOU        41       6,501       1.557,83   0,11   0,09   0,09  89,84  89,84     5     5,21  A14
+    133   1274396000128 DAMASCENO E DAMASCENO LT AQUIDAUANA      SETE DE SETEMBRO            27       4,374       1.544,33   0,07   0,06   0,09  89,93  89,93   413     4,81  A35
+    134  23266904000169 IVONE DA SILVA FERREIRA  ARAL MOREIRA    MARIA LUCIA CARVALHO        18      13,666       1.533,18   0,05   0,19   0,09  90,02  90,02    17     9,58  A02
+    135   4251519000101 NANDI SUPERMERCADOS LTDA SAO GABRIEL DO  DAS CURRUIRAS               37       5,996       1.514,20   0,10   0,08   0,08  90,11  90,11     8     6,47  A15
+    136  32564324000149 IGOR BARON ROCHA E CIA L LAGUNA CARAPA   JOAO LOURENCO DE LIM        15       7,078       1.511,50   0,04   0,10   0,08  90,20  90,20     7     8,99  A14
+    137  35831943000140 SUPERMERCADO GAUCHAO LTD CAMPO GRANDE    PADRE MUSA TUMA             22      10,999       1.505,50   0,06   0,15   0,08  90,28  90,28    23    10,67  A15
+    138  10171991000129 MARQUES E LINHARES LTDA  TRES LAGOAS     RAFHAEL DE HARO             32       9,000       1.449,63   0,08   0,12   0,08  90,37  90,37   411     0,89  A35
+    139  15008888000186 SANDRA CORREA RODRIGUES  NOVA ALVORADA D VINTE E SETEDE OUTUB        23       3,611       1.417,18   0,06   0,05   0,08  90,45  90,45    10     5,57  A15
+    140   2139661000128 MARCILIO ALVARO BENEDITO NOVO HORIZONTE  AV MARCOS FREIRE            18       3,201       1.381,10   0,05   0,04   0,08  90,53  90,53     4     5,75  A14
+    141   4738857000407 SUPERMERCADO DUARTE LTDA CAMPO GRANDE    ESMERALDO MALUF             39       8,961       1.370,58   0,10   0,12   0,08  90,61  90,61    23     3,40  A35
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+TRIUNFANTE MATOGROSSENSE ALIMENTOS LTDA                                                                                                    12 Faturamento          Ref:em11302
+Filial: CAMPO GRANDE                                                                                                                                    Emissao    Hora   Folha
+                                          CURVA ABC DE CLIENTES SOBRE VENDAS REFERENTE A VALORES NO PERIODO DE 29/02/24 A 29/02/24                      29/02/24   00:16   0004
+-----GRUPO TRIUNFANTE-----------------------------------------------------------------------------------------------------------------------------------Usuario: willian-------
+Ranking *---------------Cliente----------------* Cidade          Endereco            Peso Bruto      Caixas          Valor    %PB    %Cx   %Vlr   %ACP   %ACG  Repr Pr.Medio Censo
+
+ Fornec: GERAL                Repres: GERAL                 Linha: GERAL                 Censo: GERAL
+
+    142  31946764000106 BELINI COM DE ALIMENTOS  CAMPO GRANDE    RITA VIEIRA DE ANDRA        36       5,694       1.347,42   0,10   0,08   0,07  90,69  90,69   459     1,92  A15
+    143  35336977000169 GENI FERREIRA VIDA       CASSILANDIA     AV JOB GOMES DE MOUR        44       7,149       1.346,08   0,12   0,10   0,07  90,77  90,77     9     1,80  A14
+    144   3127306000100 ALMEIDA CONVENIENCIAS LT CAMPO GRANDE    RUA INDIANOPOLIS            19       9,078       1.324,18   0,05   0,12   0,07  90,85  90,85   455     2,83  456
+    145   5865139000111 BORDIN E RIBEIRO LTDA    CORUMBA         CIRIACO DE TOLEDO           19      10,000       1.300,80   0,05   0,14   0,07  90,93  90,93    14    10,84  A14
+    146  12454544000102 G REGENOLD NETO ME       CORUMBA         VINTE UM DE SETEMBRO        36      10,240       1.295,10   0,10   0,14   0,07  91,00  91,00    14     2,60  A15
+    147   9527650000164 LOOK MERCADO LTDA        ANTONIO JOAO    JOANA ELIZA GOMES           23       6,000       1.293,88   0,06   0,08   0,07  91,08  91,08   415     1,33  A14
+    148  35831943000302 SUPERMERCADO GAUCHAO LTD CAMPO GRANDE    AV RITA VIEIRA DE AN        18      10,250       1.285,72   0,05   0,14   0,07  91,16  91,16    23    10,45  A15
+    149  19744159000149 WAGNER MONTEIRO BARBOSA  NOVA ALVORADA D MARIA DE JESUS CERVE        22       4,750       1.285,30   0,06   0,06   0,07  91,23  91,23    10     1,92  A02
+    150  41321413000155 RICK COM DE PROD ALIMENT CAMPO GRANDE    RUA GRACIANA SOUZA D        22       3,495       1.269,17   0,06   0,04   0,07  91,31  91,31   459     4,66  A14
+    151   5670275000156 PAPACOSTA E PAPACOSTA LT NOVA ANDRADINA  ANTONIO JOAQUIM MOUR        21       3,000       1.258,72   0,06   0,04   0,07  91,38  91,38     5    13,98  A36
+    152  11311873000301 MATOS E SILVA LTDA       NOVA ANDRADINA  RUA ESPIRITO SANTO          13       4,475       1.242,02   0,03   0,06   0,07  91,45  91,45     5    14,44  A15
+    153  45099016000131 MERCADO PAVANELI LTDA    AGUA CLARA      BENEVENUTO OTTONI           21       5,299       1.241,69   0,05   0,07   0,07  91,53  91,53    21     2,15  A02
+    154   9218636000189 COMERCIAL DE ALIMENTOS J CASSILANDIA     JUSCELINO K DE OLIVE        40       7,466       1.213,73   0,11   0,10   0,07  91,60  91,60     9     1,60  A15
+    155  30494978000118 MI ZONATTO               RIBAS DO RIO PA ANICETA RODRIGUES DE        18       2,899       1.213,21   0,05   0,04   0,07  91,67  91,67    21     7,05  A07
+    156  27149109000141 J C A DOS SANTOS         ANAURILANDIA    AV BRASIL                   22       8,450       1.210,39   0,06   0,12   0,07  91,74  91,74     5     2,27  A15
+    157  26924349000103 J P DA SILVA LTDA        CHAPADAO DO SUL RUA SAO JOSE DOS PIN        33       4,116       1.205,26   0,09   0,05   0,07  91,81  91,81     9     5,17  A14
+    158  13063093000145 IRMAS RODRIGUES OLIVEIRA CAMPO GRANDE    MARCOS FERREZ               25       8,834       1.190,90   0,07   0,12   0,07  91,88  91,88   155     5,13  A14
+    159  19079539000106 MARIO M PEREIRA LOPES    BONITO          MONTE CASTELO               25       7,064       1.190,82   0,07   0,10   0,07  91,95  91,95    12     3,99  A14
+    160  12457520000107 ARCELINA MOSCOSO BASTOS  CORUMBA         RUA REPUBLICA DO PAR        24       4,500       1.148,50   0,06   0,06   0,06  92,02  92,02    14     2,62  A14
+    161  31443652000124 HUDSON MAX CARDOSO RODRI CORUMBA         RUA CIRIACO DE TOLED        27       4,699       1.108,72   0,07   0,06   0,06  92,08  92,08    14     4,52  456
+    162  24642985000117 SUPERMERCADO ROMA LTDA - COXIM           DANIEL CEZARIO              19       2,499       1.100,90   0,05   0,03   0,06  92,15  92,15     8     1,63  A15
+    163  33128620000240 SUPERMERCADO MARDEGAN LT RIBAS DO RIO PA RUA SENADOR FILINTO         42       5,749       1.096,44   0,11   0,08   0,06  92,21  92,21    21     3,50  A15
+    164   1460437000251 A M DE MATOS             ANAURILANDIA    MATO GROSSO                 22       6,916       1.080,24   0,06   0,09   0,06  92,28  92,28     5     2,76  A35
+    165  14362652000180 JOSE MARIA FAGUNDES DOS  RIO BRILHANTE   RUA VANDERLEI DA CUN        21       5,990       1.069,23   0,05   0,08   0,06  92,34  92,34    10     0,99  A07
+    166  10567059000110 MERCADO FENIX EIRELI     RIO BRILHANTE   SIDNEY COELHO NOGUEI        18       2,997       1.064,63   0,05   0,04   0,06  92,40  92,40    10     4,95  A02
+    167  22587739000184 VANUSA LOEBLEIN THEODORO MARACAJU        MARECHAL FLORIANO PE        16       4,473       1.061,97   0,04   0,06   0,06  92,46  92,46    10     1,17  456
+    168  10957498000139 JONAS JUSTINO            DOIS IRMAOS DO  RUA AQUIDAUANA              22       3,581       1.022,67   0,06   0,05   0,06  92,52  92,52   413     3,77  A35
+    169  14314754000120 M A DA SILVA PRODUTOS AL CAMPO GRANDE    AFLUENTE                    22       5,665       1.020,10   0,06   0,08   0,05  92,58  92,58   151     7,08  A14
+    170  31171199000144 RUTH NAICY RODRIGUEZ HUA CORUMBA         RUA RIO GRANDE DO SU        15       2,500       1.003,52   0,04   0,03   0,05  92,64  92,64   414     5,39  A02
+    171  24474821000128 SALOME PACARA RAMOS      CORUMBA         GONCALVES DIAS              26       4,671         960,99   0,07   0,06   0,05  92,70  92,70    14     6,32  A40
+    172  23521150000146 WAGNER PEREIRA DA SILVA  NAVIRAI         RUA TIMBIRAS                26       3,146         918,10   0,07   0,04   0,05  92,75  92,75    19     5,46  456
+    173    201278000127 SERENA E CIA LTDA        BELA VISTA      BARAO DE LADARIO            11       7,741         904,00   0,03   0,11   0,05  92,81  92,81    16     9,41  A02
+    174  22528895000174 EDNA APARECIDA DE ARAUJO RIO BRILHANTE   RUA SANTO ANTONIO           14       3,878         896,01   0,04   0,05   0,05  92,86  92,86    10     1,63  A16
+    175  28519613000159 M DE FATIMA DA SILVA EIR CORUMBA         RUA ALBUQUERQUE ROQU        17       6,506         890,71   0,04   0,09   0,05  92,91  92,91    14     5,56  K11
+    176  41931867000148 NOSSO MERCADO LTDA       ANTONIO JOAO    CANDIDO GARCIA DE SO        27       3,673         890,49   0,07   0,05   0,05  92,96  92,96   415     3,60  A15
+    177  43121586000155 COMERCIO DE ALIMENTOS JM MARACAJU        RUA CIRCULAR                15       2,589         879,37   0,04   0,03   0,05  93,02  93,02    10     4,99  A15
+    178  41788234000122 GERSON COSMO NUNES COUTI TRES LAGOAS     RUA ANTONIO ESTEVAN         11       8,500         873,81   0,03   0,12   0,05  93,07  93,07    11    11,20  A14
+    179  35447339000115 SUPERMERCADO ZANCANARO L IVINHEMA        HONDURAS                    16       2,798         861,32   0,04   0,03   0,05  93,12  93,12     5     3,41  A15
+    180  20196124000100 AIZAWA E SANTOS LTDA     ANTONIO JOAO    URIAS DE ALMEIDA            13       2,289         859,78   0,03   0,03   0,05  93,17  93,17   415     4,62  A02
+    181  24363510000191 ALEXANDRO DOS SANTOS DE  NOVA ANDRADINA  EULENIR DE OLIVEIRA         21       3,083         846,99   0,05   0,04   0,04  93,22  93,22     5     4,01  A14
+    182   2318826000390 VRA COMERCIO LTDA        IVINHEMA        AV BRASIL                   48       6,000         844,95   0,13   0,08   0,04  93,27  93,27    23     9,38  A35
+    183   6088542000497 VT PARANA SUPERMERCADO L ALCINOPOLIS     AVENIDA AVERALDO FER        24       3,749         821,37   0,06   0,05   0,04  93,32  93,32     8     8,83  A35
+    184  23566963000152 T A MILITAO LOPES        NAVIRAI         JORGE AMADO                 16       3,386         820,81   0,04   0,04   0,04  93,36  93,36    19     1,61  A14
+    185  15239241000165 SILVIO ANTUNES DA LUZ    SAO GABRIEL DO  SERGIPE                     19       3,859         791,55   0,05   0,05   0,04  93,41  93,41     8     6,04  A14
+    186   1507242000139 BORTOLIM COMERCIO DE ALI CAMPO GRANDE    NOVE                        13       2,249         786,23   0,03   0,03   0,04  93,46  93,46   457     4,57  A15
+    187  13728591000240 FALKIEVICZ E NIEHUIES LT BODOQUENA       ANTONIO PEDRO DE LIM        17       4,291         765,56   0,04   0,06   0,04  93,50  93,50   413     1,28  A02
+    188  31190962000184 S B DINIZ                CORUMBA         SETE DE SETEMBRO            20       2,845         764,86   0,05   0,04   0,04  93,55  93,55    14     3,13  A15
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+TRIUNFANTE MATOGROSSENSE ALIMENTOS LTDA                                                                                                    12 Faturamento          Ref:em11302
+Filial: CAMPO GRANDE                                                                                                                                    Emissao    Hora   Folha
+                                          CURVA ABC DE CLIENTES SOBRE VENDAS REFERENTE A VALORES NO PERIODO DE 29/02/24 A 29/02/24                      29/02/24   00:16   0005
+-----GRUPO TRIUNFANTE-----------------------------------------------------------------------------------------------------------------------------------Usuario: willian-------
+Ranking *---------------Cliente----------------* Cidade          Endereco            Peso Bruto      Caixas          Valor    %PB    %Cx   %Vlr   %ACP   %ACG  Repr Pr.Medio Censo
+
+ Fornec: GERAL                Repres: GERAL                 Linha: GERAL                 Censo: GERAL
+
+    189  10380264000252 MAYFA SUPERMERCADO LTDA  RIO BRILHANTE   LOURIVAL BARBOSA            66       5,000         748,79   0,18   0,07   0,04  93,59  93,59    10     9,98  A35
+    190   3112629000111 NELSON JARA              BELA VISTA      JOSE MARIA PALMIERI         17       3,866         745,18   0,04   0,05   0,04  93,63  93,63    16     3,48  A02
+    191   1547436000168 AQUINO COMERCIO VAREJIST BODOQUENA       JOSE ROQUE DE CARVAL        18       3,019         740,43   0,05   0,04   0,04  93,68  93,68   413     1,08  A35
+    192   8595978000155 MERCADO SANTINON LTDA    MARACAJU        ANTONIO DE SOUZA MAR        19       3,669         739,86   0,05   0,05   0,04  93,72  93,72    10     5,03  A14
+    193  13297014000322 SUPERMERCADO GUAICURUS L RIBAS DO RIO PA AV AURELIANO MOURA B        39       5,000         728,23   0,11   0,07   0,04  93,76  93,76   459     1,51  A15
+    194  45563860000171 EDERSON SCHRODER         CAMPO GRANDE    RUA ADVENTOR DIVINO         13       2,056         727,96   0,03   0,02   0,04  93,81  93,81   455     3,53  456
+    195  45682158000127 NONIELA COELHO SILVA     AGUA CLARA      AV VALDEMAR FERREIRA        11       4,858         725,39   0,03   0,06   0,04  93,85  93,85    21     8,24  456
+    196   2014856000141 VEREDIANA JOSE DA SILVA  CORUMBA         ALBUQUERQUE ROQUE           19       3,381         716,33   0,05   0,04   0,04  93,89  93,89    14     1,55  A02
+    197  31147798000122 HELO COMERCIO DE ALIMENT DOURADOS        BRASIL                      16       4,486         713,89   0,04   0,06   0,04  93,93  93,93   407     1,59  A35
+    198   6332561000174 ARNALDO DE ASSIS SANTOS  ANASTACIO       RUA VINTE E SETE DE         23       4,006         708,34   0,06   0,05   0,04  93,98  93,98     3     4,78  A02
+    199  11357078000184 G  C  PICININ GONCALVES  TAQUARUSSU      GETULIO VARGAS              15       4,244         705,48   0,04   0,06   0,04  94,02  94,02     5     1,23  A40
+    200   2029064000140 BENEFICIADORA DE CEREAIS RIBAS DO RIO PA RUA DR HAMILTON FONT        14       2,000         702,66   0,03   0,02   0,04  94,06  94,06    21     5,40  A15
+    201  13728591000160 FALKIEVICZ E NIEHUIES LT BODOQUENA       MANOEL RODRIGUES DE         14       2,684         699,14   0,03   0,03   0,04  94,10  94,10   413     1,94  A02
+    202  10819352000127 NEEMIAS QUEIROZ MONTEIRO ANAURILANDIA    MATO GROSSO                 11       5,500         698,22   0,03   0,07   0,04  94,14  94,14     5    10,11  A15
+    203  12481125000160 CULAU E CIA LTDA         CORUMBA         FREI MARIANO                23       3,010         695,30   0,06   0,04   0,04  94,18  94,18   414     3,04  A07
+    204  16755135000105 SANDIM E RODRIGUES LTDA  CAMPO GRANDE    SANTA MONICA                16       3,725         695,03   0,04   0,05   0,04  94,22  94,22   457     1,60  456
+    205  17948434001001 ROCHA E BARRETOS LTDA ME CAMPO GRANDE    TAMANDARE                    4       1,855         689,61   0,01   0,02   0,04  94,26  94,26   120    15,32  A08
+    206  29864974000103 MARCIO ALENCAR AZEVEDO L RIBAS DO RIO PA AV GUSTAVO TEIXEIRA         10       1,674         684,43   0,02   0,02   0,04  94,30  94,30    21     2,97  A16
+    207  11722868000111 LUCATO E LUCATO LTDA     NAVIRAI         CAARAPO                     15       1,749         680,71   0,04   0,02   0,04  94,34  94,34    19     8,00  A14
+    208   6914827000197 VERONICA RITA DA CONCEIC CAMPO GRANDE    SAO NICOLAU                 12       1,834         673,81   0,03   0,02   0,03  94,38  94,38   457     1,91  A14
+    209  20544843000166 GENILSON FERREIRA COUTIN CAMPO GRANDE    YOKOAMA                     10       3,500         667,08   0,02   0,04   0,03  94,42  94,42   120    13,89  K15
+    210  14664696000165 E R STORARI              NAVIRAI         HORTENCIA                    7       2,415         633,23   0,01   0,03   0,03  94,46  94,46    19     2,13  A14
+    211  25934844000130 CASSIANI FRANSCISCO DA S ITAPORA         PAULO YUTAKA MIYASAK         9       1,697         623,21   0,02   0,02   0,03  94,50  94,50   447     4,75  A14
+    212  31711605000114 SONILTON REIS DA ROSA    RIO BRILHANTE   RUA MARIA DE JESUS C        13       2,842         622,34   0,03   0,04   0,03  94,53  94,53    10     1,25  456
+    213  79073144000128 CELCIO HAAG              NAVIRAI         CAIUA                        7       5,250         612,56   0,02   0,07   0,03  94,57  94,57    19     9,72  A14
+    214  19029516000197 MINI MERCADO TEIXEIRA EI NAVIRAI         ANDRE RODRIGUES DA S         9       1,957         611,91   0,02   0,02   0,03  94,60  94,60    19     4,81  A14
+    215  36984669000102 MARGARETE RAINHA DE JESU AGUA CLARA      RUA C 2 040731125400        14       3,041         600,61   0,03   0,04   0,03  94,64  94,64    21     1,45  A14
+    216   7719423000105 VALDOMIRO DA SILVA FURTU RIBAS DO RIO PA AV JESUINO ALVARES D        11       3,598         593,61   0,03   0,05   0,03  94,67  94,67    21     3,66  456
+    217  15942444000113 LUIZARI E LUIZARI LTDA   JARDIM          DUQUE DE CAXIAS              8       5,000         592,88   0,02   0,07   0,03  94,71  94,71    12    10,97  A35
+    218  29469898000123 MERCADO DANTAS EIRELI    CAMPO GRANDE    ANA LUISA DE SOUZA          10       1,842         580,75   0,02   0,02   0,03  94,74  94,74   453     3,54  A15
+    219   2753798000178 ALEMAO SUPERMERCADO E AT COXIM           RUA PRESIDENTE VARGA         7       1,500         578,22   0,02   0,02   0,03  94,78  94,78     8     5,66  A15
+    220  31327173000142 EMPORIO CARANDA PROD ALI CAMPO GRANDE    AVENIDA ANTONIO TEOD        25       3,723         577,95   0,07   0,05   0,03  94,81  94,81   155     9,63  K09
+    221  22275397000167 KAIQUE MORETTI VASQUES M CAMPO GRANDE    NOROESTE                    10       2,161         574,52   0,03   0,03   0,03  94,85  94,85   451     2,20  456
+    222  15062566000115 SUPERMERCADO ROPECA LTDA JARDIM          AV MATO GROSSO              26       3,000         572,22   0,07   0,04   0,03  94,88  94,88    12     1,98  A15
+    223  33354844000190 A NOGUEIRA VEIBER EIRELI DOURADOS        TOSHINOBU KATAYAMA           9       2,222         571,78   0,02   0,03   0,03  94,91  94,91   437     1,79  A14
+    224  19493049000151 EVA RANGEL DUARTE        MARACAJU        RUA DO PROGRESSO            11       2,500         568,51   0,03   0,03   0,03  94,95  94,95    10     1,46  A14
+    225  26288281000202 BONFIM OLIVEIRA E MAGALH DOURADOS        RUA SAO FRANCISCO            9       1,748         562,22   0,02   0,02   0,03  94,98  94,98   437     4,22  A14
+    226   2054870000179 F R CRUZ                 IGUATEMI        AV. PRESIDENTE VARGA        19       4,004         555,63   0,05   0,05   0,03  95,01  95,01    17     2,89  A15
+    227  13899030000123 AGUIMAR MARTINS DA FONSE NOVA ANDRADINA  FRANCISCO DE ASSIS R        16       3,843         552,44   0,04   0,05   0,03  95,04  95,04     5     1,20  A14
+    228   3735605000119 IRMAOS GP COMERCIO E REP COXIM           VIRGINIA FERREIRA            8       1,924         549,80   0,02   0,02   0,03  95,08  95,08     8    13,09  A35
+    229  44318777000174 SONIA LIMA DE SOUZA CARV DOURADOS        RUA JOSUE GARCIA PIR        10       1,654         547,83   0,02   0,02   0,03  95,11  95,11   437     4,24  456
+    230  34104532000190 ULTRA POP MORENINHA COM  CAMPO GRANDE    RUA BARUERI                  4       2,372         547,03   0,01   0,03   0,03  95,14  95,14   120    15,62  A08
+    231  13728231000168 FERNANDES E AIZAWA LTDA  ANTONIO JOAO    AV EUGENIO PENZO             7       1,486         545,35   0,02   0,02   0,03  95,17  95,17   415     3,63  A15
+    232  18332251000210 SCHNEIDER E CARVALHO SCH COXIM           VIRGINIA FERREIRA            4       1,623         537,71   0,01   0,02   0,03  95,20  95,20   120    16,29  A08
+    233  26103778000110 CONSUELO VIEIRA NASCIMEN CORUMBA         AV PORTO CARREIRO           10       2,618         532,85   0,02   0,03   0,03  95,24  95,24    14     3,48  456
+    234  33188134000137 GURI COMERCIO DE ALIMENT ITAPORA         R FRANCISCO LEAL DE         13       3,285         527,51   0,03   0,04   0,03  95,27  95,27   407     1,28  A15
+    235  34498500000117 GAZOLLA E COSTA COMERCIO CAMPO GRANDE    PEDRO GOMES                  7       3,996         524,46   0,02   0,05   0,03  95,30  95,30   151    10,92  A14
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+TRIUNFANTE MATOGROSSENSE ALIMENTOS LTDA                                                                                                    12 Faturamento          Ref:em11302
+Filial: CAMPO GRANDE                                                                                                                                    Emissao    Hora   Folha
+                                          CURVA ABC DE CLIENTES SOBRE VENDAS REFERENTE A VALORES NO PERIODO DE 29/02/24 A 29/02/24                      29/02/24   00:16   0006
+-----GRUPO TRIUNFANTE-----------------------------------------------------------------------------------------------------------------------------------Usuario: willian-------
+Ranking *---------------Cliente----------------* Cidade          Endereco            Peso Bruto      Caixas          Valor    %PB    %Cx   %Vlr   %ACP   %ACG  Repr Pr.Medio Censo
+
+ Fornec: GERAL                Repres: GERAL                 Linha: GERAL                 Censo: GERAL
+
+    236  70364807000199 BOM GOSTO COM DE ALIMENT BELA VISTA      SEBASTIAO CRISPIM DO        11       2,428         524,37   0,03   0,03   0,03  95,33  95,33    16     6,89  A15
+    237  50362590000170 SORRENTINO ALIMENTOS LTD CAMPO GRANDE    RUA SANTA HELENA            11       2,637         520,26   0,03   0,03   0,03  95,36  95,36   451     1,19  A15
+    238  22788354000185 CLEVERSON RIOS ME        RIO BRILHANTE   RUA EXPEDICIONARIO H        10       2,990         518,92   0,02   0,04   0,03  95,39  95,39    10     0,99  A07
+    239  29685764000140 DAVI RODRIGO SARVIANO DE TRES LAGOAS     JOAO FARID ZOGBI             9       1,499         508,48   0,02   0,02   0,02  95,42  95,42   411     4,98  A02
+    240   2318826000129 VRA COMERCIO LTDA        COSTA RICA      JOSE FERREIRA DA COS        44       4,000         508,40   0,12   0,05   0,02  95,45  95,45    23     7,70  A36
+    241  34395366000129 ALECIA MONTIEL DE ALMEID MARACAJU        RUA MUTSUO YONEKAWA         12       2,678         500,46   0,03   0,03   0,02  95,48  95,48    10     1,53  A14
+    242  23253934000130 ALEXANDRE FLORES GUIMARA CAMPO GRANDE    CASCAIS                     20       2,990         496,70   0,05   0,04   0,02  95,51  95,51   453     1,72  456
+    243  19029516000278 MERCADO TEIXEIRA EIRELI  NAVIRAI         AMELIA FUKUDA               13       2,006         494,54   0,03   0,02   0,02  95,54  95,54    19     4,94  A15
+    244  20040030000139 M S S DE ALMEIDA ME      NAVIRAI         RUA ANTARES                  4       3,225         492,65   0,01   0,04   0,02  95,57  95,57    19     2,69  A14
+    245   9303070000193 TASSIA DE ALBUEQUERQUE C CAARAPO         DOUTOR COUTINHO             10       3,000         490,71   0,02   0,04   0,02  95,60  95,60    19     0,90  A15
+    246  11730253000137 SOUZA E PEREIRA LTDA     NOVA ANDRADINA  JOSE HEITOR DE ALMEI         9       1,282         488,97   0,02   0,01   0,02  95,62  95,62     5     3,11  456
+    247  10343194000181 GRILL CONVENIENCIA EIREL NOVA ALVORADA D IRINEU DE SOUZA ARAU        10       1,813         486,46   0,02   0,02   0,02  95,65  95,65    10     2,81  456
+    248  13258149000117 W GONCALVES BEZERRA PROD CAMPO GRANDE    BOM SUCESSO                  6       4,000         485,32   0,01   0,05   0,02  95,68  95,68   153    10,11  A15
+    249  46961284000183 LIZ MARIELA GONZALEZ ROD BELA VISTA      RUA VAZANTE DO PRATA        10       2,812         484,73   0,03   0,04   0,02  95,71  95,71    16     4,48  456
+    250  25971880000174 ELIZIETE DA SILVEIRA COS TRES LAGOAS     RUA ALFA                    13       2,134         482,55   0,03   0,03   0,02  95,74  95,74   411     2,29  A07
+    251  17482268000100 PANDOLFO MINIMERCADO LTD CORUMBA         RUA GONCALVES DIAS          10       3,600         480,51   0,02   0,05   0,02  95,77  95,77   414     0,88  A14
+    252  11252968000121 R R BOEIRA               ANTONIO JOAO    GENESIO FLORES VIEIR         7       1,414         476,33   0,02   0,02   0,02  95,79  95,79   415     3,69  A14
+    253  47507531000139 CABANA CONVENIENCIA LTDA CAMPO GRANDE    RUA VERDE LOURO              7       1,407         472,44   0,02   0,02   0,02  95,82  95,82   451     4,00  456
+    254  38066515000167 MERCADO LIBRA LTDA       CAMPO GRANDE    LEOPOLDINA DE QUEIRO         9       2,587         472,16   0,02   0,03   0,02  95,85  95,85   453     1,00  A14
+    255   5941606000145 MARISA LONGO E CIA LTDA  COXIM           CINCO DE MAIO               10       2,816         471,90   0,02   0,04   0,02  95,88  95,88     8     0,93  A02
+    256  45489892000174 D A DA SILVA COMERCIO DE RIO BRILHANTE   RUA URBANO PERES BOM         9       2,242         469,82   0,02   0,03   0,02  95,90  95,90    10     1,23  A13
+    257   5264854000107 PLASTEL EMBALAGENS LTDA  CAMPO GRANDE    AV MARECHAL DEODORO         16       2,408         464,43   0,04   0,03   0,02  95,93  95,93   451     0,84  K11
+    258   4636085000150 MOACIR DALL AGNOL        CAMPO GRANDE    BARUERI                      2       1,172         457,97   0,00   0,01   0,02  95,96  95,96   120    12,72  K15
+    259  33789538000186 S G COMERCIO DE ALIMENTO BELA VISTA      BARAO DE LADARIO             8       1,174         456,38   0,02   0,01   0,02  95,99  95,99    16     5,24  A15
+    260  18061875000169 ANA CRISTINA FERREIRA DA AQUIDAUANA      RUA ANTONIO CAMPELO          9       2,587         449,28   0,02   0,03   0,02  96,01  96,01   413     0,96  A02
+    261  44917617000141 PC MARTINS LIMITADA      CAMPO GRANDE    RUA CACHOEIRA DO CAM         8       2,139         447,08   0,02   0,03   0,02  96,04  96,04   451     1,24  456
+    262  32492561000141 MACEDO BARRETOS E CIA LT CAMPO GRANDE    ENZO CIANTELLI               2       1,069         444,78   0,00   0,01   0,02  96,06  96,06   120    17,10  A08
+    263  30379405000143 D DA SILVA OLIVEIRA      NAVIRAI         AV CAARAPO                  12       1,918         429,46   0,03   0,02   0,02  96,09  96,09    19     2,08  1
+    264  31035143000162 CONVENIENCIA AQUIDABAN L PONTA PORA      AV INTERNACIONAL             8       2,394         426,72   0,02   0,03   0,02  96,12  96,12   989     0,98  456
+    265  35585570000175 COMERCIO DE ALIMENTOS PL PONTA PORA      RODOVIA MS-164 KM 50         7       1,000         426,20   0,02   0,01   0,02  96,14  96,14   415    14,20  A14
+    266  16896684000191 ELIANE CASTAGNAZZI DA FO NOVA ANDRADINA  ANDRE LOYER                 10       2,649         422,29   0,02   0,03   0,02  96,17  96,17     5     0,97  A02
+    267    986711000187 BORGES COMERCIO PROD ALI PARANAIBA       FRANCISCO DE FREITAS         9       3,100         418,04   0,02   0,04   0,02  96,19  96,19     6     0,89  A14
+    268   7710657000191 RISALVA SOARES DE LACERD SIDROLANDIA     RUA 01 QDR.09 LOT.07         6       1,000         414,14   0,01   0,01   0,02  96,21  96,21    10    13,80  A14
+    269  36983142000163 E N A CASA DE CARNES E C CAMPO GRANDE    AVENIDA 2                   11       2,042         412,93   0,03   0,02   0,02  96,24  96,24   457     1,71  A14
+    270   9310730000163 SUPERMERCADOS REAL LTDA  PARANAIBA       IVO FABRES DE QUEIRO         7       1,000         412,27   0,01   0,01   0,02  96,26  96,26     6     6,34  A14
+    271  17948434000978 ROCHA E BARRETOS LTDA    CAMPO GRANDE    YOKOAMA                      2       1,107         409,84   0,00   0,01   0,02  96,29  96,29   120    15,17  A08
+    272  33911408000174 J M BARBOSA LTDA         PEDRO GOMES     AV JOAO SERROU CAMY         11       2,412         409,44   0,03   0,03   0,02  96,31  96,31     8     1,07  A15
+    273  17497134000162 CONVENIENCIA FIGUEIRA EI CAMPO GRANDE    CORONEL  ANTONINO            9       1,372         402,00   0,02   0,01   0,02  96,33  96,33   455     2,28  456
+    274  31147798000203 HELO COMERCIO DE ALIMENT DOURADOS        RUA ANTONIO DO AMARA        11       2,486         396,97   0,03   0,03   0,02  96,36  96,36   407     1,02  A15
+    275  49793628000180 UNIAO COMERCIO DE ALIMEN DOURADOS        RUA ANTONIO AMARO DE        11       2,488         396,97   0,03   0,03   0,02  96,38  96,38   407     1,02  A15
+    276  19991735000152 SUPER LIDER COM DE ALIME DOURADINA       PRESIDENTE DUTRA             9       2,452         395,29   0,02   0,03   0,02  96,40  96,40   407     0,93  A14
+    277  28848716000162 LARIZZE EDUARDA SILVA FO CAMPO GRANDE    CANDIDO DE CASTRO RO         9       1,771         390,80   0,02   0,02   0,02  96,43  96,43   453     1,51  A50
+    278  37036835000101 FRED CONVENIENCIA LTDA   CAMPO GRANDE    AVENIDA DOUTOR GUNTE         5       1,197         389,92   0,01   0,01   0,02  96,45  96,45   451     2,95  456
+    279     85327000103 BENELICE CUNHA ANGELIM   PEDRO GOMES     PERNAMBUCO                   8       2,387         386,40   0,02   0,03   0,02  96,47  96,47     8     0,89  A15
+    280  15526510000174 MERCEARIA ROCHA LTDA     CAMPO GRANDE    RUA SANTA QUITERIA          12       2,502         384,59   0,03   0,03   0,02  96,50  96,50   153     5,65  A15
+    281  17310620000120 ROMILDO ZIRONDI          RIO BRILHANTE   ANTONIO JOAO                 8       1,646         383,49   0,02   0,02   0,02  96,52  96,52    10     2,86  A15
+    282  27494222000164 ALYSON ZANAN FELIX       CAMPO GRANDE    ERINE CALEPS DE ALME         8       1,999         379,71   0,02   0,02   0,02  96,54  96,54   153     6,12  456
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+TRIUNFANTE MATOGROSSENSE ALIMENTOS LTDA                                                                                                    12 Faturamento          Ref:em11302
+Filial: CAMPO GRANDE                                                                                                                                    Emissao    Hora   Folha
+                                          CURVA ABC DE CLIENTES SOBRE VENDAS REFERENTE A VALORES NO PERIODO DE 29/02/24 A 29/02/24                      29/02/24   00:16   0007
+-----GRUPO TRIUNFANTE-----------------------------------------------------------------------------------------------------------------------------------Usuario: willian-------
+Ranking *---------------Cliente----------------* Cidade          Endereco            Peso Bruto      Caixas          Valor    %PB    %Cx   %Vlr   %ACP   %ACG  Repr Pr.Medio Censo
+
+ Fornec: GERAL                Repres: GERAL                 Linha: GERAL                 Censo: GERAL
+
+    283  23036414000176 DR ARISTIMUNHA.ME        JARDIM          ANTONIO MARIA COELHO         8       1,249         373,82   0,02   0,01   0,02  96,56  96,56    12     4,79  A14
+    284  17390591000153 JAIME RIBEIRO DA SILVA   TRES LAGOAS     RUA EGIDIO THOME             7       1,998         373,07   0,02   0,02   0,02  96,58  96,58    11    11,30  A07
+    285  50415368000199 RAFAEL SOUZA DOS SANTOS  AGUA CLARA      AV WALDEMAR FERREIRA        12       2,326         365,22   0,03   0,03   0,02  96,61  96,61    21     8,30  A14
+    286   6789272000107 GONCALVES E CRUZ LTDA    CAMPO GRANDE    DAS BANDEIRAS                8       2,307         363,96   0,02   0,03   0,02  96,63  96,63   451     0,97  A14
+    287   9546658000178 M S LIMA                 CAMPO GRANDE    AV DA SERRA                  6       0,945         363,95   0,01   0,01   0,02  96,65  96,65   459     5,43  456
+    288  32410244000139 PATRICIA BETANIA DA SILV DEODAPOLIS      AV ANGELO DE SOUZA           7       2,529         360,01   0,02   0,03   0,02  96,67  96,67     4     2,13  A16
+    289  26842096000129 FERNANDO LOURENCO SERRAN PARANAIBA       RUA MARIA CANDIDA DE         9       1,152         354,62   0,02   0,01   0,02  96,69  96,69     6     6,69  A14
+    290   5550574000157 APARECIDA SANTOS DE OLIV ITAQUIRAI       RUA PRIMAVERA 188            7       2,186         354,20   0,02   0,03   0,02  96,71  96,71    19     0,89  A35
+    291  11787278000177 M.R. DE B. OLIVEIRA MINI NAVIRAI         JOAO PAULO II                7       2,186         354,20   0,02   0,03   0,02  96,73  96,73    19     0,89  A15
+    292  15838615000169 FABIO LUIZ DE SOUZA      NAVIRAI         GLORIA DE DOURADOS          10       1,509         350,71   0,02   0,02   0,02  96,75  96,75    19     1,61  A14
+    293  37570181000100 COMERCIAL JULIFRAN LTDA  FATIMA DO SUL   TENENTE ANTONIO JOAO         5       1,107         347,31   0,01   0,01   0,02  96,77  96,77     4    13,89  A35
+    294  17948434000897 ROCHA E BARRETOS LTDA ME CAMPO GRANDE    ANA LUIZA DE SOUZA           0       0,853         344,86   0,00   0,01   0,02  96,79  96,79   120    16,42  A08
+    295  17948434000625 ROCHA E BARRETOS LTDA ME CAMPO GRANDE    MARINHA                      1       0,745         344,81   0,00   0,01   0,02  96,81  96,81   120    19,15  A08
+    296  46427585000121 VITAEURO COMERCIO DE ALI SAO GABRIEL DO  R SANTA CATARINA             5       1,733         344,59   0,01   0,02   0,02  96,83  96,83     8     1,22  A35
+    297   7615892000184 LILIAN CRISTINA MONTANHI IVINHEMA        DOZE PLINIO R DE MAG         6       1,022         344,33   0,01   0,01   0,02  96,85  96,85     5     4,99  A02
+    298  41132365000157 SIMONE ALVES FERREIRA CO CAMPO GRANDE    AV DOS CAFEZAIS              7       1,499         341,94   0,01   0,02   0,02  96,87  96,87   120    14,24  K15
+    299  43054517000176 BONDEZAN E DURAN LTDA    FATIMA DO SUL   AV. 9 DE JULHO               7       1,516         341,39   0,02   0,02   0,02  96,89  96,89     4     2,43  A08
+    300  30076512000100 SR MARDEGAN              RIBAS DO RIO PA RUA DELMINDA COELHO          6       0,750         340,02   0,01   0,01   0,01  96,91  96,91    21     9,44  A14
+    301   3863081000141 MELO CUENCA E FILHOS LTD DOURADOS        RUA VITORIO J PEDERI         7       2,686         336,47   0,02   0,03   0,01  96,93  96,93    10     5,42  A35
+    302  17497273000196 TEREZA DA SILVA SANTOS M IVINHEMA        NAPOLEAO LINHARES            8       1,166         333,90   0,02   0,01   0,01  96,95  96,95     5     4,51  A02
+    303  32801164000104 GP GIL MERCADO E ACOUGUE BELA VISTA      DINARTE DOS SANTOS           8       2,795         333,37   0,02   0,03   0,01  96,97  96,97    16     3,43  A14
+    304   6100892000189 MACEDO E ALBUQUERQUE COM CAMPO GRANDE    ANACA                        1       0,741         329,84   0,00   0,01   0,01  96,99  96,99   120    18,32  A08
+    305  17948434000463 ROCHA E BARRETOS LTDA ME CAMPO GRANDE    ZULMIRA BORBA                2       0,751         329,79   0,00   0,01   0,01  97,01  97,01   120    18,32  A08
+    306  37702908000157 JULIO JOAO PIRES DE OLIV DOURADOS        RUA PUREZA CARNEIRO          9       2,069         326,24   0,02   0,02   0,01  97,03  97,03   437     0,84  456
+    307  24976812000135 MERCADO GAMARRA LTDA ME  ANTONIO JOAO    RUA MARECHAL FLORIAN         4       0,833         323,87   0,01   0,01   0,01  97,05  97,05   415     5,14  A14
+    308   5103751000157 SUPERMERCADO ACACIA LTDA TERENOS         DR ARY COELHO                7       2,000         320,94   0,01   0,02   0,01  97,07  97,07    23     0,89  A35
+    309   1972074000152 ALICE DE FATIMA RODRIGUE SIDROLANDIA     LEONCIO DE S BRITO          10       2,012         319,72   0,02   0,02   0,01  97,09  97,09    10     1,17  A14
+    310  20745396000103 CUNHA E FERREIRA LTDA ME PONTA PORA      RODOVIA MS 164              16       1,900         319,58   0,04   0,02   0,01  97,11  97,11    15    10,30  A14
+    311  36759238000142 EMERSON MANOEL DE SOUZA  CAMPO GRANDE    BALTAZAR DE SOUZA            7       1,069         315,65   0,02   0,01   0,01  97,13  97,13   459     2,74  456
+    312  24673217000120 GERSON ADONIAS AGUERO LO PONTA PORA      AEROPORTO GUARARAPES         7       1,323         313,45   0,02   0,01   0,01  97,14  97,14   415     1,58  A14
+    313  26195074000114 TIAGO DE OLIVEIRA CARVAL COXIM           AV GASPAR RIES COELH         2       1,215         311,21   0,00   0,01   0,01  97,16  97,16     8     1,14  456
+    314   2729920000170 ALEXANDRE SOUZA DOS SANT MARACAJU        RUA JOSE PEREIRA DA          8       2,082         310,05   0,02   0,02   0,01  97,18  97,18    10     1,06  A02
+    315  23229534000190 GONCALVES ADEGA DE BEBID ITAQUIRAI       RUA PAULO PETRI              9       1,000         306,08   0,02   0,01   0,01  97,20  97,20    19     7,84  A26
+    316  26827733000198 IVANETE CARVALHO SOUZA   PEDRO GOMES     RUA PARANA                   6       1,887         305,90   0,01   0,02   0,01  97,22  97,22     8     0,89  A02
+    317  13615997000136 CENTRAL MARACAJU COM BEB MARACAJU        ANTONIO DE SOUZA MAR         6       1,219         305,46   0,01   0,01   0,01  97,23  97,23    10     5,65  456
+    318  42801995000130 GABRIEL PATINHO FERREIRA CAMPO GRANDE    RUA GUALTER BARBOSA          4       0,665         304,89   0,01   0,00   0,01  97,25  97,25   455     3,95  456
+    319  15921612000194 SUPERMERCADO MARAMBAIA L FATIMA DO SUL   NOVE DE JULHO                8       2,034         302,28   0,02   0,02   0,01  97,27  97,27     4     1,09  A15
+    320  18735628000109 SILVIA MARIA ROBERTO DA  FATIMA DO SUL   EMILIA BARROS                8       1,556         301,19   0,02   0,02   0,01  97,29  97,29     4     2,78  K11
+    321  11732580000128 DANI COMERCI DE BEBIDAS  JARDIM          DUQUE DE CAXIAS             12       1,960         298,17   0,03   0,02   0,01  97,31  97,31    12     1,17  A12
+    322   7110508000191 FARMACIA ORTIZ LTDA ME   ITAPORA         PEDRO CELESTINO CORR         4       0,832         295,20   0,01   0,01   0,01  97,32  97,32   447     4,04  A08
+    323  24495486000144 RENATO CELESTINO MARINS  CAMPO GRANDE    PAULO HIDEO KATAYAMA         6       1,794         289,80   0,01   0,02   0,01  97,34  97,34   451     0,89  A14
+    324  34432961000197 GILDA SILVA              AQUIDAUANA      MATO GROSSO DO SUL           6       1,787         289,80   0,01   0,02   0,01  97,36  97,36   413     0,89  A07
+    325  10908637000134 JORGE DOS SANTOS MENEZES CAMPO GRANDE    MONTEREY                    10       1,392         289,17   0,02   0,01   0,01  97,37  97,37   457     3,61  A15
+    326  32879762000104 EDISON JOSE DE CARVALHO  NAVIRAI         AVENIDA MIGUEL SONTT         4       0,700         288,78   0,01   0,00   0,01  97,39  97,39    19     8,02  A14
+    327  27922955000152 AMADO SEVERINO DA SILVA  COSTA RICA      RUA IDIONE PEREIRA D         4       0,650         288,64   0,01   0,00   0,01  97,41  97,41     9     9,95  A14
+    328  43642535000179 COMERCIAL A A K J LTDA   CAMPO GRANDE    RUA CANTALICIO GONCA        11       1,264         285,82   0,03   0,01   0,01  97,42  97,42   453     1,64  A02
+    329   1460437000413 A M DE MATOS EIRELI ME   ANAURILANDIA    AV MATO GROSSO              11       1,750         280,03   0,03   0,02   0,01  97,44  97,44     5     3,88  A15
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+TRIUNFANTE MATOGROSSENSE ALIMENTOS LTDA                                                                                                    12 Faturamento          Ref:em11302
+Filial: CAMPO GRANDE                                                                                                                                    Emissao    Hora   Folha
+                                          CURVA ABC DE CLIENTES SOBRE VENDAS REFERENTE A VALORES NO PERIODO DE 29/02/24 A 29/02/24                      29/02/24   00:16   0008
+-----GRUPO TRIUNFANTE-----------------------------------------------------------------------------------------------------------------------------------Usuario: willian-------
+Ranking *---------------Cliente----------------* Cidade          Endereco            Peso Bruto      Caixas          Valor    %PB    %Cx   %Vlr   %ACP   %ACG  Repr Pr.Medio Censo
+
+ Fornec: GERAL                Repres: GERAL                 Linha: GERAL                 Censo: GERAL
+
+    330  20335148000194 A R S SUPERMERCADOS LTDA PONTA PORA      AV BRASIL                    5       1,041         276,60   0,01   0,01   0,01  97,46  97,46    15     9,87  A36
+    331   3745813000107 CVN MIGUEIS              CORUMBA         RICARDO FRANCO               4       0,464         274,23   0,01   0,00   0,01  97,47  97,47   414     1,51  456
+    332  31480375000120 DAYANE RODRIGUES AMORIM  ANASTACIO       MANOEL MURTINHO              5       1,198         273,70   0,01   0,01   0,01  97,49  97,49     3     2,40  A14
+    333   4951540000101 MERCADO POR DO SOL LTDA  RIO BRILHANTE   PROFESSOR JOAO PINTO         4       1,250         266,89   0,01   0,01   0,01  97,51  97,51    10     1,35  A14
+    334  18522914000188 MARCOS MANZANEDA CANAZA  CORUMBA         DOM AQUINO                   6       1,647         265,93   0,01   0,02   0,01  97,52  97,52   414     0,91  A40
+    335   7287900000100 COMERCIAL ALIMENTOS THOM CAMPO GRANDE    MINAS NOVAS                  6       1,019         259,06   0,01   0,01   0,01  97,54  97,54   459     2,03  A14
+    336  40601244000144 ROSELI J DE OLIVEIRA     ITAQUIRAI       AV INDUSTRIAL                5       1,595         257,60   0,01   0,02   0,01  97,55  97,55    19     0,89  A14
+    337   8732997000186 CASA NOVA CHURRASCARIA E SIDROLANDIA     DORVALINO DOS SANTOS         2       0,497         257,12   0,00   0,00   0,01  97,57  97,57    10     3,38  A16
+    338   3234212000121 MEINERZ COMERCIO VAREJIS MARACAJU        RUA MAJOR CARLOS DA          4       0,599         256,55   0,01   0,00   0,01  97,58  97,58    10     5,70  A02
+    339  10380264000171 MAYFA SUPERMERCADO LTDA  RIO BRILHANTE   PREFEITO THEOFANES           3       2,000         256,02   0,01   0,02   0,01  97,60  97,60    10    10,66  A35
+    340  10380264000333 MAYFA SUPERMERCADO LTDA  RIO BRILHANTE   RUA TANCREDO NEVES           3       2,000         256,02   0,01   0,02   0,01  97,61  97,61    10    10,66  A35
+    341  20335148000275 A R S SUPERMERCADOS LTDA PONTA PORA      AV URUMBELA                  4       0,916         255,91   0,01   0,01   0,01  97,63  97,63    15    10,23  A36
+    342  20363711000138 TIAGO DEFENDI            TERENOS         RUA JOSE CANDIDO DE         11       1,255         255,85   0,03   0,01   0,01  97,64  97,64    23     2,13  A14
+    343   2310540000105 F A ARROYO ERIELLI       AMAMBAI         REPUBLICA                    3       0,933         249,52   0,01   0,01   0,01  97,66  97,66    17    17,82  A35
+    344  47205811000192 DANIEL JUNQUEIRA         TRES LAGOAS     RUA HALLEY COIMBRA R         3       0,750         249,45   0,01   0,01   0,01  97,67  97,67   411     4,89  A02
+    345  50266414000135 TOP MIX CONVENIENCIA LTD CAMPO GRANDE    AVENIDA ZULMIRA BORB         6       2,449         244,81   0,01   0,03   0,01  97,69  97,69   155     6,61  456
+    346  21262328000156 INTIHUATANA ROSA MOREIRA SAO GABRIEL DO  RUA ELVINO RAMOS NOG         4       0,600         244,12   0,01   0,00   0,01  97,70  97,70     8    13,56  K10
+    347  26831863000102 ANDERSON DE SOUZA TORQUA COXIM           AV MATO GROSSO DO SU        13       1,175         243,50   0,03   0,01   0,01  97,71  97,71     8     7,37  A12
+    348    543484000204 V V T COM DE MEDIC E PER CAMPO GRANDE    CAFEZAIS                     2       0,625         239,86   0,00   0,00   0,01  97,73  97,73   120    15,99  A08
+    349  17948434001354 ROCHA E BARRETOS LTDA    CAMPO GRANDE    AV ALBERTO ARAUJO AR         1       0,500         239,86   0,00   0,00   0,01  97,74  97,74   120    19,98  A08
+    350  42973930000171 BALOQUE COMERCIO DE ALIM RIO VERDE DE MA RUA LEONTINA BORGES          8       1,137         239,65   0,02   0,01   0,01  97,76  97,76     8     3,68  A02
+    351  18605641000135 MERCADO SABOR DE MEL LTD FATIMA DO SUL   NOVE DE JULHO                3       0,623         238,36   0,00   0,00   0,01  97,77  97,77     4     2,16  A15
+    352   2021988000109 JOAO MARTINS FILHO       AGUA CLARA      JULIO MAIA                   3       0,791         236,55   0,00   0,01   0,01  97,78  97,78    21    21,50  A08
+    353  19888481000141 JANAINA PEREIRA DO CARMO DOURADINA       RUA DOMINGOS DA SILV         6       1,452         234,29   0,01   0,02   0,01  97,80  97,80   407     0,96  A35
+    354  14240619000269 CALISTO CONVENIENCIA LTD BELA VISTA      BARAO DO LADARIO             4       0,870         232,32   0,01   0,01   0,01  97,81  97,81    16     4,64  456
+    355  34607195000154 DIELGUE EDER CAMILO      AGUA CLARA      DAVID DO LIVRAMENTO          3       1,237         231,88   0,00   0,01   0,01  97,83  97,83    21     8,91  A08
+    356  51167445000100 DIVINO VICENTE GOMES     CAMPO GRANDE    RUA ABELARDO BARBOSA         3       1,497         231,21   0,00   0,02   0,01  97,84  97,84   151    12,84  A07
+    357   7298624000186 AUTO POSTO PORTAL DE MIR MIRANDA         RUA PROJETADA SN             3       0,583         228,55   0,00   0,00   0,01  97,85  97,85   413     4,96  A25
+    358  42390004000173 S A CORREA DE BRITO      AGUA CLARA      AV BENEVENUTO OTTONI         6       1,033         227,74   0,01   0,01   0,01  97,87  97,87    21     5,17  456
+    359   5885879000110 BASSO BASSO E GARLET LTD RIO BRILHANTE   PREFEITO THEOFANES           3       0,845         227,34   0,01   0,01   0,01  97,88  97,88    10     2,06  A15
+    360   8262183000125 GLAUCIA AP ALEXANDRE GAR NAVIRAI         AV AMAMBAI                   4       0,665         227,34   0,01   0,00   0,01  97,89  97,89    19     3,55  A14
+    361  42269743000101 PABLO BORGES DRUMOND LTD CAMPO GRANDE    AVENIDA TRES BARRAS          2       0,760         226,58   0,00   0,01   0,01  97,91  97,91   459     1,71  A07
+    362  21813158000150 PIVETTA E SCHWINN LTDA M MARACAJU        ALMIR DE MORAES RIBE         2       0,630         226,44   0,00   0,00   0,01  97,92  97,92    10     2,69  A02
+    363  26123633000180 CRISTIANE DE LIMA BENITE DOURADOS        RUA CLOVIS CERZOSIMO         5       0,907         226,20   0,01   0,01   0,01  97,93  97,93   437     2,79  A50
+    364  41788516000120 LAURA SOMAVILA KONAGESKI MARACAJU        AV MARECHAL DEODORO          4       1,029         226,00   0,01   0,01   0,01  97,95  97,95    10     1,12  456
+    365  37983776000189 MARCIO CRUZ DA SILVA MOT AGUA CLARA      RUA PROJETADA 1              6       1,204         225,64   0,01   0,01   0,01  97,96  97,96    21     7,78  456
+    366  26143482000122 PORTAL CONVENIENCIA LTDA NAVIRAI         AV AMELIA FUKUDA             1       0,186         225,54   0,00   0,00   0,01  97,97  97,97    19     1,79  A25
+    367   3169651000106 GREGORIO BISPO DA SILVA  COXIM           FORTALEZA                    4       1,392         225,40   0,01   0,01   0,01  97,99  97,99     8     0,89  A02
+    368  12966100000156 SUPERMERCADO PERES LTDA  BONITO          DAS SAFIRAS                  4       1,389         225,40   0,01   0,01   0,01  98,00  98,00    12     0,89  A35
+    369  27697083000176 MIX COSMETICOS LTDA      CAMPO GRANDE    AFONSO PENA                  2       1,244         225,25   0,00   0,01   0,01  98,01  98,01   120    11,85  K15
+    370  17948434000110 ROCHA E BARRETOS LTDA ME CAMPO GRANDE    JOSE NOGUEIRA VIEIRA         2       0,620         224,89   0,00   0,00   0,01  98,03  98,03   120    14,99  A08
+    371   7030511000103 MARQUES E GONCALVES LTDA ITAPORA         PEDRO CELESTINO CORR         5       0,993         224,85   0,01   0,01   0,01  98,04  98,04   447     1,20  A35
+    372  43259017000170 DILMA LUCILAINE DOS S P  CAMPO GRANDE    AV ENG AMELIO CARVAL         9       1,184         224,74   0,02   0,01   0,01  98,05  98,05   457     3,40  A13
+    373  19907415000171 CDA COMERCIO ATAC ALIMEN AMAMBAI         AV NICOLAU OTANO             3       0,833         224,26   0,00   0,01   0,01  98,06  98,06    17    24,91  A14
+    374  20156544000154 M R DA SILVA MAGALHAES M CORUMBA         PORTO CARREIRO               3       1,747         224,13   0,01   0,02   0,01  98,08  98,08    14    10,18  A08
+    375  16926052000123 KILL E OHASHI LTDA - ME  SAO GABRIEL DO  AVENIDA GETULIO VARG         3       0,582         223,02   0,01   0,00   0,01  98,09  98,09     8     2,56  A08
+    376    112373000154 MERCADO ITAPIRY LTDA     DOURADOS        RUA LEONIDAS ALEM            9       1,555         220,71   0,02   0,02   0,01  98,10  98,10   437     2,82  A14
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+TRIUNFANTE MATOGROSSENSE ALIMENTOS LTDA                                                                                                    12 Faturamento          Ref:em11302
+Filial: CAMPO GRANDE                                                                                                                                    Emissao    Hora   Folha
+                                          CURVA ABC DE CLIENTES SOBRE VENDAS REFERENTE A VALORES NO PERIODO DE 29/02/24 A 29/02/24                      29/02/24   00:16   0009
+-----GRUPO TRIUNFANTE-----------------------------------------------------------------------------------------------------------------------------------Usuario: willian-------
+Ranking *---------------Cliente----------------* Cidade          Endereco            Peso Bruto      Caixas          Valor    %PB    %Cx   %Vlr   %ACP   %ACG  Repr Pr.Medio Censo
+
+ Fornec: GERAL                Repres: GERAL                 Linha: GERAL                 Censo: GERAL
+
+    377  27697083000419 MIX COSMETICOS LTDA      DOURADOS        AV MARCELINO PIRES           2       1,244         220,16   0,00   0,01   0,01  98,12  98,12   120    11,58  K15
+    378  27697083000508 MIX COSMETICOS LTDA      CAMPO GRANDE    AVENIDA PRESIDENTE E         2       1,244         220,16   0,00   0,01   0,01  98,13  98,13   120    11,58  K15
+    379   9391583000101 FAVERO E FAVERO LTDA     CAMPO GRANDE    DAS VALQUIRIAS               6       0,903         220,08   0,01   0,01   0,01  98,14  98,14   151     4,89  A14
+    380  17441374000145 FAVERO COMERCIO DE ALIM  CAMPO GRANDE    JAIME COSTA                  6       0,903         219,29   0,01   0,01   0,01  98,16  98,16   151     4,87  A15
+    381  47418392000177 ROSELI CHAMORRO RUIZ CHA RIO BRILHANTE   RUA PROJETADA 11   S         4       0,493         219,06   0,01   0,00   0,01  98,17  98,17    10     5,92  A14
+    382  48609947000120 NSF MINIMERCADO LTDA     CAMPO GRANDE    RUA JOSE ANTONIO             4       0,632         217,74   0,01   0,00   0,01  98,18  98,18   401     2,19  A14
+    383   9544424000272 NUTRI SHOPPING LTDA      SIDROLANDIA     RUA TOMAZ DA SILVA F         5       1,348         217,63   0,01   0,01   0,01  98,19  98,19    10     0,91  A35
+    384  35137333000141 LAYS ARAUJO PEREIRA      CORUMBA         AFONSO PENA                  5       1,343         217,63   0,01   0,01   0,01  98,21  98,21   414     0,91  A02
+    385  39493776000126 JACKSON DORNELLES BENITE MARACAJU        ZEFERINO CORREA DA S         5       1,351         217,63   0,01   0,01   0,01  98,22  98,22    10     0,91  A14
+    386  21909498000180 NELIDA CRUZ LLUSCO ME    CORUMBA         CIRIACO DE TOLEDO           10       1,902         216,73   0,02   0,02   0,01  98,23  98,23    14     3,87  A40
+    387  29850277000195 WILLIAN DUARTE CABREIRA  CAMPO GRANDE    CORONEL JOSE HELIO M         3       1,525         216,70   0,00   0,02   0,01  98,25  98,25   451     1,59  A14
+    388  27697083000257 MIX COSMETICOS LTDA      CAMPO GRANDE    RUA QUATORZE DE JULH         2       1,203         215,06   0,00   0,01   0,01  98,26  98,26   120    11,94  K15
+    389  27697083000338 MIX COSMETICOS LTDA      CAMPO GRANDE    DOM AQUINO                   2       1,203         215,06   0,00   0,01   0,01  98,27  98,27   120    11,94  K15
+    390  42973471000126 RINALDA DE MELO OLIVEIRA CAMPO GRANDE    RUA DIVA LEMOS ALBER         6       1,381         214,67   0,01   0,01   0,01  98,28  98,28   457     1,98  A14
+    391    844194000101 J DE OLIVEIRA PANIFICADO MARACAJU        AV MARECHAL FLORIANO         6       0,903         213,71   0,01   0,01   0,01  98,30  98,30    10     3,95  A07
+    392  12751536000128 E T SINGAMI ME           NAVIRAI         RUA ELPIDIO BRESSA M         3       1,000         213,52   0,01   0,01   0,01  98,31  98,31    19     8,89  K09
+    393  27590237000126 ALEX JOSE DA CRUZ EIRELI VICENTINA       AV JOSE AMANCIO DE S         2       1,665         212,71   0,00   0,02   0,01  98,32  98,32     4    10,63  A40
+    394  36316298000190 IRINEU AVALOS            NAVIRAI         RUA IPUITA                   3       0,698         212,54   0,00   0,00   0,01  98,33  98,33    19     3,03  A09
+    395  34814588000139 LOIDE VIEIRA POVOAS      AGUA CLARA      RUA MARIA TEIXEIRA D         3       1,089         212,19   0,01   0,01   0,01  98,35  98,35    21     1,07  A02
+    396   9398035000103 NEILA CATARINA BORGES    AGUA CLARA      FRANCISCO VIEIRA             4       1,238         211,05   0,01   0,01   0,01  98,36  98,36    21     7,81  A08
+    397  53031617000130 LE COMERCIO DE FRIOS LTD CAMPO GRANDE    JULIO DE CASTILHO            9       1,468         210,81   0,02   0,02   0,01  98,37  98,37   457     2,81  A14
+    398   2568717000160 E B DA SILVA ME          CORUMBA         MAJOR GAMA                   1       0,500         209,88   0,00   0,00   0,01  98,38  98,38   120    17,49  A08
+    399   7669269000104 FELLER COMERCIO DE ALIME CAMPO GRANDE    PONTALINA                    7       1,099         209,85   0,01   0,01   0,01  98,40  98,40   459     0,76  A15
+    400  25246886000189 CHURRASCARIA GRAMADAO LT AGUA CLARA      BR 262 KM 1431               3       0,533         209,78   0,00   0,00   0,01  98,41  98,41    21    13,11  K09
+    401   6242490000119 FLAVIO DE ALBUQUERQUE CA CAARAPO         AV D PEDRO II                4       1,297         209,37   0,01   0,01   0,01  98,42  98,42    19     0,89  A15
+    402  10573337000141 MERCADO JACAREI LTDA     JAPORA          RUA DOIS  SEM NUMERO         4       1,287         209,30   0,01   0,01   0,01  98,43  98,43    19     0,89  A14
+    403  13596949000148 WILSON GONCALVES CRUZ    ITAQUIRAI       CARMEM BARBOSA PUPPO         4       1,287         209,30   0,01   0,01   0,01  98,44  98,44    19     0,89  A15
+    404  13650915000194 SOLEDADE E SILVA LTDA -  COXIM           RUA MIRANDA REIS             4       1,291         209,30   0,01   0,01   0,01  98,46  98,46     8     0,89  A14
+    405  28857718000118 LIRIANDIOY ANDRADE RODRI ELDORADO        AV DAS FLORES                4       1,287         209,30   0,01   0,01   0,01  98,47  98,47    19     0,89  A14
+    406  41057723000104 EVERTON HONORIO DA SILVA ITAPORA         RUA PAULO YUTAKA MIY         4       1,291         209,30   0,01   0,01   0,01  98,48  98,48   447     0,89  A14
+    407  20754167000155 PIT STOP CONVENIENCIA LT NAVIRAI         AV AMAMBAI                   3       0,979         209,25   0,00   0,01   0,01  98,49  98,49    19     2,25  456
+    408   3383676000108 J OLIVEIRA               CORUMBA         DOM AQUINO                   6       1,000         209,24   0,01   0,01   0,01  98,51  98,51   414     0,79  A02
+    409  34306483000179 P. BORGES DRUMOND EIRELI CAMPO GRANDE    RUA ENGENHEIRO MILTO         1       0,373         208,41   0,00   0,00   0,01  98,52  98,52   459     4,73  A07
+    410  10359659000192 FRANCISCO OLIVEIRA HILAR AGUA CLARA      JULIOO MAIA                  3       1,121         207,02   0,01   0,01   0,01  98,53  98,53    21     7,39  K10
+    411  15694272000106 CLAYTON OLIVEIRA BITTENC MARACAJU        RUA PEDRO MORETTO            6       1,564         206,93   0,01   0,02   0,01  98,54  98,54    10     2,99  A14
+    412  25193213000108 WILLIAN RODRIGO PAREDES  SIDROLANDIA     MATO GROSSO                  5       0,936         206,63   0,01   0,01   0,01  98,55  98,55    10     5,03  A14
+    413  16044356000167 TONIAZZO E TONIAZZO LTDA ITAQUIRAI       RUA CAMPO GRANDE 117         3       1,496         206,23   0,01   0,02   0,01  98,57  98,57    19     1,10  A14
+    414  35395802000122 IVANI DA SILVA GOMES     AGUA CLARA      RUA ARLINDO PINTO DA         2       1,037         205,16   0,00   0,01   0,01  98,58  98,58    21    12,06  456
+    415    543484000387 V V T COM DE MED E PERFU CAMPO GRANDE    AV RACHEL DE QUEIROZ         1       0,579         204,89   0,00   0,00   0,01  98,59  98,59   120    14,63  A08
+    416  21661339000109 CONVENIENCIA SOARES LTDA MUNDO NOVO      AV JUSCELINO KUBITSC         9       0,827         203,53   0,02   0,01   0,01  98,60  98,60    19     8,48  456
+    417  26650456000190 SOLANGE MARES            DOURADOS        RUA PROJETADA A              5       1,061         200,57   0,01   0,01   0,01  98,61  98,61     7     3,08  A14
+    418  14110529000172 R B GIMENES              CORUMBA         RUA LUIZ FEITOSA ROD         3       1,498         199,79   0,00   0,02   0,01  98,63  98,63    14     9,98  A14
+    419  31061205000100 HEROILTON VICENTE DA SIL CORUMBA         RUA RIO GRANDE DO SU         8       1,234         199,06   0,02   0,01   0,01  98,64  98,64   414     1,61  A02
+    420  18429327000149 LUCIZANO E BERMM COM.MED CAMPO GRANDE    PAULOPOLIS                   4       0,583         198,63   0,01   0,00   0,01  98,65  98,65   455     4,72  A08
+    421   9458975000132 ANDRADE E ARGUELHO LTDA  AQUIDAUANA      JOSE DUARTE                  3       0,662         197,56   0,01   0,00   0,01  98,66  98,66   413     2,03  A14
+    422   4268705000145 DROGARIA BRASIL LTDA     MARACAJU        JOAQUIM MURTINHO             3       0,779         197,42   0,01   0,01   0,01  98,67  98,67    10     1,95  A08
+    423   8962327000156 DAKOTA CONVENIENCIA E TR AMAMBAI         NICOLAU OTANO                3       0,665         197,22   0,00   0,00   0,01  98,68  98,68    17     2,52  456
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+TRIUNFANTE MATOGROSSENSE ALIMENTOS LTDA                                                                                                    12 Faturamento          Ref:em11302
+Filial: CAMPO GRANDE                                                                                                                                    Emissao    Hora   Folha
+                                          CURVA ABC DE CLIENTES SOBRE VENDAS REFERENTE A VALORES NO PERIODO DE 29/02/24 A 29/02/24                      29/02/24   00:16   0010
+-----GRUPO TRIUNFANTE-----------------------------------------------------------------------------------------------------------------------------------Usuario: willian-------
+Ranking *---------------Cliente----------------* Cidade          Endereco            Peso Bruto      Caixas          Valor    %PB    %Cx   %Vlr   %ACP   %ACG  Repr Pr.Medio Censo
+
+ Fornec: GERAL                Repres: GERAL                 Linha: GERAL                 Censo: GERAL
+
+    424  33140644000134 VASCONCELOS E OLIVEIRA M CAMPO GRANDE    RUA TEOBALDO KAFER           3       0,739         194,54   0,00   0,01   0,01  98,70  98,70   457     2,59  456
+    425  24617141000116 JC COMERCIO DE PRODUTOS  CAMPO GRANDE    RUA BARAO DE LIMEIRA         2       0,500         192,74   0,00   0,00   0,01  98,71  98,71   453     5,66  456
+    426   8647783000101 A DE OLIVEIRA SUPERMERCA CAMPO GRANDE    GENERAL ALBERTO CARL         1       2,000         191,86   0,00   0,02   0,01  98,72  98,72   151     7,99  A15
+    427  35111858000108 GUSTAVO DANILO PAREDES   SIDROLANDIA     HUGO YULE                    5       1,282         191,57   0,01   0,01   0,01  98,73  98,73    10     1,31  A14
+    428  18882395000169 RITA HORTENCIA TABORGA D CORUMBA         RUA EDU ROCHA                5       0,907         185,23   0,01   0,01   0,01  98,74  98,74    14     7,12  K09
+    429  33127564000149 TORK OIL ELDORADO LTDA   ELDORADO        RUA RUI BARBOSA              3       0,457         184,48   0,00   0,00   0,01  98,75  98,75    19     2,79  A25
+    430  21940083000179 ALEXSANDRO MARCOS DE FAR AGUA CLARA      RUA FRANCISCO VIEIRA         2       0,995         182,73   0,00   0,01   0,01  98,76  98,76    21    11,42  456
+    431  29005624000183 GEAN CARLOS RODRIGUES DA AGUA CLARA      AV JULIO MAIA                4       1,231         182,69   0,01   0,01   0,01  98,77  98,77    21     7,02  K09
+    432  52152149000190 IVC REPRESENTACAO COMERC AGUA CLARA      ANTONIO OTONI                2       0,954         181,26   0,00   0,01   0,01  98,78  98,78    21     7,25  A14
+    433  32492561000222 MACEDO BARRETO E CIA LTD CAMPO GRANDE    AVENIDA GUAICURUS            0       0,376         179,85   0,00   0,00   0,01  98,79  98,79   120    19,98  A08
+    434  15466190000104 ANA MARIA ESCOBAR BENITE AGUA CLARA      AV WALDEMAR FERREIRA         3       1,205         179,21   0,00   0,01   0,01  98,80  98,80    21     6,89  A14
+    435  26959481000150 ANTONIO MARCOS CANNO EIR AGUA CLARA      BENEVENUTO OTTONI            2       1,119         179,18   0,00   0,01   0,01  98,82  98,82    21    10,54  A08
+    436  44785898000126 DANUZA MARIA OLIVEIRA CA AGUA CLARA      AV JULIO MAIA                2       1,036         178,86   0,00   0,01   0,01  98,83  98,83    21    11,17  A08
+    437  37532249000158 BENFICA SUPERMERCADOS LT SAO GABRIEL DO  JUSCELINO K DE OLIVE         2       0,591         178,11   0,00   0,00   0,01  98,84  98,84     8    14,84  A35
+    438   2181799000195 R DA COSTA MONTEZANO LTD MARACAJU        RUA CAMPO GRANDE             2       0,500         177,36   0,00   0,00   0,01  98,85  98,85    10     5,21  A02
+    439  29527252000155 CLEITON PAIVA OLIVEIRA   CAMPO GRANDE    RUA CARLOS SEVERO MA         3       0,670         175,34   0,00   0,00   0,01  98,86  98,86   453     1,63  A07
+    440  11888978000158 GILSON FERREIRA DA SILVA CAMPO GRANDE    RUA VERIDIANA                4       0,702         173,77   0,01   0,01   0,01  98,87  98,87   155     4,96  A14
+    441  15619835000100 CILHA PEREIRA ME         NOVA ANDRADINA  RUA ANAURILANDIA             3       0,778         168,32   0,00   0,01   0,00  98,88  98,88     5     1,46  A07
+    442  21268851000190 ANDERSON SAMANIEGO BRAGA CAMPO GRANDE    SANTA QUITERIA               6       0,895         164,30   0,01   0,01   0,00  98,89  98,89   453     3,42  456
+    443  10665747000112 JANE MARILEI GUND        MARACAJU        JOAQUIM MURTINHO             1       1,666         162,50   0,00   0,02   0,00  98,90  98,90    10     8,12  A40
+    444   7885083000192 E C GOES DOS SANTOS      FATIMA DO SUL   AV NOVE DE JULHO             2       0,650         162,21   0,00   0,00   0,00  98,91  98,91     4     2,10  A13
+    445  46795430000148 SEVEN BOUTIQUE DE CARNE  MARACAJU        AV MARIO CORREA              4       0,697         161,73   0,01   0,00   0,00  98,92  98,92    10     2,83  1
+    446    543484000115 V V T COM DE MEDIC E PER CAMPO GRANDE    RACHEL DE QUEIROZ            0       0,334         159,86   0,00   0,00   0,00  98,92  98,92   120    19,98  A08
+    447  32704636000100 MARIA LAUDECI EMIDIO BON ELDORADO        RUA RIBEIRAO PRETO           2       0,531         159,76   0,00   0,00   0,00  98,93  98,93    19     2,45  456
+    448  38267236000161 BRAULIO DIONES A DE S SU MARACAJU        RUA MARIO SILVA              3       0,670         159,76   0,00   0,00   0,00  98,94  98,94    10     1,90  A14
+    449  19587634000110 ERA DO GELO              CAMPO GRANDE    AVENIDA CONDE DE BOA         8       1,108         157,83   0,02   0,01   0,00  98,95  98,95   451     2,63  456
+    450  43317991000143 ERICSON SOLER BENITES    CAMPO GRANDE    RUA SIZUO NAKAZATO           8       0,995         157,83   0,02   0,01   0,00  98,96  98,96   459     2,92  A15
+    451  10930180000164 ELIANA FERREIRA DA SILVA CAMPO GRANDE    LEAO ZARDO                   3       0,891         155,07   0,00   0,01   0,00  98,97  98,97   451     0,95  1
+    452  37398754000151 ELIANE MOLINA DE SOUZA   MARACAJU        RUA DAS OLIVEIRAS            5       0,991         154,82   0,01   0,01   0,00  98,98  98,98    10     1,56  A14
+    453  17948434000706 ROCHA E BARRETOS LTDA    CAMPO GRANDE    DOM ANTONIO BARBOSA          1       0,375         149,92   0,00   0,00   0,00  98,99  98,99   120    16,65  A08
+    454  33686929000175 THIAGO DOS SANTOS CAITAN RIBAS DO RIO PA 10A RUA LUIZ CARLOS          1       0,320         148,82   0,00   0,00   0,00  99,00  99,00    21     6,20  A14
+    455  48471009000107 REDE IPE POSTOS DE SERVI CAMPO GRANDE    AVENIDA GUAICURUS            1       0,290         147,16   0,00   0,00   0,00  99,01  99,01   459     2,94  A25
+    456  20672189000176 J J SUPERMERCADO LTDA    COSTA RICA      FELIX BATISTA AMORIM         3       0,522         145,24   0,00   0,00   0,00  99,02  99,02     9     1,63  A14
+    457   4843882000108 E B C DA SILVA E CIA LTD LADARIO         QUATORZE DE MARCO            0       0,329         144,91   0,00   0,00   0,00  99,02  99,02   120    18,11  A08
+    458  16852065000103 ARODIR PAULO GARCIA      DOURADOS        RUA FREI ANTONIO             2       0,498         136,86   0,00   0,00   0,00  99,03  99,03   447     2,85  A02
+    459  27837493000175 CELESTINA COLQUE CUELLAR CORUMBA         CIRIACO DE TOLEDO            7       1,000         135,31   0,02   0,01   0,00  99,04  99,04   414     2,50  A14
+    460  20763673000100 COPACABANA CONVENIENCIA  TRES LAGOAS     AV DR ELOY CHAVES            7       0,600         134,91   0,02   0,00   0,00  99,05  99,05    11    14,99  456
+    461  12645105000187 CICERA EVILANA DA SILVA  TRES LAGOAS     EGIDIO THOME                 7       0,885         134,00   0,02   0,01   0,00  99,06  99,06   411     2,79  456
+    462  13786092000129 ANTONIO WANDERLEY ANTUNE CAARAPO         RUA MANOEL BANDEIRA          1       0,320         133,96   0,00   0,00   0,00  99,06  99,06    19     5,58  A14
+    463  26620285000157 SANDRA FRANCO SOLIZ      CORUMBA         EDU ROCHA                    7       1,000         133,91   0,02   0,01   0,00  99,07  99,07   414     2,47  K11
+    464  33737149000107 APARECIDO FERNANDES RIBA TRES LAGOAS     FILINTO MULLER               2       0,916         131,26   0,00   0,01   0,00  99,08  99,08   411     1,28  A14
+    465  37382267000109 GMF PHARMA COM MEDIC E P CAMPO GRANDE    AV MARQUES DE POMBAL         0       0,324         129,97   0,00   0,00   0,00  99,09  99,09   120    16,24  A08
+    466  20148166000167 QUEIROZ E FIEDLER LTDA   CAMPO GRANDE    RUA FRAIBURGO                2       0,313         128,97   0,00   0,00   0,00  99,09  99,09   459     4,29  A08
+    467   9433797000195 FARMACIA FARMAKO LTDA    BRASILANDIA     SAO JOSE                     1       0,250         127,72   0,00   0,00   0,00  99,10  99,10    11     7,51  A08
+    468  32970108000101 HUMBERTO JULIO DE AZEVED CAMPO GRANDE    ANDRADE NEVES                2       0,693         127,12   0,00   0,00   0,00  99,11  99,11   455     1,00  A50
+    469  37244075000128 LS CASA DE CARNES E MERC CAMPO GRANDE    RUA FELIPE SAFADI NO         6       0,999         126,63   0,01   0,01   0,00  99,12  99,12   151     7,03  1
+    470  34090421000172 DOMINGUES CONVENIENCIA L CAMPO GRANDE    ARAGUACEMA                   0       1,332         126,20   0,00   0,01   0,00  99,12  99,12   153     7,88  A14
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+TRIUNFANTE MATOGROSSENSE ALIMENTOS LTDA                                                                                                    12 Faturamento          Ref:em11302
+Filial: CAMPO GRANDE                                                                                                                                    Emissao    Hora   Folha
+                                          CURVA ABC DE CLIENTES SOBRE VENDAS REFERENTE A VALORES NO PERIODO DE 29/02/24 A 29/02/24                      29/02/24   00:16   0011
+-----GRUPO TRIUNFANTE-----------------------------------------------------------------------------------------------------------------------------------Usuario: willian-------
+Ranking *---------------Cliente----------------* Cidade          Endereco            Peso Bruto      Caixas          Valor    %PB    %Cx   %Vlr   %ACP   %ACG  Repr Pr.Medio Censo
+
+ Fornec: GERAL                Repres: GERAL                 Linha: GERAL                 Censo: GERAL
+
+    471   5553799000167 VERA LUCIA PISKE SILVA   CAMPO GRANDE    RUA SETENTA E SEIS           2       0,693         124,46   0,00   0,00   0,00  99,13  99,13   457     0,98  A14
+    472  17024927000164 APARECIDO ALVES DA SILVA CAMPO GRANDE    SOUTO MAIOR                  3       0,500         121,17   0,00   0,00   0,00  99,14  99,14   151     4,84  A02
+    473   2795617000176 COMERCIO DE ALIMENTOS SA SAO GABRIEL DO  MATO GROSSO DO SUL           2       0,675         120,79   0,00   0,00   0,00  99,15  99,15     8     7,54  A36
+    474  37382267000362 GMF PHARMA COM DE MED E  CAMPO GRANDE    AVENIDA SAO NICOLAU          1       0,332         119,96   0,00   0,00   0,00  99,15  99,15   120    14,99  A08
+    475  37382267000281 GMF PHARMA COM DE MED E  CAMPO GRANDE    AVENIDA AFONSO PENA          0       0,286         119,95   0,00   0,00   0,00  99,16  99,16   120    17,13  A08
+    476  17948434001273 ROCHA E BARRETOS LTDA ME CAMPO GRANDE    RUA JOAO SELINGARDI          0       0,251         119,89   0,00   0,00   0,00  99,17  99,17   120    19,98  A08
+    477   3976876000166 TENDA FLORES E PRESENTES MARACAJU        RUA COMANDANTE CAMIS         2       0,280         119,81   0,00   0,00   0,00  99,17  99,17    10     5,70  A02
+    478  13714212000182 GLAUCIA PEREIRA MONTEIRO PEDRO GOMES     JOSE MENDES FANTOURA         2       0,250         119,29   0,00   0,00   0,00  99,18  99,18     8     9,94  A14
+    479  18659556000150 MINI MERCADO PRIMAVERA L NAVIRAI         AV CAARAPO                   2       0,694         117,95   0,00   0,00   0,00  99,19  99,19    19     0,93  A14
+    480  24949269000187 A R NUNES JUNIOR LTDA    TRES LAGOAS     JOSE AMIM                    2       1,083         115,20   0,00   0,01   0,00  99,19  99,19    11     3,97  A14
+    481   7914176000106 LAURINDA ALMEIDA FERNAND CAMPO GRANDE    PINTO D AGUA                 2       0,645         114,77   0,00   0,00   0,00  99,20  99,20   457     1,08  A15
+    482  28548002000139 RAFAEL SEFFRIN PEREIRA E CAMPO GRANDE    ANA LUIZA DE SOUZA           3       0,319         113,21   0,00   0,00   0,00  99,21  99,21   453     1,50  456
+    483  21996240000168 DROGARIA DROGAGIL DE MAR MARACAJU        RUA MAJOR CARLOS DA          0       0,093         112,77   0,00   0,00   0,00  99,21  99,21    10     1,79  A08
+    484   8935375000155 WOLFF E CANDIDO LTDA     CAMPO GRANDE    ROD BR 163                   3       0,750         112,29   0,00   0,01   0,00  99,22  99,22    23     3,11  A15
+    485  32850683000162 JOAO D ARC FERREIRA DOS  CAMPO GRANDE    RUA DA BALEIA                4       0,700         111,48   0,01   0,00   0,00  99,23  99,23   151     3,59  A15
+    486  79072427000155 PANIFICADORA E CONF FLAM CAMPO GRANDE    DOS CRISANTEMOS              2       0,324         111,36   0,00   0,00   0,00  99,23  99,23   457    13,92  A07
+    487  15669672000161 OTAVIANO JOSE ALVES DOS  CAMPO GRANDE    RUA GERBERA                  0       0,249         109,34   0,00   0,00   0,00  99,24  99,24   153    27,33  1
+    488  37916180000166 COMERCIAL DE ALIMENTOS A CORUMBA         RUA DOM PEDRO II             4       0,783         108,01   0,01   0,01   0,00  99,25  99,25    14     4,50  A02
+    489  11329921000119 LEANDRO ARAUJO ALBUQUERQ CAMPO GRANDE    CONDESSA DE SAO JOAQ         1       0,318         107,17   0,00   0,00   0,00  99,25  99,25   453     5,10  A02
+    490  25003749000113 SUELI DO CARMO COSTA DUR CAMPO GRANDE    RUA CACHOEIRA DO CAM         3       0,460         105,71   0,01   0,00   0,00  99,26  99,26   151     3,02  A14
+    491  24453756000154 CICERO GUEDES DA SILVA   CAMPO GRANDE    RUA LUCIA MARTINS CO         2       0,782         104,63   0,00   0,01   0,00  99,27  99,27   151     5,23  456
+    492  39614336000180 CAMILA DOS SANTOS DE ARA RIBAS DO RIO PA RUA BACURI                   0       0,095         104,35   0,00   0,00   0,00  99,27  99,27    21     1,65  456
+    493  19420676000162 FLAVIO DA SILVA CONVENIE MUNDO NOVO      AV CAMPO GRANDE              1       0,349         104,28   0,00   0,00   0,00  99,28  99,28    19     2,97  456
+    494  44173485000190 YULIZA ANAI ALCON COCA   CORUMBA         RUA PARANA                   2       0,595         102,65   0,00   0,00   0,00  99,28  99,28   414     0,95  A02
+    495  45720274000193 JCX SUPERMERCADOS LTDA   CAMPO GRANDE    RUA PEDRO PEDRA              5       0,664         102,09   0,01   0,00   0,00  99,29  99,29   457     2,83  A02
+    496  20119949000112 E D S COM DE MED E PERFU CAMPO GRANDE    SOUTO MAIOR                  0       0,333          99,69   0,00   0,00   0,00  99,30  99,30   151    19,93  A08
+    497  20119949000201 E D S COM DE MEDIC E FER CAMPO GRANDE    RUA PETROPOLIS               0       0,333          99,69   0,00   0,00   0,00  99,30  99,30   151    19,93  A08
+    498  38287387000181 ALFHA MERCEARIA E CONVEN CAMPO GRANDE    RUA OTAVIANO IGNACIO         2       0,583          99,62   0,00   0,00   0,00  99,31  99,31   151     3,55  456
+    499  24557452000137 ADRIANA APARECIDA SCARMA NAVIRAI         RUA ALAGOAS                  1       0,666          98,46   0,00   0,00   0,00  99,31  99,31    19    12,30  K15
+    500  42127110000169 FABIANA NETO MORAIS      NAVIRAI         AV CAARAPO                   0       1,083          97,12   0,00   0,01   0,00  99,32  99,32    19     7,47  K15
+    501  18332251000481 SCHNEIDER E CARVALHO SCH CAMPO GRANDE    AVENIDA MASCARENHAS          1       0,705          96,92   0,00   0,01   0,00  99,32  99,32   120    10,76  A08
+    502  35213094000161 AILTON NOGUEIRA          CAMPO GRANDE    RUA CACHOEIRA DO CAM         5       1,166          94,48   0,01   0,01   0,00  99,33  99,33   151     4,10  A09
+    503  26069381000159 E K OTANI ME             FATIMA DO SUL   RUA CRISTOBALINA RUI         2       0,700          85,32   0,00   0,00   0,00  99,34  99,34     4     0,55  A14
+    504    614066000171 LUIS CARLOS LOURENCO PAN NOVA ANDRADINA  IVINHEMA                     3       0,686          84,65   0,00   0,00   0,00  99,34  99,34     5     2,22  A07
+    505    780726000194 MERCADINHO KITTA LTDA    VICENTINA       AV RAINHA DOS APOSTO         3       0,686          84,65   0,00   0,00   0,00  99,35  99,35     4     2,22  A14
+    506   1519842000117 MERCADO E ACOUGUE SAO JU GUIA LOPES DA L PRESIDENTE VARGAS            3       0,686          84,65   0,00   0,00   0,00  99,35  99,35    12     2,22  A02
+    507   1945296000186 PALLU PIZZARIA LTDA      CHAPADAO DO SUL SEIS                         3       0,686          84,65   0,00   0,00   0,00  99,36  99,36     9     2,22  A37
+    508   2007806000137 BLAUDECI TENORIO SOBRAL  NOVA ANDRADINA  SAO JOSE                     3       0,686          84,65   0,00   0,00   0,00  99,36  99,36     5     2,22  A35
+    509   2367470000113 PEROMINGO E MENEZES LTDA DOURADOS        PRESIDENTE VARGAS            3       0,686          84,65   0,00   0,00   0,00  99,37  99,37   437     2,22  456
+    510   2484816000163 JOSE FRANCISCO RIBEIRO D INOCENCIA       RUA JOAO BATISTA PAR         3       0,686          84,65   0,00   0,00   0,00  99,37  99,37     6     2,22  A14
+    511   2633429000141 LINDACI DAS VIRGENS DA C DOURADOS        ADELINO GARCIA CAMAR         3       0,686          84,65   0,00   0,00   0,00  99,38  99,38   437     2,22  A14
+    512   2754630000187 JOSENI ALVES DE OLIVEIRA APARECIDA DO TA EDUARDO JESUINO TIAG         3       0,686          84,65   0,00   0,00   0,00  99,38  99,38     6     2,22  A35
+    513   2917723000185 V G CARVALHO             BONITO          CEL PILAD REBUA              3       0,686          84,65   0,00   0,00   0,00  99,39  99,39    12     2,22  A08
+    514   2952794000119 JOSE CARLOS OTERO EIRELI APARECIDA DO TA AV SAO CRISTOVAO             3       0,686          84,65   0,00   0,00   0,00  99,39  99,39     6     2,22  A17
+    515   3029038000185 A MARTINS COMERCIO DE ME AMAMBAI         AVENIDA PEDRO MANVAI         3       0,686          84,65   0,00   0,00   0,00  99,40  99,40    17     2,22  A08
+    516   3210891000107 GILMAR BOFF              IGUATEMI        AV SENADOR MULLER            3       0,686          84,65   0,00   0,00   0,00  99,40  99,40    17     2,22  A02
+    517   3477379000113 K M KLEM EIRELI EPP      FATIMA DO SUL   09 DE JULHO                  3       0,686          84,65   0,00   0,00   0,00  99,41  99,41     4     2,22  A08
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+TRIUNFANTE MATOGROSSENSE ALIMENTOS LTDA                                                                                                    12 Faturamento          Ref:em11302
+Filial: CAMPO GRANDE                                                                                                                                    Emissao    Hora   Folha
+                                          CURVA ABC DE CLIENTES SOBRE VENDAS REFERENTE A VALORES NO PERIODO DE 29/02/24 A 29/02/24                      29/02/24   00:16   0012
+-----GRUPO TRIUNFANTE-----------------------------------------------------------------------------------------------------------------------------------Usuario: willian-------
+Ranking *---------------Cliente----------------* Cidade          Endereco            Peso Bruto      Caixas          Valor    %PB    %Cx   %Vlr   %ACP   %ACG  Repr Pr.Medio Censo
+
+ Fornec: GERAL                Repres: GERAL                 Linha: GERAL                 Censo: GERAL
+
+    518   3480787000205 VENANCIO E SAMARA LTDA   APARECIDA DO TA SAO CRISTOVAO                3       0,686          84,65   0,00   0,00   0,00  99,41  99,41     6     2,22  A08
+    519   3544634000101 DOSANGELA MARCAL PAES EI COSTA RICA      AVENIDA J - ANTONIO          3       0,686          84,65   0,00   0,00   0,00  99,42  99,42     9     2,22  A15
+    520   3682770000150 OSIRO E MORITA LTDA      DOURADOS        TOSHINOBU KATAYAMA           3       0,686          84,65   0,00   0,00   0,00  99,42  99,42   437     2,22  A09
+    521   4150001000173 GRACIANO LOPES DA SILVA  PARANAIBA       ANTONIO GARCIA FREIT         3       0,686          84,65   0,00   0,00   0,00  99,43  99,43     6     2,22  A15
+    522   4594048000126 FARMACIA SAO JOSE TLDA   SELVIRIA        VEREADOR ISAC LALUCE         3       0,686          84,65   0,00   0,00   0,00  99,43  99,43     6     2,22  A08
+    523   5139115000185 MARIA JOSE DO NASCIMENTO BATAYPORA       BEM TE VI                    3       0,686          84,65   0,00   0,00   0,00  99,43  99,43     5     2,22  A07
+    524   5216728000179 ROSANGELA BUSA           DOURADOS        WEIMAR GONCALVES TOR         3       0,686          84,65   0,00   0,00   0,00  99,44  99,44   437     2,22  A14
+    525   5289529000190 COMERCIAL COSTA LESTE LT APARECIDA DO TA AV PRESIDENTE VARGAS         3       0,686          84,65   0,00   0,00   0,00  99,44  99,44     6     2,22  456
+    526   5497384000113 RILDO NERI SIMAO   ME    NOVO HORIZONTE  AV MARCOS FREIRE             3       0,686          84,65   0,00   0,00   0,00  99,45  99,45     4     2,22  A15
+    527   5792169000145 SUPERMERCADO COMPRE BEM  DOURADOS        RUA GENERAL OSORIO           3       0,686          84,65   0,00   0,00   0,00  99,45  99,45   437     2,22  A35
+    528   5904060000152 CUSTODIO E ANDRADE LTDA  DOURADOS        JOSE MENDES                  3       0,686          84,65   0,00   0,00   0,00  99,46  99,46   437     2,22  A40
+    529   6310298000112 CRISTIANI DE P DUARTE    GUIA LOPES DA L VICTOR FRANCISCO BER         3       0,686          84,65   0,00   0,00   0,00  99,46  99,46    12     2,22  A15
+    530   7028514000102 CENTRAL SUPERMERCADOS LT PARANAIBA       GENEROSO PONCE               3       0,686          84,65   0,00   0,00   0,00  99,47  99,47     6     2,22  A35
+    531   7152229000190 FARMACIA HIPERPOPULAR LT DOURADOS        RUA MONTE ALEGRE             3       0,686          84,65   0,00   0,00   0,00  99,47  99,47   437     2,22  A08
+    532   8207976000141 MINI MERCADO BOM PRECO L FIGUEIRAO       AV MOISES DE ARAUJO          3       0,686          84,65   0,00   0,00   0,00  99,48  99,48     8     2,22  A15
+    533   8448389000144 RAQUEL BARBOSA COELHO    DOURADOS        RUA BALBINA DE MATOS         3       0,686          84,65   0,00   0,00   0,00  99,48  99,48   437     2,22  A07
+    534   9178652000195 COMERCIAL SILVA LTDA     APARECIDA DO TA  SAO CRISTOVAO               3       0,686          84,65   0,00   0,00   0,00  99,49  99,49     6     2,22  A35
+    535   9555593000127 DROGARIA COMPRE CERTO AP APARECIDA DO TA AV SAO CRISTOVAO             3       0,686          84,65   0,00   0,00   0,00  99,49  99,49     6     2,22  A08
+    536  10309605000112 L G PINHEIRO LTDA        PARANAIBA       MARIA ANTONIA                3       0,686          84,65   0,00   0,00   0,00  99,50  99,50     6     2,22  A08
+    537  10840703000181 DROGARIA IACAL LTDA EPP  PARANAIBA       RUA BRUNO MARIANO DE         3       0,686          84,65   0,00   0,00   0,00  99,50  99,50     6     2,22  A08
+    538  11694728000187 LUCIANA DOS SANTOS SILVA FATIMA DO SUL   RUA PRESIDENTE GETUL         3       0,686          84,65   0,00   0,00   0,00  99,51  99,51     4     2,22  A17
+    539  12026847000124 JULIANO ALVES GIANINI    APARECIDA DO TA DA SAUDADE                   3       0,686          84,65   0,00   0,00   0,00  99,51  99,51     6     2,22  A14
+    540  12342579000150 ACOUGUE E MERCEARIA SANT DOURADOS        MANOEL SANTIAGO              3       0,686          84,65   0,00   0,00   0,00  99,52  99,52   437     2,22  A14
+    541  13348953000197 SIMONE PEREIRA LUNA      DOURADOS        ALVARO BRANDAO               3       0,686          84,65   0,00   0,00   0,00  99,52  99,52   437     2,22  A14
+    542  13512218000177 MICHELE PEREIRA MATRICAR GUIA LOPES DA L MACIAS BARBOSA               3       0,686          84,65   0,00   0,00   0,00  99,53  99,53    12     2,22  456
+    543  14534037000104 FABRICIO BORGES GONCALVE PEDRO GOMES     AV MANOEL ALVES DE M         3       0,686          84,65   0,00   0,00   0,00  99,53  99,53     8     2,22  A02
+    544  14651516000100 FOLTZ SUPERMERCADO LTDA  GUIA LOPES DA L SENADOR JUSCELINO KU         3       0,686          84,65   0,00   0,00   0,00  99,54  99,54    12     2,22  A14
+    545  15000097000100 MERCADO COSTA EIRELI     PARANAIBA       DOS EXPEDICIONARIOS          3       0,686          84,65   0,00   0,00   0,00  99,54  99,54     6     2,22  A14
+    546  15000097000290 MERCADO COSTA EIRELI     PARANAIBA       RUA THEODULO MENDES          3       0,686          84,65   0,00   0,00   0,00  99,55  99,55     6     2,22  A14
+    547  15000097000371 D C PRODUTOS ALIMENTICIO CHAPADAO DO SUL OITO                         3       0,686          84,65   0,00   0,00   0,00  99,55  99,55     9     2,22  A37
+    548  15317247000103 Q B RIBEIRO MINIMERCADO  APARECIDA DO TA PARA                         3       0,686          84,65   0,00   0,00   0,00  99,56  99,56     6     2,22  A14
+    549  15320207000110 APARECIDA DE SOUZA MOREI VICENTINA       RUA PROJETADA A   SN         3       0,686          84,65   0,00   0,00   0,00  99,56  99,56     4     2,22  A02
+    550  15564628000197 IVANILDO RAMOS PEREIRA   DOURADOS        CORNELIA CERZOSIMO D         3       0,686          84,65   0,00   0,00   0,00  99,57  99,57   437     2,22  A02
+    551  16616835000100 IMPORTS 67 COMERCIO DE C COXIM           AVENIDA VIRGINIA FER         3       0,686          84,65   0,00   0,00   0,00  99,57  99,57     8     2,22  K11
+    552  17069799000175 ROSILDA MARIA DA SILVA   PARANAIBA       RUA PROJETADA F              3       0,686          84,65   0,00   0,00   0,00  99,58  99,58     6     2,22  A16
+    553  17320461000144 SILO A P DE ALMEIDA EIRE AMAMBAI         GENERAL CAMARA               3       0,686          84,65   0,00   0,00   0,00  99,58  99,58    17     2,22  456
+    554  17614414000103 HELCIO ANSELMO ANDRE ME  APARECIDA DO TA ROD BR 158 KM 143 DI         3       0,686          84,65   0,00   0,00   0,00  99,59  99,59     6     2,22  A16
+    555  17752448000164 GICELI LUIZA DIAS EIRELI PARANAIBA       RUA MAJOR HELIODORO          3       0,686          84,65   0,00   0,00   0,00  99,59  99,59     6     2,22  A16
+    556  18201846000406 MACAUBA COMERCIO DE ALIM IVINHEMA        AV PANAMA                    3       0,686          84,65   0,00   0,00   0,00  99,60  99,60     4     2,22  A35
+    557  18303808000103 CLAUDEMIR GAUNA PINTO    JARDIM          MARCIA VALEIRA DE FR         3       0,686          84,65   0,00   0,00   0,00  99,60  99,60    12     2,22  A02
+    558  18842030000100 MARCIA DE OLIVEIRA GOMES NOVA ANDRADINA  RUA PROFESSOR JOAO D         3       0,686          84,65   0,00   0,00   0,00  99,61  99,61     4     2,22  A40
+    559  18872967000129 SILVANA DA SILVA O. ASAN DEODAPOLIS      MONTE SINAI                  3       0,686          84,65   0,00   0,00   0,00  99,61  99,61     4     2,22  A02
+    560  19139234000142 YPE SUPERMERCADO LTDA    BONITO          RUA CORONEL PILAD RE         3       0,686          84,65   0,00   0,00   0,00  99,62  99,62    12     2,22  A35
+    561  19474300000130 GILMAR CEZAR MEDEIROS GO DOURADOS        RUA BELA VISTA               3       0,686          84,65   0,00   0,00   0,00  99,62  99,62   437     2,22  456
+    562  19797575000105 PONCIO E VIEIRA LTDA     BATAGUASSU      AVENIDA CAMPO GRANDE         3       0,686          84,65   0,00   0,00   0,00  99,63  99,63     4     2,22  A08
+    563  19988374000195 CLAUDIO FERNANDO PAREDES SIDROLANDIA     ROMANO ROSSATO               3       0,686          84,65   0,00   0,00   0,00  99,63  99,63    10     2,22  A02
+    564  20418586000116 MATHEUS FORGIARINI DA SI DOURADOS        RUA MONTE ALEGRE             3       0,686          84,65   0,00   0,00   0,00  99,64  99,64   437     2,22  A02
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+TRIUNFANTE MATOGROSSENSE ALIMENTOS LTDA                                                                                                    12 Faturamento          Ref:em11302
+Filial: CAMPO GRANDE                                                                                                                                    Emissao    Hora   Folha
+                                          CURVA ABC DE CLIENTES SOBRE VENDAS REFERENTE A VALORES NO PERIODO DE 29/02/24 A 29/02/24                      29/02/24   00:16   0013
+-----GRUPO TRIUNFANTE-----------------------------------------------------------------------------------------------------------------------------------Usuario: willian-------
+Ranking *---------------Cliente----------------* Cidade          Endereco            Peso Bruto      Caixas          Valor    %PB    %Cx   %Vlr   %ACP   %ACG  Repr Pr.Medio Censo
+
+ Fornec: GERAL                Repres: GERAL                 Linha: GERAL                 Censo: GERAL
+
+    565  20483136000107 MARY FARMA EIRELE        PARANAIBA       CAPITAO MARTINHO             3       0,686          84,65   0,00   0,00   0,00  99,64  99,64     6     2,22  A08
+    566  20787921000153 NIVALDO MACEDO RODRIGUES FATIMA DO SUL   CRISTOBALINA RUIZ CA         3       0,686          84,65   0,00   0,00   0,00  99,65  99,65     4     2,22  A40
+    567  20984201000188 NATALIA LEITE MACEDO ME  BATAYPORA       ANTONIA SPINOSA MUST         3       0,686          84,65   0,00   0,00   0,00  99,65  99,65     5     2,22  A15
+    568  21113922000185 EMERSON SOUZA DA SILVA   DOURADOS        RUA EDESIO NOGUEIRA          3       0,686          84,65   0,00   0,00   0,00  99,66  99,66   437     2,22  A02
+    569  21444672000166 HT IMPERIO RESTAURANTE L JATEI           AV WEIMAR G TORRES           3       0,686          84,65   0,00   0,00   0,00  99,66  99,66     4     2,22  A16
+    570  21880535000174 LUCICLEINE BISPO DE OLIV PARANAIBA       OZIRES VIEIRA DE SOU         3       0,686          84,65   0,00   0,00   0,00  99,67  99,67     6     2,22  A14
+    571  22637572000119 MARCOS DA COSTA FAUSTINO DOURADOS        RUA CARDEAL                  3       0,686          84,65   0,00   0,00   0,00  99,67  99,67   437     2,22  A14
+    572  22646643000140 SOARES E ROSA LTDA ME    FATIMA DO SUL   PRESIDENTE VARGAS            3       0,686          84,65   0,00   0,00   0,00  99,68  99,68     4     2,22  A08
+    573  22956471000100 BEATRIZ DE OLIVEIRA PERE FATIMA DO SUL   AV NOVE DE JULHO             3       0,686          84,65   0,00   0,00   0,00  99,68  99,68     4     2,22  A17
+    574  23148084000100 HERMESON INACIO DA SILVA DOURADOS        RUA RANGEL TORRES            3       0,686          84,65   0,00   0,00   0,00  99,69  99,69   437     2,22  A07
+    575  23190679000124 JOAO ADMAR CUSTODIO LOPE DOURADOS        RUA OLINDA PIRES DE          3       0,686          84,65   0,00   0,00   0,00  99,69  99,69   437     2,22  A15
+    576  23426610000157 F E DA SILVA CONVENIENCI APARECIDA DO TA RUA OLINDA MARIA DE          3       0,686          84,65   0,00   0,00   0,00  99,70  99,70     6     2,22  A15
+    577  23613159000187 MINI MERCADO DAMASCENO E APARECIDA DO TA AV PRESIDENTE VARGAS         3       0,686          84,65   0,00   0,00   0,00  99,70  99,70     6     2,22  A14
+    578  24207647000157 CRC COMERCIO DE ALIMENTO DOURADOS        MARCELINO PIRES              3       0,686          84,65   0,00   0,00   0,00  99,71  99,71   437     2,22  A37
+    579  24224340000164 LETICIA SARAIVA VIANA LO DOURADOS        RUA DEOLINDO ROSA DA         3       0,686          84,65   0,00   0,00   0,00  99,71  99,71   437     2,22  A02
+    580  24283121000156 DEMEU CONVENIENCIA EIREL SELVIRIA        RUA VEREADOR ISAC LA         3       0,686          84,65   0,00   0,00   0,00  99,72  99,72     6     2,22  456
+    581  26377778000108 SAMUEL SILVA FARIA LAMBL PARANAIBA       AV CEL AUGUSTO CORRE         3       0,686          84,65   0,00   0,00   0,00  99,72  99,72     6     2,22  A07
+    582  26835009000106 J A COSTA JUNIOR E CIA L PARANAIBA       AV TRES LAGOAS               3       0,686          84,65   0,00   0,00   0,00  99,73  99,73     6     2,22  A25
+    583  27469016000102 ALEXSSANDRO MARQUES DOS  AMAMBAI         RUA MAJOR ALVES DE F         3       0,686          84,65   0,00   0,00   0,00  99,73  99,73    17     2,22  456
+    584  29066812000111 MARCIO ANTONIO DOS SANTO PARANAIBA       MACRINO DE QUEIROZ           3       0,686          84,65   0,00   0,00   0,00  99,74  99,74     6     2,22  A14
+    585  29529020000136 ROSADAS E CARVALHO SUPER JATEI           BERNADETE SANTOS LEI         3       0,686          84,65   0,00   0,00   0,00  99,74  99,74     4     2,22  A15
+    586  32111696000110 GICELIA THIS             PARANHOS        WASHINGTON LUIZ              3       0,686          84,65   0,00   0,00   0,00  99,75  99,75    17     2,22  456
+    587  32124578000146 JOSIANA APARECIDA DIAS   FATIMA DO SUL   AV 9 DE JULHO                3       0,686          84,65   0,00   0,00   0,00  99,75  99,75     4     2,22  A12
+    588  33145678000111 JPP CONVENIENCIA E BEBID PARAISO DAS AGU RUA NEUDI ROBERTO TO         3       0,686          84,65   0,00   0,00   0,00  99,76  99,76     9     2,22  A02
+    589  33151143000153 CELSO NEVES FARIAS       AMAMBAI         RUA JOSE BONIFACIO 2         3       0,686          84,65   0,00   0,00   0,00  99,76  99,76    17     2,22  A02
+    590  33603749000182 LETICIA PEREIRA LEMES    COSTA RICA      RUA JOSE BRAULINO            3       0,686          84,65   0,00   0,00   0,00  99,77  99,77     9     2,22  A14
+    591  33692738000116 AMADA BENITEZ VALLEJOS   PARANHOS        MARECHAL DUTRA               3       0,686          84,65   0,00   0,00   0,00  99,77  99,77    17     2,22  A14
+    592  33703791000175 ANTONIO GILSON RODRIGUES CASSILANDIA     VALDIVINO DE FREITAS         3       0,686          84,65   0,00   0,00   0,00  99,78  99,78     9     2,22  456
+    593  33759887000155 MERCADO AVAI LTDA        PARANAIBA       AV VEREADOR JAIME JE         3       0,686          84,65   0,00   0,00   0,00  99,78  99,78     6     2,22  A02
+    594  34336558000164 FRANCISCA AYALA CANDIDO  MARACAJU        RUA CIRCULAR                 3       0,686          84,65   0,00   0,00   0,00  99,79  99,79    10     2,22  A14
+    595  34497639000146 LEONARDO SILVA OLIVEIRA  PARANAIBA       AV ANTONIO GARCIA DE         3       0,686          84,65   0,00   0,00   0,00  99,79  99,79     6     2,22  A41
+    596  34954664000101 FREITAS E MENESES LTDA   FIGUEIRAO       AV JUSCELINO KUBITSC         3       0,686          84,65   0,00   0,00   0,00  99,80  99,80     8     2,22  A02
+    597  35047675000170 IZABELLA INGRID CARVALHO SELVIRIA        ISAC LALUCE                  3       0,686          84,65   0,00   0,00   0,00  99,80  99,80     6     2,22  1
+    598  35419141000128 BARRETO CONV E CASA DE C APARECIDA DO TA AV SAO CRISTOVAO             3       0,686          84,65   0,00   0,00   0,00  99,81  99,81     6     2,22  456
+    599  36432378000101 TOP 20 DISTRIBUIDORA DE  DOURADOS        RUA HAYEL BON FAKER          3       0,686          84,65   0,00   0,00   0,00  99,81  99,81   437     2,22  A13
+    600  36782001000182 LANCHONETE DO RONEI LTDA GUIA LOPES DA L CAPITAO PIZZA FLORES         3       0,686          84,65   0,00   0,00   0,00  99,82  99,82    12     2,22  A12
+    601  36798031000187 WILSON BORGES DE CARVALH AMAMBAI         CASSIANO MARCELO             3       0,686          84,65   0,00   0,00   0,00  99,82  99,82    17     2,22  A14
+    602  37300843000113 37.300.843 LUCIANA DA SI NOVA ANDRADINA  ALCIDES MENEZES DE F         3       0,686          84,65   0,00   0,00   0,00  99,83  99,83     5     2,22  K10
+    603  37534179000177 PAULO A C DE MENEZES E C JARDIM          CEL CAMISAO                  3       0,686          84,65   0,00   0,00   0,00  99,83  99,83    12     2,22  A14
+    604  38251196000160 COMERCIAL DE ALIMENTOS S SONORA          AV PRESIDENTE TANCRE         3       0,686          84,65   0,00   0,00   0,00  99,84  99,84     8     2,22  A14
+    605  38283490000153 NA HORA CONVENIENCIA LTD DOURADOS        RUA MONTE ALEGRE             3       0,686          84,65   0,00   0,00   0,00  99,84  99,84   437     2,22  456
+    606  40057398000117 KEILA GUAREZ DA SILVA CA NOVA ANDRADINA  RUA JOAO TEODORO BRA         3       0,686          84,65   0,00   0,00   0,00  99,85  99,85     5     2,22  A02
+    607  40159019000108 IVANALDO DE SOUZA        FIGUEIRAO       RUA FIGUEIRA                 3       0,686          84,65   0,00   0,00   0,00  99,85  99,85     8     2,22  456
+    608  40216351000159 CLAUDIA RAQUEL BARBOSA N DOURADOS        RUA LEONIDAS ALEM            3       0,686          84,65   0,00   0,00   0,00  99,86  99,86   437     2,22  456
+    609  40441513000152 SIMONE DA SILVA LEITE    GUIA LOPES DA L OVIDIO PAULO DE OLIV         3       0,686          84,65   0,00   0,00   0,00  99,86  99,86    12     2,22  A02
+    610  40633637000130 LUCAS AUGUSTO NERY MACHA DOURADOS        RUA ADELINA RIGOTTI          3       0,686          84,65   0,00   0,00   0,00  99,87  99,87   437     2,22  456
+    611  41663415000122 MARIA ELIANA RUFINO DE J PARANAIBA       RUA ANA GOMES                3       0,686          84,65   0,00   0,00   0,00  99,87  99,87     6     2,22  K11
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+TRIUNFANTE MATOGROSSENSE ALIMENTOS LTDA                                                                                                    12 Faturamento          Ref:em11302
+Filial: CAMPO GRANDE                                                                                                                                    Emissao    Hora   Folha
+                                          CURVA ABC DE CLIENTES SOBRE VENDAS REFERENTE A VALORES NO PERIODO DE 29/02/24 A 29/02/24                      29/02/24   00:16   0014
+-----GRUPO TRIUNFANTE-----------------------------------------------------------------------------------------------------------------------------------Usuario: willian-------
+Ranking *---------------Cliente----------------* Cidade          Endereco            Peso Bruto      Caixas          Valor    %PB    %Cx   %Vlr   %ACP   %ACG  Repr Pr.Medio Censo
+
+ Fornec: GERAL                Repres: GERAL                 Linha: GERAL                 Censo: GERAL
+
+    612  42775124000199 R A DOLFINI LTDA         NOVA ANDRADINA  AVENIDA MASAHIKO AZU         3       0,686          84,65   0,00   0,00   0,00  99,88  99,88     5     2,22  A02
+    613  44033661000199 RESULT LOJA DE CONVENIEN DOURADOS        RUA BENJAMIN CONSTAN         3       0,686          84,65   0,00   0,00   0,00  99,88  99,88   437     2,22  456
+    614  45070928000180 EDUARDO HENRIQUE RODRIGU FATIMA DO SUL   RUA MELVIN JONES             3       0,686          84,65   0,00   0,00   0,00  99,89  99,89     4     2,22  456
+    615  46213581000140 JOSE ROBERTO DA SILVA    FATIMA DO SUL   RUA MINEIRA                  3       0,686          84,65   0,00   0,00   0,00  99,89  99,89     4     2,22  456
+    616  46419829000124 ADRIANA SOUZA ANDRADE CA PARANAIBA       RUA COMENDADOR GARCI         3       0,686          84,65   0,00   0,00   0,00  99,90  99,90     6     2,22  456
+    617  47666967000170 MAINE STEFANI CARVALHO N INOCENCIA       PERNAMBUCO                   3       0,686          84,65   0,00   0,00   0,00  99,90  99,90     6     2,22  456
+    618  48424316000137 TANI CRISTINA SANTANA DE BATAYPORA       RUA HORACIANO SOARES         3       0,686          84,65   0,00   0,00   0,00  99,91  99,91     5     2,22  A14
+    619  49373878000161 CASA DE CARNES SILVA LTD APARECIDA DO TA AV DA SAUDADE                3       0,686          84,65   0,00   0,00   0,00  99,91  99,91     6     2,22  A50
+    620  49681274000182 SILVIO SOUZA DA SILVA LT TAQUARUSSU      AVENIDA GETULIO VARG         3       0,686          84,65   0,00   0,00   0,00  99,92  99,92     5     2,22  A02
+    621  51079806000158 ROGERIO TOSHIRO UMADA    ANAURILANDIA    MATO GROSSO                  3       0,686          84,65   0,00   0,00   0,00  99,92  99,92     5     2,22  A02
+    622  53011048000161 VITOR EDUARDO JESUS OLIV PARANAIBA       DURVAL RODRIGUES LOP         3       0,686          84,65   0,00   0,00   0,00  99,93  99,93     6     2,22  A26
+    623  70361472000155 ARQUIMEDES FURTADO DA SI FIGUEIRAO       AV MOISES ARAUJO GAL         3       0,686          84,65   0,00   0,00   0,00  99,93  99,93     8     2,22  A02
+    624   5052802000169 RDC RAMSDORF             FATIMA DO SUL   AV NOVE DE JULHO             3       0,661          81,26   0,00   0,00   0,00  99,94  99,94     4     2,32  A08
+    625  11421810000138 SUPERMERCADO FAMILIAR LT GLORIA DE DOURA BENTO MACHADO LOBO           3       0,661          81,26   0,00   0,00   0,00  99,94  99,94     4     2,32  A15
+    626  15317875000199 D FERNANDES JUNIOR E CIA FATIMA DO SUL   AV 09 DE JULHO               3       0,661          81,26   0,00   0,00   0,00  99,95  99,95     4     2,32  A08
+    627  20167216000153 FAGNER GABRIEL FORTUNATO FATIMA DO SUL   EMILIANA BARROS              3       0,661          81,26   0,00   0,00   0,00  99,95  99,95     4     2,32  A14
+    628   2906744000103 SUPERMERCADO SOL LTDA    MUNDO NOVO      JK                           1       0,350          81,19   0,00   0,00   0,00  99,96  99,96    19     7,38  A35
+    629  19373399000184 IVOLIN KAPPELER FLORES   CAMPO GRANDE    RUA DA PATRIA                2       0,450          78,36   0,00   0,00   0,00  99,96  99,96   151     4,89  A14
+    630    984716000170 RODRIGUES E CARVALHO LTD VICENTINA       MAJOR PEDRO CAVALCAN         3       0,636          77,87   0,00   0,00   0,00  99,97  99,97     4     2,43  A02
+    631  24437271000177 RALIO E OLIVEIRA LTDA ME FATIMA DO SUL   AV 9 DE JULHO                3       0,636          77,87   0,00   0,00   0,00  99,97  99,97     4     2,43  A08
+    632  34178550000117 IVANI FERREIRA           FATIMA DO SUL   PEDRO CELESTINO              3       0,636          77,87   0,00   0,00   0,00  99,97  99,97     4     2,43  A15
+    633   8226395000157 B M R MEDICAMENTOS LTDA  GLORIA DE DOURA PRESIDENTE VARGAS            3       0,626          75,79   0,00   0,00   0,00  99,98  99,98     4     2,44  A08
+    634  15489834000180 HIPERMERCADO BOM GOSTO L PONTA PORA      DEPUTADO ARAL MOREIR         1       0,225          59,57   0,00   0,00   0,00  99,98  99,98    15     7,44  A36
+    635  12695092000150 VANDERLEI NUNES DURANES  CAMPO GRANDE    RUA LIVINO GODOY             2       0,250          55,62   0,00   0,00   0,00  99,99  99,99   151     2,31  K10
+    636   7817003000161 AERONILDES NAPOLITANO ME NOVA ALVORADA D MARIO VICENTE DA SIL         1       0,298          53,46   0,00   0,00   0,00  99,99  99,99    10     0,99  A14
+    637   9375525000186 ADOLFO OLMEDO            PORTO MURTINHO  TIRADENTES                   0       0,333          50,75   0,00   0,00   0,00  99,99  99,99    16    12,68  A14
+    638  33202736000100 MOURA E ASSIS LTDA       CAMPO GRANDE    AV 9                         0       0,332          44,00   0,00   0,00   0,00  99,99  99,99   151    11,00  A08
+    639  86869567000114 DROGARIA MARIFARMA LTDA  CAMPO GRANDE    CACHOEIRA DO CAMPO           0       0,332          44,00   0,00   0,00   0,00 100,00 100,00   151    11,00  A08
+    640  37570181000282 SUPERMERCADOS JULIFRAN   FATIMA DO SUL   RUA PEDRO CELESTINO          1       0,250          41,96   0,00   0,00   0,00 100,00 100,00     4     6,99  A15
+    641  25287698000107 FRANCISCO WANDIE DE OLIV CAMPO GRANDE    RUA JANDAIA DO SUL           1       0,125          27,81   0,00   0,00   0,00 100,00 100,00   151     2,31  A02
+    642  35645835000183 JEFERSON CARLOS LOPES DO CAMPO GRANDE    MARQUES DE LAVRADIO          3-      0,485-        110,66-  0,00   0,00   0,00 100,00 100,00   459     2,45  A50
+
+                                                              Total destes clientes:     36.131   7.011,467   1.700.887,05 100,00 100,00 100,00 100,00 100,00
+
+                                                                        Total geral:     36.131   7.011,467   1.700.887,05 100,00 100,00 100,00 100,00 100,00

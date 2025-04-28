@@ -1,0 +1,39 @@
+ M 
+------------------------------------------------------------------------------------------------------------------------------------------------------
+TCG - TRIUNFANTE MATOGROSSENSE ALIMENTOS                                                                          12 Faturamento   Ref:lf07500
+Filial: CAMPO GRANDE                                                                                                           Emissao    Hora   Folha
+                                                               ESPELHO DE NOTA FISCAL                                          21/11/23   17:28   0001
+-----GRUPO TRIUNFANTE----------------------------------------------------------------------------------------------------------Usuario: willian-------
+
+    Operacao: 02102 COMPRA P/ COMERCIALIZACAO                                            Serie: 015 Nota:      970.001
+
+Destinatario: A-MONDELEZ BRASIL LTDA.....-M-                   033.033.028/0036 04               Emissao: 16/11/23
+
+    Endereco: AV JOSE LUIZ MAZZALI 360      PARTE A     Numero:         Cidade: LOUVEIRA             UF: SP Telefone:
+
+  Chave NF-e: 35231133033028003604550150009700011592365696
+
+  Codigo    Qtd Uni Descricao                                 Custo Vig   Custo NF  Custo Rep   Unitario   Desc   Vlr.Desc         Total ICMS MBruta  Codigo    Qtd Uni Descricao                                 Custo Vig   Custo NF  Custo Rep   Unitario   Desc   Vlr.Desc         Total ICMS MBruta  Codigo    Qtd Uni Descricao                                 Custo Vig   Custo NF  Custo Rep   Unitario   Desc   Vlr.Desc         Total ICMS MBruta
+----------------------------------------------------------------------------------------------------------------------------------------------------
+  564961      3 CX  CHOC LACTA LAKA OREO..............48X165     276,59     275,49     276,59     266,81   0,00       0,00        826,46   07  33,00
+  989311     30 CX  BIS OREO FLOWPACK...............65X100.8     254,27     253,42     254,27     253,41   0,00       0,00      7.602,56   07  33,00
+ 7896191    100 CX  CHOC SONHO DE VALSA...............10X1kg     307,67     306,75     307,67     306,74   0,00       0,00     30.674,77   07  32,53
+  674311     60 CX  CHOC LACTA LAKA....................68X80     216,11     230,34     230,34     223,09   0,00       0,00     13.820,47   07  33,00
+  674351     30 CX  CHOC LACTA LAKA OREO...............68X80     216,11     230,34     230,34     223,09   0,00       0,00      6.910,23   07  33,00
+                                                                                                   Total das Mercadorias:      59.155,94                                                                                                   Total das Mercadorias:      59.155,94
+
+                       Frete:           0,00 Seguro:           0,00 Outras:           0,00 IPI:         678,55  Total NF:      59.834,49
+                                                                                                         Total de Trocas:           0,00
+                                                                                                      Total de Descontos:           0,00
+Base de Calculo(1):      59.155,94 Aliquota.......(1):   7,00 Valor ICMS.....(1):       4.140,91
+Base de Calculo(2):           0,00 Aliquota.......(2):   0,00 Valor ICMS.....(2):           0,00
+Base de Calculo(3):           0,00 Aliquota.......(3):   0,00 Valor ICMS.....(3):           0,00
+Base de Calculo(4):           0,00 Aliquota.......(4):   0,00 Valor ICMS.....(4):           0,00
+Isento............:           0,00 Outros............:         678,55
+
+Setor: 0000 Pedido:       0 Portador: BANCO
+
+Motivo da Devolucao:
+
+Desdobramentos: Titulo             Vecto          Valor
+                     0009700010 14/12/23      59.834,49

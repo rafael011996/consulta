@@ -1,0 +1,46 @@
+ (s19H
+------------------------------------------------------------------------------------------------------------------------------------------------------
+TCG - TRIUNFANTE MATOGROSSENSE ALIMENTOS                                                                          12 Faturamento   Ref:lf07500
+Filial: CAMPO GRANDE                                                                                                           Emissao    Hora   Folha
+                                                               ESPELHO DE NOTA FISCAL                                          22/11/23   16:28   0001
+-----GRUPO TRIUNFANTE----------------------------------------------------------------------------------------------------------Usuario: willian-------
+
+    Operacao: 02102 COMPRA P/ COMERCIALIZACAO                                            Serie: 001 Nota:      401553
+
+Destinatario: BDF NIVEA LTDA                                   046.389.383/0005 66               Emissao: 17/11/23
+
+    Endereco: ROD VICE PREF HERMENEGILDO                Numero:         Cidade: JUNDIAI              UF: SP Telefone:           11
+
+  Chave NF-e: 35231146389383000566550010004015531698568594
+
+  Codigo    Qtd Uni Descricao                                 Custo Vig   Custo NF  Custo Rep   Unitario   Desc   Vlr.Desc         Total ICMS MBruta  Codigo    Qtd Uni Descricao                                 Custo Vig   Custo NF  Custo Rep   Unitario   Desc   Vlr.Desc         Total ICMS MBruta  Codigo    Qtd Uni Descricao                                 Custo Vig   Custo NF  Custo Rep   Unitario   Desc   Vlr.Desc         Total ICMS MBruta
+----------------------------------------------------------------------------------------------------------------------------------------------------
+  860071      2 CX  PROT SOL FAC BEAUTY OLEOS FPS50....12X50     425,32     425,32     425,32     425,31   0,00       0,00        850,63   04  36,00
+  860101      2 CX  PROT SOL FAC BEAUTY SENS FPS50.....12X50     425,32     425,32     425,32     425,31   0,00       0,00        850,63   04  36,00
+ 8583311      4 CX  PROT SOLAR KIDS FPS 60............12X150     532,13     532,13     532,13     532,12   0,00       0,00      2.128,51   07  33,00
+  854361      3 CX  PROT SOLAR PRT BRZ FPS 15 (I).....12X200     298,69     298,68     298,69     298,68   0,00       0,00        896,05   07  33,00
+  855181      3 CX  PROT SOLAR PRT E BRONZE FPS 30....12X125     286,71     286,71     286,71     286,71   0,00       0,00        860,14   07  33,00
+  858251      3 CX  PROT SOLAR SUN PRT BZR FPS 30.....12X200     358,52     358,52     358,52     358,51   0,00       0,00      1.075,55   07  33,00
+  855721      4 CX  PROT SOLAR SUN PROT HID FPS 30....12X125     286,72     286,72     286,72     286,71   0,00       0,00      1.146,86   07  34,30
+   85581      8 CX  PROT SOLAR CREME FPS 30...........12X200     358,51     358,52     358,52     358,51   0,00       0,00      2.868,13   07  33,00
+  857681     10 CX  PROT SOLAR SUN FPS 50.(I).........12X200     424,38     424,38     424,38     424,37   0,00       0,00      4.243,76   07  34,30
+  332221      3 CX  PROTETOR SOLAR PH FPS50 GTS 100ML.12X200     424,38     424,38     424,38     424,38   0,00       0,00      1.273,14   07  35,00
+                                                                                                   Total das Mercadorias:      16.193,40                                                                                                   Total das Mercadorias:      16.193,40
+
+                       Frete:           0,00 Seguro:           0,00 Outras:           0,00 IPI:           0,00  Total NF:      16.193,40
+                                                                                                         Total de Trocas:           0,00
+                                                                                                      Total de Descontos:           0,00
+Base de Calculo(1):       1.701,26 Aliquota.......(1):   4,00 Valor ICMS.....(1):          68,06
+Base de Calculo(2):      14.492,14 Aliquota.......(2):   7,00 Valor ICMS.....(2):       1.014,45
+Base de Calculo(3):           0,00 Aliquota.......(3):   0,00 Valor ICMS.....(3):           0,00
+Base de Calculo(4):           0,00 Aliquota.......(4):   0,00 Valor ICMS.....(4):           0,00
+Isento............:           0,00 Outros............:           0,00
+
+Setor: 0000 Pedido:       0 Portador: BANCO
+
+Motivo da Devolucao:
+
+Desdobramentos: Titulo             Vecto          Valor
+                     0004015530 19/12/23       5.397,26
+                     0004015530 19/01/24       5.397,26
+                     0004015530 19/02/24       5.398,88

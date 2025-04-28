@@ -1,0 +1,47 @@
+ M 
+------------------------------------------------------------------------------------------------------------------------------------------------------
+TRIUNFANTE MATOGROSSENSE ALIMENTOS LTDA                                                                           12 Faturamento   Ref:lf07500
+Filial: CAMPO GRANDE                                                                                                           Emissao    Hora   Folha
+                                                               ESPELHO DE NOTA FISCAL                                          17/11/23   16:58   0001
+-----GRUPO TRIUNFANTE----------------------------------------------------------------------------------------------------------Usuario: willian-------
+
+    Operacao: 02102 COMPRA P/ COMERCIALIZACAO                                            Serie: 005 Nota:      196.550
+
+Destinatario: A-TRIUNFANTE PARANA ALIM......                   073.778.144/0001 47               Emissao: 09/11/23
+
+    Endereco: AV MARINGA 1637                           Numero:         Cidade: PINHAIS              UF: PR Telefone:  41.668.2765
+
+  Chave NF-e: 41231173778144000147550050001965501389269666
+
+  Codigo    Qtd Uni Descricao                                 Custo Vig   Custo NF  Custo Rep   Unitario   Desc   Vlr.Desc         Total ICMS MBruta  Codigo    Qtd Uni Descricao                                 Custo Vig   Custo NF  Custo Rep   Unitario   Desc   Vlr.Desc         Total ICMS MBruta  Codigo    Qtd Uni Descricao                                 Custo Vig   Custo NF  Custo Rep   Unitario   Desc   Vlr.Desc         Total ICMS MBruta
+----------------------------------------------------------------------------------------------------------------------------------------------------
+  480011     15 CX  ALHO FRITO CLASSIC CHEF............12X80      90,97      90,97      90,97      90,97   0,00       0,00      1.364,55   07  37,50
+  810411      5 CX  PALMITO PUPUNHA PICADO CLASS CHEF.15X300      93,31      93,31      93,31      93,31   0,00       0,00        466,55   07  37,50
+  810311      2 CX  PALMITO PUPUNHA RODELA CLASS CHEF.15X300      94,47      94,47      94,47      94,47   0,00       0,00        188,94   07  37,60
+  751111      4 CX  PALMITO PALMEIRA REAL TOLETE CLAS.15X300     177,15     157,93     177,15     157,93   0,00       0,00        631,72   07  37,50
+  191211     40 CX  TOMATE SECO CLASSIC CHEF VD.......12X100      65,58      65,58      65,58      65,58   0,00       0,00      2.623,20   04  38,10
+  500111    100 CX  TOMATE PELADO POMODORO ITALIAN LT.24x400      76,31      81,36      81,36      81,36   0,00       0,00      8.136,00   04  38,90
+  530111     50 CX  PASSATA CLASSIC CHEF VD...........12X680      83,31      83,31      83,31      83,31   0,00       0,00      4.165,50   04  37,90
+  112031  1.000 CX  AZEITONA VERDE COM CAROCO POUCH...24X100      41,84      41,84      41,84      41,84   0,00       0,00     41.840,00   04  38,00
+  120041    700 CX  AZEITONA VERDE SEM CAROCO POUCH....24X80      46,00      46,00      46,00      46,00   0,00       0,00     32.200,00   04  38,00
+  120051    400 CX  AZEITONA VERDE FATIADA POUCH......24x100      53,91      50,76      53,91      50,76   0,00       0,00     20.304,00   04  38,50
+  771341    100 CX  AZEITONA PRETA COM CAROCO POUCH...24X100      42,47      42,58      42,58      42,58   0,00       0,00      4.258,00   04  37,50
+  771351     30 CX  AZEITONA VERDE REC PIMENTAO POUCH.24X100      57,97      57,97      57,97      57,97   0,00       0,00      1.739,10   04  38,00
+  771161    200 CX  PEPINO SUAVE CLASSIC CHEF VD......15X300      88,35      87,36      88,35      87,36   0,00       0,00     17.472,00   07  31,30
+                                                                                                   Total das Mercadorias:     135.389,56                                                                                                   Total das Mercadorias:     135.389,56
+
+                       Frete:           0,00 Seguro:           0,00 Outras:           0,00 IPI:           0,00  Total NF:     135.389,56
+                                                                                                         Total de Trocas:           0,00
+                                                                                                      Total de Descontos:           0,00
+Base de Calculo(1):      20.123,76 Aliquota.......(1):   7,00 Valor ICMS.....(1):       1.408,67
+Base de Calculo(2):     115.265,80 Aliquota.......(2):   4,00 Valor ICMS.....(2):       4.610,63
+Base de Calculo(3):           0,00 Aliquota.......(3):   0,00 Valor ICMS.....(3):           0,00
+Base de Calculo(4):           0,00 Aliquota.......(4):   0,00 Valor ICMS.....(4):           0,00
+Isento............:           0,00 Outros............:           0,00
+
+Setor: 0000 Pedido:       0 Portador: BANCO
+
+Motivo da Devolucao:
+
+Desdobramentos: Titulo             Vecto          Valor
+                     0001965500 23/11/23     135.389,56

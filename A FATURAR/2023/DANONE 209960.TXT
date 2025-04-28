@@ -1,0 +1,38 @@
+ M 
+------------------------------------------------------------------------------------------------------------------------------------------------------
+TCG - TRIUNFANTE MATOGROSSENSE ALIMENTOS                                                                          12 Faturamento   Ref:lf07500
+Filial: CAMPO GRANDE                                                                                                           Emissao    Hora   Folha
+                                                               ESPELHO DE NOTA FISCAL                                          26/04/23   15:51   0001
+-----GRUPO TRIUNFANTE----------------------------------------------------------------------------------------------------------Usuario: alyfer--------
+
+    Operacao: 02102 COMPRA P/ COMERCIALIZACAO                                            Serie: 020 Nota:      209.960
+
+Destinatario: DANONE LTDA                                      023.643.315/0144 55               Emissao: 18/04/23
+
+    Endereco: AV A                          321         Numero:         Cidade: POCOS DE CALDAS      UF: MG Telefone:
+
+  Chave NF-e: 31230423643315014455550200002099606454775042
+
+  Codigo    Qtd Uni Descricao                                 Custo Vig   Custo NF  Custo Rep   Unitario   Desc   Vlr.Desc         Total ICMS MBruta  Codigo    Qtd Uni Descricao                                 Custo Vig   Custo NF  Custo Rep   Unitario   Desc   Vlr.Desc         Total ICMS MBruta  Codigo    Qtd Uni Descricao                                 Custo Vig   Custo NF  Custo Rep   Unitario   Desc   Vlr.Desc         Total ICMS MBruta
+----------------------------------------------------------------------------------------------------------------------------------------------------
+ 1101021     50 CX  MILNUTRI PREMIUM COMPOSTO LACTEO..12x800     432,12     472,91     472,91     472,91   0,00       0,00     23.645,71   07  29,30
+ 1101071     30 CX  APTAMIL 2 PREMIUM ACIMA 6 MESES...12x800     456,48     514,74     514,74     514,73   0,00       0,00     15.442,19   07  29,30
+ 1101091     60 CX  APTANUTRI 3 PREMIUM 12 A 36 MESES.12x800     456,48     497,24     497,24     497,23   0,00       0,00     29.834,27   07  29,30
+  580461     50 CX  APTAMIL 1 PREMIUM 0 A 6 MESES.....12x800     424,68     472,98     472,98     472,97   0,00       0,00     23.648,95   07  29,20
+                                                                                                   Total das Mercadorias:      92.571,12                                                                                                   Total das Mercadorias:      92.571,12
+
+                       Frete:           0,00 Seguro:           0,00 Outras:           0,00 IPI:           0,00  Total NF:      92.571,12
+                                                                                                         Total de Trocas:           0,00
+                                                                                                      Total de Descontos:           0,00
+Base de Calculo(1):      92.571,12 Aliquota.......(1):   7,00 Valor ICMS.....(1):       6.479,98
+Base de Calculo(2):           0,00 Aliquota.......(2):   0,00 Valor ICMS.....(2):           0,00
+Base de Calculo(3):           0,00 Aliquota.......(3):   0,00 Valor ICMS.....(3):           0,00
+Base de Calculo(4):           0,00 Aliquota.......(4):   0,00 Valor ICMS.....(4):           0,00
+Isento............:           0,00 Outros............:           0,00
+
+Setor: 0000 Pedido:       0 Portador: BANCO
+
+Motivo da Devolucao:
+
+Desdobramentos: Titulo             Vecto          Valor
+                     0002099600 17/06/23      92.571,12

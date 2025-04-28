@@ -1,0 +1,36 @@
+ M 
+------------------------------------------------------------------------------------------------------------------------------------------------------
+TCG - TRIUNFANTE MATOGROSSENSE ALIMENTOS                                                                          12 Faturamento          Ref:lf07500
+Filial: CAMPO GRANDE                                                                                                           Emissao    Hora   Folha
+                                                               ESPELHO DE NOTA FISCAL                                          04/01/24   15:53   0001
+-----GRUPO TRIUNFANTE----------------------------------------------------------------------------------------------------------Usuario: willian-------
+
+    Operacao: 02102 COMPRA P/ COMERCIALIZACAO                                            Serie: 015 Nota:      977.408
+
+Destinatario: A-MONDELEZ BRASIL LTDA.....-M-                   033.033.028/0036 04               Emissao: 26/12/23
+
+    Endereco: AV JOSE LUIZ MAZZALI 360      PARTE A     Numero:         Cidade: LOUVEIRA             UF: SP Telefone:
+
+  Chave NF-e: 35231233033028003604550150009774081105003988
+
+  Codigo    Qtd Uni Descricao                                 Custo Vig   Custo NF  Custo Rep   Unitario   Desc   Vlr.Desc         Total ICMS MBruta  Codigo    Qtd Uni Descricao                                 Custo Vig   Custo NF  Custo Rep   Unitario   Desc   Vlr.Desc         Total ICMS MBruta  Codigo    Qtd Uni Descricao                                 Custo Vig   Custo NF  Custo Rep   Unitario   Desc   Vlr.Desc         Total ICMS MBruta
+----------------------------------------------------------------------------------------------------------------------------------------------------
+  673831     39 CX  CHOC LACTA AO LEITE................68X80     230,34     230,34     230,34     223,09   0,00       0,00      8.983,31   07  33,00
+  674431    135 CX  CHOC LACTA AMARO...................68X80     230,34     230,34     230,34     223,09   0,00       0,00     31.096,08   07  33,00
+                                                                                                   Total das Mercadorias:      38.817,81                                                                                                   Total das Mercadorias:      38.817,81
+
+                       Frete:           0,00 Seguro:           0,00 Outras:           0,00 IPI:       1.261,58  Total NF:      40.079,39
+                                                                                                         Total de Trocas:           0,00
+                                                                                                      Total de Descontos:           0,00
+Base de Calculo(1):      38.817,81 Aliquota.......(1):   7,00 Valor ICMS.....(1):       2.717,25
+Base de Calculo(2):           0,00 Aliquota.......(2):   0,00 Valor ICMS.....(2):           0,00
+Base de Calculo(3):           0,00 Aliquota.......(3):   0,00 Valor ICMS.....(3):           0,00
+Base de Calculo(4):           0,00 Aliquota.......(4):   0,00 Valor ICMS.....(4):           0,00
+Isento............:           0,00 Outros............:       1.261,58
+
+Setor: 0000 Pedido:       0 Portador: BANCO
+
+Motivo da Devolucao:
+
+Desdobramentos: Titulo             Vecto          Valor
+                     0009774080 23/01/24      40.079,39

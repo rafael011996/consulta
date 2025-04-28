@@ -1,0 +1,62 @@
+ M 
+------------------------------------------------------------------------------------------------------------------------------------------------------
+TCG - TRIUNFANTE MATOGROSSENSE ALIMENTOS                                                                          12 Faturamento   Ref:lf07500
+Filial: CAMPO GRANDE                                                                                                           Emissao    Hora   Folha
+                                                               ESPELHO DE NOTA FISCAL                                          13/11/23   12:04   0001
+-----GRUPO TRIUNFANTE----------------------------------------------------------------------------------------------------------Usuario: willian-------
+
+    Operacao: 02102 COMPRA P/ COMERCIALIZACAO                                            Serie: 015 Nota:      969.457
+
+Destinatario: A-MONDELEZ BRASIL LTDA.....-M-                   033.033.028/0036 04               Emissao: 11/11/23
+
+    Endereco: AV JOSE LUIZ MAZZALI 360      PARTE A     Numero:         Cidade: LOUVEIRA             UF: SP Telefone:
+
+  Chave NF-e: 35231133033028003604550150009694571748842741
+
+  Codigo    Qtd Uni Descricao                                 Custo Vig   Custo NF  Custo Rep   Unitario   Desc   Vlr.Desc         Total ICMS MBruta  Codigo    Qtd Uni Descricao                                 Custo Vig   Custo NF  Custo Rep   Unitario   Desc   Vlr.Desc         Total ICMS MBruta  Codigo    Qtd Uni Descricao                                 Custo Vig   Custo NF  Custo Rep   Unitario   Desc   Vlr.Desc         Total ICMS MBruta
+----------------------------------------------------------------------------------------------------------------------------------------------------
+  571521    384 CX  TANG MANGA........................180X18     118,30     117,81     118,30     117,80   0,00       0,00     45.238,63   07  32,51
+  571541    384 CX  TANG LIMAO........................180X18     118,30     117,81     118,30     117,80   0,00       0,00     45.238,63   07  32,51
+  571571    192 CX  TANG LARANJA DOCINHA..............180X18     118,30     117,81     118,30     117,80   0,00       0,00     22.619,32   07  32,51
+  571601    384 CX  TANG LARANJA......................180X18     118,30     117,81     118,30     117,80   0,00       0,00     45.238,63   07  32,51
+  571631    192 CX  TANG TANGERINA....................180X18     118,30     117,81     118,30     117,80   0,00       0,00     22.619,32   07  32,51
+  571641    192 CX  TANG UVA INTENSA.................180X18G     118,30     117,81     118,30     117,80   0,00       0,00     22.619,32   07  32,51
+  571691    576 CX  TANG MARACUJA.....................180X18     118,30     117,81     118,30     117,80   0,00       0,00     67.857,95   07  32,51
+  571721    384 CX  TANG MORANGO......................180X18     118,30     117,81     118,30     117,80   0,00       0,00     45.238,63   07  32,51
+  571781    192 CX  TANG UVA..........................180X18     118,30     117,81     118,30     117,80   0,00       0,00     22.619,32   07  32,51
+  571841    120 CX  TANG LARANJA MAMAO................180X18     118,30     117,81     118,30     117,80   0,00       0,00     14.137,08   07  32,51
+  719501    124 CX  TANG UVA LMPM PROMO............10X10X18G      53,89      53,67      53,89      53,66   0,00       0,00      6.655,04   07  32,65
+  119601     52 CX  FERMENTO PO ROYAL.................72x100     179,04     178,35     179,04     178,35   0,00       0,00      9.274,40   07  35,00
+  896001     22 CX  HALLS EXTRA FORTE................630X27G     488,08     485,34     488,08     470,05   0,00       0,00     10.677,37   07  33,00
+  533211     32 CX  BISC CLUB SOCIAL PIZZA........44X06X23.5     121,44     120,73     121,44     120,73   0,00       0,00      3.863,47   07  33,00
+  328921    135 CX  BISC CLUB SOCIAL ORIGINAL.......44X06X24     121,44     120,73     121,44     120,73   0,00       0,00     16.299,01   07  33,00
+  530071     12 CX  OREO ORIGINAL...................16X16X18     116,63     116,10     116,63     116,10   0,00       0,00      1.393,24   07  40,00
+  830171    150 CX  BISC OREO ORIGINAL.................48X90      89,85      89,47      89,85      89,46   0,00       0,00     13.420,31   07  33,00
+  876351     42 CX  BISC OREO CHOCOLATE................48X90      89,85      89,47      89,85      89,46   0,00       0,00      3.757,69   07  33,00
+  739331     39 CX  BISC TRAKINAS TORT LIMAO..........54X126      88,92      88,57      88,92      88,56   0,00       0,00      3.454,21   07  34,80
+  926401    104 CX  BISC TRAKINAS MEIO CHOC MORANGO...54X126      88,92      88,57      88,92      88,56   0,00       0,00      9.211,24   07  34,80
+  926701    104 CX  BISC TRAKINAS MEIO CHOC CH BRANCO.54X126      88,92      88,57      88,92      88,56   0,00       0,00      9.211,24   07  34,80
+  927601    208 CX  BISC TRAKINAS CHOCOLATE...........54X126      88,92      88,57      88,92      88,56   0,00       0,00     18.422,50   07  34,80
+  927901    208 CX  BISC TRAKINAS MORANGO.............54x126      88,92      88,57      88,92      88,56   0,00       0,00     18.422,50   07  34,80
+                                                                                                   Total das Mercadorias:     477.152,96                                                                                                   Total das Mercadorias:     477.152,96
+
+                       Frete:           0,00 Seguro:           0,00 Outras:           0,00 IPI:         336,09  Total NF:     477.489,05
+                                                                                                         Total de Trocas:           0,00
+                                                                                                      Total de Descontos:           0,00
+Base de Calculo(1):     477.152,96 Aliquota.......(1):   7,00 Valor ICMS.....(1):      33.400,70
+Base de Calculo(2):           0,00 Aliquota.......(2):   0,00 Valor ICMS.....(2):           0,00
+Base de Calculo(3):           0,00 Aliquota.......(3):   0,00 Valor ICMS.....(3):           0,00
+Base de Calculo(4):           0,00 Aliquota.......(4):   0,00 Valor ICMS.....(4):           0,00
+Isento............:           0,00 Outros............:         336,09
+
+Setor: 0000 Pedido:       0 Portador: BANCO
+
+Motivo da Devolucao:
+
+Desdobramentos: Titulo             Vecto          Valor
+------------------------------------------------------------------------------------------------------------------------------------------------------
+TCG - TRIUNFANTE MATOGROSSENSE ALIMENTOS                                                                          12 Faturamento   Ref:lf07500
+Filial: CAMPO GRANDE                                                                                                           Emissao    Hora   Folha
+                                                               ESPELHO DE NOTA FISCAL                                          13/11/23   12:04   0002
+-----GRUPO TRIUNFANTE----------------------------------------------------------------------------------------------------------Usuario: willian-------
+                     0009694570 09/12/23     477.489,05

@@ -1,0 +1,156 @@
+ M 
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+TCG - TRIUNFANTE MATOGROSSENSE ALIMENTOS                                                                                                             12 Faturamento   Ref:ft12308
+Filial: CAMPO GRANDE                                                                                                                                              Emissao    Hora   Folha
+                                                                                   PEDIDOS A FATURAR                                                              31/05/23   21:56   0001
+-----GRUPO TRIUNFANTE---------------------------------------------------------------------------------------------------------------------------------------------Usuario: alyfer--------
+
+0012   B   PJ JOELSON -AB- B.VISTA-BONITO0012   B   PJ JOELSON -AB- B.VISTA-BONITO0012   B   PJ JOELSON -AB- B.VISTA-BONITO
+
+     Pedido *--------------Clientes-------------*  Margem  COF  Portador  Lista  Saldo DMC     Trocas Total Pedido Prazos      Situacao Dig/Imp Programado P.Broker  Repre Usuario  Reg QtdCx Cidade     Pedido *--------------Clientes-------------*  Margem  COF  Portador  Lista  Saldo DMC     Trocas Total Pedido Prazos      Situacao Dig/Imp Programado P.Broker  Repre Usuario  Reg QtdCx Cidade     Pedido *--------------Clientes-------------*  Margem  COF  Portador  Lista  Saldo DMC     Trocas Total Pedido Prazos      Situacao Dig/Imp Programado P.Broker  Repre Usuario  Reg QtdCx Cidade
+      2.836 JOSILENE T TONIOLLI   002000793000174    0,00 59922 BONIFICACA   01       0,00       0,00     1.945,40 000 000 000 1-BLO   31/05/23   31/05/23              12 alyfer   047 00011 JARDIM
+
+ *-----------------Mercadoria-------------------*          Total   Desconto    Qtde Prazo  %D.Maxi %D.Pedido    %DM  Diferenca        Pedido Repre. *-----------------Mercadoria-------------------*          Total   Desconto    Qtde Prazo  %D.Maxi %D.Pedido    %DM  Diferenca        Pedido Repre. *-----------------Mercadoria-------------------*          Total   Desconto    Qtde Prazo  %D.Maxi %D.Pedido    %DM  Diferenca        Pedido Repre.
+  117255 COND CR TRATAMENTO KOLENE ORIGINAL.1X1KG          34,84       0,00       2    28     0,00      0,00   5,00       1,74         2.836    12
+  117575 COND KOLENE ORIGINAL..............01X300          27,12       0,00       3    00     0,00      0,00   5,00       1,35         2.836    12
+  244005 SHAMPOO OX NUTRI FORTALECEDORA....01X200          73,68       0,00       6    28     0,00      0,00   5,00       3,68         2.836    12
+  400981 COND CR TRAT KOLENE FOR CRES HIDR.06X900         103,10       0,00       1    28     0,00      0,00   5,00       5,15         2.836    12
+  401195 PROMOPACK SH COND NEUTROX 24MULTI.01x300         102,54       0,00       6    28     0,00      0,00   5,00       5,12         2.836    12
+  401275 SHAMPOO OX PLANTS HIDRAT E BRILHO.01X400          63,00       0,00       3    28     0,00      0,00   5,00       3,15         2.836    12
+  401325 SHAMPOO OX PLANTS NUTRE E CRESCE..01X400          63,00       0,00       3    28     0,00      0,00   5,00       3,15         2.836    12
+  402225 SHAMPOO NEUTROX MAR E PISCINA.....01X300          52,32       0,00       6    28     0,00      0,00   5,00       2,61         2.836    12
+  402235 COND NEUTROX MAR E PISCINA........01X300          57,96       0,00       6    28     0,00      0,00   5,00       2,89         2.836    12
+  402445 SHAMPOO KOLENE FORCA E CRESCIMEN..01x300          49,44       0,00       6    28     0,00      0,00   5,00       2,47         2.836    12
+  402485 SHAMPOO OX HIALURONICO............01X200          76,14       0,00       6    28     0,00      0,00   5,00       3,80         2.836    12
+  403045 COND CR TRAT NEUTROX 24MULTIBENEF.01X1KG          98,12       0,00       4    28     0,00      0,00   5,00       4,90         2.836    12
+  440125 PROMOPACK SH COND NEUTROX CLASSIC.01X300         102,54       0,00       6    28     0,00      0,00   5,00       5,12         2.836    12
+  440135 SHAMPOO OX PLANTS CUID COURO FORT.01X400          63,00       0,00       3    28     0,00      0,00   5,00       3,15         2.836    12
+  440165 PROMOPACK KOLENE CACHOS SH COND...01X300          95,40       0,00       6    28     0,00      0,00   5,00       4,77         2.836    12
+  441505 COND KOLENE CABELOS CRESPOS.......01X300          49,74       0,00       6    28     0,00      0,00   5,00       2,48         2.836    12
+  682375 SHAMPOO OX LISO...................01X400          63,00       0,00       3    28     0,00      0,00   5,00       3,15         2.836    12
+  682445 CONDICIONADOR OX NUTRICAO.........01X400         144,60       0,00       6    28     0,00      0,00   5,00       7,23         2.836    12
+  682685 CONDICIONADOR OX LISO.............01X400         144,60       0,00       6    28     0,00      0,00   5,00       7,23         2.836    12
+  713985 SHAMPOO OX REPARACAO..............01X400          63,00       0,00       3    28     0,00      0,00   5,00       3,15         2.836    12
+  714045 CONDICIONADOR OX REPARACAO........01X400         144,60       0,00       6    28     0,00      0,00   5,00       7,23         2.836    12
+  782265 SHAMPOO OX LISO ..................01X200          76,14       0,00       6    28     0,00      0,00   5,00       3,80         2.836    12
+  782335 SHAMPOO OX NUTRICAO...............01X200          76,14       0,00       6    28     0,00      0,00   5,00       3,80         2.836    12
+  822285 SHAMPOO OX RECONSTRUCAO...........01X200          76,14       0,00       6    28     0,00      0,00   5,00       3,80         2.836    12
+  844145 SHAMPOO KOLENE CRESPOS............01X300          45,24       0,00       6    28     0,00      0,00   5,00       2,26         2.836    12
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+      2.839 JOSILENE T TONIOLLI   002000793000174    0,00 59922 BONIFICACA   01       0,00       0,00       140,07 000 000 000 1-BLO   31/05/23   31/05/23              12 alyfer   047 00000 JARDIM
+
+ *-----------------Mercadoria-------------------*          Total   Desconto    Qtde Prazo  %D.Maxi %D.Pedido    %DM  Diferenca        Pedido Repre. *-----------------Mercadoria-------------------*          Total   Desconto    Qtde Prazo  %D.Maxi %D.Pedido    %DM  Diferenca        Pedido Repre. *-----------------Mercadoria-------------------*          Total   Desconto    Qtde Prazo  %D.Maxi %D.Pedido    %DM  Diferenca        Pedido Repre.
+  441505 COND KOLENE CABELOS CRESPOS.......01X300          24,87       0,00       3    28     0,00      0,00   5,00       1,24         2.839    12
+  117575 COND KOLENE ORIGINAL..............01X300          27,12       0,00       3    00     0,00      0,00   5,00       1,35         2.839    12
+  402495 CONDICIONADOR OX HIALURONICO......01X200          44,37       0,00       3    28     0,00      0,00   5,00       2,21         2.839    12
+  782275 CONDICIONADOR OX LISO.............01X200          43,71       0,00       3    28     0,00      0,00   5,00       2,18         2.839    12
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+                                              Total Representante  Pedidos:       2      Valor:       2.085,47     Caixas:          12,49                                              Total Representante  Pedidos:       2      Valor:       2.085,47     Caixas:          12,49                                              Total Representante  Pedidos:       2      Valor:       2.085,47     Caixas:          12,49
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+0151   B   SERGIO - A - VAREJO CG0151   B   SERGIO - A - VAREJO CG0151   B   SERGIO - A - VAREJO CG
+
+      9.158 JANER CESAR SHINOHARA 001802003000101    0,00 59922 BONIFICACA   01       0,00       0,00       400,37 000 000 000 1-BLO   31/05/23   31/05/23             151 alyfer   007 00002 CAMPO GRANDE
+
+ *-----------------Mercadoria-------------------*          Total   Desconto    Qtde Prazo  %D.Maxi %D.Pedido    %DM  Diferenca        Pedido Repre. *-----------------Mercadoria-------------------*          Total   Desconto    Qtde Prazo  %D.Maxi %D.Pedido    %DM  Diferenca        Pedido Repre. *-----------------Mercadoria-------------------*          Total   Desconto    Qtde Prazo  %D.Maxi %D.Pedido    %DM  Diferenca        Pedido Repre.
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+TCG - TRIUNFANTE MATOGROSSENSE ALIMENTOS                                                                                                             12 Faturamento   Ref:ft12308
+Filial: CAMPO GRANDE                                                                                                                                              Emissao    Hora   Folha
+                                                                                   PEDIDOS A FATURAR                                                              31/05/23   21:56   0002
+-----GRUPO TRIUNFANTE---------------------------------------------------------------------------------------------------------------------------------------------Usuario: alyfer--------
+
+0151   B   SERGIO - A - VAREJO CG0151   B   SERGIO - A - VAREJO CG0151   B   SERGIO - A - VAREJO CG
+
+     Pedido *--------------Clientes-------------*  Margem  COF  Portador  Lista  Saldo DMC     Trocas Total Pedido Prazos      Situacao Dig/Imp Programado P.Broker  Repre Usuario  Reg QtdCx Cidade     Pedido *--------------Clientes-------------*  Margem  COF  Portador  Lista  Saldo DMC     Trocas Total Pedido Prazos      Situacao Dig/Imp Programado P.Broker  Repre Usuario  Reg QtdCx Cidade     Pedido *--------------Clientes-------------*  Margem  COF  Portador  Lista  Saldo DMC     Trocas Total Pedido Prazos      Situacao Dig/Imp Programado P.Broker  Repre Usuario  Reg QtdCx Cidade
+
+ *-----------------Mercadoria-------------------*          Total   Desconto    Qtde Prazo  %D.Maxi %D.Pedido    %DM  Diferenca        Pedido Repre. *-----------------Mercadoria-------------------*          Total   Desconto    Qtde Prazo  %D.Maxi %D.Pedido    %DM  Diferenca        Pedido Repre. *-----------------Mercadoria-------------------*          Total   Desconto    Qtde Prazo  %D.Maxi %D.Pedido    %DM  Diferenca        Pedido Repre.
+  440125 PROMOPACK SH COND NEUTROX CLASSIC.01X300          97,41       5,13       6    28     0,00      5,00   5,00       0,00         9.158   151
+  401195 PROMOPACK SH COND NEUTROX 24MULTI.01x300          97,41       5,13       6    28     0,00      5,00   5,00       0,00         9.158   151
+  440165 PROMOPACK KOLENE CACHOS SH COND...01X300         105,73       5,57       7    28     0,00      5,00   5,00       0,00         9.158   151
+  117575 COND KOLENE ORIGINAL..............01X300          52,07       2,17       6    00     0,00      4,00   5,00       0,54         9.158   151
+  441505 COND KOLENE CABELOS CRESPOS.......01X300          47,75       1,99       6    28     0,00      4,00   5,00       0,49         9.158   151
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+      9.165 LIMA E SOUZA SERVICOS 042098247000132    0,00 59922 BONIFICACA   01       0,00       0,00       116,64 000 000 000 1-BLO   31/05/23   31/05/23             151 alyfer   004 00000 CAMPO GRANDE
+
+ *-----------------Mercadoria-------------------*          Total   Desconto    Qtde Prazo  %D.Maxi %D.Pedido    %DM  Diferenca        Pedido Repre. *-----------------Mercadoria-------------------*          Total   Desconto    Qtde Prazo  %D.Maxi %D.Pedido    %DM  Diferenca        Pedido Repre. *-----------------Mercadoria-------------------*          Total   Desconto    Qtde Prazo  %D.Maxi %D.Pedido    %DM  Diferenca        Pedido Repre.
+  401195 PROMOPACK SH COND NEUTROX 24MULTI.01x300          32,47       1,71       2    28     0,00      5,00   5,00       0,00         9.165   151
+  440125 PROMOPACK SH COND NEUTROX CLASSIC.01X300          32,47       1,71       2    28     0,00      5,00   5,00       0,00         9.165   151
+  440165 PROMOPACK KOLENE CACHOS SH COND...01X300          30,21       1,59       2    28     0,00      5,00   5,00       0,00         9.165   151
+  844145 SHAMPOO KOLENE CRESPOS............01X300          21,49       1,13       3    28     0,00      5,00   5,00       0,00         9.165   151
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+                                              Total Representante  Pedidos:       2      Valor:         517,01     Caixas:           3,33                                              Total Representante  Pedidos:       2      Valor:         517,01     Caixas:           3,33                                              Total Representante  Pedidos:       2      Valor:         517,01     Caixas:           3,33
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+0408   B   PJ GILMAR - B - COXIM0408   B   PJ GILMAR - B - COXIM0408   B   PJ GILMAR - B - COXIM
+
+      4.421 UNIBEM ATACADISTA LTD 043437785000177    0,00 59922 BONIFICACA   01       0,00       0,00     1.026,56 000 000 000 1-BLO   31/05/23   31/05/23             408 alyfer   041 00010 SONORA
+
+ *-----------------Mercadoria-------------------*          Total   Desconto    Qtde Prazo  %D.Maxi %D.Pedido    %DM  Diferenca        Pedido Repre. *-----------------Mercadoria-------------------*          Total   Desconto    Qtde Prazo  %D.Maxi %D.Pedido    %DM  Diferenca        Pedido Repre. *-----------------Mercadoria-------------------*          Total   Desconto    Qtde Prazo  %D.Maxi %D.Pedido    %DM  Diferenca        Pedido Repre.
+  117571 COND KOLENE ORIGINAL..............12X300         217,10       0,00       2    00     0,00      0,00   5,00      10,85         4.421   408
+  402231 COND NEUTROX MAR E PISCINA........12X300         231,78       0,00       2    28     0,00      0,00   5,00      11,58         4.421   408
+  441501 COND KOLENE CABELOS CRESPOS.......12X300         199,04       0,00       2    28     0,00      0,00   5,00       9,95         4.421   408
+  402441 SHAMPOO KOLENE FORCA E CRESCIMEN..12x300         197,70       0,00       2    28     0,00      0,00   5,00       9,88         4.421   408
+  844141 SHAMPOO KOLENE CRESPOS............12X300         180,94       0,00       2    28     0,00      0,00   5,00       9,04         4.421   408
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+      4.424 UNIBEM ATACADISTA LTD 043437785000177    0,00 59922 BONIFICACA   01       0,00       0,00     1.006,21 000 000 000 1-BLO   31/05/23   31/05/23             408 alyfer   041 00006 SONORA
+
+ *-----------------Mercadoria-------------------*          Total   Desconto    Qtde Prazo  %D.Maxi %D.Pedido    %DM  Diferenca        Pedido Repre. *-----------------Mercadoria-------------------*          Total   Desconto    Qtde Prazo  %D.Maxi %D.Pedido    %DM  Diferenca        Pedido Repre. *-----------------Mercadoria-------------------*          Total   Desconto    Qtde Prazo  %D.Maxi %D.Pedido    %DM  Diferenca        Pedido Repre.
+  401191 PROMOPACK SH COND NEUTROX 24MULTI.12x300         205,12       0,00       1    28     0,00      0,00   5,00      10,25         4.424   408
+  440121 PROMOPACK SH COND NEUTROX CLASSIC.12X300         205,12       0,00       1    28     0,00      0,00   5,00      10,25         4.424   408
+  440161 PROMOPACK KOLENE CACHOS SH COND...12X300         381,78       0,00       2    28     0,00      0,00   5,00      19,08         4.424   408
+  844141 SHAMPOO KOLENE CRESPOS............12X300          90,47       0,00       1    28     0,00      0,00   5,00       4,52         4.424   408
+  402441 SHAMPOO KOLENE FORCA E CRESCIMEN..12x300          98,85       0,00       1    28     0,00      0,00   5,00       4,94         4.424   408
+  441505 COND KOLENE CABELOS CRESPOS.......01X300          24,87       0,00       3    28     0,00      0,00   5,00       1,24         4.424   408
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+                                              Total Representante  Pedidos:       2      Valor:       2.032,77     Caixas:          16,24                                              Total Representante  Pedidos:       2      Valor:       2.032,77     Caixas:          16,24                                              Total Representante  Pedidos:       2      Valor:       2.032,77     Caixas:          16,24
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+0414   B   PJ ELISANDRA - B - CORUMBA0414   B   PJ ELISANDRA - B - CORUMBA0414   B   PJ ELISANDRA - B - CORUMBA
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+TCG - TRIUNFANTE MATOGROSSENSE ALIMENTOS                                                                                                             12 Faturamento   Ref:ft12308
+Filial: CAMPO GRANDE                                                                                                                                              Emissao    Hora   Folha
+                                                                                   PEDIDOS A FATURAR                                                              31/05/23   21:56   0003
+-----GRUPO TRIUNFANTE---------------------------------------------------------------------------------------------------------------------------------------------Usuario: alyfer--------
+
+0414   B   PJ ELISANDRA - B - CORUMBA0414   B   PJ ELISANDRA - B - CORUMBA0414   B   PJ ELISANDRA - B - CORUMBA
+
+     Pedido *--------------Clientes-------------*  Margem  COF  Portador  Lista  Saldo DMC     Trocas Total Pedido Prazos      Situacao Dig/Imp Programado P.Broker  Repre Usuario  Reg QtdCx Cidade     Pedido *--------------Clientes-------------*  Margem  COF  Portador  Lista  Saldo DMC     Trocas Total Pedido Prazos      Situacao Dig/Imp Programado P.Broker  Repre Usuario  Reg QtdCx Cidade     Pedido *--------------Clientes-------------*  Margem  COF  Portador  Lista  Saldo DMC     Trocas Total Pedido Prazos      Situacao Dig/Imp Programado P.Broker  Repre Usuario  Reg QtdCx Cidade
+      6.129 SUPERMERCADO FERNANDE 046876542000123    0,00 59922 BONIFICACA   01       0,00       0,00       949,95 000 000 000 1-BLO   31/05/23   31/05/23             414 alyfer   034 00006 CORUMBA
+
+ *-----------------Mercadoria-------------------*          Total   Desconto    Qtde Prazo  %D.Maxi %D.Pedido    %DM  Diferenca        Pedido Repre. *-----------------Mercadoria-------------------*          Total   Desconto    Qtde Prazo  %D.Maxi %D.Pedido    %DM  Diferenca        Pedido Repre. *-----------------Mercadoria-------------------*          Total   Desconto    Qtde Prazo  %D.Maxi %D.Pedido    %DM  Diferenca        Pedido Repre.
+  117571 COND KOLENE ORIGINAL..............12X300         108,55       0,00       1    00     0,00      0,00   5,00       5,42         6.129   414
+  401191 PROMOPACK SH COND NEUTROX 24MULTI.12x300         205,12       0,00       1    28     0,00      0,00   5,00      10,25         6.129   414
+  402231 COND NEUTROX MAR E PISCINA........12X300         115,89       0,00       1    28     0,00      0,00   5,00       5,79         6.129   414
+  440121 PROMOPACK SH COND NEUTROX CLASSIC.12X300         205,12       0,00       1    28     0,00      0,00   5,00      10,25         6.129   414
+  440161 PROMOPACK KOLENE CACHOS SH COND...12X300         190,89       0,00       1    28     0,00      0,00   5,00       9,54         6.129   414
+  402225 SHAMPOO NEUTROX MAR E PISCINA.....01X300          52,32       0,00       6    28     0,00      0,00   5,00       2,61         6.129   414
+  402445 SHAMPOO KOLENE FORCA E CRESCIMEN..01x300          49,44       0,00       6    28     0,00      0,00   5,00       2,47         6.129   414
+  844145 SHAMPOO KOLENE CRESPOS............01X300          22,62       0,00       3    28     0,00      0,00   5,00       1,13         6.129   414
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+                                              Total Representante  Pedidos:       1      Valor:         949,95     Caixas:           6,25                                              Total Representante  Pedidos:       1      Valor:         949,95     Caixas:           6,25                                              Total Representante  Pedidos:       1      Valor:         949,95     Caixas:           6,25
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+0459   B   ERIKSON - B - VAREJO  CG0459   B   ERIKSON - B - VAREJO  CG0459   B   ERIKSON - B - VAREJO  CG
+
+      8.117 MARLON KARNES COM VAR 021725088000189    0,00 59922 BONIFICACA   01       0,00       0,00       394,21 000 000 000 1-BLO   31/05/23   31/05/23             459 alyfer   006 00003 CAMPO GRANDE
+
+ *-----------------Mercadoria-------------------*          Total   Desconto    Qtde Prazo  %D.Maxi %D.Pedido    %DM  Diferenca        Pedido Repre. *-----------------Mercadoria-------------------*          Total   Desconto    Qtde Prazo  %D.Maxi %D.Pedido    %DM  Diferenca        Pedido Repre. *-----------------Mercadoria-------------------*          Total   Desconto    Qtde Prazo  %D.Maxi %D.Pedido    %DM  Diferenca        Pedido Repre.
+  402221 SHAMPOO NEUTROX MAR E PISCINA.....12X300         104,73       0,00       1    28     0,00      0,00   5,00       5,23         8.117   459
+  402441 SHAMPOO KOLENE FORCA E CRESCIMEN..12x300          98,85       0,00       1    28     0,00      0,00   5,00       4,94         8.117   459
+  440125 PROMOPACK SH COND NEUTROX CLASSIC.01X300          34,18       0,00       2    28     0,00      0,00   5,00       1,70         8.117   459
+  440165 PROMOPACK KOLENE CACHOS SH COND...01X300          31,80       0,00       2    28     0,00      0,00   5,00       1,59         8.117   459
+  844141 SHAMPOO KOLENE CRESPOS............12X300          90,47       0,00       1    28     0,00      0,00   5,00       4,52         8.117   459
+  401195 PROMOPACK SH COND NEUTROX 24MULTI.01x300          34,18       0,00       2    28     0,00      0,00   5,00       1,70         8.117   459
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+                                              Total Representante  Pedidos:       1      Valor:         394,21     Caixas:           3,49                                              Total Representante  Pedidos:       1      Valor:         394,21     Caixas:           3,49                                              Total Representante  Pedidos:       1      Valor:         394,21     Caixas:           3,49
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+                                              Total Representante  Pedidos:       0      Valor:           0,00     Caixas:           0,00                                              Total Representante  Pedidos:       0      Valor:           0,00     Caixas:           0,00                                              Total Representante  Pedidos:       0      Valor:           0,00     Caixas:           0,00
+
+                                                      Total Geral  Pedidos:       8      Valor:       5.979,41     Caixas:          41,82                                                      Total Geral  Pedidos:       8      Valor:       5.979,41     Caixas:          41,82                                                      Total Geral  Pedidos:       8      Valor:       5.979,41     Caixas:          41,82

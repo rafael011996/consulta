@@ -1,0 +1,70 @@
+ g 
+---------------------------------------------------------------------------------------------------------
+01                                                                   12 Faturamento          Ref:ft12368
+Filial: 00                                                                        Emissao    Hora   Folha
+                                           PRE-MAPA DE CARGA                      11/03/24   10:37   0001
+-----GRUPO TRIUNFANTE-------------------------------------------------------------Usuario: willian-------
+
+Cidade                            DtUltFat    Quantidade     Peso Bruto  Valor Entrega QtdEn QtdNF RegCidade                            DtUltFat    Quantidade     Peso Bruto  Valor Entrega QtdEn QtdNF RegCidade                            DtUltFat    Quantidade     Peso Bruto  Valor Entrega QtdEn QtdNF Reg
+
+
+     30 TRES LAGOAS - BRASILANDIA     30 TRES LAGOAS - BRASILANDIA     30 TRES LAGOAS - BRASILANDIA
+5008305 TRES LAGOAS               08/03/24          16,0          14,56         566,60     1     1  30
+        Totais da Regiao:                           16,0          14,56         566,60     1     1        Totais da Regiao:                           16,0          14,56         566,60     1     1        Totais da Regiao:                           16,0          14,56         566,60     1     1
+
+     31 AMAMBAI - SETE QUEDAS     31 AMAMBAI - SETE QUEDAS     31 AMAMBAI - SETE QUEDAS
+5000609 AMAMBAI                   08/03/24          59,0          11,37         545,85     1     1  31
+        Totais da Regiao:                           59,0          11,37         545,85     1     1        Totais da Regiao:                           59,0          11,37         545,85     1     1        Totais da Regiao:                           59,0          11,37         545,85     1     1
+
+     32 PONTA PORA     32 PONTA PORA     32 PONTA PORA
+5000906 ANTONIO JOAO              08/03/24         106,0          14,92         557,58     1     1  32
+5006606 PONTA PORA                08/03/24          41,0          50,40       2.865,86     2     2  32
+        Totais da Regiao:                          147,0          65,32       3.423,44     3     3        Totais da Regiao:                          147,0          65,32       3.423,44     3     3        Totais da Regiao:                          147,0          65,32       3.423,44     3     3
+
+     33 AQUIDAUANA - ANASTACIO     33 AQUIDAUANA - ANASTACIO     33 AQUIDAUANA - ANASTACIO
+5001102 AQUIDAUANA                08/03/24          90,0          39,56       1.999,79     6     6  33
+        Totais da Regiao:                           90,0          39,56       1.999,79     6     6        Totais da Regiao:                           90,0          39,56       1.999,79     6     6        Totais da Regiao:                           90,0          39,56       1.999,79     6     6
+
+     34 CORUMBA - LADARIO     34 CORUMBA - LADARIO     34 CORUMBA - LADARIO
+5003207 CORUMBA                   08/03/24          68,0          43,88       1.244,35     4     4  34
+        Totais da Regiao:                           68,0          43,88       1.244,35     4     4        Totais da Regiao:                           68,0          43,88       1.244,35     4     4        Totais da Regiao:                           68,0          43,88       1.244,35     4     4
+
+     35 DOURADOS     35 DOURADOS     35 DOURADOS
+5003702 DOURADOS                  08/03/24         210,0          61,00       2.975,95     6    10  35
+        Totais da Regiao:                          210,0          61,00       2.975,95     6    10        Totais da Regiao:                          210,0          61,00       2.975,95     6    10        Totais da Regiao:                          210,0          61,00       2.975,95     6    10
+
+     40 PARANAIBA - SELVIRIA     40 PARANAIBA - SELVIRIA     40 PARANAIBA - SELVIRIA
+5006309 PARANAIBA                 08/03/24          22,0          73,66       2.786,18     4     4  40
+        Totais da Regiao:                           22,0          73,66       2.786,18     4     4        Totais da Regiao:                           22,0          73,66       2.786,18     4     4        Totais da Regiao:                           22,0          73,66       2.786,18     4     4
+
+     44 FATIMA DO SUL - DEODAPOLI     44 FATIMA DO SUL - DEODAPOLI     44 FATIMA DO SUL - DEODAPOLI
+5003801 FATIMA DO SUL             08/03/24          30,0           4,60         101,85     1     1  44
+        Totais da Regiao:                           30,0           4,60         101,85     1     1        Totais da Regiao:                           30,0           4,60         101,85     1     1        Totais da Regiao:                           30,0           4,60         101,85     1     1
+
+     45 NOVA ANDRADINA - BATAYPOR     45 NOVA ANDRADINA - BATAYPOR     45 NOVA ANDRADINA - BATAYPOR
+5002001 BATAYPORA                 08/03/24          66,0          10,89         691,02     2     2  45
+5006200 NOVA ANDRADINA            08/03/24          24,0           9,73         467,64     1     1  45
+        Totais da Regiao:                           90,0          20,62       1.158,66     3     3        Totais da Regiao:                           90,0          20,62       1.158,66     3     3        Totais da Regiao:                           90,0          20,62       1.158,66     3     3
+
+     48 MARACAJU     48 MARACAJU     48 MARACAJU
+5005400 MARACAJU                  08/03/24         114,0          55,18       2.135,23     3     3  48
+        Totais da Regiao:                          114,0          55,18       2.135,23     3     3        Totais da Regiao:                          114,0          55,18       2.135,23     3     3        Totais da Regiao:                          114,0          55,18       2.135,23     3     3
+
+     51 CAMAPUA- BANDEI. JARAGUAR     51 CAMAPUA- BANDEI. JARAGUAR     51 CAMAPUA- BANDEI. JARAGUAR
+5001508 BANDEIRANTES              26/02/24          20,0           2,76         103,98     1     1  51
+5002605 CAMAPUA                   26/02/24          80,0          12,10         326,42     1     1  51
+        Totais da Regiao:                          100,0          14,86         430,40     2     2        Totais da Regiao:                          100,0          14,86         430,40     2     2        Totais da Regiao:                          100,0          14,86         430,40     2     2
+
+    340 CORUMBA - QUADRI/FERNANDE    340 CORUMBA - QUADRI/FERNANDE    340 CORUMBA - QUADRI/FERNANDE
+5003207 CORUMBA                   08/03/24       2.446,0         260,10      10.523,90     4     4 340
+---------------------------------------------------------------------------------------------------------
+01                                                                   12 Faturamento          Ref:ft12368
+Filial: 00                                                                        Emissao    Hora   Folha
+                                           PRE-MAPA DE CARGA                      11/03/24   10:37   0002
+-----GRUPO TRIUNFANTE-------------------------------------------------------------Usuario: willian-------
+
+Cidade                            DtUltFat    Quantidade     Peso Bruto  Valor Entrega QtdEn QtdNF RegCidade                            DtUltFat    Quantidade     Peso Bruto  Valor Entrega QtdEn QtdNF RegCidade                            DtUltFat    Quantidade     Peso Bruto  Valor Entrega QtdEn QtdNF Reg
+
+5005202 LADARIO                   08/03/24         642,0          66,91       2.622,66     1     1 340
+        Totais da Regiao:                        3.088,0         327,01      13.146,56     5     5        Totais da Regiao:                        3.088,0         327,01      13.146,56     5     5        Totais da Regiao:                        3.088,0         327,01      13.146,56     5     5
+        Total Geral....:                         4.034,0         731,66      30.514,86    39    43        Total Geral....:                         4.034,0         731,66      30.514,86    39    43        Total Geral....:                         4.034,0         731,66      30.514,86    39    43

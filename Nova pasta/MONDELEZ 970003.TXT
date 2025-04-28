@@ -1,0 +1,45 @@
+ M 
+------------------------------------------------------------------------------------------------------------------------------------------------------
+TCG - TRIUNFANTE MATOGROSSENSE ALIMENTOS                                                                          12 Faturamento   Ref:lf07500
+Filial: CAMPO GRANDE                                                                                                           Emissao    Hora   Folha
+                                                               ESPELHO DE NOTA FISCAL                                          21/11/23   17:29   0001
+-----GRUPO TRIUNFANTE----------------------------------------------------------------------------------------------------------Usuario: willian-------
+
+    Operacao: 02102 COMPRA P/ COMERCIALIZACAO                                            Serie: 015 Nota:      970.003
+
+Destinatario: A-MONDELEZ BRASIL LTDA.....-M-                   033.033.028/0036 04               Emissao: 16/11/23
+
+    Endereco: AV JOSE LUIZ MAZZALI 360      PARTE A     Numero:         Cidade: LOUVEIRA             UF: SP Telefone:
+
+  Chave NF-e: 35231133033028003604550150009700031370749743
+
+  Codigo    Qtd Uni Descricao                                 Custo Vig   Custo NF  Custo Rep   Unitario   Desc   Vlr.Desc         Total ICMS MBruta  Codigo    Qtd Uni Descricao                                 Custo Vig   Custo NF  Custo Rep   Unitario   Desc   Vlr.Desc         Total ICMS MBruta  Codigo    Qtd Uni Descricao                                 Custo Vig   Custo NF  Custo Rep   Unitario   Desc   Vlr.Desc         Total ICMS MBruta
+----------------------------------------------------------------------------------------------------------------------------------------------------
+  345051      4 CX  TRIDENT MAX MENTABERRY..........336X16.5     562,71     559,96     562,71     559,95   0,00       0,00      2.239,82   07  32,50
+ 6969501      2 CX  TRIDENT 14S INTENSE.............12x12x25     391,85     416,57     416,57     416,56   0,00       0,00        833,13   07  32,50
+  179601      1 CX  TRIDENT X BLUEBERRY CITRUS 5S......672x8     759,92     756,54     759,92     756,54   0,00       0,00        756,54   07  32,50
+  401141      3 CX  TRIDENT XFRESH HERBAL 5S...........672X8     757,00     756,55     757,00     756,54   0,00       0,00      2.269,64   07  32,50
+  865691      1 CX  BISC BELVITA CACAU CEREAIS.......36X3X25      99,09      98,74      99,09      98,74   0,00       0,00         98,74   07  37,00
+  805401      2 CX  BISC BELVITA LEITE COM AVEIA.....36X3X25      99,09      98,74      99,09      98,74   0,00       0,00        197,48   07  37,00
+   14101      1 CX  BISCOITO BELVITA MEL E CACAU.....12x9x25      63,33      88,96      88,96      88,96   0,00       0,00         88,96   07  36,20
+  828611     13 CX  BISC CLUB SC.RECHE QUE TOM....42X04X26.5     115,92     115,25     115,92     115,24   0,00       0,00      1.498,21   07  33,00
+  837371      1 CX  BISCOITO CHOCOOKY CHOCOLATE.......48X120     230,21     229,58     230,21     229,58   0,00       0,00        229,58   07  35,50
+  947001     15 CX  BISC OREO MILKSHAKE MORANGO........48X90      89,85      89,47      89,85      89,46   0,00       0,00      1.342,03   07  33,00
+  927601     76 CX  BISC TRAKINAS CHOCOLATE...........54X126      88,92      88,57      88,92      88,56   0,00       0,00      6.731,29   07  34,80
+                                                                                                   Total das Mercadorias:      16.285,42                                                                                                   Total das Mercadorias:      16.285,42
+
+                       Frete:           0,00 Seguro:           0,00 Outras:           0,00 IPI:           0,00  Total NF:      16.285,42
+                                                                                                         Total de Trocas:           0,00
+                                                                                                      Total de Descontos:           0,00
+Base de Calculo(1):      16.285,42 Aliquota.......(1):   7,00 Valor ICMS.....(1):       1.139,97
+Base de Calculo(2):           0,00 Aliquota.......(2):   0,00 Valor ICMS.....(2):           0,00
+Base de Calculo(3):           0,00 Aliquota.......(3):   0,00 Valor ICMS.....(3):           0,00
+Base de Calculo(4):           0,00 Aliquota.......(4):   0,00 Valor ICMS.....(4):           0,00
+Isento............:           0,00 Outros............:           0,00
+
+Setor: 0000 Pedido:       0 Portador: BANCO
+
+Motivo da Devolucao:
+
+Desdobramentos: Titulo             Vecto          Valor
+                     0009700030 14/12/23      16.285,42

@@ -1,0 +1,62 @@
+ g 
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+TCG - TRIUNFANTE MATOGROSSENSE ALIMENTOS                                                                                                                                                12 Faturamento   Ref:ft12308
+Filial: CAMPO GRANDE                                                                                                                                                                                 Emissao    Hora   Folha
+                                                                                                    PEDIDOS A FATURAR                                                                                30/09/23   16:24   0001
+-----GRUPO TRIUNFANTE--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------Usuario: willian-------
+
+0018   N   PJ ROBSON -AB- ELDORADO0018   N   PJ ROBSON -AB- ELDORADO0018   N   PJ ROBSON -AB- ELDORADO
+
+     Pedido *--------------Clientes-------------*  Margem  COF  Portador  Lista  Saldo DMC     Trocas Total Pedido Prazos      Situacao Dig/Imp Programado P.Broker  Repre Usuario  Reg QtdCx Cidade     Pedido *--------------Clientes-------------*  Margem  COF  Portador  Lista  Saldo DMC     Trocas Total Pedido Prazos      Situacao Dig/Imp Programado P.Broker  Repre Usuario  Reg QtdCx Cidade     Pedido *--------------Clientes-------------*  Margem  COF  Portador  Lista  Saldo DMC     Trocas Total Pedido Prazos      Situacao Dig/Imp Programado P.Broker  Repre Usuario  Reg QtdCx Cidade
+      1.904 SIDNEIA APARECIDA DA  039494514000186    0,00 51234 PIX / DINH   01       5,41       0,00       263,38 000 000 000 2-LIB   29/09/23   29/09/23              18 luiz     031 00001 PARANHOS
+
+                                              Total Representante  Pedidos:       1      Valor:         263,38     Caixas:           0,00                                              Total Representante  Pedidos:       1      Valor:         263,38     Caixas:           0,00                                              Total Representante  Pedidos:       1      Valor:         263,38     Caixas:           0,00
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+0023   P   PJ LUCAS -AB-SATELITE0023   P   PJ LUCAS -AB-SATELITE0023   P   PJ LUCAS -AB-SATELITE
+
+      1.027 LUZIA MAIDANA DA ROCH 074007519000138    0,00 51234 PIX / DINH   01       0,01-      0,00       255,44 000 000 000 1-BLO   27/09/23   27/09/23              23 luiz     051 00001 CAMAPUA
+
+                                              Total Representante  Pedidos:       1      Valor:         255,44     Caixas:           0,00                                              Total Representante  Pedidos:       1      Valor:         255,44     Caixas:           0,00                                              Total Representante  Pedidos:       1      Valor:         255,44     Caixas:           0,00
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+0153   P   JHONATAN - A - VAREJO  CG0153   P   JHONATAN - A - VAREJO  CG0153   P   JHONATAN - A - VAREJO  CG
+
+      8.193 NILO BARBOSA FERNANDE 097466858000188    0,00 51234 PIX / DINH   09       7,44-      0,00       113,30 000 000 000 1-BLO   23/09/23   22/09/23             153 willian  006 00000 CAMPO GRANDE
+
+                                              Total Representante  Pedidos:       1      Valor:         113,30     Caixas:           0,00                                              Total Representante  Pedidos:       1      Valor:         113,30     Caixas:           0,00                                              Total Representante  Pedidos:       1      Valor:         113,30     Caixas:           0,00
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+0211   D   PJ RODRIGO -AB- TRES LAGOAS0211   D   PJ RODRIGO -AB- TRES LAGOAS0211   D   PJ RODRIGO -AB- TRES LAGOAS
+
+      2.545 NOVA ESTRELA COMERCIO 012887219000133    0,00 51201 BANCO        01   1.927,43-      0,00    13.584,00 021 028 035 2-LIB   30/09/23   30/09/23             211 willian  303 00112 TRES LAGOAS
+      2.546 NOVA ESTRELA COMERCIO 012887219000303    0,00 51201 BANCO        01     590,98-      0,00     4.166,00 021 028 035 2-LIB   30/09/23   30/09/23             211 willian  305 00034 TRES LAGOAS
+      2.547 NOVA ESTRELA COMERCIO 012887219000214    0,00 51201 BANCO        01   1.214,90-      0,00     8.564,00 021 028 035 2-LIB   30/09/23   30/09/23             211 willian  304 00070 TRES LAGOAS
+      2.548 NOVA ESTRELA COMERCIO 012887219000567    0,00 51234 BANCO        01     590,98-      0,00     4.166,00 021 028 035 1-BLO   30/09/23   30/09/23             211 willian  306 00034 TRES LAGOAS
+      2.549 NOVA ESTRELA COMERCIO 012887219000133    0,00 51201 BANCO        01     280,80-      0,00     1.989,00 021 028 035 2-LIB   30/09/23   30/09/23             211 willian  303 00013 TRES LAGOAS
+      2.550 NOVA ESTRELA COMERCIO 012887219000133    0,00 51201 BANCO        01   1.927,43-      0,00    13.584,00 021 028 035 2-LIB   30/09/23   30/09/23             211 willian  303 00112 TRES LAGOAS
+      2.551 NOVA ESTRELA COMERCIO 012887219000303    0,00 51201 BANCO        01     590,98-      0,00     4.166,00 021 028 035 2-LIB   30/09/23   30/09/23             211 willian  305 00034 TRES LAGOAS
+      2.552 NOVA ESTRELA COMERCIO 012887219000214    0,00 51201 BANCO        01   1.150,10-      0,00     8.105,00 021 028 035 2-LIB   30/09/23   30/09/23             211 willian  304 00067 TRES LAGOAS
+      2.553 NOVA ESTRELA COMERCIO 012887219000567    0,00 51234 BANCO        01     720,58-      0,00     5.084,00 021 028 035 1-BLO   30/09/23   30/09/23             211 willian  306 00040 TRES LAGOAS
+
+                                              Total Representante  Pedidos:       9      Valor:      63.408,00     Caixas:           0,00                                              Total Representante  Pedidos:       9      Valor:      63.408,00     Caixas:           0,00                                              Total Representante  Pedidos:       9      Valor:      63.408,00     Caixas:           0,00
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+0413   P   PJ EZEQUIAS - B - AQUIDAUANA0413   P   PJ EZEQUIAS - B - AQUIDAUANA0413   P   PJ EZEQUIAS - B - AQUIDAUANA
+
+      5.980 AMARAL E GOIS LTDA  E 006133042000187    0,00 51201 BANCO        01      26,16-      0,00     3.026,97 021 028 035 1-BLO   27/09/23   26/09/23             413 luiz     331 00013 MIRANDA
+      5.981 AMARAL E GOIS LTDA  E 006133042000187    0,00 59901 BONIFICACA   01      82,70-      0,00        82,70 000 000 000 1-BLO   27/09/23   26/09/23             413 luiz     331 00000 MIRANDA
+
+                                              Total Representante  Pedidos:       2      Valor:       3.109,67     Caixas:           0,00                                              Total Representante  Pedidos:       2      Valor:       3.109,67     Caixas:           0,00                                              Total Representante  Pedidos:       2      Valor:       3.109,67     Caixas:           0,00
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+0459   E   ERIKSON - B - VAREJO  CG0459   E   ERIKSON - B - VAREJO  CG0459   E   ERIKSON - B - VAREJO  CG
+
+ 49.680.884 ANA LUCIA FELIX DA SI 024904370000111    0,00 51234 ECOM CARTE   01       7,02       0,00       173,64 028 000 000 1-BLO   26/09/23   26/09/23             459          006 00000 CAMPO GRANDE
+
+                                              Total Representante  Pedidos:       1      Valor:         173,64     Caixas:           0,00                                              Total Representante  Pedidos:       1      Valor:         173,64     Caixas:           0,00                                              Total Representante  Pedidos:       1      Valor:         173,64     Caixas:           0,00
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+                                              Total Representante  Pedidos:       0      Valor:           0,00     Caixas:           0,00                                              Total Representante  Pedidos:       0      Valor:           0,00     Caixas:           0,00                                              Total Representante  Pedidos:       0      Valor:           0,00     Caixas:           0,00
+
+                                                      Total Geral  Pedidos:      15      Valor:      67.323,43     Caixas:           0,00                                                      Total Geral  Pedidos:      15      Valor:      67.323,43     Caixas:           0,00                                                      Total Geral  Pedidos:      15      Valor:      67.323,43     Caixas:           0,00

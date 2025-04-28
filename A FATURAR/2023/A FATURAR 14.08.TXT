@@ -1,0 +1,62 @@
+ g 
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+TCG - TRIUNFANTE MATOGROSSENSE ALIMENTOS                                                                                                                                                12 Faturamento          Ref:ft12308
+Filial: CAMPO GRANDE                                                                                                                                                                                 Emissao    Hora   Folha
+                                                                                                    PEDIDOS A FATURAR                                                                                14/08/23   10:38   0001
+-----GRUPO TRIUNFANTE--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------Usuario: anapb---------
+
+0005   A   PJ JOAO CARLOS -AB- N.ANDRADI0005   A   PJ JOAO CARLOS -AB- N.ANDRADI0005   A   PJ JOAO CARLOS -AB- N.ANDRADI
+
+     Pedido *--------------Clientes-------------*  Margem  COF  Portador  Lista  Saldo DMC     Trocas Total Pedido Prazos      Situacao Dig/Imp Programado P.Broker  Repre Usuario  Reg QtdCx Cidade     Pedido *--------------Clientes-------------*  Margem  COF  Portador  Lista  Saldo DMC     Trocas Total Pedido Prazos      Situacao Dig/Imp Programado P.Broker  Repre Usuario  Reg QtdCx Cidade     Pedido *--------------Clientes-------------*  Margem  COF  Portador  Lista  Saldo DMC     Trocas Total Pedido Prazos      Situacao Dig/Imp Programado P.Broker  Repre Usuario  Reg QtdCx Cidade
+     12.770 AMOROSO DELICATESSEN  026676257000151    0,00 51201 BANCO        01      20,48       0,00       409,75 021 000 000 2-LIB   14/08/23   14/08/23               5 anapb    045 00001 NOVA ANDRADINA
+     12.771 MARTINS E NUNES LTDA  026371725000180    0,00 51201 BANCO        01      12,28       0,00       245,85 028 000 000 2-LIB   14/08/23   14/08/23               5 anapb    045 00000 BATAIPORA
+
+                                              Total Representante  Pedidos:       2      Valor:         655,60     Caixas:           0,00                                              Total Representante  Pedidos:       2      Valor:         655,60     Caixas:           0,00                                              Total Representante  Pedidos:       2      Valor:         655,60     Caixas:           0,00
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+0006   A   PJ JOSE MARCOS-AB-PARANAIBA0006   A   PJ JOSE MARCOS-AB-PARANAIBA0006   A   PJ JOSE MARCOS-AB-PARANAIBA
+
+        227 CONVENIENCIA E MERCEA 044188446000167    0,00 51201 PIX / DINH   01       0,00       0,00       523,80 000 000 000 2-LIB   14/08/23   12/08/23               6 anapb    040 00002 APARECIDA DO TABOADO
+
+                                              Total Representante  Pedidos:       1      Valor:         523,80     Caixas:           0,00                                              Total Representante  Pedidos:       1      Valor:         523,80     Caixas:           0,00                                              Total Representante  Pedidos:       1      Valor:         523,80     Caixas:           0,00
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+0211   Q   PJ RODRIGO -AB- TRES LAGOAS0211   Q   PJ RODRIGO -AB- TRES LAGOAS0211   Q   PJ RODRIGO -AB- TRES LAGOAS
+
+          1 NOVA ESTRELA COMERCIO 012887219000133    0,00 59967 CARTEIRA I   01       0,00       0,00        74,50 000 000 000 2-LIB   07/08/23   07/08/23             211 luiz     303 00005 TRES LAGOAS
+
+                                              Total Representante  Pedidos:       1      Valor:          74,50     Caixas:           0,00                                              Total Representante  Pedidos:       1      Valor:          74,50     Caixas:           0,00                                              Total Representante  Pedidos:       1      Valor:          74,50     Caixas:           0,00
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+0407   E   PJ KAMILLA - B - DOURADOS0407   E   PJ KAMILLA - B - DOURADOS0407   E   PJ KAMILLA - B - DOURADOS
+
+ 49.758.851 EMPORIO HALO DOURADO  047702370000134    0,00 51201 ECOM CARTE   01      30,56       0,00       640,60 028 000 000 1-BLO   12/08/23   12/08/23             407          035 00002 DOURADOS
+
+                                              Total Representante  Pedidos:       1      Valor:         640,60     Caixas:           0,00                                              Total Representante  Pedidos:       1      Valor:         640,60     Caixas:           0,00                                              Total Representante  Pedidos:       1      Valor:         640,60     Caixas:           0,00
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+0410   A   PJ CLAYTON - B - MARACAJU0410   A   PJ CLAYTON - B - MARACAJU0410   A   PJ CLAYTON - B - MARACAJU
+
+      2.879 MARCELO DE OLIVEIRA G 042177749000159    0,00 51201 BANCO        01       0,00       0,00       523,80 014 028 000 2-LIB   14/08/23   14/08/23             410 anapb    048 00002 MARACAJU
+      2.880 MARCELO DE OLIVEIRA G 042177749000159    0,00 59901 BONIFICACA   01      44,19-      0,00        44,19 000 000 000 2-LIB   14/08/23   14/08/23             410 anapb    048 00000 MARACAJU
+
+                                              Total Representante  Pedidos:       2      Valor:         567,99     Caixas:           0,00                                              Total Representante  Pedidos:       2      Valor:         567,99     Caixas:           0,00                                              Total Representante  Pedidos:       2      Valor:         567,99     Caixas:           0,00
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+0411   A   PJ CLARA -B- TRES LAGOAS0411   A   PJ CLARA -B- TRES LAGOAS0411   A   PJ CLARA -B- TRES LAGOAS
+
+      4.972 MERCADO VILA NOVA LTD 017512540000157    0,00 51201 PIX / DINH   01       2,78       0,00       902,28 000 000 000 2-LIB   14/08/23   13/08/23             411 anapb    030 00004 TRES LAGOAS
+
+                                              Total Representante  Pedidos:       1      Valor:         902,28     Caixas:           0,00                                              Total Representante  Pedidos:       1      Valor:         902,28     Caixas:           0,00                                              Total Representante  Pedidos:       1      Valor:         902,28     Caixas:           0,00
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+0447   A   CAROL - B - VJ DOURADOS0447   A   CAROL - B - VJ DOURADOS0447   A   CAROL - B - VJ DOURADOS
+
+      2.584 D A C COMERCIO DE ALI 014808226000128    0,00 51201 PIX / DINH   01       0,03-      0,00       233,55 000 000 000 2-LIB   14/08/23   12/08/23             447 anapb    035 00000 DOURADOS
+
+                                              Total Representante  Pedidos:       1      Valor:         233,55     Caixas:           0,00                                              Total Representante  Pedidos:       1      Valor:         233,55     Caixas:           0,00                                              Total Representante  Pedidos:       1      Valor:         233,55     Caixas:           0,00
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+                                              Total Representante  Pedidos:       0      Valor:           0,00     Caixas:           0,00                                              Total Representante  Pedidos:       0      Valor:           0,00     Caixas:           0,00                                              Total Representante  Pedidos:       0      Valor:           0,00     Caixas:           0,00
+
+                                                      Total Geral  Pedidos:       9      Valor:       3.598,32     Caixas:           0,00                                                      Total Geral  Pedidos:       9      Valor:       3.598,32     Caixas:           0,00                                                      Total Geral  Pedidos:       9      Valor:       3.598,32     Caixas:           0,00

@@ -1,0 +1,101 @@
+ g 
+---------------------------------------------------------------------------------------------------------
+01                                                                   12 Faturamento          Ref:ft12368
+Filial: 00                                                                        Emissao    Hora   Folha
+                                           PRE-MAPA DE CARGA                      18/03/24   10:28   0001
+-----GRUPO TRIUNFANTE-------------------------------------------------------------Usuario: willian-------
+
+Cidade                            DtUltFat    Quantidade     Peso Bruto  Valor Entrega QtdEn QtdNF RegCidade                            DtUltFat    Quantidade     Peso Bruto  Valor Entrega QtdEn QtdNF RegCidade                            DtUltFat    Quantidade     Peso Bruto  Valor Entrega QtdEn QtdNF Reg
+
+
+     30 TRES LAGOAS - BRASILANDIA     30 TRES LAGOAS - BRASILANDIA     30 TRES LAGOAS - BRASILANDIA
+5002308 BRASILANDIA               29/02/24         330,0         115,45       5.209,80     1     1  30
+5008305 TRES LAGOAS               15/03/24         136,0          78,60       2.730,07     6     8  30
+        Totais da Regiao:                          466,0         194,05       7.939,87     7     9        Totais da Regiao:                          466,0         194,05       7.939,87     7     9        Totais da Regiao:                          466,0         194,05       7.939,87     7     9
+
+     31 AMAMBAI - SETE QUEDAS     31 AMAMBAI - SETE QUEDAS     31 AMAMBAI - SETE QUEDAS
+5000609 AMAMBAI                   15/03/24          94,0          13,66         431,72     2     2  31
+        Totais da Regiao:                           94,0          13,66         431,72     2     2        Totais da Regiao:                           94,0          13,66         431,72     2     2        Totais da Regiao:                           94,0          13,66         431,72     2     2
+
+     32 PONTA PORA     32 PONTA PORA     32 PONTA PORA
+5006606 PONTA PORA                15/03/24          91,0         215,32       8.085,79     2     3  32
+        Totais da Regiao:                           91,0         215,32       8.085,79     2     3        Totais da Regiao:                           91,0         215,32       8.085,79     2     3        Totais da Regiao:                           91,0         215,32       8.085,79     2     3
+
+     34 CORUMBA - LADARIO     34 CORUMBA - LADARIO     34 CORUMBA - LADARIO
+5003207 CORUMBA                   15/03/24         816,0         130,25       5.027,28     4     6  34
+        Totais da Regiao:                          816,0         130,25       5.027,28     4     6        Totais da Regiao:                          816,0         130,25       5.027,28     4     6        Totais da Regiao:                          816,0         130,25       5.027,28     4     6
+
+     35 DOURADOS     35 DOURADOS     35 DOURADOS
+5003702 DOURADOS                  15/03/24         317,0         123,72       5.116,32     8    10  35
+        Totais da Regiao:                          317,0         123,72       5.116,32     8    10        Totais da Regiao:                          317,0         123,72       5.116,32     8    10        Totais da Regiao:                          317,0         123,72       5.116,32     8    10
+
+     39 CHAPADAO -COSTA RICA     39 CHAPADAO -COSTA RICA     39 CHAPADAO -COSTA RICA
+5002951 CHAPADAO DO SUL           15/03/24         870,0         197,24       5.618,21     3     3  39
+        Totais da Regiao:                          870,0         197,24       5.618,21     3     3        Totais da Regiao:                          870,0         197,24       5.618,21     3     3        Totais da Regiao:                          870,0         197,24       5.618,21     3     3
+
+     40 PARANAIBA - SELVIRIA     40 PARANAIBA - SELVIRIA     40 PARANAIBA - SELVIRIA
+5006309 PARANAIBA                 15/03/24          44,0          38,19         868,99     3     3  40
+        Totais da Regiao:                           44,0          38,19         868,99     3     3        Totais da Regiao:                           44,0          38,19         868,99     3     3        Totais da Regiao:                           44,0          38,19         868,99     3     3
+
+     41 RIO VERDE - SONORA     41 RIO VERDE - SONORA     41 RIO VERDE - SONORA
+5003306 COXIM                     15/03/24         717,0         300,90      11.087,32     1     3  41
+5007406 RIO VERDE DE MATO GROSSO  15/03/24         660,0         232,26      10.419,60     2     2  41
+        Totais da Regiao:                        1.377,0         533,16      21.506,92     3     5        Totais da Regiao:                        1.377,0         533,16      21.506,92     3     5        Totais da Regiao:                        1.377,0         533,16      21.506,92     3     5
+
+     42 NAVIRAI     42 NAVIRAI     42 NAVIRAI
+5002407 CAARAPO                   08/03/24          91,0          39,24       1.746,74     1     2  42
+5005707 NAVIRAI                   15/03/24         272,0          91,48       4.169,29     4     6  42
+        Totais da Regiao:                          363,0         130,73       5.916,03     5     8        Totais da Regiao:                          363,0         130,73       5.916,03     5     8        Totais da Regiao:                          363,0         130,73       5.916,03     5     8
+
+     43 MUNDO NOVO - ITAQUIRAI     43 MUNDO NOVO - ITAQUIRAI     43 MUNDO NOVO - ITAQUIRAI
+5003751 ELDORADO                  15/03/24         117,0          39,67       1.887,26     3     4  43
+5004601 ITAQUIRAI                 15/03/24         170,0          34,84       2.072,47     1     2  43
+5005681 MUNDO NOVO                15/03/24         116,0          53,01       2.869,96     1     2  43
+        Totais da Regiao:                          403,0         127,53       6.829,69     5     8        Totais da Regiao:                          403,0         127,53       6.829,69     5     8        Totais da Regiao:                          403,0         127,53       6.829,69     5     8
+
+     45 NOVA ANDRADINA - BATAYPOR     45 NOVA ANDRADINA - BATAYPOR     45 NOVA ANDRADINA - BATAYPOR
+5002001 BATAYPORA                 15/03/24          73,0          33,39       1.673,50     3     3  45
+---------------------------------------------------------------------------------------------------------
+01                                                                   12 Faturamento          Ref:ft12368
+Filial: 00                                                                        Emissao    Hora   Folha
+                                           PRE-MAPA DE CARGA                      18/03/24   10:28   0002
+-----GRUPO TRIUNFANTE-------------------------------------------------------------Usuario: willian-------
+
+Cidade                            DtUltFat    Quantidade     Peso Bruto  Valor Entrega QtdEn QtdNF RegCidade                            DtUltFat    Quantidade     Peso Bruto  Valor Entrega QtdEn QtdNF RegCidade                            DtUltFat    Quantidade     Peso Bruto  Valor Entrega QtdEn QtdNF Reg
+
+5006200 NOVA ANDRADINA            15/03/24       1.834,0         441,23      17.814,59     3     6  45
+        Totais da Regiao:                        1.907,0         474,62      19.488,09     6     9        Totais da Regiao:                        1.907,0         474,62      19.488,09     6     9        Totais da Regiao:                        1.907,0         474,62      19.488,09     6     9
+
+     46 BELA VISTA - PORTO MURTIN     46 BELA VISTA - PORTO MURTIN     46 BELA VISTA - PORTO MURTIN
+5002100 BELA VISTA                15/03/24         117,0          17,83         657,52     2     2  46
+        Totais da Regiao:                          117,0          17,83         657,52     2     2        Totais da Regiao:                          117,0          17,83         657,52     2     2        Totais da Regiao:                          117,0          17,83         657,52     2     2
+
+     51 CAMAPUA- BANDEI. JARAGUAR     51 CAMAPUA- BANDEI. JARAGUAR     51 CAMAPUA- BANDEI. JARAGUAR
+5002605 CAMAPUA                   15/03/24         563,0          84,67       3.532,55     1     3  51
+        Totais da Regiao:                          563,0          84,67       3.532,55     1     3        Totais da Regiao:                          563,0          84,67       3.532,55     1     3        Totais da Regiao:                          563,0          84,67       3.532,55     1     3
+
+    302 AGUA CLARA    302 AGUA CLARA    302 AGUA CLARA
+5000203 AGUA CLARA                15/03/24         914,0         482,22      23.431,62     2     6 302
+        Totais da Regiao:                          914,0         482,22      23.431,62     2     6        Totais da Regiao:                          914,0         482,22      23.431,62     2     6        Totais da Regiao:                          914,0         482,22      23.431,62     2     6
+
+    306 TRES LAGOAS - SM NV ESTRE    306 TRES LAGOAS - SM NV ESTRE    306 TRES LAGOAS - SM NV ESTRE
+5008305 TRES LAGOAS               15/03/24          55,0         212,39       8.532,30     1     2 306
+        Totais da Regiao:                           55,0         212,39       8.532,30     1     2        Totais da Regiao:                           55,0         212,39       8.532,30     1     2        Totais da Regiao:                           55,0         212,39       8.532,30     1     2
+
+    307 SUPERM THOME E LEANDRO TE    307 SUPERM THOME E LEANDRO TE    307 SUPERM THOME E LEANDRO TE
+5008305 TRES LAGOAS               15/03/24       2.408,0         441,76      14.777,84     1     3 307
+        Totais da Regiao:                        2.408,0         441,76      14.777,84     1     3        Totais da Regiao:                        2.408,0         441,76      14.777,84     1     3        Totais da Regiao:                        2.408,0         441,76      14.777,84     1     3
+
+    338 OLIVEIRA ESQUERDO-CHAPADA    338 OLIVEIRA ESQUERDO-CHAPADA    338 OLIVEIRA ESQUERDO-CHAPADA
+5002902 CASSILANDIA               15/03/24          16,0          56,67       2.235,81     1     1 338
+5002951 CHAPADAO DO SUL           15/03/24           6,0          11,88         837,24     1     1 338
+        Totais da Regiao:                           22,0          68,55       3.073,05     2     2        Totais da Regiao:                           22,0          68,55       3.073,05     2     2        Totais da Regiao:                           22,0          68,55       3.073,05     2     2
+
+    422 REDE TRAZZI    422 REDE TRAZZI    422 REDE TRAZZI
+5002704 CAMPO GRANDE              18/03/24           3,0           1,98         296,52     1     1 422
+        Totais da Regiao:                            3,0           1,98         296,52     1     1        Totais da Regiao:                            3,0           1,98         296,52     1     1        Totais da Regiao:                            3,0           1,98         296,52     1     1
+
+    450 BATAGUASSU - SANTA RITA    450 BATAGUASSU - SANTA RITA    450 BATAGUASSU - SANTA RITA
+5001904 BATAGUASSU                15/03/24          31,0           4,31         225,61     1     1 450
+        Totais da Regiao:                           31,0           4,31         225,61     1     1        Totais da Regiao:                           31,0           4,31         225,61     1     1        Totais da Regiao:                           31,0           4,31         225,61     1     1
+        Total Geral....:                        10.861,0       3.492,26     141.355,92    59    86        Total Geral....:                        10.861,0       3.492,26     141.355,92    59    86        Total Geral....:                        10.861,0       3.492,26     141.355,92    59    86

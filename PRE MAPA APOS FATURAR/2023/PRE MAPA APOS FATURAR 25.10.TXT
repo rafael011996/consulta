@@ -1,0 +1,223 @@
+ g 
+---------------------------------------------------------------------------------------------------------
+01                                                                   12 Faturamento   Ref:ft12368
+Filial: 00                                                                        Emissao    Hora   Folha
+                                           PRE-MAPA DE CARGA                      25/10/23   10:59   0001
+-----GRUPO TRIUNFANTE-------------------------------------------------------------Usuario: willian-------
+
+Cidade                         DtUltFat    Quantidade     Peso Bruto  Valor Entrega QtdEn QtdNF RegCidade                         DtUltFat    Quantidade     Peso Bruto  Valor Entrega QtdEn QtdNF RegCidade                         DtUltFat    Quantidade     Peso Bruto  Valor Entrega QtdEn QtdNF Reg
+
+
+  22 PIRES SID.A  22 PIRES SID.A  22 PIRES SID.A
+3020 CAMPO GRANDE              25/10/23           6,0          32,76         565,68     1     1  22
+     Totais da Regiao:                            6,0          32,76         565,68     1     1     Totais da Regiao:                            6,0          32,76         565,68     1     1     Totais da Regiao:                            6,0          32,76         565,68     1     1
+
+  23 PIRES SID.B  23 PIRES SID.B  23 PIRES SID.B
+3020 CAMPO GRANDE              25/10/23          16,0         132,14       2.163,55     4     4  23
+     Totais da Regiao:                           16,0         132,14       2.163,55     4     4     Totais da Regiao:                           16,0         132,14       2.163,55     4     4     Totais da Regiao:                           16,0         132,14       2.163,55     4     4
+
+  24 PIRES CENTRO  24 PIRES CENTRO  24 PIRES CENTRO
+3020 CAMPO GRANDE              25/10/23          16,0         151,31       2.543,59     2     2  24
+     Totais da Regiao:                           16,0         151,31       2.543,59     2     2     Totais da Regiao:                           16,0         151,31       2.543,59     2     2     Totais da Regiao:                           16,0         151,31       2.543,59     2     2
+
+  25 PIRES SAO PAULO.A  25 PIRES SAO PAULO.A  25 PIRES SAO PAULO.A
+3020 CAMPO GRANDE              25/10/23           8,0          50,46         805,75     3     3  25
+     Totais da Regiao:                            8,0          50,46         805,75     3     3     Totais da Regiao:                            8,0          50,46         805,75     3     3     Totais da Regiao:                            8,0          50,46         805,75     3     3
+
+  26 PIRES SAO PAULO.B  26 PIRES SAO PAULO.B  26 PIRES SAO PAULO.B
+3020 CAMPO GRANDE              25/10/23          19,0          65,00       1.041,10     2     2  26
+     Totais da Regiao:                           19,0          65,00       1.041,10     2     2     Totais da Regiao:                           19,0          65,00       1.041,10     2     2     Totais da Regiao:                           19,0          65,00       1.041,10     2     2
+
+  27 PIRES ROCHEDO  27 PIRES ROCHEDO  27 PIRES ROCHEDO
+3020 CAMPO GRANDE              25/10/23          10,0          68,34       1.043,03     2     2  27
+     Totais da Regiao:                           10,0          68,34       1.043,03     2     2     Totais da Regiao:                           10,0          68,34       1.043,03     2     2     Totais da Regiao:                           10,0          68,34       1.043,03     2     2
+
+  28 PIRES PIRATININGA  28 PIRES PIRATININGA  28 PIRES PIRATININGA
+3020 CAMPO GRANDE              25/10/23           4,0          21,84         377,12     2     2  28
+     Totais da Regiao:                            4,0          21,84         377,12     2     2     Totais da Regiao:                            4,0          21,84         377,12     2     2     Totais da Regiao:                            4,0          21,84         377,12     2     2
+
+  29 PIRES GUAICURUS  29 PIRES GUAICURUS  29 PIRES GUAICURUS
+3020 CAMPO GRANDE              25/10/23          16,0          63,20         895,94     2     2  29
+     Totais da Regiao:                           16,0          63,20         895,94     2     2     Totais da Regiao:                           16,0          63,20         895,94     2     2     Totais da Regiao:                           16,0          63,20         895,94     2     2
+
+  30 TRES LAGOAS - BRASILANDIA  30 TRES LAGOAS - BRASILANDIA  30 TRES LAGOAS - BRASILANDIA
+3017 BRASILANDIA               19/10/23         629,0         156,25       5.450,83     3     7  30
+3076 TRES LAGOAS               21/10/23         493,0         162,80       6.998,11     8    13  30
+     Totais da Regiao:                        1.122,0         319,05      12.448,94    11    20     Totais da Regiao:                        1.122,0         319,05      12.448,94    11    20     Totais da Regiao:                        1.122,0         319,05      12.448,94    11    20
+
+  31 AMAMBAI - SETE QUEDAS  31 AMAMBAI - SETE QUEDAS  31 AMAMBAI - SETE QUEDAS
+3003 AMAMBAI                   20/10/23       1.045,0         612,57      28.390,31     9     9  31
+3025 CORONEL SAPUCAIA          19/10/23         324,0         155,72       5.023,82     6     6  31
+3058 PARANHOS                  20/10/23         687,0         208,51      11.437,58     2     3  31
+3070 SETE QUEDAS               19/10/23         122,0           9,67         841,37     1     1  31
+3073 TACURU                    19/10/23           5,0          66,30       1.049,22     1     1  31
+     Totais da Regiao:                        2.183,0       1.052,78      46.742,30    19    20     Totais da Regiao:                        2.183,0       1.052,78      46.742,30    19    20     Totais da Regiao:                        2.183,0       1.052,78      46.742,30    19    20
+
+  32 PONTA PORA  32 PONTA PORA  32 PONTA PORA
+3007 ANTONIO JOAO              20/10/23         120,0          42,72       1.884,00     1     1  32
+---------------------------------------------------------------------------------------------------------
+01                                                                   12 Faturamento   Ref:ft12368
+Filial: 00                                                                        Emissao    Hora   Folha
+                                           PRE-MAPA DE CARGA                      25/10/23   10:59   0002
+-----GRUPO TRIUNFANTE-------------------------------------------------------------Usuario: willian-------
+
+Cidade                         DtUltFat    Quantidade     Peso Bruto  Valor Entrega QtdEn QtdNF RegCidade                         DtUltFat    Quantidade     Peso Bruto  Valor Entrega QtdEn QtdNF RegCidade                         DtUltFat    Quantidade     Peso Bruto  Valor Entrega QtdEn QtdNF Reg
+
+3060 PONTA PORA                21/10/23       2.961,0         745,60      26.938,45    11    22  32
+     Totais da Regiao:                        3.081,0         788,32      28.822,45    12    23     Totais da Regiao:                        3.081,0         788,32      28.822,45    12    23     Totais da Regiao:                        3.081,0         788,32      28.822,45    12    23
+
+  33 AQUIDAUANA - ANASTACIO  33 AQUIDAUANA - ANASTACIO  33 AQUIDAUANA - ANASTACIO
+3004 ANASTACIO                 23/10/23         412,0          98,91       3.129,13     3     4  33
+3009 AQUIDAUANA                23/10/23          38,0          16,04       1.039,39     3     3  33
+     Totais da Regiao:                          450,0         114,95       4.168,52     6     7     Totais da Regiao:                          450,0         114,95       4.168,52     6     7     Totais da Regiao:                          450,0         114,95       4.168,52     6     7
+
+  34 CORUMBA - LADARIO  34 CORUMBA - LADARIO  34 CORUMBA - LADARIO
+3026 CORUMBA                   21/10/23       2.572,0         866,22      36.384,52    20    23  34
+3047 LADARIO                   19/10/23         368,0          47,79       3.047,80     3     3  34
+     Totais da Regiao:                        2.940,0         914,01      39.432,32    23    26     Totais da Regiao:                        2.940,0         914,01      39.432,32    23    26     Totais da Regiao:                        2.940,0         914,01      39.432,32    23    26
+
+  35 DOURADOS  35 DOURADOS  35 DOURADOS
+3032 DOURADOS                  24/10/23         881,0         186,06      10.812,27     9     9  35
+     Totais da Regiao:                          881,0         186,06      10.812,27     9     9     Totais da Regiao:                          881,0         186,06      10.812,27     9     9     Totais da Regiao:                          881,0         186,06      10.812,27     9     9
+
+  36 NOVA ALVORADA  36 NOVA ALVORADA  36 NOVA ALVORADA
+3054 NOVA ALVORADA DO SUL      20/10/23         639,0         255,98      10.129,84     5     9  36
+     Totais da Regiao:                          639,0         255,98      10.129,84     5     9     Totais da Regiao:                          639,0         255,98      10.129,84     5     9     Totais da Regiao:                          639,0         255,98      10.129,84     5     9
+
+  37 RIO BRILHANTE  37 RIO BRILHANTE  37 RIO BRILHANTE
+3063 RIO BRILHANTE             21/10/23         341,0         106,46       4.564,66     2     2  37
+     Totais da Regiao:                          341,0         106,46       4.564,66     2     2     Totais da Regiao:                          341,0         106,46       4.564,66     2     2     Totais da Regiao:                          341,0         106,46       4.564,66     2     2
+
+  38 SIDROLANDIA  38 SIDROLANDIA  38 SIDROLANDIA
+3071 SIDROLANDIA               20/10/23       1.213,0         827,91      18.072,51     2     6  38
+     Totais da Regiao:                        1.213,0         827,91      18.072,51     2     6     Totais da Regiao:                        1.213,0         827,91      18.072,51     2     6     Totais da Regiao:                        1.213,0         827,91      18.072,51     2     6
+
+  39 CHAPADAO -COSTA RICA  39 CHAPADAO -COSTA RICA  39 CHAPADAO -COSTA RICA
+3022 CASSILANDIA               21/10/23         524,0         166,20       5.610,89     4     4  39
+     Totais da Regiao:                          524,0         166,20       5.610,89     4     4     Totais da Regiao:                          524,0         166,20       5.610,89     4     4     Totais da Regiao:                          524,0         166,20       5.610,89     4     4
+
+  40 PARANAIBA - SELVIRIA  40 PARANAIBA - SELVIRIA  40 PARANAIBA - SELVIRIA
+3057 PARANAIBA                 21/10/23         371,0         195,46       6.498,43     7     9  40
+3069 SELVIRIA                  19/10/23         130,0          46,28       1.978,60     1     1  40
+     Totais da Regiao:                          501,0         241,74       8.477,03     8    10     Totais da Regiao:                          501,0         241,74       8.477,03     8    10     Totais da Regiao:                          501,0         241,74       8.477,03     8    10
+
+  41 RIO VERDE - SONORA  41 RIO VERDE - SONORA  41 RIO VERDE - SONORA
+3002 ALCINOPOLIS               29/09/23          27,0           7,19         447,43     1     2  41
+3028 COXIM                     20/10/23       1.311,0         528,60      24.848,84     5     8  41
+3059 PEDRO GOMES               13/10/23         340,0         163,71       6.500,95     2     4  41
+3065 RIO VERDE DE MATO GROSSO  19/10/23          37,0          36,83       1.544,14     1     2  41
+     Totais da Regiao:                        1.715,0         736,34      33.341,36     9    16     Totais da Regiao:                        1.715,0         736,34      33.341,36     9    16     Totais da Regiao:                        1.715,0         736,34      33.341,36     9    16
+
+  42 NAVIRAI  42 NAVIRAI  42 NAVIRAI
+3052 NAVIRAI                   21/10/23         553,0         302,67       8.220,36     5     6  42
+     Totais da Regiao:                          553,0         302,67       8.220,36     5     6     Totais da Regiao:                          553,0         302,67       8.220,36     5     6     Totais da Regiao:                          553,0         302,67       8.220,36     5     6
+
+  43 MUNDO NOVO - ITAQUIRAI  43 MUNDO NOVO - ITAQUIRAI  43 MUNDO NOVO - ITAQUIRAI
+3033 ELDORADO                  21/10/23         150,0          48,50       2.080,00     2     4  43
+---------------------------------------------------------------------------------------------------------
+01                                                                   12 Faturamento   Ref:ft12368
+Filial: 00                                                                        Emissao    Hora   Folha
+                                           PRE-MAPA DE CARGA                      25/10/23   10:59   0003
+-----GRUPO TRIUNFANTE-------------------------------------------------------------Usuario: willian-------
+
+Cidade                         DtUltFat    Quantidade     Peso Bruto  Valor Entrega QtdEn QtdNF RegCidade                         DtUltFat    Quantidade     Peso Bruto  Valor Entrega QtdEn QtdNF RegCidade                         DtUltFat    Quantidade     Peso Bruto  Valor Entrega QtdEn QtdNF Reg
+
+3037 IGUATEMI                  21/10/23          64,0          41,06         798,94     3     3  43
+3040 ITAQUIRAI                 21/10/23          29,0           7,16         290,39     1     1  43
+     Totais da Regiao:                          243,0          96,72       3.169,33     6     8     Totais da Regiao:                          243,0          96,72       3.169,33     6     8     Totais da Regiao:                          243,0          96,72       3.169,33     6     8
+
+  44 FATIMA DO SUL - DEODAPOLI  44 FATIMA DO SUL - DEODAPOLI  44 FATIMA DO SUL - DEODAPOLI
+3029 DEODAPOLIS                21/10/23          74,0          10,83         313,60     1     1  44
+3034 FATIMA DO SUL             21/10/23         937,0         210,18       9.774,21     4     4  44
+     Totais da Regiao:                        1.011,0         221,02      10.087,81     5     5     Totais da Regiao:                        1.011,0         221,02      10.087,81     5     5     Totais da Regiao:                        1.011,0         221,02      10.087,81     5     5
+
+  45 NOVA ANDRADINA - BATAYPOR  45 NOVA ANDRADINA - BATAYPOR  45 NOVA ANDRADINA - BATAYPOR
+3013 BATAIPORA                 23/10/23          53,0          10,23         488,64     2     2  45
+3055 NOVA ANDRADINA            23/10/23         100,0          60,24       1.107,47     2     2  45
+     Totais da Regiao:                          153,0          70,47       1.596,11     4     4     Totais da Regiao:                          153,0          70,47       1.596,11     4     4     Totais da Regiao:                          153,0          70,47       1.596,11     4     4
+
+  46 BELA VISTA - PORTO MURTIN  46 BELA VISTA - PORTO MURTIN  46 BELA VISTA - PORTO MURTIN
+3014 BELA VISTA                21/10/23         350,0          60,16       2.811,02     6     6  46
+3021 CARACOL                   20/10/23          59,0           7,36         487,60     1     1  46
+     Totais da Regiao:                          409,0          67,52       3.298,62     7     7     Totais da Regiao:                          409,0          67,52       3.298,62     7     7     Totais da Regiao:                          409,0          67,52       3.298,62     7     7
+
+  47 BONITO - NIOAQUE  47 BONITO - NIOAQUE  47 BONITO - NIOAQUE
+3016 BONITO                    20/10/23         979,0         446,41      18.400,30     9    13  47
+3044 JARDIM                    21/10/23         705,0         259,07      11.840,43     4     6  47
+     Totais da Regiao:                        1.684,0         705,48      30.240,73    13    19     Totais da Regiao:                        1.684,0         705,48      30.240,73    13    19     Totais da Regiao:                        1.684,0         705,48      30.240,73    13    19
+
+  48 MARACAJU  48 MARACAJU  48 MARACAJU
+3049 MARACAJU                  20/10/23         342,0         232,52       9.293,80    11    13  48
+     Totais da Regiao:                          342,0         232,52       9.293,80    11    13     Totais da Regiao:                          342,0         232,52       9.293,80    11    13     Totais da Regiao:                          342,0         232,52       9.293,80    11    13
+
+  49 GRANDES REDES DOURADOS  49 GRANDES REDES DOURADOS  49 GRANDES REDES DOURADOS
+3032 DOURADOS                  24/10/23       1.882,0         325,97      14.315,19     2     2  49
+     Totais da Regiao:                        1.882,0         325,97      14.315,19     2     2     Totais da Regiao:                        1.882,0         325,97      14.315,19     2     2     Totais da Regiao:                        1.882,0         325,97      14.315,19     2     2
+
+  51 CAMAPUA- BANDEI. JARAGUAR  51 CAMAPUA- BANDEI. JARAGUAR  51 CAMAPUA- BANDEI. JARAGUAR
+3011 BANDEIRANTES              30/09/23         215,0         109,53       4.051,94     3     4  51
+3019 CAMAPUA                   29/09/23         324,0         105,98       2.978,55     5     6  51
+3043 JARAGUARI                 29/09/23          13,0           5,59         128,12     1     1  51
+     Totais da Regiao:                          552,0         221,11       7.158,61     9    11     Totais da Regiao:                          552,0         221,11       7.158,61     9    11     Totais da Regiao:                          552,0         221,11       7.158,61     9    11
+
+ 302 AGUA CLARA 302 AGUA CLARA 302 AGUA CLARA
+3001 AGUA CLARA                19/10/23         306,0          56,22       2.264,97    11    11 302
+     Totais da Regiao:                          306,0          56,22       2.264,97    11    11     Totais da Regiao:                          306,0          56,22       2.264,97    11    11     Totais da Regiao:                          306,0          56,22       2.264,97    11    11
+
+ 321 PARANAIBA 321 PARANAIBA 321 PARANAIBA
+3038 INOCENCIA                 20/10/23          55,0          16,96         434,22     1     1 321
+3057 PARANAIBA                 21/10/23          14,0           4,24         367,70     2     2 321
+     Totais da Regiao:                           69,0          21,20         801,92     3     3     Totais da Regiao:                           69,0          21,20         801,92     3     3     Totais da Regiao:                           69,0          21,20         801,92     3     3
+
+ 330 DAMASCENO AQUIDAUANA 330 DAMASCENO AQUIDAUANA 330 DAMASCENO AQUIDAUANA
+3004 ANASTACIO                 23/10/23         183,0          19,00         509,96     2     2 330
+---------------------------------------------------------------------------------------------------------
+01                                                                   12 Faturamento   Ref:ft12368
+Filial: 00                                                                        Emissao    Hora   Folha
+                                           PRE-MAPA DE CARGA                      25/10/23   10:59   0004
+-----GRUPO TRIUNFANTE-------------------------------------------------------------Usuario: willian-------
+
+Cidade                         DtUltFat    Quantidade     Peso Bruto  Valor Entrega QtdEn QtdNF RegCidade                         DtUltFat    Quantidade     Peso Bruto  Valor Entrega QtdEn QtdNF RegCidade                         DtUltFat    Quantidade     Peso Bruto  Valor Entrega QtdEn QtdNF Reg
+
+3009 AQUIDAUANA                23/10/23       2.126,0         319,64       9.493,08     4     6 330
+     Totais da Regiao:                        2.309,0         338,65      10.003,04     6     8     Totais da Regiao:                        2.309,0         338,65      10.003,04     6     8     Totais da Regiao:                        2.309,0         338,65      10.003,04     6     8
+
+ 331 MIRANDA - BODOQUENA 331 MIRANDA - BODOQUENA 331 MIRANDA - BODOQUENA
+3050 MIRANDA                   21/10/23         339,0          42,57       1.410,52     4     4 331
+     Totais da Regiao:                          339,0          42,57       1.410,52     4     4     Totais da Regiao:                          339,0          42,57       1.410,52     4     4     Totais da Regiao:                          339,0          42,57       1.410,52     4     4
+
+ 335 ABV DOURADOS 335 ABV DOURADOS 335 ABV DOURADOS
+3032 DOURADOS                  24/10/23          14,0         173,28       2.507,58     2     2 335
+     Totais da Regiao:                           14,0         173,28       2.507,58     2     2     Totais da Regiao:                           14,0         173,28       2.507,58     2     2     Totais da Regiao:                           14,0         173,28       2.507,58     2     2
+
+ 336 ABV CD COMERCIO 336 ABV CD COMERCIO 336 ABV CD COMERCIO
+3032 DOURADOS                  24/10/23          12,0         149,23       2.190,24     1     1 336
+     Totais da Regiao:                           12,0         149,23       2.190,24     1     1     Totais da Regiao:                           12,0         149,23       2.190,24     1     1     Totais da Regiao:                           12,0         149,23       2.190,24     1     1
+
+ 370 REDE PIRES RIO BRILHANTE 370 REDE PIRES RIO BRILHANTE 370 REDE PIRES RIO BRILHANTE
+3063 RIO BRILHANTE             21/10/23           3,0          37,92         569,83     2     2 370
+     Totais da Regiao:                            3,0          37,92         569,83     2     2     Totais da Regiao:                            3,0          37,92         569,83     2     2     Totais da Regiao:                            3,0          37,92         569,83     2     2
+
+ 410 BENFICA - SAO GABRIELDO O 410 BENFICA - SAO GABRIELDO O 410 BENFICA - SAO GABRIELDO O
+3068 SAO GABRIEL DO OESTE      20/10/23         443,0         310,01       7.952,04     6     6 410
+     Totais da Regiao:                          443,0         310,01       7.952,04     6     6     Totais da Regiao:                          443,0         310,01       7.952,04     6     6     Totais da Regiao:                          443,0         310,01       7.952,04     6     6
+
+ 413 CORGUINHO - RIO NEGRO 413 CORGUINHO - RIO NEGRO 413 CORGUINHO - RIO NEGRO
+3024 CORGUINHO                 06/10/23         311,0         207,09       6.660,14     2     3 413
+3064 RIO NEGRO                 06/10/23         531,0         149,15       5.756,29     5     7 413
+3066 ROCHEDO                   06/10/23       1.247,0         544,29      20.332,79     2     5 413
+     Totais da Regiao:                        2.089,0         900,53      32.749,22     9    15     Totais da Regiao:                        2.089,0         900,53      32.749,22     9    15     Totais da Regiao:                        2.089,0         900,53      32.749,22     9    15
+
+ 422 REDE TRAZZI 422 REDE TRAZZI 422 REDE TRAZZI
+3020 CAMPO GRANDE              25/10/23         490,0          63,57       2.586,16     1     2 422
+     Totais da Regiao:                          490,0          63,57       2.586,16     1     2     Totais da Regiao:                          490,0          63,57       2.586,16     1     2     Totais da Regiao:                          490,0          63,57       2.586,16     1     2
+
+ 441 IVINHEMA - ANGELICA 441 IVINHEMA - ANGELICA 441 IVINHEMA - ANGELICA
+3041 IVINHEMA                  21/10/23         954,0         214,82       6.192,00     2     2 441
+     Totais da Regiao:                          954,0         214,82       6.192,00     2     2     Totais da Regiao:                          954,0         214,82       6.192,00     2     2     Totais da Regiao:                          954,0         214,82       6.192,00     2     2
+
+ 450 BATAGUASSU - SANTA RITA 450 BATAGUASSU - SANTA RITA 450 BATAGUASSU - SANTA RITA
+3012 BATAGUASSU                30/09/23       1.594,0         317,03      15.493,19     7     8 450
+3067 SANTA RITA DO PARDO       29/09/23         706,0         177,10       5.786,84     1     4 450
+     Totais da Regiao:                        2.300,0         494,13      21.280,03     8    12     Totais da Regiao:                        2.300,0         494,13      21.280,03     8    12     Totais da Regiao:                        2.300,0         494,13      21.280,03     8    12
+     Total Geral....:                        31.842,0      11.340,62     409.946,96   245   313     Total Geral....:                        31.842,0      11.340,62     409.946,96   245   313     Total Geral....:                        31.842,0      11.340,62     409.946,96   245   313

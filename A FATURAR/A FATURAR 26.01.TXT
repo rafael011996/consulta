@@ -1,0 +1,103 @@
+ g 
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+TCG - TRIUNFANTE MATOGROSSENSE ALIMENTOS                                                                                                                                                12 Faturamento          Ref:ft12308
+Filial: CAMPO GRANDE                                                                                                                                                                                 Emissao    Hora   Folha
+                                                                                                    PEDIDOS A FATURAR                                                                                26/01/24   13:08   0001
+-----GRUPO TRIUNFANTE--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------Usuario: willian-------
+
+0008   N   PJ GILMAR - AB - COXIM0008   N   PJ GILMAR - AB - COXIM0008   N   PJ GILMAR - AB - COXIM
+
+     Pedido *--------------Clientes-------------*  Margem  COF  Portador  Lista  Saldo DMC     Trocas Total Pedido Prazos      Situacao Dig/Imp Programado P.Broker  Repre Usuario  Reg QtdCx Cidade     Pedido *--------------Clientes-------------*  Margem  COF  Portador  Lista  Saldo DMC     Trocas Total Pedido Prazos      Situacao Dig/Imp Programado P.Broker  Repre Usuario  Reg QtdCx Cidade     Pedido *--------------Clientes-------------*  Margem  COF  Portador  Lista  Saldo DMC     Trocas Total Pedido Prazos      Situacao Dig/Imp Programado P.Broker  Repre Usuario  Reg QtdCx Cidade
+      3.486 JEAN CARLOS LEPAMARA  029434140000150    0,00 51201 PIX / DINH   01      19,74       0,00       658,38 000 000 000 2-LIB   24/01/24   24/01/24               8 willian  410 00001 SAO GABRIEL DO OESTE
+      3.489 BENFICA SUPERMERCADOS 037532249000158    0,00 51201 BANCO        01   5.747,23-      0,00    31.542,48 007 000 000 2-LIB   26/01/24   25/01/24               8 luiz     410 00100 SAO GABRIEL DO OESTE
+ 30.576.044 BENFICA SUPERMERCADOS 037532249000158    0,00 51201 ECOM BANCO   01     253,54       0,00     8.808,00 007 000 000 2-LIB   25/01/24   25/01/24               8          410 00069 SAO GABRIEL DO OESTE
+
+                                              Total Representante  Pedidos:       3      Valor:      41.008,86     Caixas:           0,00                                              Total Representante  Pedidos:       3      Valor:      41.008,86     Caixas:           0,00                                              Total Representante  Pedidos:       3      Valor:      41.008,86     Caixas:           0,00
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+0010   A   PJ CLAYTON - AB - MARACAJU0010   A   PJ CLAYTON - AB - MARACAJU0010   A   PJ CLAYTON - AB - MARACAJU
+
+ 30.563.687 SUPERMERCADO CERRADO  019943952000177    0,00 51234 ECOM BANCO   01      23,50       0,00       814,32 028 000 000 2-LIB   22/01/24   22/01/24              10          036 00005 NOVA ALVORADA DO SUL
+ 30.563.777 SUPERMERCADO CERRADO  019943952000177    0,00 51234 ECOM BANCO   01      30,10       0,00     1.041,00 028 000 000 2-LIB   22/01/24   22/01/24              10          036 00009 NOVA ALVORADA DO SUL
+ 50.272.234 SUPERMERCADO CERRADO  019943952000177    0,00 51234 ECOM BANCO   01      28,50       0,00       992,20 028 000 000 2-LIB   22/01/24   22/01/24              10          036 00004 NOVA ALVORADA DO SUL
+
+0010   E   PJ CLAYTON - AB - MARACAJU0010   E   PJ CLAYTON - AB - MARACAJU0010   E   PJ CLAYTON - AB - MARACAJU
+
+ 30.578.127 COMERCIAL DE ALIMENTO 011580120000121    0,00 51201 ECOM BANCO   01     111,86       0,00     3.899,76 028 035 042 0-DIG   26/01/24   26/01/24              10          038 00019 SIDROLANDIA
+ 30.578.183 COMERCIAL DE ALIMENTO 011580120000121    0,00 51201 ECOM BANCO   01      42,20       0,00     1.463,40 028 000 000 0-DIG   26/01/24   26/01/24              10          038 00015 SIDROLANDIA
+ 30.578.211 COMERCIAL DE ALIMENTO 011580120000121    0,00 51201 ECOM BANCO   01      14,88       0,00       510,84 028 000 000 0-DIG   26/01/24   26/01/24              10          038 00003 SIDROLANDIA
+ 50.286.108 COMERCIAL DE ALIMENTO 011580120000121    0,00 51201 ECOM BANCO   01      22,80       0,00       793,76 028 000 000 0-DIG   26/01/24   26/01/24              10          038 00003 SIDROLANDIA
+
+                                              Total Representante  Pedidos:       7      Valor:       9.515,28     Caixas:           0,00                                              Total Representante  Pedidos:       7      Valor:       9.515,28     Caixas:           0,00                                              Total Representante  Pedidos:       7      Valor:       9.515,28     Caixas:           0,00
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+0016   N   PJ CLAUDEIR - AB - B.VISTA-P.M0016   N   PJ CLAUDEIR - AB - B.VISTA-P.M0016   N   PJ CLAUDEIR - AB - B.VISTA-P.M
+
+ 30.574.228 SERENA E CIA LTDA     000201278000399    0,00 51201 ECOM BANCO   01       5,60       0,00       196,50 014 000 000 2-LIB   25/01/24   25/01/24              16          046 00001 CARACOL
+
+                                              Total Representante  Pedidos:       1      Valor:         196,50     Caixas:           0,00                                              Total Representante  Pedidos:       1      Valor:         196,50     Caixas:           0,00                                              Total Representante  Pedidos:       1      Valor:         196,50     Caixas:           0,00
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+0023   A   PJ LUCAS -AB-SATELITE0023   A   PJ LUCAS -AB-SATELITE0023   A   PJ LUCAS -AB-SATELITE
+
+      1.580 SUPERMERCADO GAUCHAO  035831943000221    0,00 51201 BANCO        01      49,91-      0,00     1.364,36 021 000 000 2-LIB   25/01/24   24/01/24              23 willian  036 00005 NOVA ALVORADA DO SUL
+ 30.573.856 SUPERMERCADO GAUCHAO  035831943000221    0,00 51201 ECOM BANCO   01      80,99       0,00     2.805,27 021 000 000 2-LIB   25/01/24   25/01/24              23          036 00020 NOVA ALVORADA DO SUL
+
+                                              Total Representante  Pedidos:       2      Valor:       4.169,63     Caixas:           0,00                                              Total Representante  Pedidos:       2      Valor:       4.169,63     Caixas:           0,00                                              Total Representante  Pedidos:       2      Valor:       4.169,63     Caixas:           0,00
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+0155   E   JULIO - A - VAREJO CG0155   E   JULIO - A - VAREJO CG0155   E   JULIO - A - VAREJO CG
+
+ 30.578.285 JDK ACOUGUE E MERCEAR 031325101000166    0,00 51201 ECOM BANCO   01      14,59       0,00       506,88 014 000 000 0-DIG   26/01/24   26/01/24             155          008 00003 CAMPO GRANDE
+
+                                              Total Representante  Pedidos:       1      Valor:         506,88     Caixas:           0,00                                              Total Representante  Pedidos:       1      Valor:         506,88     Caixas:           0,00                                              Total Representante  Pedidos:       1      Valor:         506,88     Caixas:           0,00
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+0201   N   PJ GERALDA - A - REDE CG.0201   N   PJ GERALDA - A - REDE CG.0201   N   PJ GERALDA - A - REDE CG.
+
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+TCG - TRIUNFANTE MATOGROSSENSE ALIMENTOS                                                                                                                                                12 Faturamento          Ref:ft12308
+Filial: CAMPO GRANDE                                                                                                                                                                                 Emissao    Hora   Folha
+                                                                                                    PEDIDOS A FATURAR                                                                                26/01/24   13:08   0002
+-----GRUPO TRIUNFANTE--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------Usuario: willian-------
+
+0201   N   PJ GERALDA - A - REDE CG.0201   N   PJ GERALDA - A - REDE CG.0201   N   PJ GERALDA - A - REDE CG.
+
+     Pedido *--------------Clientes-------------*  Margem  COF  Portador  Lista  Saldo DMC     Trocas Total Pedido Prazos      Situacao Dig/Imp Programado P.Broker  Repre Usuario  Reg QtdCx Cidade     Pedido *--------------Clientes-------------*  Margem  COF  Portador  Lista  Saldo DMC     Trocas Total Pedido Prazos      Situacao Dig/Imp Programado P.Broker  Repre Usuario  Reg QtdCx Cidade     Pedido *--------------Clientes-------------*  Margem  COF  Portador  Lista  Saldo DMC     Trocas Total Pedido Prazos      Situacao Dig/Imp Programado P.Broker  Repre Usuario  Reg QtdCx Cidade
+      2.553 F-076 SDB COMERCIO DE 009477652000510    0,00 51201 CARTEIRA     01     112,65-      0,00     4.619,85 035 000 000 1-BLO   26/01/24   26/01/24 12443404    201 luiz     015 00006 CAMPO GRANDE
+      2.554 F-077 SDB COMERCIO DE 009477652000609    0,00 51201 CARTEIRA     01     102,57-      0,00     3.791,06 035 000 000 1-BLO   26/01/24   26/01/24 12443405    201 luiz     014 00005 CAMPO GRANDE
+      2.555 F-078 SDB COMERCIO DE 009477652000781    0,00 51201 CARTEIRA     01      87,15-      0,00     2.272,69 035 000 000 1-BLO   26/01/24   26/01/24 12443406    201 luiz     013 00003 CAMPO GRANDE
+      2.565 C-072 SDB COMERCIO LT 009477652001320    0,00 51201 CARTEIRA     01     156,68-      0,00     3.264,04 035 000 000 0-DIG   26/01/24   26/01/24 12443393    201 luiz     014 00005 CAMPO GRANDE
+      2.566 C-086 SDB COMERCIO DE 009477652001915    0,00 51201 CARTEIRA     01      86,31-      0,00     2.616,31 035 000 000 0-DIG   26/01/24   26/01/24 12443394    201 luiz     016 00003 CAMPO GRANDE
+      2.567 C-099 SDB COMERCIO DE 009477652005589    0,00 51201 CARTEIRA     01     120,14-      0,00     3.676,19 035 000 000 0-DIG   26/01/24   26/01/24 12443395    201 luiz     013 00004 CAMPO GRANDE
+      2.568 C-102 SDB COMERCIO DE 009477652011988    0,00 51201 CARTEIRA     01     210,27-      0,00     4.678,24 035 000 000 0-DIG   26/01/24   26/01/24 12443396    201 luiz     012 00006 CAMPO GRANDE
+      2.569 C-134 SDB COMERCIO DE 009477652006399    0,00 51201 CARTEIRA     01     186,19-      0,00     3.930,79 035 000 000 0-DIG   26/01/24   26/01/24 12443397    201 luiz     013 00005 CAMPO GRANDE
+      2.570 C-144 SDB COMERCIO DE 009477652014570    0,00 51201 CARTEIRA     01     187,69-      0,00     4.948,53 035 000 000 0-DIG   26/01/24   26/01/24 12443398    201 luiz     342 00007 DOURADOS
+      2.571 C-045 SDB COMERCIO DE 009477652011473    0,00 51201 CARTEIRA     01      78,85-      0,00     2.451,62 035 000 000 0-DIG   26/01/24   26/01/24 12443399    201 luiz     012 00003 CAMPO GRANDE
+      2.572 C-330 SDB COMERCIO DE 009477652005902    0,00 51201 CARTEIRA     01      23,27-      0,00     1.510,54 035 000 000 0-DIG   26/01/24   26/01/24 12443400    201 luiz     015 00002 CAMPO GRANDE
+      2.573 C-060 SDB COMERCIO DE 009477652011120    0,00 51201 CARTEIRA     01     112,86-      0,00     2.140,38 035 000 000 0-DIG   26/01/24   26/01/24 12443401    201 luiz     012 00003 CAMPO GRANDE
+      2.574 C-642 SDB COMERCIO DE 009477652006127    0,00 51201 CARTEIRA     01      91,40-      0,00     2.268,44 035 000 000 0-DIG   26/01/24   26/01/24 12443403    201 luiz     011 00003 CAMPO GRANDE
+
+                                              Total Representante  Pedidos:      13      Valor:      42.168,68     Caixas:           0,00                                              Total Representante  Pedidos:      13      Valor:      42.168,68     Caixas:           0,00                                              Total Representante  Pedidos:      13      Valor:      42.168,68     Caixas:           0,00
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+0401   A   DOUGLAS - B - AS CAPITAL0401   A   DOUGLAS - B - AS CAPITAL0401   A   DOUGLAS - B - AS CAPITAL
+
+        556 SUPERMERCADO GAUCHAO  035831943000221    0,00 51201 BANCO        01       2,98-      0,00       921,20 028 000 000 2-LIB   23/01/24   22/01/24             401 willian  036 00004 NOVA ALVORADA DO SUL
+
+                                              Total Representante  Pedidos:       1      Valor:         921,20     Caixas:           0,00                                              Total Representante  Pedidos:       1      Valor:         921,20     Caixas:           0,00                                              Total Representante  Pedidos:       1      Valor:         921,20     Caixas:           0,00
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+0407   A   PJ KAMILLA - B - DOURADOS0407   A   PJ KAMILLA - B - DOURADOS0407   A   PJ KAMILLA - B - DOURADOS
+
+        692 SUPERMERCADO FORTALEZ 005472732000106    0,00 51201 BANCO        01     524,03-      0,00     9.137,33 021 027 000 0-DIG   26/01/24   29/01/24             407 luiz     049 00038 DOURADOS
+        693 SUPERMERCADO FORTALEZ 005472732000289    0,00 51201 BANCO        01     525,18-      0,00     8.856,24 021 027 034 0-DIG   26/01/24   29/01/24             407 luiz     049 00036 DOURADOS
+        694 SUPERMERCADO FORTALEZ 005472732000360    0,00 51201 BANCO        01     256,39-      0,00     4.811,57 021 027 034 0-DIG   26/01/24   29/01/24             407 willian  049 00018 DOURADOS
+        695 L R SUPERMERCADOS LTD 002349229000161    0,00 51201 BANCO        01     401,99-      0,00     5.761,76 021 027 034 0-DIG   26/01/24   29/01/24             407 luiz     049 00026 DOURADOS
+
+                                              Total Representante  Pedidos:       4      Valor:      28.566,90     Caixas:           0,00                                              Total Representante  Pedidos:       4      Valor:      28.566,90     Caixas:           0,00                                              Total Representante  Pedidos:       4      Valor:      28.566,90     Caixas:           0,00
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+                                              Total Representante  Pedidos:       0      Valor:           0,00     Caixas:           0,00                                              Total Representante  Pedidos:       0      Valor:           0,00     Caixas:           0,00                                              Total Representante  Pedidos:       0      Valor:           0,00     Caixas:           0,00
+
+                                                      Total Geral  Pedidos:      32      Valor:     127.053,93     Caixas:           0,00                                                      Total Geral  Pedidos:      32      Valor:     127.053,93     Caixas:           0,00                                                      Total Geral  Pedidos:      32      Valor:     127.053,93     Caixas:           0,00

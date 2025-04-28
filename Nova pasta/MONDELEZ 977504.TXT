@@ -1,0 +1,43 @@
+ M 
+------------------------------------------------------------------------------------------------------------------------------------------------------
+TCG - TRIUNFANTE MATOGROSSENSE ALIMENTOS                                                                          12 Faturamento          Ref:lf07500
+Filial: CAMPO GRANDE                                                                                                           Emissao    Hora   Folha
+                                                               ESPELHO DE NOTA FISCAL                                          04/01/24   16:09   0001
+-----GRUPO TRIUNFANTE----------------------------------------------------------------------------------------------------------Usuario: willian-------
+
+    Operacao: 02102 COMPRA P/ COMERCIALIZACAO                                            Serie: 015 Nota:      977.504
+
+Destinatario: A-MONDELEZ BRASIL LTDA.....-M-                   033.033.028/0036 04               Emissao: 26/12/23
+
+    Endereco: AV JOSE LUIZ MAZZALI 360      PARTE A     Numero:         Cidade: LOUVEIRA             UF: SP Telefone:
+
+  Chave NF-e: 35231233033028003604550150009775041320161300
+
+  Codigo    Qtd Uni Descricao                                 Custo Vig   Custo NF  Custo Rep   Unitario   Desc   Vlr.Desc         Total ICMS MBruta  Codigo    Qtd Uni Descricao                                 Custo Vig   Custo NF  Custo Rep   Unitario   Desc   Vlr.Desc         Total ICMS MBruta  Codigo    Qtd Uni Descricao                                 Custo Vig   Custo NF  Custo Rep   Unitario   Desc   Vlr.Desc         Total ICMS MBruta
+----------------------------------------------------------------------------------------------------------------------------------------------------
+  567541    135 CX  CHOC LACTA OREO....................68X90     231,27     230,34     231,27     223,09   0,00       0,00     31.096,24   07  33,00
+  575631    270 CX  CHOC LACTA DIAMANTE NEGRO LAKA.....68X80     230,34     230,34     230,34     223,09   0,00       0,00     62.192,16   07  33,00
+  673831    312 CX  CHOC LACTA AO LEITE................68X80     230,34     230,34     230,34     223,09   0,00       0,00     71.866,51   07  33,00
+  674051    540 CX  CHOC LACTA DIAMANTE NEGRO..........68X80     230,34     230,34     230,34     223,09   0,00       0,00    124.384,34   07  33,00
+  674311    540 CX  CHOC LACTA LAKA....................68X80     230,34     230,34     230,34     223,09   0,00       0,00    124.384,34   07  33,00
+  674351    540 CX  CHOC LACTA LAKA OREO...............68X80     230,34     230,34     230,34     223,09   0,00       0,00    124.384,34   07  33,00
+  674391    135 CX  CHOC LACTA SHOT....................68X80     230,34     230,34     230,34     223,09   0,00       0,00     31.096,08   07  33,00
+  528211    405 CX  CHOC LACTA OURO BRANCO............68X98G     231,27     230,34     231,27     223,09   0,00       0,00     93.288,74   07  33,00
+  528181    405 CX  CHOC LACTA SONHO DE VALSA.........68X98G     231,27     230,34     231,27     223,09   0,00       0,00     93.288,74   07  33,00
+                                                                                                   Total das Mercadorias:     732.185,45                                                                                                   Total das Mercadorias:     732.185,45
+
+                       Frete:           0,00 Seguro:           0,00 Outras:           0,00 IPI:      23.796,04  Total NF:     755.981,49
+                                                                                                         Total de Trocas:           0,00
+                                                                                                      Total de Descontos:           0,00
+Base de Calculo(1):     732.185,45 Aliquota.......(1):   7,00 Valor ICMS.....(1):      51.253,00
+Base de Calculo(2):           0,00 Aliquota.......(2):   0,00 Valor ICMS.....(2):           0,00
+Base de Calculo(3):           0,00 Aliquota.......(3):   0,00 Valor ICMS.....(3):           0,00
+Base de Calculo(4):           0,00 Aliquota.......(4):   0,00 Valor ICMS.....(4):           0,00
+Isento............:           0,00 Outros............:      23.796,04
+
+Setor: 0000 Pedido:       0 Portador: BANCO
+
+Motivo da Devolucao:
+
+Desdobramentos: Titulo             Vecto          Valor
+                     0009775040 23/01/24     755.981,49

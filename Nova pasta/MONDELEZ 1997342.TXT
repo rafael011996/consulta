@@ -1,0 +1,44 @@
+ M 
+------------------------------------------------------------------------------------------------------------------------------------------------------
+TCG - TRIUNFANTE MATOGROSSENSE ALIMENTOS                                                                          12 Faturamento   Ref:lf07500
+Filial: CAMPO GRANDE                                                                                                           Emissao    Hora   Folha
+                                                               ESPELHO DE NOTA FISCAL                                          13/10/23   16:37   0001
+-----GRUPO TRIUNFANTE----------------------------------------------------------------------------------------------------------Usuario: willian-------
+
+    Operacao: 02102 COMPRA P/ COMERCIALIZACAO                                            Serie: 015 Nota:    1.997.342
+
+Destinatario: A-MONDELEZ BRASIL-PASCOA...-M-                   033.033.028/0020 47               Emissao: 09/10/23
+
+    Endereco: AV JUSCELINO KUBITSCHEK 13300             Numero:         Cidade: CURITIBA             UF: PR Telefone:  41.341.8111
+
+  Chave NF-e: 41231033033028002047550150019973421167078322
+
+  Codigo    Qtd Uni Descricao                                 Custo Vig   Custo NF  Custo Rep   Unitario   Desc   Vlr.Desc         Total ICMS MBruta  Codigo    Qtd Uni Descricao                                 Custo Vig   Custo NF  Custo Rep   Unitario   Desc   Vlr.Desc         Total ICMS MBruta  Codigo    Qtd Uni Descricao                                 Custo Vig   Custo NF  Custo Rep   Unitario   Desc   Vlr.Desc         Total ICMS MBruta
+----------------------------------------------------------------------------------------------------------------------------------------------------
+  571491    192 CX  TANG GOIABA.......................180X18     128,44     118,30     128,44     118,29   0,00       0,00     22.713,03   07  29,50
+  571521    192 CX  TANG MANGA........................180X18     128,44     118,30     128,44     118,29   0,00       0,00     22.713,03   07  29,50
+  571541    384 CX  TANG LIMAO........................180X18     128,44     118,30     128,44     118,29   0,00       0,00     45.426,07   07  29,50
+  571601    384 CX  TANG LARANJA......................180X18     128,44     118,30     128,44     118,29   0,00       0,00     45.426,07   07  29,50
+  571631    192 CX  TANG TANGERINA....................180X18     128,44     118,30     128,44     118,29   0,00       0,00     22.713,03   07  29,50
+  571691    384 CX  TANG MARACUJA.....................180X18     128,44     118,30     128,44     118,29   0,00       0,00     45.426,07   07  29,50
+  571721    192 CX  TANG MORANGO......................180X18     128,44     118,30     128,44     118,29   0,00       0,00     22.713,03   07  29,50
+  571751    192 CX  TANG ABACAXI......................180X18     128,44     118,30     128,44     118,29   0,00       0,00     22.713,03   07  29,50
+  571781    384 CX  TANG UVA..........................180X18     128,44     118,30     128,44     118,29   0,00       0,00     45.426,07   07  29,50
+  571841    192 CX  TANG LARANJA MAMAO................180X18     128,44     118,30     128,44     118,29   0,00       0,00     22.713,03   07  29,50
+                                                                                                   Total das Mercadorias:     317.982,46                                                                                                   Total das Mercadorias:     317.982,46
+
+                       Frete:           0,00 Seguro:           0,00 Outras:           0,00 IPI:           0,00  Total NF:     317.982,46
+                                                                                                         Total de Trocas:           0,00
+                                                                                                      Total de Descontos:           0,00
+Base de Calculo(1):     317.982,46 Aliquota.......(1):   7,00 Valor ICMS.....(1):      22.258,74
+Base de Calculo(2):           0,00 Aliquota.......(2):   0,00 Valor ICMS.....(2):           0,00
+Base de Calculo(3):           0,00 Aliquota.......(3):   0,00 Valor ICMS.....(3):           0,00
+Base de Calculo(4):           0,00 Aliquota.......(4):   0,00 Valor ICMS.....(4):           0,00
+Isento............:           0,00 Outros............:           0,00
+
+Setor: 0000 Pedido:       0 Portador: BANCO
+
+Motivo da Devolucao:
+
+Desdobramentos: Titulo             Vecto          Valor
+                     0019973420 06/11/23     317.982,46

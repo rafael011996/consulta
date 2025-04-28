@@ -1,0 +1,332 @@
+ g 
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+TCG - TRIUNFANTE MATOGROSSENSE ALIMENTOS                                                                                                                                                12 Faturamento          Ref:ft12308
+Filial: CAMPO GRANDE                                                                                                                                                                                 Emissao    Hora   Folha
+                                                                                                    PEDIDOS A FATURAR                                                                                10/08/23   11:16   0001
+-----GRUPO TRIUNFANTE--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------Usuario: anapb---------
+
+0003   A   PJ LAURA - A - AQUIDAUANA0003   A   PJ LAURA - A - AQUIDAUANA0003   A   PJ LAURA - A - AQUIDAUANA
+
+     Pedido *--------------Clientes-------------*  Margem  COF  Portador  Lista  Saldo DMC     Trocas Total Pedido Prazos      Situacao Dig/Imp Programado P.Broker  Repre Usuario  Reg QtdCx Cidade     Pedido *--------------Clientes-------------*  Margem  COF  Portador  Lista  Saldo DMC     Trocas Total Pedido Prazos      Situacao Dig/Imp Programado P.Broker  Repre Usuario  Reg QtdCx Cidade     Pedido *--------------Clientes-------------*  Margem  COF  Portador  Lista  Saldo DMC     Trocas Total Pedido Prazos      Situacao Dig/Imp Programado P.Broker  Repre Usuario  Reg QtdCx Cidade
+      3.415 MANSUR LOPES DUARTE   004579237000120    0,00 51201 BANCO        01      57,77-      0,00       599,47 021 000 000 2-LIB   05/08/23   04/08/23               3 luiz     331 00004 MIRANDA
+      3.416 MANSUR LOPES DUARTE E 004579237000200    0,00 51234 BANCO        01      21,19-      0,00       239,95 021 000 000 2-LIB   05/08/23   04/08/23               3 luiz     331 00002 MIRANDA
+      3.417 SILVEIRA E BICUDO SUP 004677705000603    0,00 51201 BANCO        01      40,99-      0,00       508,92 028 000 000 2-LIB   05/08/23   04/08/23               3 luiz     033 00003 AQUIDAUANA
+      3.418 SILVEIRA E BICUDO SUP 004677705000522    0,00 51201 BANCO        01      27,88-      0,00       381,69 028 000 000 2-LIB   05/08/23   04/08/23               3 luiz     330 00002 AQUIDAUANA
+      3.419 SILVEIRA E BICUDO SUP 004677705000280    0,00 51201 BANCO        01      34,10-      0,00       445,30 028 000 000 2-LIB   05/08/23   04/08/23               3 luiz     330 00002 AQUIDAUANA
+      3.420 SILVEIRA E BICUDO SUP 004677705000441    0,00 51201 BANCO        01      27,88-      0,00       381,69 028 000 000 2-LIB   05/08/23   04/08/23               3 luiz     330 00002 ANASTACIO
+      3.421 SILVEIRA E BICUDO SUP 004677705000360    0,00 51201 BANCO        01      21,66-      0,00       318,08 028 000 000 2-LIB   05/08/23   04/08/23               3 luiz     330 00002 ANASTACIO
+      3.422 SILVEIRA E BICUDO SUP 004677705000107    0,00 51201 BANCO        01      27,88-      0,00       381,69 028 000 000 2-LIB   05/08/23   04/08/23               3 luiz     330 00002 ANASTACIO
+      3.423 BATISTA QUADROS E CIA 005348350000167    0,00 51201 BANCO        01      82,71       0,00     2.024,46 021 028 000 2-LIB   07/08/23   07/08/23               3 luiz     330 00015 AQUIDAUANA
+      3.424 BATISTA QUADROS E CIA 005348350000167    0,00 51201 BANCO        01     709,17-      0,00    10.529,72 021 028 000 2-LIB   08/08/23   07/08/23               3 anapb    330 00072 AQUIDAUANA
+      3.425 ANTONIO CARLOS COPPO  005284348000171    0,00 51201 BANCO        01       0,03-      0,00       265,48 021 000 000 2-LIB   08/08/23   08/08/23               3 anapb    033 00001 DOIS IRMAOS DO BURITI
+      3.428 MARTINS E CARRILHO LT 017967556000154    0,00 51201 BANCO        01     346,81-      0,00     1.530,49 021 028 000 2-LIB   10/08/23   08/08/23               3 anapb    033 00002 AQUIDAUANA
+    880.017 JOELCIO ANTONIO DA SI 015447576000179    0,00 51201 BANCO        01       0,00       0,00       465,96 022 000 000 2-LIB   10/08/23   09/08/23               3 anapb    033 00003 AQUIDAUANA
+
+                                              Total Representante  Pedidos:      13      Valor:      18.072,90     Caixas:           0,00                                              Total Representante  Pedidos:      13      Valor:      18.072,90     Caixas:           0,00                                              Total Representante  Pedidos:      13      Valor:      18.072,90     Caixas:           0,00
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+0004   A   PJ LUAN - AB - FATIMA DO SUL0004   A   PJ LUAN - AB - FATIMA DO SUL0004   A   PJ LUAN - AB - FATIMA DO SUL
+
+      2.215 JAIR MALDONADO JESUS  003899663000188    0,00 51201 BANCO        01      20,74       0,00       799,34 021 028 000 2-LIB   04/08/23   04/08/23               4 anapb    044 00002 VICENTINA
+      2.216 JORGE PAULO SILVA     005027616000170    0,00 51201 BANCO        01     135,04       0,00     3.249,46 028 000 000 2-LIB   05/08/23   04/08/23               4 anapb    044 00010 FATIMA DO SUL
+      2.217 EVA PINHEIRO HATAKEYA 012373895000199    0,00 51201 PIX / DINH   01       7,72       0,00       786,28 000 000 000 2-LIB   04/08/23   04/08/23               4 laryssa  044 00002 DEODAPOLIS
+      2.218 MARTINS CARLOS SILVA  036812758000171    0,00 51201 BANCO        01       6,98       0,00       318,44 028 000 000 2-LIB   04/08/23   04/08/23               4 luiz     044 00000 FATIMA DO SUL
+      2.219 V A GOMES E CIA LTDA  033189598000168    0,00 51234 BANCO        01       0,88       0,00       705,19 021 028 035 2-LIB   04/08/23   04/08/23               4 laryssa  044 00002 FATIMA DO SUL
+      2.220 APARECIDA DE SOUZA MO 015320207000110    0,00 51201 PIX / DINH   01       0,00       0,00       162,70 000 000 000 2-LIB   05/08/23   05/08/23               4 luiz     044 00000 VICENTINA
+      5.937 MACAUBA COMERCIO DE A 018201846000155    0,00 51234 PIX / DINH   01      25,24       0,00     4.612,14 000 000 000 2-LIB   09/08/23   08/08/23               4 anapb    044 00012 DEODAPOLIS
+      5.938 E M COSTA             046635557000108    0,00 51201 BANCO        01      29,49-      0,00       537,24 021 000 000 2-LIB   09/08/23   08/08/23               4 anapb    044 00002 FATIMA DO SUL
+      5.939 CELSINA ALVES PEREIRA 030937327000155    0,00 51201 BANCO        01       4,70-      0,00       836,26 028 000 000 2-LIB   09/08/23   08/08/23               4 anapb    044 00002 DEODAPOLIS
+      5.942 ABIR CRISPINIANO E FI 000551975000531    0,00 51201 BANCO        01      27,02       0,00       649,90 035 000 000 2-LIB   08/08/23   08/08/23               4 luiz     044 00002 DEODAPOLIS
+      5.943 E M COSTA             046635557000108    0,00 59922 BONIFICACA   01       0,00       0,00        44,19 000 000 000 2-LIB   09/08/23   08/08/23               4 luiz     044 00000 FATIMA DO SUL
+      5.946 MACAUBA COMERCIO DE A 018201846000155    0,00 51234 PIX / DINH   01       0,01-      0,00     2.952,62 000 000 000 2-LIB   09/08/23   08/08/23               4 anapb    044 00004 DEODAPOLIS
+      5.947 S. G CARDOSO LTDA     003047609000104    0,00 51201 BANCO        01      15,22       0,00     1.712,53 028 000 000 2-LIB   10/08/23   09/08/23               4 anapb    044 00014 GLORIA DE DOURADOS
+      5.948 DORIVAL BERSANI       005002689000107    0,00 51201 BANCO        01       0,04-      0,00       291,60 028 000 000 2-LIB   10/08/23   09/08/23               4 anapb    044 00001 GLORIA DE DOURADOS
+      5.949 SUPERMERCADO MIYAKE L 045127766000170    0,00 51201 BANCO        01       0,02-      0,00       233,56 021 000 000 2-LIB   09/08/23   09/08/23               4 luiz     044 00000 GLORIA DE DOURADOS
+      5.950 PELLIM E DE NADAI LTD 007027727000101    0,00 51201 BANCO        01      49,45       0,00     1.752,68 035 000 000 2-LIB   10/08/23   09/08/23               4 anapb    044 00007 GLORIA DE DOURADOS
+      5.951 LETICIA VIEIRA DA SIL 040965257000100    0,00 51234 BANCO        01       9,67-      0,00     1.581,12 021 000 000 2-LIB   10/08/23   09/08/23               4 anapb    044 00010 GLORIA DE DOURADOS
+      5.952 S. G CARDOSO LTDA     003047609000104    0,00 51201 BANCO        01      27,02       0,00     2.829,95 028 000 000 2-LIB   10/08/23   09/08/23               4 anapb    044 00009 GLORIA DE DOURADOS
+
+                                              Total Representante  Pedidos:      18      Valor:      24.055,20     Caixas:           0,00                                              Total Representante  Pedidos:      18      Valor:      24.055,20     Caixas:           0,00                                              Total Representante  Pedidos:      18      Valor:      24.055,20     Caixas:           0,00
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+0005   A   PJ JOAO CARLOS -AB- N.ANDRADI0005   A   PJ JOAO CARLOS -AB- N.ANDRADI0005   A   PJ JOAO CARLOS -AB- N.ANDRADI
+
+     12.710 ALEX DA SILVA BARBOSA 032726332000144    0,00 51234 BANCO        01       8,86-      0,00       435,55 021 000 000 2-LIB   05/08/23   04/08/23               5 anapb    045 00001 BATAIPORA
+     12.711 MATOS E SILVA LTDA    011311873000301    0,00 51201 BANCO        01      24,58       0,00       491,70 028 000 000 2-LIB   04/08/23   04/08/23               5 luiz     045 00001 NOVA ANDRADINA
+     12.712 SOUZA E QUEIROZ ALIME 007297361000190    0,00 51201 BANCO        01      32,78       0,00       655,66 028 000 000 2-LIB   04/08/23   04/08/23               5 luiz     045 00002 NOVA ANDRADINA
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+TCG - TRIUNFANTE MATOGROSSENSE ALIMENTOS                                                                                                                                                12 Faturamento          Ref:ft12308
+Filial: CAMPO GRANDE                                                                                                                                                                                 Emissao    Hora   Folha
+                                                                                                    PEDIDOS A FATURAR                                                                                10/08/23   11:16   0002
+-----GRUPO TRIUNFANTE--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------Usuario: anapb---------
+
+0005   A   PJ JOAO CARLOS -AB- N.ANDRADI0005   A   PJ JOAO CARLOS -AB- N.ANDRADI0005   A   PJ JOAO CARLOS -AB- N.ANDRADI
+
+     Pedido *--------------Clientes-------------*  Margem  COF  Portador  Lista  Saldo DMC     Trocas Total Pedido Prazos      Situacao Dig/Imp Programado P.Broker  Repre Usuario  Reg QtdCx Cidade     Pedido *--------------Clientes-------------*  Margem  COF  Portador  Lista  Saldo DMC     Trocas Total Pedido Prazos      Situacao Dig/Imp Programado P.Broker  Repre Usuario  Reg QtdCx Cidade     Pedido *--------------Clientes-------------*  Margem  COF  Portador  Lista  Saldo DMC     Trocas Total Pedido Prazos      Situacao Dig/Imp Programado P.Broker  Repre Usuario  Reg QtdCx Cidade
+     12.713 ANA PAULA DA SILVA SO 021381903000130    0,00 51234 BANCO        01      31,25-      0,00       317,90 021 000 000 2-LIB   05/08/23   04/08/23               5 anapb    045 00002 BATAIPORA
+     12.714 J C A DOS SANTOS      027149109000141    0,00 51234 BANCO        01     128,48-      0,00     1.572,07 014 021 028 2-LIB   05/08/23   04/08/23               5 anapb    045 00009 ANAURILANDIA
+     12.715 J C A DOS SANTOS      027149109000141    0,00 51234 BANCO        01       0,00       0,00       626,04 021 000 000 2-LIB   04/08/23   04/08/23               5 luiz     045 00007 ANAURILANDIA
+     12.716 ELIANE CASTAGNAZZI DA 016896684000191    0,00 51201 PIX / DINH   01       0,03-      0,00       233,55 000 000 000 2-LIB   04/08/23   04/08/23               5 anapb    045 00000 NOVA ANDRADINA
+     12.717 JOSE MANUEL DE JESUS  015901440000197    0,00 51201 BANCO        01       0,00       0,00       813,36 028 000 000 2-LIB   04/08/23   04/08/23               5 anapb    045 00002 BATAIPORA
+     12.718 SUPERMERCADO SANTOS E 003753165000122    0,00 51201 BANCO        01     128,49-      0,00     2.098,59 021 028 000 2-LIB   05/08/23   04/08/23               5 luiz     045 00016 NOVA ANDRADINA
+     12.719 QUEIROZ E SOUSA ALIME 005880618000298    0,00 51201 BANCO        01     318,23-      0,00     3.586,45 028 000 000 2-LIB   05/08/23   04/08/23               5 luiz     450 00012 BATAGUASSU
+     12.727 PAPACOSTA E PAPACOSTA 005670275000156    0,00 51201 BANCO        01      35,35-      0,00    11.699,36 021 028 035 2-LIB   09/08/23   08/08/23               5 anapb    045 00050 NOVA ANDRADINA
+ 30.257.702 W J ALIMENTOS EIRELI  033820141000100    0,00 51201 ECOM BANCO   01      38,76       0,00       817,92 021 000 000 2-LIB   04/08/23   04/08/23               5          045 00004 NOVA ANDRADINA
+ 30.257.712 A M DE MATOS EIRELI M 001460437000170    0,00 51234 ECOM BANCO   01      38,76       0,00       817,92 028 000 000 2-LIB   04/08/23   04/08/23               5          450 00004 SANTA RITA DO PARDO
+
+                                              Total Representante  Pedidos:      13      Valor:      24.166,07     Caixas:           0,00                                              Total Representante  Pedidos:      13      Valor:      24.166,07     Caixas:           0,00                                              Total Representante  Pedidos:      13      Valor:      24.166,07     Caixas:           0,00
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+0008   A   PJ GILMAR - AB - COXIM0008   A   PJ GILMAR - AB - COXIM0008   A   PJ GILMAR - AB - COXIM
+
+      2.887 CLEBERSON RODRIGUES X 037478996000155    0,00 51234 BANCO        01      40,12-      0,00     3.838,28 014 021 028 2-LIB   08/08/23   07/08/23               8 anapb    410 00022 SAO GABRIEL DO OESTE
+      2.893 COMERCIAL DE ALIMENTO 038251196000160    0,00 51234 BANCO        01      85,04       0,00     3.823,44 021 028 035 2-LIB   09/08/23   09/08/23               8 nichelle 041 00014 SONORA
+      2.897 COMERCIO DE ALIMENTOS 002795617000176    0,00 51201 BANCO        01     225,92-      0,00     1.047,08 014 021 028 2-LIB   10/08/23   09/08/23               8 anapb    410 00005 SAO GABRIEL DO OESTE
+      2.899 COMERCIAL DE ALIMENTO 038251196000160    0,00 51234 BANCO        01      10,88       0,00       217,62 028 000 000 2-LIB   09/08/23   09/08/23               8 nichelle 041 00000 SONORA
+      2.900 DISTRIBUIDORA DE ALIM 002339292000117    0,00 51234 BANCO        01      70,52       0,00     2.098,83 014 000 000 2-LIB   09/08/23   09/08/23               8 nichelle 041 00010 SONORA
+      2.901 VITAEURO COMERCIO DE  046427585000121    0,00 51201 BANCO        01      17,54       0,00       351,12 021 000 000 2-LIB   10/08/23   09/08/23               8 anapb    411 00002 SAO GABRIEL DO OESTE
+      2.902 ODAIR APARECIDO PEREI 015054698000103    0,00 51201 BANCO        01      74,35       0,00     4.425,56 014 021 028 2-LIB   10/08/23   09/08/23               8 anapb    410 00017 SAO GABRIEL DO OESTE
+
+                                              Total Representante  Pedidos:       7      Valor:      15.801,93     Caixas:           0,00                                              Total Representante  Pedidos:       7      Valor:      15.801,93     Caixas:           0,00                                              Total Representante  Pedidos:       7      Valor:      15.801,93     Caixas:           0,00
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+0009   Q   PJ MARCOS - AB - CHAPADAO0009   Q   PJ MARCOS - AB - CHAPADAO0009   Q   PJ MARCOS - AB - CHAPADAO
+
+          1 SUPER VALLE SUPERMERC 004265309000164    0,00 59967 CARTEIRA I   01       0,00       0,00        19,58 000 000 000 2-LIB   07/08/23   07/08/23               9 anapb    338 00002 CHAPADAO DO SUL
+
+                                              Total Representante  Pedidos:       1      Valor:          19,58     Caixas:           0,00                                              Total Representante  Pedidos:       1      Valor:          19,58     Caixas:           0,00                                              Total Representante  Pedidos:       1      Valor:          19,58     Caixas:           0,00
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+0011   A   PJ LUCIANA - A - TRES LAGOAS0011   A   PJ LUCIANA - A - TRES LAGOAS0011   A   PJ LUCIANA - A - TRES LAGOAS
+
+      4.478 MERCADO VILA NOVA LTD 017512540000157    0,00 51201 PIX / DINH   01       0,01-      0,00       538,70 000 000 000 2-LIB   04/08/23   04/08/23              11 anapb    030 00004 TRES LAGOAS
+      4.479 GALERIA DA CARNE LTDA 027927499000133    0,00 51234 BANCO        01       0,47-      0,00       210,18 021 000 000 2-LIB   05/08/23   04/08/23              11 luiz     030 00001 TRES LAGOAS
+      4.480 CRISTINA APARECIDA ME 014342819000141    0,00 51201 PIX / DINH   01       0,02-      0,00       124,51 000 000 000 2-LIB   07/08/23   07/08/23              11 luiz     030 00000 TRES LAGOAS
+      4.483 MILENE BOMFIM DA SILV 026042466000143    0,00 51201 PIX / DINH   01       0,04-      0,00       249,15 000 000 000 2-LIB   08/08/23   08/08/23              11 luiz     030 00002 TRES LAGOAS
+      4.486 ADRIANA FURINI SCARDU 039373892000101    0,00 51234 BANCO        01       6,79-      0,00       213,98 021 000 000 2-LIB   10/08/23   09/08/23              11 anapb    030 00001 TRES LAGOAS
+      4.489 ROSANA DOS SANTOS SIL 035500744000150    0,00 51234 PIX / DINH   01       0,00       0,00       153,77 000 000 000 2-LIB   09/08/23   09/08/23              11 nichelle 030 00001 TRES LAGOAS
+
+                                              Total Representante  Pedidos:       6      Valor:       1.490,29     Caixas:           0,00                                              Total Representante  Pedidos:       6      Valor:       1.490,29     Caixas:           0,00                                              Total Representante  Pedidos:       6      Valor:       1.490,29     Caixas:           0,00
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+0012   A   PJ JOELSON -AB- B.VISTA-BONITO0012   A   PJ JOELSON -AB- B.VISTA-BONITO0012   A   PJ JOELSON -AB- B.VISTA-BONITO
+
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+TCG - TRIUNFANTE MATOGROSSENSE ALIMENTOS                                                                                                                                                12 Faturamento          Ref:ft12308
+Filial: CAMPO GRANDE                                                                                                                                                                                 Emissao    Hora   Folha
+                                                                                                    PEDIDOS A FATURAR                                                                                10/08/23   11:16   0003
+-----GRUPO TRIUNFANTE--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------Usuario: anapb---------
+
+0012   A   PJ JOELSON -AB- B.VISTA-BONITO0012   A   PJ JOELSON -AB- B.VISTA-BONITO0012   A   PJ JOELSON -AB- B.VISTA-BONITO
+
+     Pedido *--------------Clientes-------------*  Margem  COF  Portador  Lista  Saldo DMC     Trocas Total Pedido Prazos      Situacao Dig/Imp Programado P.Broker  Repre Usuario  Reg QtdCx Cidade     Pedido *--------------Clientes-------------*  Margem  COF  Portador  Lista  Saldo DMC     Trocas Total Pedido Prazos      Situacao Dig/Imp Programado P.Broker  Repre Usuario  Reg QtdCx Cidade     Pedido *--------------Clientes-------------*  Margem  COF  Portador  Lista  Saldo DMC     Trocas Total Pedido Prazos      Situacao Dig/Imp Programado P.Broker  Repre Usuario  Reg QtdCx Cidade
+      3.090 MONICA SERPA GONCALVE 015116855000150    0,00 51201 BANCO        01      12,27       0,00       245,85 021 000 000 2-LIB   04/08/23   04/08/23              12 luiz     046 00000 BELA VISTA
+      3.091 FATIMA ROJA ME        013345225000121    0,00 51201 BANCO        01       0,00       0,00       207,79 021 000 000 2-LIB   08/08/23   07/08/23              12 anapb    047 00001 JARDIM
+      3.092 MERCADO TROPICAL LTDA 008744207000182    0,00 51201 PIX / DINH   01       6,10       0,00       122,50 000 000 000 2-LIB   08/08/23   07/08/23              12 anapb    047 00000 JARDIM
+      3.093 MERCADO BRILHANTE EIR 033012213000192    0,00 51201 BANCO        01       7,37-      0,00       213,28 028 000 000 2-LIB   09/08/23   08/08/23              12 anapb    047 00000 NIOAQUE
+      3.094 IVONETE GALVAO NOGUEI 037202868000184    0,00 51201 BANCO        01       6,31       0,00       304,58 028 000 000 2-LIB   08/08/23   08/08/23              12 luiz     047 00001 NIOAQUE
+      3.095 SERENA E CIA LTDA     000201278000399    0,00 51201 BANCO        01      21,09-      0,00       379,25 028 000 000 2-LIB   09/08/23   09/08/23              12 luiz     046 00001 CARACOL
+      3.096 SERENA E CIA LTDA     000201278000127    0,00 51201 BANCO        01      92,47-      0,00     1.695,46 028 000 000 2-LIB   09/08/23   08/08/23              12 luiz     046 00009 BELA VISTA
+      3.097 RENATA BARBOSA NOGUEI 003253472000144    0,00 51234 BANCO        01      95,38       0,00     1.907,92 028 000 000 2-LIB   09/08/23   08/08/23              12 anapb    047 00004 NIOAQUE
+
+                                              Total Representante  Pedidos:       8      Valor:       5.076,63     Caixas:           0,00                                              Total Representante  Pedidos:       8      Valor:       5.076,63     Caixas:           0,00                                              Total Representante  Pedidos:       8      Valor:       5.076,63     Caixas:           0,00
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+0014   A   LUA DOUGLAS  - A - CORUMBA0014   A   LUA DOUGLAS  - A - CORUMBA0014   A   LUA DOUGLAS  - A - CORUMBA
+
+      3.779 C.E.QUISPE ESCOBAR    018694628000108    0,00 51201 PIX / DINH   01      31,56-      0,00       324,55 000 000 000 2-LIB   10/08/23   09/08/23              14 anapb    034 00002 CORUMBA
+
+                                              Total Representante  Pedidos:       1      Valor:         324,55     Caixas:           0,00                                              Total Representante  Pedidos:       1      Valor:         324,55     Caixas:           0,00                                              Total Representante  Pedidos:       1      Valor:         324,55     Caixas:           0,00
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+0015   A   PJ GABRIEL - A - PONTA PORA0015   A   PJ GABRIEL - A - PONTA PORA0015   A   PJ GABRIEL - A - PONTA PORA
+
+      4.001 ERIC MARCELO M B VIEI 008107186000194    0,00 51201 BANCO        01      51,81-      0,00       509,94 021 000 000 2-LIB   05/08/23   04/08/23              15 luiz     031 00001 AMAMBAI
+      4.002 AIZAWA E SANTOS LTDA  020196124000100    0,00 51201 BANCO        01       6,67       0,00       215,34 021 000 000 2-LIB   07/08/23   07/08/23              15 luiz     032 00001 ANTONIO JOAO
+      4.003 ALEIDO FERNANDES EIRE 036939575000111    0,00 51234 PIX / DINH   01      13,40       0,00       268,08 000 000 000 2-LIB   07/08/23   07/08/23              15 luiz     032 00001 ANTONIO JOAO
+      4.004 COMERCIAL FENIX ALIME 004364799000156    0,00 51201 BANCO        01      33,70       0,00       801,00 021 028 000 2-LIB   09/08/23   08/08/23              15 anapb    032 00003 PONTA PORA
+
+                                              Total Representante  Pedidos:       4      Valor:       1.794,36     Caixas:           0,00                                              Total Representante  Pedidos:       4      Valor:       1.794,36     Caixas:           0,00                                              Total Representante  Pedidos:       4      Valor:       1.794,36     Caixas:           0,00
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+0018   A   PJ ROBSON -AB- ELDORADO0018   A   PJ ROBSON -AB- ELDORADO0018   A   PJ ROBSON -AB- ELDORADO
+
+      1.775 AMADA BENITEZ VALLEJO 033692738000116    0,00 51234 BANCO        01      29,49-      0,00       537,24 021 000 000 2-LIB   10/08/23   09/08/23              18 anapb    031 00002 PARANHOS
+      1.776 AMADA BENITEZ VALLEJO 033692738000116    0,00 59922 BONIFICACA   01       0,00       0,00        49,23 000 000 000 2-LIB   10/08/23   09/08/23              18 luiz     031 00000 PARANHOS
+
+                                              Total Representante  Pedidos:       2      Valor:         586,47     Caixas:           0,00                                              Total Representante  Pedidos:       2      Valor:         586,47     Caixas:           0,00                                              Total Representante  Pedidos:       2      Valor:         586,47     Caixas:           0,00
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+0021   A   PJ SIDMAR - AB - AGUA RIBAS0021   A   PJ SIDMAR - AB - AGUA RIBAS0021   A   PJ SIDMAR - AB - AGUA RIBAS
+
+      3.461 MARGARETE RAINHA DE J 036984669000102    0,00 51234 BANCO        01      13,40       0,00       339,12 021 000 000 2-LIB   07/08/23   07/08/23              21 anapb    302 00001 AGUA CLARA
+      3.462 DANUZA MARIA OLIVEIRA 044785898000126    0,00 51201 PIX / DINH   01      10,56       0,00       212,19 000 000 000 2-LIB   07/08/23   07/08/23              21 luiz     302 00001 AGUA CLARA
+      3.463 S A CORREA DE BRITO   042390004000173    0,00 51234 PIX / DINH   01       6,94       0,00       172,38 000 000 000 2-LIB   08/08/23   07/08/23              21 anapb    302 00000 AGUA CLARA
+      3.464 LOIDE VIEIRA POVOAS   034814588000139    0,00 51234 BANCO        01       0,00       0,00       207,79 021 000 000 2-LIB   08/08/23   07/08/23              21 anapb    302 00001 AGUA CLARA
+      3.465 RUY RODRIGUES PANIAGO 037577145000160    0,00 51201 BANCO        01      34,92       0,00       698,50 035 000 000 2-LIB   08/08/23   07/08/23              21 anapb    302 00005 AGUA CLARA
+      3.467 MARCIO CRUZ DA SILVA  037983776000189    0,00 51234 PIX / DINH   01       5,32       0,00       258,48 000 000 000 2-LIB   09/08/23   08/08/23              21 anapb    302 00001 AGUA CLARA
+      3.468 FRANCISCO OLIVEIRA HI 010359659000192    0,00 51201 PIX / DINH   01       6,15       0,00       123,56 000 000 000 2-LIB   09/08/23   08/08/23              21 anapb    302 00000 AGUA CLARA
+      3.469 ANA MARIA ESCOBAR BEN 015466190000104    0,00 51234 PIX / DINH   01       5,74-      0,00       107,64 000 000 000 2-LIB   09/08/23   08/08/23              21 anapb    302 00000 AGUA CLARA
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+TCG - TRIUNFANTE MATOGROSSENSE ALIMENTOS                                                                                                                                                12 Faturamento          Ref:ft12308
+Filial: CAMPO GRANDE                                                                                                                                                                                 Emissao    Hora   Folha
+                                                                                                    PEDIDOS A FATURAR                                                                                10/08/23   11:16   0004
+-----GRUPO TRIUNFANTE--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------Usuario: anapb---------
+
+0021   A   PJ SIDMAR - AB - AGUA RIBAS0021   A   PJ SIDMAR - AB - AGUA RIBAS0021   A   PJ SIDMAR - AB - AGUA RIBAS
+
+     Pedido *--------------Clientes-------------*  Margem  COF  Portador  Lista  Saldo DMC     Trocas Total Pedido Prazos      Situacao Dig/Imp Programado P.Broker  Repre Usuario  Reg QtdCx Cidade     Pedido *--------------Clientes-------------*  Margem  COF  Portador  Lista  Saldo DMC     Trocas Total Pedido Prazos      Situacao Dig/Imp Programado P.Broker  Repre Usuario  Reg QtdCx Cidade     Pedido *--------------Clientes-------------*  Margem  COF  Portador  Lista  Saldo DMC     Trocas Total Pedido Prazos      Situacao Dig/Imp Programado P.Broker  Repre Usuario  Reg QtdCx Cidade
+      3.470 CHURRASCARIA GRAMADAO 025246886000189    0,00 51234 BANCO        01       0,02-      0,00       311,42 021 000 000 2-LIB   09/08/23   09/08/23              21 luiz     302 00000 AGUA CLARA
+      3.471 MERCADO PAVANELI LTDA 045099016000131    0,00 51234 BANCO        01      66,65       0,00     1.951,90 014 021 028 2-LIB   10/08/23   09/08/23              21 anapb    302 00006 AGUA CLARA
+      3.472 IRMAOS MARQUES SUPERM 017218647000197    0,00 51201 BANCO        01       0,00       0,00       325,39 021 000 000 2-LIB   09/08/23   09/08/23              21 anapb    302 00001 AGUA CLARA
+      3.473 GEAN CARLOS RODRIGUES 029005624000183    0,00 51234 BANCO        01       2,56       0,00       204,37 021 000 000 2-LIB   09/08/23   09/08/23              21 anapb    302 00000 AGUA CLARA
+      3.474 NEILA CATARINA BORGES 009398035000103    0,00 51201 BANCO        01      13,45       0,00       270,06 021 000 000 2-LIB   09/08/23   09/08/23              21 anapb    302 00000 AGUA CLARA
+      3.475 ANGELA DA SILVA       012740998000140    0,00 51234 BANCO        01       0,70-      0,00       214,01 021 000 000 2-LIB   10/08/23   09/08/23              21 anapb    302 00000 AGUA CLARA
+      3.476 MARIA LUCIA SANTOS DE 043524349000135    0,00 51234 PIX / DINH   01       8,40-      0,00       102,44 000 000 000 2-LIB   10/08/23   09/08/23              21 anapb    302 00000 AGUA CLARA
+      3.478 J.A. DE SOUZA SANCHES 005438352000147    0,00 51234 PIX / DINH   01      13,12-      0,00       142,60 000 000 000 2-LIB   10/08/23   09/08/23              21 anapb    302 00000 AGUA CLARA
+
+                                              Total Representante  Pedidos:      16      Valor:       5.641,85     Caixas:           0,00                                              Total Representante  Pedidos:      16      Valor:       5.641,85     Caixas:           0,00                                              Total Representante  Pedidos:      16      Valor:       5.641,85     Caixas:           0,00
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+0023   A   PJ LUCAS -AB-SATELITE0023   A   PJ LUCAS -AB-SATELITE0023   A   PJ LUCAS -AB-SATELITE
+
+        813 MELO E CUENCA LTDA    008931657000265    0,00 51201 BANCO        01      66,21-      0,00       417,63 028 000 000 2-LIB   08/08/23   07/08/23              23 anapb    036 00002 NOVA ALVORADA DO SUL
+        825 ASSIS E PASSOS LTDA   003675544000222    0,00 51201 BANCO        01       0,01-      0,00       362,69 021 000 000 2-LIB   09/08/23   08/08/23              23 anapb    051 00000 CAMAPUA
+
+                                              Total Representante  Pedidos:       2      Valor:         780,32     Caixas:           0,00                                              Total Representante  Pedidos:       2      Valor:         780,32     Caixas:           0,00                                              Total Representante  Pedidos:       2      Valor:         780,32     Caixas:           0,00
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+0211   Q   PJ RODRIGO -AB- TRES LAGOAS0211   Q   PJ RODRIGO -AB- TRES LAGOAS0211   Q   PJ RODRIGO -AB- TRES LAGOAS
+
+          1 NOVA ESTRELA COMERCIO 012887219000133    0,00 59967 CARTEIRA I   01       0,00       0,00        74,50 000 000 000 2-LIB   07/08/23   07/08/23             211 luiz     303 00005 TRES LAGOAS
+
+                                              Total Representante  Pedidos:       1      Valor:          74,50     Caixas:           0,00                                              Total Representante  Pedidos:       1      Valor:          74,50     Caixas:           0,00                                              Total Representante  Pedidos:       1      Valor:          74,50     Caixas:           0,00
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+0215   A   PJ JOSE FRANCISCO -B- REDE SOL0215   A   PJ JOSE FRANCISCO -B- REDE SOL0215   A   PJ JOSE FRANCISCO -B- REDE SOL
+
+        131 AUTO POSTO BERLITZ LT 015455827000167    0,00 51201 BANCO        01       0,05-      0,00       727,51 014 000 000 2-LIB   07/08/23   05/08/23             215 anapb    031 00001 AMAMBAI
+
+                                              Total Representante  Pedidos:       1      Valor:         727,51     Caixas:           0,00                                              Total Representante  Pedidos:       1      Valor:         727,51     Caixas:           0,00                                              Total Representante  Pedidos:       1      Valor:         727,51     Caixas:           0,00
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+0243   Q   PJ MARCELO - B - AS REDE VRA0243   Q   PJ MARCELO - B - AS REDE VRA0243   Q   PJ MARCELO - B - AS REDE VRA
+
+          1 VRA COMERCIO LTDA     002318826000633    0,00 59967 CARTEIRA I   01       0,00       0,00        19,58 000 000 000 2-LIB   04/08/23   04/08/23             243 luiz     339 00002 COSTA RICA
+
+                                              Total Representante  Pedidos:       1      Valor:          19,58     Caixas:           0,00                                              Total Representante  Pedidos:       1      Valor:          19,58     Caixas:           0,00                                              Total Representante  Pedidos:       1      Valor:          19,58     Caixas:           0,00
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+0410   A   PJ CLAYTON - B - MARACAJU0410   A   PJ CLAYTON - B - MARACAJU0410   A   PJ CLAYTON - B - MARACAJU
+
+      2.850 ROSELI CHAMORRO RUIZ  047418392000177    0,00 51234 BANCO        01      32,15-      0,00       369,70 021 000 000 2-LIB   09/08/23   08/08/23             410 anapb    037 00001 RIO BRILHANTE
+      2.866 EDNA APARECIDA DE ARA 022528895000174    0,00 51234 BANCO        01      18,04       0,00       361,20 021 000 000 2-LIB   10/08/23   10/08/23             410 anapb    037 00001 RIO BRILHANTE
+    880.010 MAYFA SUPERMERCADO LT 010380264000333    0,00 51201 BANCO        01      75,32-      0,00       286,63 027 000 000 2-LIB   10/08/23   09/08/23             410 anapb    037 00001 RIO BRILHANTE
+
+                                              Total Representante  Pedidos:       3      Valor:       1.017,53     Caixas:           0,00                                              Total Representante  Pedidos:       3      Valor:       1.017,53     Caixas:           0,00                                              Total Representante  Pedidos:       3      Valor:       1.017,53     Caixas:           0,00
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+TCG - TRIUNFANTE MATOGROSSENSE ALIMENTOS                                                                                                                                                12 Faturamento          Ref:ft12308
+Filial: CAMPO GRANDE                                                                                                                                                                                 Emissao    Hora   Folha
+                                                                                                    PEDIDOS A FATURAR                                                                                10/08/23   11:16   0005
+-----GRUPO TRIUNFANTE--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------Usuario: anapb---------
+
+0411   A   PJ CLARA -B- TRES LAGOAS0411   A   PJ CLARA -B- TRES LAGOAS0411   A   PJ CLARA -B- TRES LAGOAS
+
+     Pedido *--------------Clientes-------------*  Margem  COF  Portador  Lista  Saldo DMC     Trocas Total Pedido Prazos      Situacao Dig/Imp Programado P.Broker  Repre Usuario  Reg QtdCx Cidade     Pedido *--------------Clientes-------------*  Margem  COF  Portador  Lista  Saldo DMC     Trocas Total Pedido Prazos      Situacao Dig/Imp Programado P.Broker  Repre Usuario  Reg QtdCx Cidade     Pedido *--------------Clientes-------------*  Margem  COF  Portador  Lista  Saldo DMC     Trocas Total Pedido Prazos      Situacao Dig/Imp Programado P.Broker  Repre Usuario  Reg QtdCx Cidade
+      4.930 ALFREDO IVO PIMENTEL  008491657000100    0,00 51201 BANCO        01       0,93       0,00       202,77 021 000 000 2-LIB   04/08/23   04/08/23             411 anapb    030 00000 TRES LAGOAS
+      4.931 DROGARIA SAO MATHEUS  008587193000130    0,00 51201 PIX / DINH   01       4,59       0,00       172,20 000 000 000 2-LIB   04/08/23   04/08/23             411 anapb    030 00000 TRES LAGOAS
+      4.932 DROGARIA ODEON LTDA   000199752000638    0,00 51201 BANCO        01       6,46       0,00       373,02 021 000 000 2-LIB   04/08/23   04/08/23             411 anapb    030 00001 TRES LAGOAS
+      4.934 JAINARA CAROLINA SANT 022852470000116    0,00 51201 BANCO        01       5,08       0,00     2.009,99 014 021 028 2-LIB   04/08/23   04/08/23             411 anapb    030 00007 TRES LAGOAS
+      4.935 THALINY DIAS RIBEIRO  048315092000125    0,00 51234 PIX / DINH   01       6,48       0,00       629,36 000 000 000 2-LIB   04/08/23   04/08/23             411 anapb    030 00001 TRES LAGOAS
+      4.936 PALOMA DA SILVA BARBO 034480402000152    0,00 51234 PIX / DINH   01       0,61       0,00       229,43 000 000 000 2-LIB   05/08/23   04/08/23             411 anapb    030 00000 TRES LAGOAS
+      4.937 CRISTINA APARECIDA ME 014342819000141    0,00 51201 PIX / DINH   01       0,02-      0,00       155,70 000 000 000 2-LIB   04/08/23   04/08/23             411 laryssa  030 00000 TRES LAGOAS
+      4.938 JOSE EDUARDO TURIBIO  025125696000103    0,00 51201 BANCO        01       3,12       0,00     1.109,00 014 021 028 2-LIB   05/08/23   04/08/23             411 anapb    030 00003 TRES LAGOAS
+      4.939 DAVI RODRIGO SARVIANO 029685764000140    0,00 51234 BANCO        01       2,86       0,00     1.777,06 014 021 000 2-LIB   07/08/23   07/08/23             411 luiz     030 00006 TRES LAGOAS
+      4.940 MALIBU COM. DE BEBIDA 042434758000188    0,00 51201 BANCO        01      47,97-      0,00       453,41 014 021 000 2-LIB   08/08/23   07/08/23             411 anapb    030 00001 TRES LAGOAS
+      4.941 PAULO IZIDIO BENTO DE 027117047000196    0,00 51201 PIX / DINH   01       0,40       0,00       158,42 000 000 000 2-LIB   07/08/23   07/08/23             411 luiz     030 00000 TRES LAGOAS
+      4.942 SUPERMERCADO BEIRA RI 008608892000209    0,00 51201 BANCO        01       7,34       0,00       708,07 021 000 000 2-LIB   07/08/23   07/08/23             411 luiz     030 00002 BRASILANDIA
+      4.944 COPACABANA CONVENIENC 020763673000100    0,00 51201 BANCO        01      14,61       0,00     1.286,35 014 000 000 2-LIB   08/08/23   08/08/23             411 luiz     030 00003 TRES LAGOAS
+      4.946 MERCADO SKINAO VARIED 047856694000127    0,00 51234 PIX / DINH   01       0,00       0,00       101,50 000 000 000 2-LIB   09/08/23   08/08/23             411 anapb    030 00000 TRES LAGOAS
+      4.947 MERCADO SKINAO VARIED 047856694000127    0,00 51234 PIX / DINH   01       0,00       0,00       100,42 000 000 000 2-LIB   09/08/23   09/08/23             411 anapb    030 00000 TRES LAGOAS
+      4.948 MERCADO SKINAO VARIED 047856694000127    0,00 51234 PIX / DINH   01       4,70-      0,00       139,96 000 000 000 2-LIB   10/08/23   10/08/23             411 anapb    030 00000 TRES LAGOAS
+      4.950 EMPORIO BUCHMANN COM  034049257000150    0,00 51201 PIX / DINH   01       1,86       0,00       123,20 000 000 000 2-LIB   09/08/23   09/08/23             411 luiz     030 00000 TRES LAGOAS
+      4.951 EMPORIO E CONVENIENCI 040544248000138    0,00 51234 PIX / DINH   01       0,00       0,00       174,60 000 000 000 2-LIB   10/08/23   09/08/23             411 anapb    030 00000 TRES LAGOAS
+      4.953 JADERSOM BARROS TEIXE 032097576000105    0,00 51234 PIX / DINH   01       0,01-      0,00       141,29 000 000 000 2-LIB   10/08/23   10/08/23             411 anapb    030 00001 TRES LAGOAS
+
+                                              Total Representante  Pedidos:      19      Valor:      10.045,75     Caixas:           0,00                                              Total Representante  Pedidos:      19      Valor:      10.045,75     Caixas:           0,00                                              Total Representante  Pedidos:      19      Valor:      10.045,75     Caixas:           0,00
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+0413   A   PJ EZEQUIAS - B - AQUIDAUANA0413   A   PJ EZEQUIAS - B - AQUIDAUANA0413   A   PJ EZEQUIAS - B - AQUIDAUANA
+
+      5.800 LUCIANA ALEM MACIEL M 006129040000114    0,00 51201 BANCO        01      12,27       0,00       486,52 021 000 000 2-LIB   08/08/23   08/08/23             413 luiz     033 00001 ANASTACIO
+      5.801 GIOVANA PAES BARBOSA  037362249000157    0,00 51234 BANCO        01      10,55-      0,00       213,68 021 000 000 2-LIB   09/08/23   08/08/23             413 anapb    033 00000 AQUIDAUANA
+      5.802 JOELCIO ANTONIO DA SI 015447576000179    0,00 51201 BANCO        01       0,05-      0,00       221,89 028 000 000 2-LIB   09/08/23   08/08/23             413 anapb    033 00000 AQUIDAUANA
+      5.803 EVERALDO DE OLIVEIRA  017184625000153    0,00 51234 PIX / DINH   01       0,01-      0,00       128,25 000 000 000 2-LIB   09/08/23   09/08/23             413 luiz     033 00000 ANASTACIO
+      5.804 ELISAMA DA SILVA MONT 024562973000182    0,00 51234 PIX / DINH   01       0,00       0,00       282,15 000 000 000 2-LIB   09/08/23   09/08/23             413 luiz     033 00001 ANASTACIO
+      5.805 PAMELLA DOS SANTOS CO 032836147000102    0,00 51234 PIX / DINH   01       0,04-      0,00       462,52 000 000 000 2-LIB   09/08/23   09/08/23             413 nichelle 033 00001 ANASTACIO
+      5.806 MARILEIDE ABILIO      022000942000102    0,00 51234 PIX / DINH   01       0,01-      0,00       128,60 000 000 000 2-LIB   09/08/23   09/08/23             413 nichelle 033 00000 ANASTACIO
+
+0413   Q   PJ EZEQUIAS - B - AQUIDAUANA0413   Q   PJ EZEQUIAS - B - AQUIDAUANA0413   Q   PJ EZEQUIAS - B - AQUIDAUANA
+
+          1 GILDA SILVA           034432961000197    0,00 59967 CARTEIRA I   01       0,00       0,00       268,04 000 000 000 2-LIB   04/08/23   04/08/23             413 luiz     033 00001 AQUIDAUANA
+
+                                              Total Representante  Pedidos:       8      Valor:       2.191,65     Caixas:           0,00                                              Total Representante  Pedidos:       8      Valor:       2.191,65     Caixas:           0,00                                              Total Representante  Pedidos:       8      Valor:       2.191,65     Caixas:           0,00
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+0414   A   PJ ELISANDRA - B - CORUMBA0414   A   PJ ELISANDRA - B - CORUMBA0414   A   PJ ELISANDRA - B - CORUMBA
+
+      6.383 SUPERMERCADO FERNANDE 046876542000123    0,00 51201 BANCO        01      32,78       0,00       655,66 028 035 000 2-LIB   09/08/23   09/08/23             414 luiz     034 00002 CORUMBA
+      6.384 CAMILA FLORES ALVAREZ 029757307000113    0,00 51201 BANCO        01       9,35-      0,00       229,79 021 000 000 2-LIB   10/08/23   09/08/23             414 anapb    034 00001 CORUMBA
+      6.385 CONVENIENCIA MANSILLA 030768043000182    0,00 51234 BANCO        01      22,68       0,00       454,70 021 000 000 2-LIB   09/08/23   09/08/23             414 anapb    034 00001 CORUMBA
+      6.386 CARVALHO E IMADA LTDA 008187164000181    0,00 51234 BANCO        01       3,63       0,00       206,74 021 000 000 2-LIB   09/08/23   09/08/23             414 anapb    034 00000 CORUMBA
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+TCG - TRIUNFANTE MATOGROSSENSE ALIMENTOS                                                                                                                                                12 Faturamento          Ref:ft12308
+Filial: CAMPO GRANDE                                                                                                                                                                                 Emissao    Hora   Folha
+                                                                                                    PEDIDOS A FATURAR                                                                                10/08/23   11:16   0006
+-----GRUPO TRIUNFANTE--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------Usuario: anapb---------
+
+0414   A   PJ ELISANDRA - B - CORUMBA0414   A   PJ ELISANDRA - B - CORUMBA0414   A   PJ ELISANDRA - B - CORUMBA
+
+     Pedido *--------------Clientes-------------*  Margem  COF  Portador  Lista  Saldo DMC     Trocas Total Pedido Prazos      Situacao Dig/Imp Programado P.Broker  Repre Usuario  Reg QtdCx Cidade     Pedido *--------------Clientes-------------*  Margem  COF  Portador  Lista  Saldo DMC     Trocas Total Pedido Prazos      Situacao Dig/Imp Programado P.Broker  Repre Usuario  Reg QtdCx Cidade     Pedido *--------------Clientes-------------*  Margem  COF  Portador  Lista  Saldo DMC     Trocas Total Pedido Prazos      Situacao Dig/Imp Programado P.Broker  Repre Usuario  Reg QtdCx Cidade
+      6.387 M S DO CARMO EIRELI   023300377000161    0,00 51201 PIX / DINH   01       8,18       0,00       163,90 000 000 000 2-LIB   09/08/23   09/08/23             414 nichelle 034 00000 CORUMBA
+      6.388 ATACADO FERNANDES GEN 005415585000205    0,00 51201 BANCO        01      41,98       0,00     1.371,50 028 035 042 2-LIB   10/08/23   09/08/23             414 anapb    340 00010 CORUMBA
+      6.389 ATACADO FERNANDES GEN 005415585000124    0,00 51201 BANCO        01     110,15-      0,00     3.159,85 028 035 042 2-LIB   10/08/23   09/08/23             414 anapb    340 00010 CORUMBA
+
+                                              Total Representante  Pedidos:       7      Valor:       6.242,14     Caixas:           0,00                                              Total Representante  Pedidos:       7      Valor:       6.242,14     Caixas:           0,00                                              Total Representante  Pedidos:       7      Valor:       6.242,14     Caixas:           0,00
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+0415   A   PJ TATIANI - B - PONTA PORA0415   A   PJ TATIANI - B - PONTA PORA0415   A   PJ TATIANI - B - PONTA PORA
+
+      4.645 FERNANDES E AIZAWA LT 013728231000168    0,00 51234 BANCO        01       0,06-      0,00       501,30 021 000 000 2-LIB   04/08/23   04/08/23             415 anapb    032 00001 ANTONIO JOAO
+      4.646 SUPERMERCADO KAIO EIR 010454480000114    0,00 51234 BANCO        01       0,00       0,00     4.360,16 014 021 028 2-LIB   08/08/23   07/08/23             415 anapb    032 00014 ANTONIO JOAO
+      4.647 GONCALVES E GONCALVES 009520930000140    0,00 51201 BANCO        01       0,03-      0,00       296,37 021 000 000 2-LIB   07/08/23   07/08/23             415 anapb    032 00000 PONTA PORA
+      4.648 LUCIA I.V. MAKSOUD ME 033755075000131    0,00 51201 BANCO        01      14,00-      0,00     2.558,08 014 021 028 2-LIB   08/08/23   07/08/23             415 anapb    032 00011 PONTA PORA
+      4.649 PASSOS E FRANCO LTDA  024616864000109    0,00 51201 BANCO        01       0,01-      0,00     1.071,63 021 000 000 2-LIB   07/08/23   07/08/23             415 anapb    032 00005 PONTA PORA
+      4.650 CONVENIENCIA CAMARGO  017847774000155    0,00 51201 BANCO        01      17,67       0,00       759,97 014 021 028 2-LIB   08/08/23   08/08/23             415 luiz     032 00002 PONTA PORA
+      4.651 MERCADO BEIRA RIO EIR 009636136000167    0,00 51234 BANCO        01      76,75-      0,00     2.284,58 014 021 028 2-LIB   09/08/23   08/08/23             415 anapb    032 00006 PONTA PORA
+      4.652 ALEIDO FERNANDES EIRE 036939575000111    0,00 51234 BANCO        01       7,62-      0,00       716,74 014 021 028 2-LIB   09/08/23   08/08/23             415 anapb    032 00002 ANTONIO JOAO
+      4.653 FIUSA CONVENIENCIA LT 034937993000144    0,00 51234 BANCO        01      10,88       0,00       303,49 021 000 000 2-LIB   09/08/23   09/08/23             415 luiz     032 00000 PONTA PORA
+
+                                              Total Representante  Pedidos:       9      Valor:      12.852,32     Caixas:           0,00                                              Total Representante  Pedidos:       9      Valor:      12.852,32     Caixas:           0,00                                              Total Representante  Pedidos:       9      Valor:      12.852,32     Caixas:           0,00
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+0437   A   JHONATAN - B - VJ DOURADOS0437   A   JHONATAN - B - VJ DOURADOS0437   A   JHONATAN - B - VJ DOURADOS
+
+      1.414 CLAUDIA RAQUEL BARBOS 040216351000159    0,00 51234 BANCO        01       0,32       0,00       335,80 021 000 000 2-LIB   09/08/23   09/08/23             437 luiz     035 00001 DOURADOS
+      1.415 JOAO ADMAR CUSTODIO L 023190679000124    0,00 51234 BANCO        01       8,30-      0,00       695,21 014 021 028 2-LIB   10/08/23   09/08/23             437 anapb    035 00001 DOURADOS
+      1.416 N C PEDROSO           037286934000141    0,00 51234 PIX / DINH   01       1,62       0,00       157,34 000 000 000 2-LIB   09/08/23   09/08/23             437 anapb    035 00000 DOURADOS
+      1.417 DIEGO VALENZUELA LOPE 031030481000101    0,00 51234 BANCO        01       0,77       0,00       316,38 021 000 000 2-LIB   09/08/23   09/08/23             437 nichelle 035 00001 DOURADOS
+
+                                              Total Representante  Pedidos:       4      Valor:       1.504,73     Caixas:           0,00                                              Total Representante  Pedidos:       4      Valor:       1.504,73     Caixas:           0,00                                              Total Representante  Pedidos:       4      Valor:       1.504,73     Caixas:           0,00
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+0989   A   ECOMMERCE WHATSAPP0989   A   ECOMMERCE WHATSAPP0989   A   ECOMMERCE WHATSAPP
+
+    880.079 MERCADO FENIX EIRELI  010567059000110    0,00 51201 BANCO        01     409,33-      0,00     2.309,39 029 000 000 2-LIB   07/08/23   05/08/23             989 anapb    037 00007 RIO BRILHANTE
+    880.080 MAYFA SUPERMERCADO LT 010380264000171    0,00 51234 BANCO        01      75,32-      0,00       286,63 027 000 000 2-LIB   09/08/23   09/08/23             989 nichelle 037 00001 RIO BRILHANTE
+    880.084 APARECIDA VELASQUES D 011591548000170    0,00 51201 PIX / DINH   01       0,03-      0,00       268,89 000 000 000 2-LIB   09/08/23   09/08/23             989 nichelle 033 00001 ANASTACIO
+
+                                              Total Representante  Pedidos:       3      Valor:       2.864,91     Caixas:           0,00                                              Total Representante  Pedidos:       3      Valor:       2.864,91     Caixas:           0,00                                              Total Representante  Pedidos:       3      Valor:       2.864,91     Caixas:           0,00
+
+                                                      Total Geral  Pedidos:     147      Valor:     135.350,77     Caixas:           0,00                                                      Total Geral  Pedidos:     147      Valor:     135.350,77     Caixas:           0,00                                                      Total Geral  Pedidos:     147      Valor:     135.350,77     Caixas:           0,00

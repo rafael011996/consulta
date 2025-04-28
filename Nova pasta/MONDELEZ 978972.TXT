@@ -1,0 +1,76 @@
+ M 
+------------------------------------------------------------------------------------------------------------------------------------------------------
+TCG - TRIUNFANTE MATOGROSSENSE ALIMENTOS                                                                          12 Faturamento          Ref:lf07500
+Filial: CAMPO GRANDE                                                                                                           Emissao    Hora   Folha
+                                                               ESPELHO DE NOTA FISCAL                                          11/01/24   17:36   0001
+-----GRUPO TRIUNFANTE----------------------------------------------------------------------------------------------------------Usuario: willian-------
+
+    Operacao: 02102 COMPRA P/ COMERCIALIZACAO                                            Serie: 015 Nota:      978.972
+
+Destinatario: A-MONDELEZ BRASIL LTDA.....-M-                   033.033.028/0036 04               Emissao: 06/01/24
+
+    Endereco: AV JOSE LUIZ MAZZALI 360      PARTE A     Numero:         Cidade: LOUVEIRA             UF: SP Telefone:
+
+  Chave NF-e: 35240133033028003604550150009789721624810173
+
+  Codigo    Qtd Uni Descricao                                 Custo Vig   Custo NF  Custo Rep   Unitario   Desc   Vlr.Desc         Total ICMS MBruta  Codigo    Qtd Uni Descricao                                 Custo Vig   Custo NF  Custo Rep   Unitario   Desc   Vlr.Desc         Total ICMS MBruta  Codigo    Qtd Uni Descricao                                 Custo Vig   Custo NF  Custo Rep   Unitario   Desc   Vlr.Desc         Total ICMS MBruta
+----------------------------------------------------------------------------------------------------------------------------------------------------
+  756031      6 CX  CLIGHT UVA........................150x8G     131,16     130,70     131,16     130,69   0,00       0,00        784,19   07  32,50
+  966371      5 CX  CLIGHT LARANJA....................150x8G     131,16     130,70     131,16     130,69   0,00       0,00        653,49   07  32,50
+  569941      8 CX  FRESH UVA 2L ADOCADO.............150X15G     102,00     101,60     102,00     101,60   0,00       0,00        812,83   07  33,50
+  979101      5 CX  GELATINA ROYAL UVA...............6x15x25      94,03      93,65      94,03      93,65   0,00       0,00        468,25   07  35,00
+ 6070101      5 CX  GELATINA ROYAL ABACAXI...........6x15x25      94,03      93,65      94,03      93,65   0,00       0,00        468,25   07  35,00
+  322901     10 CX  GELATINA ROYAL SEM SABOR INCOLOR...48x24     243,08     243,07     243,08     243,07   0,00       0,00      2.430,71   07  35,00
+ 7898121      8 CX  BUBBALOO SM MORANGO..............40x10x5      59,05      59,05      59,05      57,19   0,00       0,00        472,42   07  35,00
+   29001      3 CX  HALLS MELANCIA...................630X28G     488,08     485,33     488,08     470,05   0,00       0,00      1.456,00   07  33,00
+ 2640001      8 CX  HALLS CEREJA.....................630X28G     488,08     485,33     488,08     470,05   0,00       0,00      3.882,66   07  33,00
+  896001     10 CX  HALLS EXTRA FORTE................630X27G     488,08     485,34     488,08     470,05   0,00       0,00      4.853,35   07  33,00
+   75201      1 CX  HALLS MENTA PRATA.................630X28     488,08     485,33     488,08     470,05   0,00       0,00        485,33   07  33,00
+   91001      4 CX  HALLS UVA VERDE..................630X28G     488,08     485,34     488,08     470,06   0,00       0,00      1.941,36   07  33,00
+   72601      3 CX  HALLS MENTA .....................630X28G     488,08     485,33     488,08     470,05   0,00       0,00      1.456,00   07  33,00
+   78981      7 CX  TRIDENT HORTELA 5S.................672x8     757,00     756,55     757,00     756,54   0,00       0,00      5.295,83   07  32,50
+  789141      3 CX  TRIDENT MENTA 5S...................672x8     757,00     756,55     757,00     756,54   0,00       0,00      2.269,64   07  32,50
+  789421      4 CX  TRIDENT MELANCIA 5S................672x8     757,00     756,55     757,00     756,54   0,00       0,00      3.026,18   07  32,50
+  789851      4 CX  TRIDENT SM MELANCIA...............40x4x8     146,15     145,59     146,15     145,58   0,00       0,00        582,35   07  32,50
+   48051      2 CX  TRIDENT SM MORANGO................40X4X8     146,15     145,59     146,15     145,58   0,00       0,00        291,17   07  32,50
+ 7899581      9 CX  TRIDENT SM MENTA..................40X4X8     146,15     145,58     146,15     145,58   0,00       0,00      1.310,26   07  32,50
+  345051      2 CX  TRIDENT MAX MENTABERRY..........336X16.5     562,71     559,95     562,71     559,95   0,00       0,00      1.119,90   07  32,50
+  635111      1 CX  TRIDENT MAX HORTELA.............336X16.5     562,71     559,96     562,71     559,96   0,00       0,00        559,96   07  32,50
+  570391     10 CX  TRIDENT GARRAFA MORANGO LIMAO......36X54     186,70     186,70     186,70     186,69   0,00       0,00      1.866,95   04  34,50
+  573481      2 CX  TRIDENT 14S BLUEBERRY...........144x25.2     418,53     416,57     418,53     416,56   0,00       0,00        833,13   07  32,50
+  768471      3 CX  TRIDENT 14S MELANCIA............144x25.2     418,53     416,57     418,53     416,57   0,00       0,00      1.249,71   07  32,50
+   40161      7 CX  TRIDENT TUTTI FRUTTI 5S............672x8     757,00     756,55     757,00     756,54   0,00       0,00      5.295,83   07  32,50
+  976001      4 CX  TRIDENT XFRESH CEREJA 5S...........672X8     757,00     756,55     757,00     756,54   0,00       0,00      3.026,18   07  32,50
+   84601      3 CX  BISC BELVITA MACA E CANELA.......36X3X25      99,09      98,74      99,09      98,74   0,00       0,00        296,22   07  37,00
+   14101      5 CX  BISC BELVITA MEL E CACAU.........12X9X25      88,96      88,96      88,96      88,96   0,00       0,00        444,81   07  36,20
+  828611     54 CX  BISC CLUB SC.RECHE QUE TOM....42X04X26.5     115,92     115,25     115,92     115,24   0,00       0,00      6.223,29   07  33,00
+   82881      5 CX  BISC CLUB SOCIAL CROST QUEIJO...30X04X20      82,60      82,32      82,60      82,31   0,00       0,00        411,59   07  33,00
+  565551      2 CX  BISC CHOCOLICIA...................45X132     124,37     124,02     124,37     124,01   0,00       0,00        248,03   07  37,00
+  837371      1 CX  BISCOITO CHOCOOKY CHOCOLATE.......48X120     230,21     229,58     230,21     229,58   0,00       0,00        229,58   07  35,50
+  735541      7 CX  BISC OREO CHOC MULTIPAC LMPM.....16X3X90      80,48      80,14      80,48      80,13   0,00       0,00        560,96   07  34,50
+  794761     59 CX  BISC OREO ORIG MULTIPAC LMPM.....16X3X90      83,88      80,14      83,88      80,13   0,00       0,00      4.728,13   07  34,50
+  830121     10 CX  BISC OREO ORIGINAL..............28X04X36      89,70      89,35      89,70      89,34   0,00       0,00        893,47   07  34,50
+  830141     10 CX  BISC OREO ORIGINAL..............16X08X36     111,29     110,92     111,29     110,92   0,00       0,00      1.109,24   07  34,50
+   87351     16 CX  BISC OREO CHOCOLATE...............28X144      89,70      89,35      89,70      89,34   0,00       0,00      1.429,57   07  34,50
+------------------------------------------------------------------------------------------------------------------------------------------------------
+TCG - TRIUNFANTE MATOGROSSENSE ALIMENTOS                                                                          12 Faturamento          Ref:lf07500
+Filial: CAMPO GRANDE                                                                                                           Emissao    Hora   Folha
+                                                               ESPELHO DE NOTA FISCAL                                          11/01/24   17:36   0002
+-----GRUPO TRIUNFANTE----------------------------------------------------------------------------------------------------------Usuario: willian-------
+                                                                                                   Total das Mercadorias:      63.008,92                                                                                                   Total das Mercadorias:      63.008,92
+
+                       Frete:           0,00 Seguro:           0,00 Outras:           0,00 IPI:         457,90  Total NF:      63.466,82
+                                                                                                         Total de Trocas:           0,00
+                                                                                                      Total de Descontos:           0,00
+Base de Calculo(1):      61.141,97 Aliquota.......(1):   7,00 Valor ICMS.....(1):       4.279,93
+Base de Calculo(2):       1.866,95 Aliquota.......(2):   4,00 Valor ICMS.....(2):          74,68
+Base de Calculo(3):           0,00 Aliquota.......(3):   0,00 Valor ICMS.....(3):           0,00
+Base de Calculo(4):           0,00 Aliquota.......(4):   0,00 Valor ICMS.....(4):           0,00
+Isento............:           0,00 Outros............:         457,90
+
+Setor: 0000 Pedido:       0 Portador: BANCO
+
+Motivo da Devolucao:
+
+Desdobramentos: Titulo             Vecto          Valor
+                     0009789720 03/02/24      63.466,82

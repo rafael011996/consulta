@@ -1,0 +1,50 @@
+ g 
+---------------------------------------------------------------------------------------------------------
+01                                                                   12 Faturamento          Ref:ft12368
+Filial: 00                                                                        Emissao    Hora   Folha
+                                           PRE-MAPA DE CARGA                      12/04/24   12:55   0001
+-----GRUPO TRIUNFANTE-------------------------------------------------------------Usuario: willian-------
+
+Cidade                            DtUltFat    Quantidade     Peso Bruto  Valor Entrega QtdEn QtdNF RegCidade                            DtUltFat    Quantidade     Peso Bruto  Valor Entrega QtdEn QtdNF RegCidade                            DtUltFat    Quantidade     Peso Bruto  Valor Entrega QtdEn QtdNF Reg
+
+
+     36 NOVA ALVORADA     36 NOVA ALVORADA     36 NOVA ALVORADA
+5002704 CAMPO GRANDE              12/04/24           1,0           1,98         147,20     1     1  36
+5006002 NOVA ALVORADA DO SUL      30/03/24         156,0         181,71       7.322,83     4    11  36
+        Totais da Regiao:                          157,0         183,69       7.470,03     5    12        Totais da Regiao:                          157,0         183,69       7.470,03     5    12        Totais da Regiao:                          157,0         183,69       7.470,03     5    12
+
+     37 RIO BRILHANTE     37 RIO BRILHANTE     37 RIO BRILHANTE
+5007208 RIO BRILHANTE             05/04/24         182,0          51,09       2.135,35     5     8  37
+        Totais da Regiao:                          182,0          51,09       2.135,35     5     8        Totais da Regiao:                          182,0          51,09       2.135,35     5     8        Totais da Regiao:                          182,0          51,09       2.135,35     5     8
+
+     45 NOVA ANDRADINA - BATAYPOR     45 NOVA ANDRADINA - BATAYPOR     45 NOVA ANDRADINA - BATAYPOR
+5002001 BATAYPORA                 05/04/24         178,0          44,77       1.582,75     3     3  45
+5006200 NOVA ANDRADINA            05/04/24           6,0           3,96         550,94     1     1  45
+        Totais da Regiao:                          184,0          48,73       2.133,69     4     4        Totais da Regiao:                          184,0          48,73       2.133,69     4     4        Totais da Regiao:                          184,0          48,73       2.133,69     4     4
+
+    301 RIBAS DO RIO PARDO    301 RIBAS DO RIO PARDO    301 RIBAS DO RIO PARDO
+5007109 RIBAS DO RIO PARDO        05/04/24         347,0         114,73       3.041,68     3     3 301
+        Totais da Regiao:                          347,0         114,73       3.041,68     3     3        Totais da Regiao:                          347,0         114,73       3.041,68     3     3        Totais da Regiao:                          347,0         114,73       3.041,68     3     3
+
+    330 DAMASCENO AQUIDAUANA    330 DAMASCENO AQUIDAUANA    330 DAMASCENO AQUIDAUANA
+5000708 ANASTACIO                 12/04/24       1.990,0         708,44      31.899,70     2     2 330
+5001102 AQUIDAUANA                12/04/24          40,0          14,24         641,20     1     1 330
+        Totais da Regiao:                        2.030,0         722,68      32.540,90     3     3        Totais da Regiao:                        2.030,0         722,68      32.540,90     3     3        Totais da Regiao:                        2.030,0         722,68      32.540,90     3     3
+
+    370 REDE PIRES RIO BRILHANTE    370 REDE PIRES RIO BRILHANTE    370 REDE PIRES RIO BRILHANTE
+5007208 RIO BRILHANTE             05/04/24          77,0          22,76       3.090,61     3     3 370
+        Totais da Regiao:                           77,0          22,76       3.090,61     3     3        Totais da Regiao:                           77,0          22,76       3.090,61     3     3        Totais da Regiao:                           77,0          22,76       3.090,61     3     3
+
+    413 CORGUINHO - RIO NEGRO    413 CORGUINHO - RIO NEGRO    413 CORGUINHO - RIO NEGRO
+5008008 TERENOS                   02/04/24         212,0          39,69       1.714,70     1     2 413
+        Totais da Regiao:                          212,0          39,69       1.714,70     1     2        Totais da Regiao:                          212,0          39,69       1.714,70     1     2        Totais da Regiao:                          212,0          39,69       1.714,70     1     2
+
+    427 OLIVEIRA E CARNEIRO    427 OLIVEIRA E CARNEIRO    427 OLIVEIRA E CARNEIRO
+5002704 CAMPO GRANDE              12/04/24           2,0           3,96         300,28     1     1 427
+        Totais da Regiao:                            2,0           3,96         300,28     1     1        Totais da Regiao:                            2,0           3,96         300,28     1     1        Totais da Regiao:                            2,0           3,96         300,28     1     1
+
+    450 BATAGUASSU - SANTA RITA    450 BATAGUASSU - SANTA RITA    450 BATAGUASSU - SANTA RITA
+5001904 BATAGUASSU                05/04/24       1.412,0         364,02      13.820,26    15    23 450
+5007554 SANTA RITA DO PARDO       30/03/24         124,0          36,43       1.779,11     3     4 450
+        Totais da Regiao:                        1.536,0         400,46      15.599,37    18    27        Totais da Regiao:                        1.536,0         400,46      15.599,37    18    27        Totais da Regiao:                        1.536,0         400,46      15.599,37    18    27
+        Total Geral....:                         4.727,0       1.587,81      68.026,61    43    63        Total Geral....:                         4.727,0       1.587,81      68.026,61    43    63        Total Geral....:                         4.727,0       1.587,81      68.026,61    43    63
