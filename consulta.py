@@ -2,9 +2,9 @@ import pandas as pd
 import streamlit as st
 
 # Carregar CSV
-@st.cache_data
 def carregar_dados():
-    return pd.read_csv('produtos.csv', delimiter=';', encoding='utf-8')  # Ajuste o delimitador e encoding conforme seu CSV
+    return pd.read_csv('produtos.csv', delimiter=';', encoding='utf-8')
+
 
 # Interface do app
 st.title('Consulta de Saldo de Produtos')
