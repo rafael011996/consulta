@@ -2,8 +2,11 @@ import pandas as pd
 import streamlit as st
 
 # Carregar CSV
+@st.cache_data(ttl=0)
 def carregar_dados():
-    return pd.read_csv('produtos.csv', delimiter=';', encoding='utf-8')
+    url = 'https://raw.githubusercontent.com/rafael011996/consulta/main/produtos.csv
+'
+    return pd.read_csv(url, delimiter=';', encoding='utf-8')
 
 
 # Interface do app
