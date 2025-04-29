@@ -1,6 +1,6 @@
 import pandas as pd
 import streamlit as st
-
+st.set_page_config(page_title="Consulta de Produtos", layout="wide")  # <-- AQUI
 # Carregar CSV
 @st.cache_data(ttl=0)
 def carregar_dados():
