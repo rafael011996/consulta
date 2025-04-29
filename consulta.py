@@ -14,7 +14,8 @@ st.title('Consulta de Saldo de Produtos')
 dados = carregar_dados()
 
 # Mostrar somente colunas relevantes
-dados = dados[['Produto', 'Produto Fornecedor', 'Descricao', 'Saldo', 'Multiplo', 'Fator Conversao', 'Data Ult. Compra', 'Qtde Ult. Compra']]
+dados = dados[['Produto', 'Produto Fornecedor', 'Descricao', 'Saldo', 'Multiplo', 'Fator Conversao', 'Data Ult. Compra', 'Qtde Ult. Compra', 'NCM
+', 'CEST', '% IPI']]
 
 # Entrada de busca
 consulta = st.text_input('Digite o Código ou parte da Descrição do Produto:')
