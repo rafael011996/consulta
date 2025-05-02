@@ -1,106 +1,0 @@
- g 
----------------------------------------------------------------------------------------------------------
-01                                                                   12 Faturamento   Ref:ft12368
-Filial: 00                                                                        Emissao    Hora   Folha
-                                           PRE-MAPA DE CARGA                      15/08/23   11:01   0001
------GRUPO TRIUNFANTE-------------------------------------------------------------Usuario: anapb---------
-
-Cidade                         DtUltFat    Quantidade     Peso Bruto  Valor Entrega QtdEn QtdNF RegCidade                         DtUltFat    Quantidade     Peso Bruto  Valor Entrega QtdEn QtdNF RegCidade                         DtUltFat    Quantidade     Peso Bruto  Valor Entrega QtdEn QtdNF Reg
-
-
-  22 PIRES SID.A  22 PIRES SID.A  22 PIRES SID.A
-3020 CAMPO GRANDE              15/08/23          50,0          46,78       2.071,64     1     1  22
-     Totais da Regiao:                           50,0          46,78       2.071,64     1     1     Totais da Regiao:                           50,0          46,78       2.071,64     1     1     Totais da Regiao:                           50,0          46,78       2.071,64     1     1
-
-  23 PIRES SID.B  23 PIRES SID.B  23 PIRES SID.B
-3020 CAMPO GRANDE              15/08/23         129,0          86,02       4.647,33     2     2  23
-     Totais da Regiao:                          129,0          86,02       4.647,33     2     2     Totais da Regiao:                          129,0          86,02       4.647,33     2     2     Totais da Regiao:                          129,0          86,02       4.647,33     2     2
-
-  24 PIRES CENTRO  24 PIRES CENTRO  24 PIRES CENTRO
-3020 CAMPO GRANDE              15/08/23          60,0          49,48       2.555,14     1     1  24
-     Totais da Regiao:                           60,0          49,48       2.555,14     1     1     Totais da Regiao:                           60,0          49,48       2.555,14     1     1     Totais da Regiao:                           60,0          49,48       2.555,14     1     1
-
-  26 PIRES SAO PAULO.B  26 PIRES SAO PAULO.B  26 PIRES SAO PAULO.B
-3020 CAMPO GRANDE              15/08/23          75,0          51,22       2.718,87     1     1  26
-     Totais da Regiao:                           75,0          51,22       2.718,87     1     1     Totais da Regiao:                           75,0          51,22       2.718,87     1     1     Totais da Regiao:                           75,0          51,22       2.718,87     1     1
-
-  27 PIRES ROCHEDO  27 PIRES ROCHEDO  27 PIRES ROCHEDO
-3020 CAMPO GRANDE              15/08/23         153,0         110,93       5.864,29     3     3  27
-     Totais da Regiao:                          153,0         110,93       5.864,29     3     3     Totais da Regiao:                          153,0         110,93       5.864,29     3     3     Totais da Regiao:                          153,0         110,93       5.864,29     3     3
-
-  29 PIRES GUAICURUS  29 PIRES GUAICURUS  29 PIRES GUAICURUS
-3020 CAMPO GRANDE              15/08/23          82,0          52,45       2.972,19     1     1  29
-     Totais da Regiao:                           82,0          52,45       2.972,19     1     1     Totais da Regiao:                           82,0          52,45       2.972,19     1     1     Totais da Regiao:                           82,0          52,45       2.972,19     1     1
-
-  30 TRES LAGOAS - BRASILANDIA  30 TRES LAGOAS - BRASILANDIA  30 TRES LAGOAS - BRASILANDIA
-3076 TRES LAGOAS               12/08/23         255,0         121,02       4.241,59     7     7  30
-     Totais da Regiao:                          255,0         121,02       4.241,59     7     7     Totais da Regiao:                          255,0         121,02       4.241,59     7     7     Totais da Regiao:                          255,0         121,02       4.241,59     7     7
-
-  32 PONTA PORA  32 PONTA PORA  32 PONTA PORA
-3060 PONTA PORA                12/08/23          16,0          23,38       1.116,82     1     1  32
-     Totais da Regiao:                           16,0          23,38       1.116,82     1     1     Totais da Regiao:                           16,0          23,38       1.116,82     1     1     Totais da Regiao:                           16,0          23,38       1.116,82     1     1
-
-  34 CORUMBA - LADARIO  34 CORUMBA - LADARIO  34 CORUMBA - LADARIO
-3026 CORUMBA                   12/08/23         214,0         159,68       5.091,92     6     8  34
-     Totais da Regiao:                          214,0         159,68       5.091,92     6     8     Totais da Regiao:                          214,0         159,68       5.091,92     6     8     Totais da Regiao:                          214,0         159,68       5.091,92     6     8
-
-  35 DOURADOS  35 DOURADOS  35 DOURADOS
-3032 DOURADOS                  12/08/23         134,0          28,52       1.186,50     5     5  35
-     Totais da Regiao:                          134,0          28,52       1.186,50     5     5     Totais da Regiao:                          134,0          28,52       1.186,50     5     5     Totais da Regiao:                          134,0          28,52       1.186,50     5     5
-
-  39 CHAPADAO -COSTA RICA  39 CHAPADAO -COSTA RICA  39 CHAPADAO -COSTA RICA
-3023 CHAPADAO DO SUL           12/08/23         143,0          32,21       1.363,97     2     2  39
-     Totais da Regiao:                          143,0          32,21       1.363,97     2     2     Totais da Regiao:                          143,0          32,21       1.363,97     2     2     Totais da Regiao:                          143,0          32,21       1.363,97     2     2
-
-  40 PARANAIBA - SELVIRIA  40 PARANAIBA - SELVIRIA  40 PARANAIBA - SELVIRIA
-3008 APARECIDA DO TABOADO      12/08/23          30,0          10,68         523,80     1     1  40
-3057 PARANAIBA                 12/08/23          48,0          13,22         670,78     1     1  40
----------------------------------------------------------------------------------------------------------
-01                                                                   12 Faturamento   Ref:ft12368
-Filial: 00                                                                        Emissao    Hora   Folha
-                                           PRE-MAPA DE CARGA                      15/08/23   11:01   0002
------GRUPO TRIUNFANTE-------------------------------------------------------------Usuario: anapb---------
-
-Cidade                         DtUltFat    Quantidade     Peso Bruto  Valor Entrega QtdEn QtdNF RegCidade                         DtUltFat    Quantidade     Peso Bruto  Valor Entrega QtdEn QtdNF RegCidade                         DtUltFat    Quantidade     Peso Bruto  Valor Entrega QtdEn QtdNF Reg
-
-     Totais da Regiao:                           78,0          23,90       1.194,58     2     2     Totais da Regiao:                           78,0          23,90       1.194,58     2     2     Totais da Regiao:                           78,0          23,90       1.194,58     2     2
-
-  42 NAVIRAI  42 NAVIRAI  42 NAVIRAI
-3052 NAVIRAI                   12/08/23           3,0           6,68         343,43     1     1  42
-     Totais da Regiao:                            3,0           6,68         343,43     1     1     Totais da Regiao:                            3,0           6,68         343,43     1     1     Totais da Regiao:                            3,0           6,68         343,43     1     1
-
-  43 MUNDO NOVO - ITAQUIRAI  43 MUNDO NOVO - ITAQUIRAI  43 MUNDO NOVO - ITAQUIRAI
-3033 ELDORADO                  11/08/23          33,0          73,72       2.477,02     1     1  43
-     Totais da Regiao:                           33,0          73,72       2.477,02     1     1     Totais da Regiao:                           33,0          73,72       2.477,02     1     1     Totais da Regiao:                           33,0          73,72       2.477,02     1     1
-
-  44 FATIMA DO SUL - DEODAPOLI  44 FATIMA DO SUL - DEODAPOLI  44 FATIMA DO SUL - DEODAPOLI
-3034 FATIMA DO SUL             11/08/23          34,0          15,01         562,97     2     2  44
-     Totais da Regiao:                           34,0          15,01         562,97     2     2     Totais da Regiao:                           34,0          15,01         562,97     2     2     Totais da Regiao:                           34,0          15,01         562,97     2     2
-
-  45 NOVA ANDRADINA - BATAYPOR  45 NOVA ANDRADINA - BATAYPOR  45 NOVA ANDRADINA - BATAYPOR
-3005 ANAURILANDIA              11/08/23         578,0         164,40       4.575,16     5     5  45
-3013 BATAIPORA                 12/08/23          15,0           7,36         495,73     2     2  45
-3055 NOVA ANDRADINA            12/08/23          10,0          28,51         861,68     2     2  45
-     Totais da Regiao:                          603,0         200,27       5.932,57     9     9     Totais da Regiao:                          603,0         200,27       5.932,57     9     9     Totais da Regiao:                          603,0         200,27       5.932,57     9     9
-
-  48 MARACAJU  48 MARACAJU  48 MARACAJU
-3049 MARACAJU                  12/08/23         226,0          68,34       3.205,60     5     7  48
-     Totais da Regiao:                          226,0          68,34       3.205,60     5     7     Totais da Regiao:                          226,0          68,34       3.205,60     5     7     Totais da Regiao:                          226,0          68,34       3.205,60     5     7
-
-  51 CAMAPUA- BANDEI. JARAGUAR  51 CAMAPUA- BANDEI. JARAGUAR  51 CAMAPUA- BANDEI. JARAGUAR
-3011 BANDEIRANTES              28/07/23         250,0         144,36       4.844,85     5     5  51
-3043 JARAGUARI                 15/08/23         187,0          57,17       2.140,24     1     2  51
-     Totais da Regiao:                          437,0         201,53       6.985,09     6     7     Totais da Regiao:                          437,0         201,53       6.985,09     6     7     Totais da Regiao:                          437,0         201,53       6.985,09     6     7
-
- 302 AGUA CLARA 302 AGUA CLARA 302 AGUA CLARA
-3001 AGUA CLARA                11/08/23          33,0           8,60         302,21     2     2 302
-     Totais da Regiao:                           33,0           8,60         302,21     2     2     Totais da Regiao:                           33,0           8,60         302,21     2     2     Totais da Regiao:                           33,0           8,60         302,21     2     2
-
- 303 TRES LAGOAS - SM NV ESTRE 303 TRES LAGOAS - SM NV ESTRE 303 TRES LAGOAS - SM NV ESTRE
-3076 TRES LAGOAS               12/08/23           5,0           1,10          74,50     1     1 303
-     Totais da Regiao:                            5,0           1,10          74,50     1     1     Totais da Regiao:                            5,0           1,10          74,50     1     1     Totais da Regiao:                            5,0           1,10          74,50     1     1
-
- 370 REDE PIRES RIO BRILHANTE 370 REDE PIRES RIO BRILHANTE 370 REDE PIRES RIO BRILHANTE
-3063 RIO BRILHANTE             11/08/23          25,0          11,53         755,43     1     1 370
-     Totais da Regiao:                           25,0          11,53         755,43     1     1     Totais da Regiao:                           25,0          11,53         755,43     1     1     Totais da Regiao:                           25,0          11,53         755,43     1     1
-     Total Geral....:                         2.788,0       1.372,46      55.663,66    60    65     Total Geral....:                         2.788,0       1.372,46      55.663,66    60    65     Total Geral....:                         2.788,0       1.372,46      55.663,66    60    65

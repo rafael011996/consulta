@@ -1,59 +1,0 @@
- g 
----------------------------------------------------------------------------------------------------------
-01                                                                   12 Faturamento   Ref:ft12368
-Filial: 00                                                                        Emissao    Hora   Folha
-                                           PRE-MAPA DE CARGA                      28/08/23   10:55   0001
------GRUPO TRIUNFANTE-------------------------------------------------------------Usuario: anapb---------
-
-Cidade                         DtUltFat    Quantidade     Peso Bruto  Valor Entrega QtdEn QtdNF RegCidade                         DtUltFat    Quantidade     Peso Bruto  Valor Entrega QtdEn QtdNF RegCidade                         DtUltFat    Quantidade     Peso Bruto  Valor Entrega QtdEn QtdNF Reg
-
-
-  30 TRES LAGOAS - BRASILANDIA  30 TRES LAGOAS - BRASILANDIA  30 TRES LAGOAS - BRASILANDIA
-3076 TRES LAGOAS               25/08/23          81,0          19,81       1.371,78     5     5  30
-     Totais da Regiao:                           81,0          19,81       1.371,78     5     5     Totais da Regiao:                           81,0          19,81       1.371,78     5     5     Totais da Regiao:                           81,0          19,81       1.371,78     5     5
-
-  33 AQUIDAUANA - ANASTACIO  33 AQUIDAUANA - ANASTACIO  33 AQUIDAUANA - ANASTACIO
-3009 AQUIDAUANA                28/08/23           1,0            ,55         279,10     1     1  33
-     Totais da Regiao:                            1,0            ,55         279,10     1     1     Totais da Regiao:                            1,0            ,55         279,10     1     1     Totais da Regiao:                            1,0            ,55         279,10     1     1
-
-  34 CORUMBA - LADARIO  34 CORUMBA - LADARIO  34 CORUMBA - LADARIO
-3026 CORUMBA                   25/08/23         256,0          56,06       2.290,77     4     6  34
-     Totais da Regiao:                          256,0          56,06       2.290,77     4     6     Totais da Regiao:                          256,0          56,06       2.290,77     4     6     Totais da Regiao:                          256,0          56,06       2.290,77     4     6
-
-  35 DOURADOS  35 DOURADOS  35 DOURADOS
-3032 DOURADOS                  25/08/23          17,0           9,78         700,25     3     3  35
-3039 ITAPORA                   24/08/23          72,0           7,92       1.379,62     1     1  35
-3048 LAGUNA CARAPA             25/08/23           1,0            ,55         279,10     1     1  35
-     Totais da Regiao:                           90,0          18,25       2.358,97     5     5     Totais da Regiao:                           90,0          18,25       2.358,97     5     5     Totais da Regiao:                           90,0          18,25       2.358,97     5     5
-
-  39 CHAPADAO -COSTA RICA  39 CHAPADAO -COSTA RICA  39 CHAPADAO -COSTA RICA
-3023 CHAPADAO DO SUL           25/08/23         284,0         179,83       4.542,64     4     5  39
-     Totais da Regiao:                          284,0         179,83       4.542,64     4     5     Totais da Regiao:                          284,0         179,83       4.542,64     4     5     Totais da Regiao:                          284,0         179,83       4.542,64     4     5
-
-  41 RIO VERDE - SONORA  41 RIO VERDE - SONORA  41 RIO VERDE - SONORA
-3002 ALCINOPOLIS               12/08/23          18,0          17,56         740,79     1     2  41
-3028 COXIM                     25/08/23          32,0           3,98         223,83     1     1  41
-     Totais da Regiao:                           50,0          21,54         964,62     2     3     Totais da Regiao:                           50,0          21,54         964,62     2     3     Totais da Regiao:                           50,0          21,54         964,62     2     3
-
-  42 NAVIRAI  42 NAVIRAI  42 NAVIRAI
-3052 NAVIRAI                   25/08/23       1.469,0         222,68       7.972,98     9    10  42
-     Totais da Regiao:                        1.469,0         222,68       7.972,98     9    10     Totais da Regiao:                        1.469,0         222,68       7.972,98     9    10     Totais da Regiao:                        1.469,0         222,68       7.972,98     9    10
-
-  43 MUNDO NOVO - ITAQUIRAI  43 MUNDO NOVO - ITAQUIRAI  43 MUNDO NOVO - ITAQUIRAI
-3037 IGUATEMI                  25/08/23           1,0            ,55         279,10     1     1  43
-     Totais da Regiao:                            1,0            ,55         279,10     1     1     Totais da Regiao:                            1,0            ,55         279,10     1     1     Totais da Regiao:                            1,0            ,55         279,10     1     1
-
-  44 FATIMA DO SUL - DEODAPOLI  44 FATIMA DO SUL - DEODAPOLI  44 FATIMA DO SUL - DEODAPOLI
-3029 DEODAPOLIS                25/08/23           1,0            ,55         279,10     1     1  44
-3034 FATIMA DO SUL             25/08/23       2.435,0         316,84      15.662,94     2     2  44
-3035 GLORIA DE DOURADOS        24/08/23           1,0            ,55         279,10     1     1  44
-     Totais da Regiao:                        2.437,0         317,94      16.221,14     4     4     Totais da Regiao:                        2.437,0         317,94      16.221,14     4     4     Totais da Regiao:                        2.437,0         317,94      16.221,14     4     4
-
- 306 TRES LAGOAS - SM NV ESTRE 306 TRES LAGOAS - SM NV ESTRE 306 TRES LAGOAS - SM NV ESTRE
-3076 TRES LAGOAS               25/08/23           2,0           1,10          41,24     1     1 306
-     Totais da Regiao:                            2,0           1,10          41,24     1     1     Totais da Regiao:                            2,0           1,10          41,24     1     1     Totais da Regiao:                            2,0           1,10          41,24     1     1
-
- 441 IVINHEMA - ANGELICA 441 IVINHEMA - ANGELICA 441 IVINHEMA - ANGELICA
-3041 IVINHEMA                  24/08/23          85,0          54,52       2.537,48     1     1 441
-     Totais da Regiao:                           85,0          54,52       2.537,48     1     1     Totais da Regiao:                           85,0          54,52       2.537,48     1     1     Totais da Regiao:                           85,0          54,52       2.537,48     1     1
-     Total Geral....:                         4.756,0         892,87      38.859,82    37    42     Total Geral....:                         4.756,0         892,87      38.859,82    37    42     Total Geral....:                         4.756,0         892,87      38.859,82    37    42

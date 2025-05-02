@@ -1,82 +1,0 @@
- g 
----------------------------------------------------------------------------------------------------------
-01                                                                   12 Faturamento          Ref:ft12368
-Filial: 00                                                                        Emissao    Hora   Folha
-                                           PRE-MAPA DE CARGA                      16/02/24   20:02   0001
------GRUPO TRIUNFANTE-------------------------------------------------------------Usuario: willian-------
-
-Cidade                            DtUltFat    Quantidade     Peso Bruto  Valor Entrega QtdEn QtdNF RegCidade                            DtUltFat    Quantidade     Peso Bruto  Valor Entrega QtdEn QtdNF RegCidade                            DtUltFat    Quantidade     Peso Bruto  Valor Entrega QtdEn QtdNF Reg
-
-
-      5 REGIAO 5 - CENTRO      5 REGIAO 5 - CENTRO      5 REGIAO 5 - CENTRO
-5002704 CAMPO GRANDE              16/02/24         101,0          66,03      10.505,16     2     2   5
-        Totais da Regiao:                          101,0          66,03      10.505,16     2     2        Totais da Regiao:                          101,0          66,03      10.505,16     2     2        Totais da Regiao:                          101,0          66,03      10.505,16     2     2
-
-      6 REGIAO 6 - SAO PAULO A      6 REGIAO 6 - SAO PAULO A      6 REGIAO 6 - SAO PAULO A
-5002704 CAMPO GRANDE              16/02/24          48,0          11,80       2.486,04     2     2   6
-        Totais da Regiao:                           48,0          11,80       2.486,04     2     2        Totais da Regiao:                           48,0          11,80       2.486,04     2     2        Totais da Regiao:                           48,0          11,80       2.486,04     2     2
-
-     10 CGR - ROCHEDO A     10 CGR - ROCHEDO A     10 CGR - ROCHEDO A
-5002704 CAMPO GRANDE              16/02/24          12,0           2,28         509,40     1     1  10
-        Totais da Regiao:                           12,0           2,28         509,40     1     1        Totais da Regiao:                           12,0           2,28         509,40     1     1        Totais da Regiao:                           12,0           2,28         509,40     1     1
-
-     22 PIRES SID.A     22 PIRES SID.A     22 PIRES SID.A
-5002704 CAMPO GRANDE              16/02/24          72,0          19,98       3.741,04     2     2  22
-        Totais da Regiao:                           72,0          19,98       3.741,04     2     2        Totais da Regiao:                           72,0          19,98       3.741,04     2     2        Totais da Regiao:                           72,0          19,98       3.741,04     2     2
-
-     23 PIRES SID.B     23 PIRES SID.B     23 PIRES SID.B
-5002704 CAMPO GRANDE              16/02/24          54,0          12,93       2.773,12     2     2  23
-        Totais da Regiao:                           54,0          12,93       2.773,12     2     2        Totais da Regiao:                           54,0          12,93       2.773,12     2     2        Totais da Regiao:                           54,0          12,93       2.773,12     2     2
-
-     24 PIRES CENTRO     24 PIRES CENTRO     24 PIRES CENTRO
-5002704 CAMPO GRANDE              16/02/24          64,0          30,69       5.067,29     2     2  24
-        Totais da Regiao:                           64,0          30,69       5.067,29     2     2        Totais da Regiao:                           64,0          30,69       5.067,29     2     2        Totais da Regiao:                           64,0          30,69       5.067,29     2     2
-
-     25 PIRES SAO PAULO.A     25 PIRES SAO PAULO.A     25 PIRES SAO PAULO.A
-5002704 CAMPO GRANDE              16/02/24          60,0          14,72       3.039,31     2     2  25
-        Totais da Regiao:                           60,0          14,72       3.039,31     2     2        Totais da Regiao:                           60,0          14,72       3.039,31     2     2        Totais da Regiao:                           60,0          14,72       3.039,31     2     2
-
-     26 PIRES SAO PAULO.B     26 PIRES SAO PAULO.B     26 PIRES SAO PAULO.B
-5002704 CAMPO GRANDE              16/02/24          30,0           7,57       1.451,91     1     1  26
-        Totais da Regiao:                           30,0           7,57       1.451,91     1     1        Totais da Regiao:                           30,0           7,57       1.451,91     1     1        Totais da Regiao:                           30,0           7,57       1.451,91     1     1
-
-     29 PIRES GUAICURUS     29 PIRES GUAICURUS     29 PIRES GUAICURUS
-5002704 CAMPO GRANDE              16/02/24          80,0          28,33       4.931,70     2     2  29
-        Totais da Regiao:                           80,0          28,33       4.931,70     2     2        Totais da Regiao:                           80,0          28,33       4.931,70     2     2        Totais da Regiao:                           80,0          28,33       4.931,70     2     2
-
-     31 AMAMBAI - SETE QUEDAS     31 AMAMBAI - SETE QUEDAS     31 AMAMBAI - SETE QUEDAS
-5000609 AMAMBAI                   16/02/24           8,0          22,63       4.462,32     1     1  31
-        Totais da Regiao:                            8,0          22,63       4.462,32     1     1        Totais da Regiao:                            8,0          22,63       4.462,32     1     1        Totais da Regiao:                            8,0          22,63       4.462,32     1     1
-
-     36 NOVA ALVORADA     36 NOVA ALVORADA     36 NOVA ALVORADA
-5006002 NOVA ALVORADA DO SUL      16/02/24           6,0          15,77       3.702,41     1     1  36
-        Totais da Regiao:                            6,0          15,77       3.702,41     1     1        Totais da Regiao:                            6,0          15,77       3.702,41     1     1        Totais da Regiao:                            6,0          15,77       3.702,41     1     1
-
-     38 SIDROLANDIA     38 SIDROLANDIA     38 SIDROLANDIA
-5007901 SIDROLANDIA               16/02/24         130,0          50,19       8.953,35     1     1  38
-        Totais da Regiao:                          130,0          50,19       8.953,35     1     1        Totais da Regiao:                          130,0          50,19       8.953,35     1     1        Totais da Regiao:                          130,0          50,19       8.953,35     1     1
-
-     48 MARACAJU     48 MARACAJU     48 MARACAJU
-5005400 MARACAJU                  16/02/24           8,0          26,46       4.801,09     1     1  48
----------------------------------------------------------------------------------------------------------
-01                                                                   12 Faturamento          Ref:ft12368
-Filial: 00                                                                        Emissao    Hora   Folha
-                                           PRE-MAPA DE CARGA                      16/02/24   20:02   0002
------GRUPO TRIUNFANTE-------------------------------------------------------------Usuario: willian-------
-
-Cidade                            DtUltFat    Quantidade     Peso Bruto  Valor Entrega QtdEn QtdNF RegCidade                            DtUltFat    Quantidade     Peso Bruto  Valor Entrega QtdEn QtdNF RegCidade                            DtUltFat    Quantidade     Peso Bruto  Valor Entrega QtdEn QtdNF Reg
-
-        Totais da Regiao:                            8,0          26,46       4.801,09     1     1        Totais da Regiao:                            8,0          26,46       4.801,09     1     1        Totais da Regiao:                            8,0          26,46       4.801,09     1     1
-
-    320 ANDRE RICARDO PONTA PORA    320 ANDRE RICARDO PONTA PORA    320 ANDRE RICARDO PONTA PORA
-5006606 PONTA PORA                16/02/24          42,0         136,32      24.721,92     3     3 320
-        Totais da Regiao:                           42,0         136,32      24.721,92     3     3        Totais da Regiao:                           42,0         136,32      24.721,92     3     3        Totais da Regiao:                           42,0         136,32      24.721,92     3     3
-
-    418 REDE CENTRO    418 REDE CENTRO    418 REDE CENTRO
-5002704 CAMPO GRANDE              16/02/24          90,0          22,17       4.491,22     2     2 418
-        Totais da Regiao:                           90,0          22,17       4.491,22     2     2        Totais da Regiao:                           90,0          22,17       4.491,22     2     2        Totais da Regiao:                           90,0          22,17       4.491,22     2     2
-
-    441 IVINHEMA - ANGELICA    441 IVINHEMA - ANGELICA    441 IVINHEMA - ANGELICA
-5004700 IVINHEMA                  16/02/24          36,0           8,94       1.887,45     1     1 441
-        Totais da Regiao:                           36,0           8,94       1.887,45     1     1        Totais da Regiao:                           36,0           8,94       1.887,45     1     1        Totais da Regiao:                           36,0           8,94       1.887,45     1     1
-        Total Geral....:                           841,0         476,85      87.524,73    26    26        Total Geral....:                           841,0         476,85      87.524,73    26    26        Total Geral....:                           841,0         476,85      87.524,73    26    26

@@ -1,71 +1,0 @@
- g 
----------------------------------------------------------------------------------------------------------
-01                                                                   12 Faturamento   Ref:ft12368
-Filial: 00                                                                        Emissao    Hora   Folha
-                                           PRE-MAPA DE CARGA                      26/05/23   12:18   0001
------GRUPO TRIUNFANTE-------------------------------------------------------------Usuario: alyfer--------
-
-Cidade                         DtUltFat    Quantidade     Peso Bruto  Valor Entrega QtdEn QtdNF RegCidade                         DtUltFat    Quantidade     Peso Bruto  Valor Entrega QtdEn QtdNF RegCidade                         DtUltFat    Quantidade     Peso Bruto  Valor Entrega QtdEn QtdNF Reg
-
-
-  33 AQUIDAUANA - ANASTACIO  33 AQUIDAUANA - ANASTACIO  33 AQUIDAUANA - ANASTACIO
-3004 ANASTACIO                 22/05/23         216,0          48,13       2.558,15     5     9  33
-3009 AQUIDAUANA                22/05/23         283,0          63,76       3.416,56     8    11  33
-     Totais da Regiao:                          499,0         111,89       5.974,71    13    20     Totais da Regiao:                          499,0         111,89       5.974,71    13    20     Totais da Regiao:                          499,0         111,89       5.974,71    13    20
-
-  36 NOVA ALVORADA  36 NOVA ALVORADA  36 NOVA ALVORADA
-3054 NOVA ALVORADA DO SUL      12/05/23         218,0         201,47      10.396,22     6     8  36
-     Totais da Regiao:                          218,0         201,47      10.396,22     6     8     Totais da Regiao:                          218,0         201,47      10.396,22     6     8     Totais da Regiao:                          218,0         201,47      10.396,22     6     8
-
-  37 RIO BRILHANTE  37 RIO BRILHANTE  37 RIO BRILHANTE
-3063 RIO BRILHANTE             26/05/23       2.491,0         385,02      17.095,27    10    11  37
-     Totais da Regiao:                        2.491,0         385,02      17.095,27    10    11     Totais da Regiao:                        2.491,0         385,02      17.095,27    10    11     Totais da Regiao:                        2.491,0         385,02      17.095,27    10    11
-
-  41 RIO VERDE - SONORA  41 RIO VERDE - SONORA  41 RIO VERDE - SONORA
-3002 ALCINOPOLIS               19/05/23          20,0           5,32         295,37     1     1  41
-3072 SONORA                    28/04/23         102,0          13,47         466,62     2     2  41
-     Totais da Regiao:                          122,0          18,79         761,99     3     3     Totais da Regiao:                          122,0          18,79         761,99     3     3     Totais da Regiao:                          122,0          18,79         761,99     3     3
-
-  46 BELA VISTA - PORTO MURTIN  46 BELA VISTA - PORTO MURTIN  46 BELA VISTA - PORTO MURTIN
-3021 CARACOL                   18/05/23          25,0          12,92       1.072,66     1     1  46
-     Totais da Regiao:                           25,0          12,92       1.072,66     1     1     Totais da Regiao:                           25,0          12,92       1.072,66     1     1     Totais da Regiao:                           25,0          12,92       1.072,66     1     1
-
-  51 CAMAPUA- BANDEI. JARAGUAR  51 CAMAPUA- BANDEI. JARAGUAR  51 CAMAPUA- BANDEI. JARAGUAR
-3019 CAMAPUA                   05/05/23         225,0         109,26       5.434,65     3     6  51
-3043 JARAGUARI                 23/05/23           6,0          40,52       2.189,76     1     1  51
-     Totais da Regiao:                          231,0         149,78       7.624,41     4     7     Totais da Regiao:                          231,0         149,78       7.624,41     4     7     Totais da Regiao:                          231,0         149,78       7.624,41     4     7
-
- 330 DAMASCENO AQUIDAUANA 330 DAMASCENO AQUIDAUANA 330 DAMASCENO AQUIDAUANA
-3004 ANASTACIO                 22/05/23         204,0         143,88       2.348,97     1     1 330
-3009 AQUIDAUANA                22/05/23         150,0          20,70         627,38     1     1 330
-     Totais da Regiao:                          354,0         164,58       2.976,35     2     2     Totais da Regiao:                          354,0         164,58       2.976,35     2     2     Totais da Regiao:                          354,0         164,58       2.976,35     2     2
-
- 331 MIRANDA - BODOQUENA 331 MIRANDA - BODOQUENA 331 MIRANDA - BODOQUENA
-3015 BODOQUENA                 22/05/23         313,0         141,21       4.176,18     3     6 331
-3050 MIRANDA                   22/05/23         246,0          25,41       1.297,69     1     2 331
-     Totais da Regiao:                          559,0         166,63       5.473,87     4     8     Totais da Regiao:                          559,0         166,63       5.473,87     4     8     Totais da Regiao:                          559,0         166,63       5.473,87     4     8
-
- 410 BENFICA - SAO GABRIELDO O 410 BENFICA - SAO GABRIELDO O 410 BENFICA - SAO GABRIELDO O
-3068 SAO GABRIEL DO OESTE      22/05/23         133,0         229,68      15.363,06     1     1 410
-     Totais da Regiao:                          133,0         229,68      15.363,06     1     1     Totais da Regiao:                          133,0         229,68      15.363,06     1     1     Totais da Regiao:                          133,0         229,68      15.363,06     1     1
-
- 413 CORGUINHO - RIO NEGRO 413 CORGUINHO - RIO NEGRO 413 CORGUINHO - RIO NEGRO
-3075 TERENOS                   16/05/23       1.208,0         203,92      14.310,89     2     3 413
-     Totais da Regiao:                        1.208,0         203,92      14.310,89     2     3     Totais da Regiao:                        1.208,0         203,92      14.310,89     2     3     Totais da Regiao:                        1.208,0         203,92      14.310,89     2     3
-
- 450 BATAGUASSU - SANTA RITA 450 BATAGUASSU - SANTA RITA 450 BATAGUASSU - SANTA RITA
-3067 SANTA RITA DO PARDO       12/05/23         752,0         141,84       5.261,02     2     3 450
----------------------------------------------------------------------------------------------------------
-01                                                                   12 Faturamento   Ref:ft12368
-Filial: 00                                                                        Emissao    Hora   Folha
-                                           PRE-MAPA DE CARGA                      26/05/23   12:18   0002
------GRUPO TRIUNFANTE-------------------------------------------------------------Usuario: alyfer--------
-
-Cidade                         DtUltFat    Quantidade     Peso Bruto  Valor Entrega QtdEn QtdNF RegCidade                         DtUltFat    Quantidade     Peso Bruto  Valor Entrega QtdEn QtdNF RegCidade                         DtUltFat    Quantidade     Peso Bruto  Valor Entrega QtdEn QtdNF Reg
-
-     Totais da Regiao:                          752,0         141,84       5.261,02     2     3     Totais da Regiao:                          752,0         141,84       5.261,02     2     3     Totais da Regiao:                          752,0         141,84       5.261,02     2     3
-
- 605 CENTRO - S H 605 CENTRO - S H 605 CENTRO - S H
-3020 CAMPO GRANDE              26/05/23         122,0          28,26       1.443,42     1     4 605
-     Totais da Regiao:                          122,0          28,26       1.443,42     1     4     Totais da Regiao:                          122,0          28,26       1.443,42     1     4     Totais da Regiao:                          122,0          28,26       1.443,42     1     4
-     Total Geral....:                         6.714,0       1.814,83      87.753,87    49    71     Total Geral....:                         6.714,0       1.814,83      87.753,87    49    71     Total Geral....:                         6.714,0       1.814,83      87.753,87    49    71

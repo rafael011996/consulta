@@ -1,116 +1,0 @@
- g 
----------------------------------------------------------------------------------------------------------
-01                                                                   12 Faturamento   Ref:ft12368
-Filial: 00                                                                        Emissao    Hora   Folha
-                                           PRE-MAPA DE CARGA                      10/10/23   10:44   0001
------GRUPO TRIUNFANTE-------------------------------------------------------------Usuario: willian-------
-
-Cidade                         DtUltFat    Quantidade     Peso Bruto  Valor Entrega QtdEn QtdNF RegCidade                         DtUltFat    Quantidade     Peso Bruto  Valor Entrega QtdEn QtdNF RegCidade                         DtUltFat    Quantidade     Peso Bruto  Valor Entrega QtdEn QtdNF Reg
-
-
-  30 TRES LAGOAS - BRASILANDIA  30 TRES LAGOAS - BRASILANDIA  30 TRES LAGOAS - BRASILANDIA
-3076 TRES LAGOAS               06/10/23         532,0          83,43       3.065,09     9     9  30
-     Totais da Regiao:                          532,0          83,43       3.065,09     9     9     Totais da Regiao:                          532,0          83,43       3.065,09     9     9     Totais da Regiao:                          532,0          83,43       3.065,09     9     9
-
-  31 AMAMBAI - SETE QUEDAS  31 AMAMBAI - SETE QUEDAS  31 AMAMBAI - SETE QUEDAS
-3003 AMAMBAI                   06/10/23         209,0          37,29       1.235,10     1     1  31
-3058 PARANHOS                  05/10/23         140,0         147,03       1.805,09     1     2  31
-     Totais da Regiao:                          349,0         184,32       3.040,19     2     3     Totais da Regiao:                          349,0         184,32       3.040,19     2     3     Totais da Regiao:                          349,0         184,32       3.040,19     2     3
-
-  32 PONTA PORA  32 PONTA PORA  32 PONTA PORA
-3007 ANTONIO JOAO              05/10/23         177,0          24,11         988,32     1     1  32
-3060 PONTA PORA                06/10/23         822,0         191,76       8.291,82     8     9  32
-     Totais da Regiao:                          999,0         215,87       9.280,14     9    10     Totais da Regiao:                          999,0         215,87       9.280,14     9    10     Totais da Regiao:                          999,0         215,87       9.280,14     9    10
-
-  33 AQUIDAUANA - ANASTACIO  33 AQUIDAUANA - ANASTACIO  33 AQUIDAUANA - ANASTACIO
-3009 AQUIDAUANA                09/10/23          90,0          11,61         610,38     3     3  33
-3030 DOIS IRMAOS DO BURITI     30/09/23          96,0          11,49         556,39     1     1  33
-     Totais da Regiao:                          186,0          23,10       1.166,77     4     4     Totais da Regiao:                          186,0          23,10       1.166,77     4     4     Totais da Regiao:                          186,0          23,10       1.166,77     4     4
-
-  34 CORUMBA - LADARIO  34 CORUMBA - LADARIO  34 CORUMBA - LADARIO
-3026 CORUMBA                   06/10/23       1.484,0         258,69       9.201,53     9    10  34
-3047 LADARIO                   06/10/23          60,0           5,16         141,00     1     1  34
-     Totais da Regiao:                        1.544,0         263,85       9.342,53    10    11     Totais da Regiao:                        1.544,0         263,85       9.342,53    10    11     Totais da Regiao:                        1.544,0         263,85       9.342,53    10    11
-
-  35 DOURADOS  35 DOURADOS  35 DOURADOS
-3032 DOURADOS                  06/10/23         777,0         155,94       5.171,50    13    16  35
-     Totais da Regiao:                          777,0         155,94       5.171,50    13    16     Totais da Regiao:                          777,0         155,94       5.171,50    13    16     Totais da Regiao:                          777,0         155,94       5.171,50    13    16
-
-  36 NOVA ALVORADA  36 NOVA ALVORADA  36 NOVA ALVORADA
-3054 NOVA ALVORADA DO SUL      06/10/23          95,0          28,88       3.059,53     1     1  36
-     Totais da Regiao:                           95,0          28,88       3.059,53     1     1     Totais da Regiao:                           95,0          28,88       3.059,53     1     1     Totais da Regiao:                           95,0          28,88       3.059,53     1     1
-
-  38 SIDROLANDIA  38 SIDROLANDIA  38 SIDROLANDIA
-3071 SIDROLANDIA               06/10/23         289,0         280,57      10.195,31     5     5  38
-     Totais da Regiao:                          289,0         280,57      10.195,31     5     5     Totais da Regiao:                          289,0         280,57      10.195,31     5     5     Totais da Regiao:                          289,0         280,57      10.195,31     5     5
-
-  39 CHAPADAO -COSTA RICA  39 CHAPADAO -COSTA RICA  39 CHAPADAO -COSTA RICA
-3023 CHAPADAO DO SUL           30/09/23         411,0          71,33       4.227,14     5     5  39
-3027 COSTA RICA                06/10/23           2,0          16,45         267,84     1     1  39
-     Totais da Regiao:                          413,0          87,78       4.494,98     6     6     Totais da Regiao:                          413,0          87,78       4.494,98     6     6     Totais da Regiao:                          413,0          87,78       4.494,98     6     6
-
-  40 PARANAIBA - SELVIRIA  40 PARANAIBA - SELVIRIA  40 PARANAIBA - SELVIRIA
-3057 PARANAIBA                 06/10/23         303,0         175,68       4.924,50     7     7  40
-3069 SELVIRIA                  24/08/23         179,0          38,81       1.235,31     1     2  40
-     Totais da Regiao:                          482,0         214,49       6.159,81     8     9     Totais da Regiao:                          482,0         214,49       6.159,81     8     9     Totais da Regiao:                          482,0         214,49       6.159,81     8     9
-
-  41 RIO VERDE - SONORA  41 RIO VERDE - SONORA  41 RIO VERDE - SONORA
-3002 ALCINOPOLIS               29/09/23          14,0           6,19         214,22     1     1  41
----------------------------------------------------------------------------------------------------------
-01                                                                   12 Faturamento   Ref:ft12368
-Filial: 00                                                                        Emissao    Hora   Folha
-                                           PRE-MAPA DE CARGA                      10/10/23   10:44   0002
------GRUPO TRIUNFANTE-------------------------------------------------------------Usuario: willian-------
-
-Cidade                         DtUltFat    Quantidade     Peso Bruto  Valor Entrega QtdEn QtdNF RegCidade                         DtUltFat    Quantidade     Peso Bruto  Valor Entrega QtdEn QtdNF RegCidade                         DtUltFat    Quantidade     Peso Bruto  Valor Entrega QtdEn QtdNF Reg
-
-3028 COXIM                     06/10/23         212,0          78,58       3.154,93     6     6  41
-     Totais da Regiao:                          226,0          84,77       3.369,15     7     7     Totais da Regiao:                          226,0          84,77       3.369,15     7     7     Totais da Regiao:                          226,0          84,77       3.369,15     7     7
-
-  42 NAVIRAI  42 NAVIRAI  42 NAVIRAI
-3052 NAVIRAI                   06/10/23         252,0          78,59       2.892,00     5     9  42
-     Totais da Regiao:                          252,0          78,59       2.892,00     5     9     Totais da Regiao:                          252,0          78,59       2.892,00     5     9     Totais da Regiao:                          252,0          78,59       2.892,00     5     9
-
-  43 MUNDO NOVO - ITAQUIRAI  43 MUNDO NOVO - ITAQUIRAI  43 MUNDO NOVO - ITAQUIRAI
-3033 ELDORADO                  05/10/23          68,0          10,12         513,08     3     3  43
-3037 IGUATEMI                  06/10/23         220,0          37,02       1.292,98     4     4  43
-3051 MUNDO NOVO                30/09/23          24,0           3,96         205,84     1     1  43
-     Totais da Regiao:                          312,0          51,10       2.011,90     8     8     Totais da Regiao:                          312,0          51,10       2.011,90     8     8     Totais da Regiao:                          312,0          51,10       2.011,90     8     8
-
-  44 FATIMA DO SUL - DEODAPOLI  44 FATIMA DO SUL - DEODAPOLI  44 FATIMA DO SUL - DEODAPOLI
-3034 FATIMA DO SUL             06/10/23          24,0          20,28         934,75     4     4  44
-3077 VICENTINA                 30/09/23         104,0          68,39         938,39     2     3  44
-     Totais da Regiao:                          128,0          88,67       1.873,14     6     7     Totais da Regiao:                          128,0          88,67       1.873,14     6     7     Totais da Regiao:                          128,0          88,67       1.873,14     6     7
-
-  46 BELA VISTA - PORTO MURTIN  46 BELA VISTA - PORTO MURTIN  46 BELA VISTA - PORTO MURTIN
-3014 BELA VISTA                06/10/23         508,0          93,80       4.683,01     8    10  46
-3021 CARACOL                   06/10/23          44,0           4,06         322,18     1     1  46
-     Totais da Regiao:                          552,0          97,86       5.005,19     9    11     Totais da Regiao:                          552,0          97,86       5.005,19     9    11     Totais da Regiao:                          552,0          97,86       5.005,19     9    11
-
-  47 BONITO - NIOAQUE  47 BONITO - NIOAQUE  47 BONITO - NIOAQUE
-3016 BONITO                    30/09/23         148,0          29,62       1.075,26     3     3  47
-3044 JARDIM                    30/09/23         187,0          20,15       1.204,79     1     1  47
-     Totais da Regiao:                          335,0          49,78       2.280,05     4     4     Totais da Regiao:                          335,0          49,78       2.280,05     4     4     Totais da Regiao:                          335,0          49,78       2.280,05     4     4
-
-  48 MARACAJU  48 MARACAJU  48 MARACAJU
-3049 MARACAJU                  06/10/23          10,0           3,57         217,66     1     1  48
-     Totais da Regiao:                           10,0           3,57         217,66     1     1     Totais da Regiao:                           10,0           3,57         217,66     1     1     Totais da Regiao:                           10,0           3,57         217,66     1     1
-
- 307 SUPERM THOME E LEANDRO TE 307 SUPERM THOME E LEANDRO TE 307 SUPERM THOME E LEANDRO TE
-3076 TRES LAGOAS               06/10/23         270,0          40,93         610,20     1     1 307
-     Totais da Regiao:                          270,0          40,93         610,20     1     1     Totais da Regiao:                          270,0          40,93         610,20     1     1     Totais da Regiao:                          270,0          40,93         610,20     1     1
-
- 320 ANDRE RICARDO PONTA PORA 320 ANDRE RICARDO PONTA PORA 320 ANDRE RICARDO PONTA PORA
-3060 PONTA PORA                06/10/23       6.651,0         936,34      29.289,66     2     3 320
-     Totais da Regiao:                        6.651,0         936,34      29.289,66     2     3     Totais da Regiao:                        6.651,0         936,34      29.289,66     2     3     Totais da Regiao:                        6.651,0         936,34      29.289,66     2     3
-
- 330 DAMASCENO AQUIDAUANA 330 DAMASCENO AQUIDAUANA 330 DAMASCENO AQUIDAUANA
-3004 ANASTACIO                 09/10/23         189,0          24,05         599,22     2     2 330
-3009 AQUIDAUANA                09/10/23         822,0         102,77       4.342,76     4     6 330
-     Totais da Regiao:                        1.011,0         126,82       4.941,98     6     8     Totais da Regiao:                        1.011,0         126,82       4.941,98     6     8     Totais da Regiao:                        1.011,0         126,82       4.941,98     6     8
-
- 441 IVINHEMA - ANGELICA 441 IVINHEMA - ANGELICA 441 IVINHEMA - ANGELICA
-3006 ANGELICA                  06/10/23         543,0         111,07       3.398,81     3     3 441
-3041 IVINHEMA                  06/10/23       1.475,0         159,72       5.961,87     5     5 441
-     Totais da Regiao:                        2.018,0         270,79       9.360,68     8     8     Totais da Regiao:                        2.018,0         270,79       9.360,68     8     8     Totais da Regiao:                        2.018,0         270,79       9.360,68     8     8
-     Total Geral....:                        17.431,0       3.367,53     116.827,46   124   141     Total Geral....:                        17.431,0       3.367,53     116.827,46   124   141     Total Geral....:                        17.431,0       3.367,53     116.827,46   124   141

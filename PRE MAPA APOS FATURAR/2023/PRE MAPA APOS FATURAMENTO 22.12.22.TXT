@@ -1,61 +1,0 @@
- g 
----------------------------------------------------------------------------------------------------------
-01                                                                   12 Faturamento   Ref:ft12368
-Filial: 00                                                                        Emissao    Hora   Folha
-                                           PRE-MAPA DE CARGA                      22/12/22   12:26   0001
------GRUPO TRIUNFANTE-------------------------------------------------------------Usuario: luiz----------
-
-Cidade                         DtUltFat    Quantidade     Peso Bruto  Valor Entrega QtdEn QtdNF RegCidade                         DtUltFat    Quantidade     Peso Bruto  Valor Entrega QtdEn QtdNF RegCidade                         DtUltFat    Quantidade     Peso Bruto  Valor Entrega QtdEn QtdNF Reg
-
-
-  31 AMAMBAI - SETE QUEDAS  31 AMAMBAI - SETE QUEDAS  31 AMAMBAI - SETE QUEDAS
-3003 AMAMBAI                   16/12/22         132,0         149,27       6.152,36     3     3  31
-3025 CORONEL SAPUCAIA          30/11/22         188,0          83,64       4.140,73     4     4  31
-3058 PARANHOS                  18/11/22         309,0         302,10      15.246,65     5     6  31
-     Totais da Regiao:                          629,0         535,02      25.539,74    12    13     Totais da Regiao:                          629,0         535,02      25.539,74    12    13     Totais da Regiao:                          629,0         535,02      25.539,74    12    13
-
-  33 AQUIDAUANA - ANASTACIO  33 AQUIDAUANA - ANASTACIO  33 AQUIDAUANA - ANASTACIO
-3004 ANASTACIO                 19/12/22          75,0          16,37         577,99     1     2  33
-3009 AQUIDAUANA                19/12/22         288,0         101,30       2.876,31     5     7  33
-     Totais da Regiao:                          363,0         117,67       3.454,30     6     9     Totais da Regiao:                          363,0         117,67       3.454,30     6     9     Totais da Regiao:                          363,0         117,67       3.454,30     6     9
-
-  36 NOVA ALVORADA  36 NOVA ALVORADA  36 NOVA ALVORADA
-3054 NOVA ALVORADA DO SUL      16/12/22         864,0         384,77      18.956,87     3     4  36
-     Totais da Regiao:                          864,0         384,77      18.956,87     3     4     Totais da Regiao:                          864,0         384,77      18.956,87     3     4     Totais da Regiao:                          864,0         384,77      18.956,87     3     4
-
-  37 RIO BRILHANTE  37 RIO BRILHANTE  37 RIO BRILHANTE
-3063 RIO BRILHANTE             16/12/22         473,0         218,59       8.590,83     9    10  37
-     Totais da Regiao:                          473,0         218,59       8.590,83     9    10     Totais da Regiao:                          473,0         218,59       8.590,83     9    10     Totais da Regiao:                          473,0         218,59       8.590,83     9    10
-
-  41 RIO VERDE - SONORA  41 RIO VERDE - SONORA  41 RIO VERDE - SONORA
-3002 ALCINOPOLIS               30/11/22           1,0           8,31         357,89     1     1  41
-3028 COXIM                     16/12/22         601,0         220,91       9.803,79     9    11  41
-3059 PEDRO GOMES               16/12/22          69,0          81,48       1.860,91     4     5  41
-3065 RIO VERDE DE MATO GROSSO  15/12/22         491,0         136,33       3.410,52     7     7  41
-3072 SONORA                    16/12/22          72,0           9,93         438,16     2     2  41
-     Totais da Regiao:                        1.234,0         456,99      15.871,27    23    26     Totais da Regiao:                        1.234,0         456,99      15.871,27    23    26     Totais da Regiao:                        1.234,0         456,99      15.871,27    23    26
-
-  48 MARACAJU  48 MARACAJU  48 MARACAJU
-3049 MARACAJU                  16/12/22         610,0         561,48      27.516,12    12    13  48
-     Totais da Regiao:                          610,0         561,48      27.516,12    12    13     Totais da Regiao:                          610,0         561,48      27.516,12    12    13     Totais da Regiao:                          610,0         561,48      27.516,12    12    13
-
- 331 MIRANDA - BODOQUENA 331 MIRANDA - BODOQUENA 331 MIRANDA - BODOQUENA
-3050 MIRANDA                   16/12/22         312,0          55,60       2.336,97     5     8 331
-     Totais da Regiao:                          312,0          55,60       2.336,97     5     8     Totais da Regiao:                          312,0          55,60       2.336,97     5     8     Totais da Regiao:                          312,0          55,60       2.336,97     5     8
-
- 370 REDE PIRES RIO BRILHANTE 370 REDE PIRES RIO BRILHANTE 370 REDE PIRES RIO BRILHANTE
-3063 RIO BRILHANTE             16/12/22          32,0         114,04       5.528,97     1     1 370
-     Totais da Regiao:                           32,0         114,04       5.528,97     1     1     Totais da Regiao:                           32,0         114,04       5.528,97     1     1     Totais da Regiao:                           32,0         114,04       5.528,97     1     1
-
- 410 BENFICA - SAO GABRIELDO O 410 BENFICA - SAO GABRIELDO O 410 BENFICA - SAO GABRIELDO O
-3068 SAO GABRIEL DO OESTE      16/12/22          45,0          83,08       3.882,72     1     1 410
-     Totais da Regiao:                           45,0          83,08       3.882,72     1     1     Totais da Regiao:                           45,0          83,08       3.882,72     1     1     Totais da Regiao:                           45,0          83,08       3.882,72     1     1
-
- 413 CORGUINHO - RIO NEGRO 413 CORGUINHO - RIO NEGRO 413 CORGUINHO - RIO NEGRO
-3075 TERENOS                   16/12/22         187,0          44,71       3.538,69     1     1 413
-     Totais da Regiao:                          187,0          44,71       3.538,69     1     1     Totais da Regiao:                          187,0          44,71       3.538,69     1     1     Totais da Regiao:                          187,0          44,71       3.538,69     1     1
-
- 450 BATAGUASSU - SANTA RITA 450 BATAGUASSU - SANTA RITA 450 BATAGUASSU - SANTA RITA
-3012 BATAGUASSU                16/12/22       1.066,0         343,30      13.810,87    14    19 450
-     Totais da Regiao:                        1.066,0         343,30      13.810,87    14    19     Totais da Regiao:                        1.066,0         343,30      13.810,87    14    19     Totais da Regiao:                        1.066,0         343,30      13.810,87    14    19
-     Total Geral....:                         5.815,0       2.915,29     129.027,35    87   105     Total Geral....:                         5.815,0       2.915,29     129.027,35    87   105     Total Geral....:                         5.815,0       2.915,29     129.027,35    87   105

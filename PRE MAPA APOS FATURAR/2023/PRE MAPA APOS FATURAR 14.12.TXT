@@ -1,118 +1,0 @@
- g 
----------------------------------------------------------------------------------------------------------
-01                                                                   12 Faturamento   Ref:ft12368
-Filial: 00                                                                        Emissao    Hora   Folha
-                                           PRE-MAPA DE CARGA                      14/12/23   12:09   0001
------GRUPO TRIUNFANTE-------------------------------------------------------------Usuario: willian-------
-
-Cidade                         DtUltFat    Quantidade     Peso Bruto  Valor Entrega QtdEn QtdNF RegCidade                         DtUltFat    Quantidade     Peso Bruto  Valor Entrega QtdEn QtdNF RegCidade                         DtUltFat    Quantidade     Peso Bruto  Valor Entrega QtdEn QtdNF Reg
-
-
-  22 PIRES SID.A  22 PIRES SID.A  22 PIRES SID.A
-3020 CAMPO GRANDE              14/12/23           8,0          45,45       1.572,05     1     1  22
-     Totais da Regiao:                            8,0          45,45       1.572,05     1     1     Totais da Regiao:                            8,0          45,45       1.572,05     1     1     Totais da Regiao:                            8,0          45,45       1.572,05     1     1
-
-  23 PIRES SID.B  23 PIRES SID.B  23 PIRES SID.B
-3020 CAMPO GRANDE              14/12/23          13,0          67,44       2.343,24     2     2  23
-     Totais da Regiao:                           13,0          67,44       2.343,24     2     2     Totais da Regiao:                           13,0          67,44       2.343,24     2     2     Totais da Regiao:                           13,0          67,44       2.343,24     2     2
-
-  24 PIRES CENTRO  24 PIRES CENTRO  24 PIRES CENTRO
-3020 CAMPO GRANDE              14/12/23          19,0          93,91       3.395,98     2     3  24
-     Totais da Regiao:                           19,0          93,91       3.395,98     2     3     Totais da Regiao:                           19,0          93,91       3.395,98     2     3     Totais da Regiao:                           19,0          93,91       3.395,98     2     3
-
-  25 PIRES SAO PAULO.A  25 PIRES SAO PAULO.A  25 PIRES SAO PAULO.A
-3020 CAMPO GRANDE              14/12/23           7,0          40,96       1.370,03     1     1  25
-     Totais da Regiao:                            7,0          40,96       1.370,03     1     1     Totais da Regiao:                            7,0          40,96       1.370,03     1     1     Totais da Regiao:                            7,0          40,96       1.370,03     1     1
-
-  26 PIRES SAO PAULO.B  26 PIRES SAO PAULO.B  26 PIRES SAO PAULO.B
-3020 CAMPO GRANDE              14/12/23          30,0         148,64       5.303,75     3     3  26
-     Totais da Regiao:                           30,0         148,64       5.303,75     3     3     Totais da Regiao:                           30,0         148,64       5.303,75     3     3     Totais da Regiao:                           30,0         148,64       5.303,75     3     3
-
-  28 PIRES PIRATININGA  28 PIRES PIRATININGA  28 PIRES PIRATININGA
-3020 CAMPO GRANDE              14/12/23          14,0          76,70       2.671,63     2     3  28
-     Totais da Regiao:                           14,0          76,70       2.671,63     2     3     Totais da Regiao:                           14,0          76,70       2.671,63     2     3     Totais da Regiao:                           14,0          76,70       2.671,63     2     3
-
-  29 PIRES GUAICURUS  29 PIRES GUAICURUS  29 PIRES GUAICURUS
-3020 CAMPO GRANDE              14/12/23          21,0         110,50       3.957,89     2     3  29
-     Totais da Regiao:                           21,0         110,50       3.957,89     2     3     Totais da Regiao:                           21,0         110,50       3.957,89     2     3     Totais da Regiao:                           21,0         110,50       3.957,89     2     3
-
-  30 TRES LAGOAS - BRASILANDIA  30 TRES LAGOAS - BRASILANDIA  30 TRES LAGOAS - BRASILANDIA
-3017 BRASILANDIA               08/12/23         243,0          69,45       1.431,10     1     2  30
-3076 TRES LAGOAS               08/12/23       1.154,0         255,30      11.111,38    15    15  30
-     Totais da Regiao:                        1.397,0         324,75      12.542,48    16    17     Totais da Regiao:                        1.397,0         324,75      12.542,48    16    17     Totais da Regiao:                        1.397,0         324,75      12.542,48    16    17
-
-  33 AQUIDAUANA - ANASTACIO  33 AQUIDAUANA - ANASTACIO  33 AQUIDAUANA - ANASTACIO
-3004 ANASTACIO                 11/12/23          66,0          66,87       2.999,21     4     5  33
-3009 AQUIDAUANA                11/12/23         475,0          85,60       3.234,91     5     6  33
-3030 DOIS IRMAOS DO BURITI     08/12/23         390,0          77,46       3.034,64     4     5  33
-     Totais da Regiao:                          931,0         229,94       9.268,76    13    16     Totais da Regiao:                          931,0         229,94       9.268,76    13    16     Totais da Regiao:                          931,0         229,94       9.268,76    13    16
-
-  38 SIDROLANDIA  38 SIDROLANDIA  38 SIDROLANDIA
-3071 SIDROLANDIA               08/12/23         876,0         368,36      11.633,62     6     7  38
-     Totais da Regiao:                          876,0         368,36      11.633,62     6     7     Totais da Regiao:                          876,0         368,36      11.633,62     6     7     Totais da Regiao:                          876,0         368,36      11.633,62     6     7
-
-  42 NAVIRAI  42 NAVIRAI  42 NAVIRAI
-3046 JUTI                      07/12/23          18,0          28,70       1.616,30     1     3  42
-3052 NAVIRAI                   08/12/23         810,0         332,34      20.743,26     9    13  42
-     Totais da Regiao:                          828,0         361,04      22.359,56    10    16     Totais da Regiao:                          828,0         361,04      22.359,56    10    16     Totais da Regiao:                          828,0         361,04      22.359,56    10    16
-
-  43 MUNDO NOVO - ITAQUIRAI  43 MUNDO NOVO - ITAQUIRAI  43 MUNDO NOVO - ITAQUIRAI
-3033 ELDORADO                  30/11/23          48,0          29,45       1.227,28     3     3  43
----------------------------------------------------------------------------------------------------------
-01                                                                   12 Faturamento   Ref:ft12368
-Filial: 00                                                                        Emissao    Hora   Folha
-                                           PRE-MAPA DE CARGA                      14/12/23   12:09   0002
------GRUPO TRIUNFANTE-------------------------------------------------------------Usuario: willian-------
-
-Cidade                         DtUltFat    Quantidade     Peso Bruto  Valor Entrega QtdEn QtdNF RegCidade                         DtUltFat    Quantidade     Peso Bruto  Valor Entrega QtdEn QtdNF RegCidade                         DtUltFat    Quantidade     Peso Bruto  Valor Entrega QtdEn QtdNF Reg
-
-3040 ITAQUIRAI                 08/12/23         375,0          96,69       4.857,18     8    10  43
-     Totais da Regiao:                          423,0         126,15       6.084,46    11    13     Totais da Regiao:                          423,0         126,15       6.084,46    11    13     Totais da Regiao:                          423,0         126,15       6.084,46    11    13
-
-  44 FATIMA DO SUL - DEODAPOLI  44 FATIMA DO SUL - DEODAPOLI  44 FATIMA DO SUL - DEODAPOLI
-3029 DEODAPOLIS                08/12/23          53,0          71,84       3.953,54     2     2  44
-3034 FATIMA DO SUL             08/12/23         300,0         265,20       4.495,96     1     1  44
-3035 GLORIA DE DOURADOS        08/12/23          91,0          12,07         465,27     2     2  44
-     Totais da Regiao:                          444,0         349,11       8.914,77     5     5     Totais da Regiao:                          444,0         349,11       8.914,77     5     5     Totais da Regiao:                          444,0         349,11       8.914,77     5     5
-
-  46 BELA VISTA - PORTO MURTIN  46 BELA VISTA - PORTO MURTIN  46 BELA VISTA - PORTO MURTIN
-3014 BELA VISTA                08/12/23         108,0          27,01       1.156,34     3     5  46
-     Totais da Regiao:                          108,0          27,01       1.156,34     3     5     Totais da Regiao:                          108,0          27,01       1.156,34     3     5     Totais da Regiao:                          108,0          27,01       1.156,34     3     5
-
-  49 GRANDES REDES DOURADOS  49 GRANDES REDES DOURADOS  49 GRANDES REDES DOURADOS
-3032 DOURADOS                  14/12/23           9,0          44,26       1.535,82     1     1  49
-     Totais da Regiao:                            9,0          44,26       1.535,82     1     1     Totais da Regiao:                            9,0          44,26       1.535,82     1     1     Totais da Regiao:                            9,0          44,26       1.535,82     1     1
-
- 307 SUPERM THOME E LEANDRO TE 307 SUPERM THOME E LEANDRO TE 307 SUPERM THOME E LEANDRO TE
-3076 TRES LAGOAS               08/12/23          54,0          43,67       2.600,43     2     3 307
-     Totais da Regiao:                           54,0          43,67       2.600,43     2     3     Totais da Regiao:                           54,0          43,67       2.600,43     2     3     Totais da Regiao:                           54,0          43,67       2.600,43     2     3
-
- 320 ANDRE RICARDO PONTA PORA 320 ANDRE RICARDO PONTA PORA 320 ANDRE RICARDO PONTA PORA
-3060 PONTA PORA                14/12/23       3.287,0       1.325,42      55.749,72     3     9 320
-     Totais da Regiao:                        3.287,0       1.325,42      55.749,72     3     9     Totais da Regiao:                        3.287,0       1.325,42      55.749,72     3     9     Totais da Regiao:                        3.287,0       1.325,42      55.749,72     3     9
-
- 321 PARANAIBA 321 PARANAIBA 321 PARANAIBA
-3038 INOCENCIA                 14/12/23          16,0          11,82         154,84     1     1 321
-     Totais da Regiao:                           16,0          11,82         154,84     1     1     Totais da Regiao:                           16,0          11,82         154,84     1     1     Totais da Regiao:                           16,0          11,82         154,84     1     1
-
- 331 MIRANDA - BODOQUENA 331 MIRANDA - BODOQUENA 331 MIRANDA - BODOQUENA
-3015 BODOQUENA                 08/12/23         306,0          75,50       3.599,96     6     7 331
-3050 MIRANDA                   11/12/23       1.009,0         231,91      10.784,59    10    17 331
-     Totais da Regiao:                        1.315,0         307,41      14.384,55    16    24     Totais da Regiao:                        1.315,0         307,41      14.384,55    16    24     Totais da Regiao:                        1.315,0         307,41      14.384,55    16    24
-
- 370 REDE PIRES RIO BRILHANTE 370 REDE PIRES RIO BRILHANTE 370 REDE PIRES RIO BRILHANTE
-3063 RIO BRILHANTE             08/12/23          19,0          98,69       3.668,82     3     3 370
-     Totais da Regiao:                           19,0          98,69       3.668,82     3     3     Totais da Regiao:                           19,0          98,69       3.668,82     3     3     Totais da Regiao:                           19,0          98,69       3.668,82     3     3
-
- 422 REDE TRAZZI 422 REDE TRAZZI 422 REDE TRAZZI
-3020 CAMPO GRANDE              14/12/23           2,0          13,48         252,02     1     1 422
-     Totais da Regiao:                            2,0          13,48         252,02     1     1     Totais da Regiao:                            2,0          13,48         252,02     1     1     Totais da Regiao:                            2,0          13,48         252,02     1     1
-
- 441 IVINHEMA - ANGELICA 441 IVINHEMA - ANGELICA 441 IVINHEMA - ANGELICA
-3006 ANGELICA                  08/12/23          23,0           2,73         219,66     1     1 441
-     Totais da Regiao:                           23,0           2,73         219,66     1     1     Totais da Regiao:                           23,0           2,73         219,66     1     1     Totais da Regiao:                           23,0           2,73         219,66     1     1
-
- 450 BATAGUASSU - SANTA RITA 450 BATAGUASSU - SANTA RITA 450 BATAGUASSU - SANTA RITA
-3012 BATAGUASSU                08/12/23          41,0           4,71         220,91     1     1 450
-     Totais da Regiao:                           41,0           4,71         220,91     1     1     Totais da Regiao:                           41,0           4,71         220,91     1     1     Totais da Regiao:                           41,0           4,71         220,91     1     1
-     Total Geral....:                         9.885,0       4.222,26     171.361,33   106   139     Total Geral....:                         9.885,0       4.222,26     171.361,33   106   139     Total Geral....:                         9.885,0       4.222,26     171.361,33   106   139

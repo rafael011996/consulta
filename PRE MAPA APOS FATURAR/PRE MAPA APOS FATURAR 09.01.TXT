@@ -1,80 +1,0 @@
- g 
----------------------------------------------------------------------------------------------------------
-01                                                                   12 Faturamento          Ref:ft12368
-Filial: 00                                                                        Emissao    Hora   Folha
-                                           PRE-MAPA DE CARGA                      09/01/24   10:35   0001
------GRUPO TRIUNFANTE-------------------------------------------------------------Usuario: willian-------
-
-Cidade                            DtUltFat    Quantidade     Peso Bruto  Valor Entrega QtdEn QtdNF RegCidade                            DtUltFat    Quantidade     Peso Bruto  Valor Entrega QtdEn QtdNF RegCidade                            DtUltFat    Quantidade     Peso Bruto  Valor Entrega QtdEn QtdNF Reg
-
-
-     30 TRES LAGOAS - BRASILANDIA     30 TRES LAGOAS - BRASILANDIA     30 TRES LAGOAS - BRASILANDIA
-5008305 TRES LAGOAS               05/01/24         166,0          28,84       1.320,25     3     3  30
-        Totais da Regiao:                          166,0          28,84       1.320,25     3     3        Totais da Regiao:                          166,0          28,84       1.320,25     3     3        Totais da Regiao:                          166,0          28,84       1.320,25     3     3
-
-     31 AMAMBAI - SETE QUEDAS     31 AMAMBAI - SETE QUEDAS     31 AMAMBAI - SETE QUEDAS
-5006358 PARANHOS                  08/01/24         206,0          62,98       2.124,85     3     3  31
-        Totais da Regiao:                          206,0          62,98       2.124,85     3     3        Totais da Regiao:                          206,0          62,98       2.124,85     3     3        Totais da Regiao:                          206,0          62,98       2.124,85     3     3
-
-     32 PONTA PORA     32 PONTA PORA     32 PONTA PORA
-5000906 ANTONIO JOAO              08/01/24           5,0            ,71         115,07     1     1  32
-5006606 PONTA PORA                08/01/24         157,0          85,23       4.097,12     2     2  32
-        Totais da Regiao:                          162,0          85,94       4.212,19     3     3        Totais da Regiao:                          162,0          85,94       4.212,19     3     3        Totais da Regiao:                          162,0          85,94       4.212,19     3     3
-
-     34 CORUMBA - LADARIO     34 CORUMBA - LADARIO     34 CORUMBA - LADARIO
-5003207 CORUMBA                   08/01/24           7,0          24,94       1.121,40     1     1  34
-        Totais da Regiao:                            7,0          24,94       1.121,40     1     1        Totais da Regiao:                            7,0          24,94       1.121,40     1     1        Totais da Regiao:                            7,0          24,94       1.121,40     1     1
-
-     35 DOURADOS     35 DOURADOS     35 DOURADOS
-5003702 DOURADOS                  08/01/24         120,0          40,63       1.943,52     2     2  35
-        Totais da Regiao:                          120,0          40,63       1.943,52     2     2        Totais da Regiao:                          120,0          40,63       1.943,52     2     2        Totais da Regiao:                          120,0          40,63       1.943,52     2     2
-
-     36 NOVA ALVORADA     36 NOVA ALVORADA     36 NOVA ALVORADA
-5006002 NOVA ALVORADA DO SUL      30/12/23           4,0           6,60         511,86     1     1  36
-        Totais da Regiao:                            4,0           6,60         511,86     1     1        Totais da Regiao:                            4,0           6,60         511,86     1     1        Totais da Regiao:                            4,0           6,60         511,86     1     1
-
-     37 RIO BRILHANTE     37 RIO BRILHANTE     37 RIO BRILHANTE
-5007208 RIO BRILHANTE             30/12/23         280,0          91,61       4.061,56     9     9  37
-        Totais da Regiao:                          280,0          91,61       4.061,56     9     9        Totais da Regiao:                          280,0          91,61       4.061,56     9     9        Totais da Regiao:                          280,0          91,61       4.061,56     9     9
-
-     39 CHAPADAO -COSTA RICA     39 CHAPADAO -COSTA RICA     39 CHAPADAO -COSTA RICA
-5002902 CASSILANDIA               29/12/23         769,0         400,06      16.322,02     8     8  39
-5002951 CHAPADAO DO SUL           30/12/23          23,0          15,35         705,96     1     1  39
-        Totais da Regiao:                          792,0         415,42      17.027,98     9     9        Totais da Regiao:                          792,0         415,42      17.027,98     9     9        Totais da Regiao:                          792,0         415,42      17.027,98     9     9
-
-     40 PARANAIBA - SELVIRIA     40 PARANAIBA - SELVIRIA     40 PARANAIBA - SELVIRIA
-5004403 INOCENCIA                 30/12/23          98,0          34,05       1.660,41     5     5  40
-        Totais da Regiao:                           98,0          34,05       1.660,41     5     5        Totais da Regiao:                           98,0          34,05       1.660,41     5     5        Totais da Regiao:                           98,0          34,05       1.660,41     5     5
-
-     42 NAVIRAI     42 NAVIRAI     42 NAVIRAI
-5005707 NAVIRAI                   30/12/23         470,0         314,73      11.127,07    11    11  42
-        Totais da Regiao:                          470,0         314,73      11.127,07    11    11        Totais da Regiao:                          470,0         314,73      11.127,07    11    11        Totais da Regiao:                          470,0         314,73      11.127,07    11    11
-
-     46 BELA VISTA - PORTO MURTIN     46 BELA VISTA - PORTO MURTIN     46 BELA VISTA - PORTO MURTIN
-5002100 BELA VISTA                05/01/24          21,0           7,98         463,36     2     2  46
-        Totais da Regiao:                           21,0           7,98         463,36     2     2        Totais da Regiao:                           21,0           7,98         463,36     2     2        Totais da Regiao:                           21,0           7,98         463,36     2     2
-
-     47 BONITO - NIOAQUE     47 BONITO - NIOAQUE     47 BONITO - NIOAQUE
-5005004 JARDIM                    05/01/24           1,0           6,87         221,75     1     1  47
----------------------------------------------------------------------------------------------------------
-01                                                                   12 Faturamento          Ref:ft12368
-Filial: 00                                                                        Emissao    Hora   Folha
-                                           PRE-MAPA DE CARGA                      09/01/24   10:35   0002
------GRUPO TRIUNFANTE-------------------------------------------------------------Usuario: willian-------
-
-Cidade                            DtUltFat    Quantidade     Peso Bruto  Valor Entrega QtdEn QtdNF RegCidade                            DtUltFat    Quantidade     Peso Bruto  Valor Entrega QtdEn QtdNF RegCidade                            DtUltFat    Quantidade     Peso Bruto  Valor Entrega QtdEn QtdNF Reg
-
-        Totais da Regiao:                            1,0           6,87         221,75     1     1        Totais da Regiao:                            1,0           6,87         221,75     1     1        Totais da Regiao:                            1,0           6,87         221,75     1     1
-
-     48 MARACAJU     48 MARACAJU     48 MARACAJU
-5005400 MARACAJU                  30/12/23         218,0          50,53       2.163,18     6     6  48
-        Totais da Regiao:                          218,0          50,53       2.163,18     6     6        Totais da Regiao:                          218,0          50,53       2.163,18     6     6        Totais da Regiao:                          218,0          50,53       2.163,18     6     6
-
-     51 CAMAPUA- BANDEI. JARAGUAR     51 CAMAPUA- BANDEI. JARAGUAR     51 CAMAPUA- BANDEI. JARAGUAR
-5001508 BANDEIRANTES              30/12/23          49,0          19,42       1.005,26     1     1  51
-        Totais da Regiao:                           49,0          19,42       1.005,26     1     1        Totais da Regiao:                           49,0          19,42       1.005,26     1     1        Totais da Regiao:                           49,0          19,42       1.005,26     1     1
-
-    302 AGUA CLARA    302 AGUA CLARA    302 AGUA CLARA
-5000203 AGUA CLARA                05/01/24         131,0          25,16       1.308,46     7     7 302
-        Totais da Regiao:                          131,0          25,16       1.308,46     7     7        Totais da Regiao:                          131,0          25,16       1.308,46     7     7        Totais da Regiao:                          131,0          25,16       1.308,46     7     7
-        Total Geral....:                         2.725,0       1.215,76      50.273,10    64    64        Total Geral....:                         2.725,0       1.215,76      50.273,10    64    64        Total Geral....:                         2.725,0       1.215,76      50.273,10    64    64

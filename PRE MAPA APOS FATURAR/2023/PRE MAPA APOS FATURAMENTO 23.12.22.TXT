@@ -1,53 +1,0 @@
- g 
----------------------------------------------------------------------------------------------------------
-01                                                                   12 Faturamento   Ref:ft12368
-Filial: 00                                                                        Emissao    Hora   Folha
-                                           PRE-MAPA DE CARGA                      23/12/22   12:29   0001
------GRUPO TRIUNFANTE-------------------------------------------------------------Usuario: luiz----------
-
-Cidade                         DtUltFat    Quantidade     Peso Bruto  Valor Entrega QtdEn QtdNF RegCidade                         DtUltFat    Quantidade     Peso Bruto  Valor Entrega QtdEn QtdNF RegCidade                         DtUltFat    Quantidade     Peso Bruto  Valor Entrega QtdEn QtdNF Reg
-
-
-  31 AMAMBAI - SETE QUEDAS  31 AMAMBAI - SETE QUEDAS  31 AMAMBAI - SETE QUEDAS
-3003 AMAMBAI                   16/12/22         132,0         149,27       6.152,36     3     3  31
-3025 CORONEL SAPUCAIA          30/11/22         188,0          83,64       4.140,73     4     4  31
-3058 PARANHOS                  18/11/22         391,0         330,78      16.279,38     6     7  31
-     Totais da Regiao:                          711,0         563,70      26.572,47    13    14     Totais da Regiao:                          711,0         563,70      26.572,47    13    14     Totais da Regiao:                          711,0         563,70      26.572,47    13    14
-
-  33 AQUIDAUANA - ANASTACIO  33 AQUIDAUANA - ANASTACIO  33 AQUIDAUANA - ANASTACIO
-3004 ANASTACIO                 19/12/22          77,0          18,13         690,55     2     3  33
-3009 AQUIDAUANA                19/12/22         352,0         145,82       3.328,95     7     9  33
-     Totais da Regiao:                          429,0         163,95       4.019,50     9    12     Totais da Regiao:                          429,0         163,95       4.019,50     9    12     Totais da Regiao:                          429,0         163,95       4.019,50     9    12
-
-  34 CORUMBA - LADARIO  34 CORUMBA - LADARIO  34 CORUMBA - LADARIO
-3026 CORUMBA                   22/12/22         124,0         205,11       9.170,37     8     8  34
-     Totais da Regiao:                          124,0         205,11       9.170,37     8     8     Totais da Regiao:                          124,0         205,11       9.170,37     8     8     Totais da Regiao:                          124,0         205,11       9.170,37     8     8
-
-  41 RIO VERDE - SONORA  41 RIO VERDE - SONORA  41 RIO VERDE - SONORA
-3002 ALCINOPOLIS               30/11/22           1,0           8,31         357,89     1     1  41
-3028 COXIM                     16/12/22         906,0         362,73      16.326,42    11    14  41
-3059 PEDRO GOMES               16/12/22          69,0          81,48       1.860,91     4     5  41
-3065 RIO VERDE DE MATO GROSSO  15/12/22         491,0         136,33       3.410,52     7     7  41
-3072 SONORA                    16/12/22          72,0           9,93         438,16     2     2  41
-     Totais da Regiao:                        1.539,0         598,81      22.393,90    25    29     Totais da Regiao:                        1.539,0         598,81      22.393,90    25    29     Totais da Regiao:                        1.539,0         598,81      22.393,90    25    29
-
- 301 RIBAS DO RIO PARDO 301 RIBAS DO RIO PARDO 301 RIBAS DO RIO PARDO
-3062 RIBAS DO RIO PARDO        22/12/22         108,0         269,09       8.267,72     5     9 301
-     Totais da Regiao:                          108,0         269,09       8.267,72     5     9     Totais da Regiao:                          108,0         269,09       8.267,72     5     9     Totais da Regiao:                          108,0         269,09       8.267,72     5     9
-
- 302 AGUA CLARA 302 AGUA CLARA 302 AGUA CLARA
-3062 RIBAS DO RIO PARDO        22/12/22          21,0          14,56         217,41     1     1 302
-     Totais da Regiao:                           21,0          14,56         217,41     1     1     Totais da Regiao:                           21,0          14,56         217,41     1     1     Totais da Regiao:                           21,0          14,56         217,41     1     1
-
- 331 MIRANDA - BODOQUENA 331 MIRANDA - BODOQUENA 331 MIRANDA - BODOQUENA
-3050 MIRANDA                   16/12/22         312,0          55,60       2.336,97     5     8 331
-     Totais da Regiao:                          312,0          55,60       2.336,97     5     8     Totais da Regiao:                          312,0          55,60       2.336,97     5     8     Totais da Regiao:                          312,0          55,60       2.336,97     5     8
-
- 410 BENFICA - SAO GABRIELDO O 410 BENFICA - SAO GABRIELDO O 410 BENFICA - SAO GABRIELDO O
-3068 SAO GABRIEL DO OESTE      16/12/22          45,0          83,08       3.882,72     1     1 410
-     Totais da Regiao:                           45,0          83,08       3.882,72     1     1     Totais da Regiao:                           45,0          83,08       3.882,72     1     1     Totais da Regiao:                           45,0          83,08       3.882,72     1     1
-
- 413 CORGUINHO - RIO NEGRO 413 CORGUINHO - RIO NEGRO 413 CORGUINHO - RIO NEGRO
-3075 TERENOS                   16/12/22         187,0          44,71       3.538,69     1     1 413
-     Totais da Regiao:                          187,0          44,71       3.538,69     1     1     Totais da Regiao:                          187,0          44,71       3.538,69     1     1     Totais da Regiao:                          187,0          44,71       3.538,69     1     1
-     Total Geral....:                         3.476,0       1.998,64      80.399,75    68    83     Total Geral....:                         3.476,0       1.998,64      80.399,75    68    83     Total Geral....:                         3.476,0       1.998,64      80.399,75    68    83

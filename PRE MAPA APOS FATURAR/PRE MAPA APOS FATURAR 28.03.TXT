@@ -1,34 +1,0 @@
- g 
----------------------------------------------------------------------------------------------------------
-01                                                                   12 Faturamento          Ref:ft12368
-Filial: 00                                                                        Emissao    Hora   Folha
-                                           PRE-MAPA DE CARGA                      28/03/24   11:41   0001
------GRUPO TRIUNFANTE-------------------------------------------------------------Usuario: willian-------
-
-Cidade                            DtUltFat    Quantidade     Peso Bruto  Valor Entrega QtdEn QtdNF RegCidade                            DtUltFat    Quantidade     Peso Bruto  Valor Entrega QtdEn QtdNF RegCidade                            DtUltFat    Quantidade     Peso Bruto  Valor Entrega QtdEn QtdNF Reg
-
-
-     33 AQUIDAUANA - ANASTACIO     33 AQUIDAUANA - ANASTACIO     33 AQUIDAUANA - ANASTACIO
-5000708 ANASTACIO                 25/03/24          49,0           8,88         550,58     3     3  33
-5001102 AQUIDAUANA                25/03/24          95,0          34,03       1.654,74     4     6  33
-5003488 DOIS IRMAOS DO BURITI     25/03/24          43,0          11,12         613,82     2     3  33
-        Totais da Regiao:                          187,0          54,05       2.819,14     9    12        Totais da Regiao:                          187,0          54,05       2.819,14     9    12        Totais da Regiao:                          187,0          54,05       2.819,14     9    12
-
-     51 CAMAPUA- BANDEI. JARAGUAR     51 CAMAPUA- BANDEI. JARAGUAR     51 CAMAPUA- BANDEI. JARAGUAR
-5001508 BANDEIRANTES              15/03/24          65,0          23,14         987,48     1     1  51
-5002605 CAMAPUA                   22/03/24           6,0           4,06         251,92     1     1  51
-        Totais da Regiao:                           71,0          27,20       1.239,40     2     2        Totais da Regiao:                           71,0          27,20       1.239,40     2     2        Totais da Regiao:                           71,0          27,20       1.239,40     2     2
-
-    331 MIRANDA - BODOQUENA    331 MIRANDA - BODOQUENA    331 MIRANDA - BODOQUENA
-5002159 BODOQUENA                 22/03/24         368,0         149,96       6.639,58     2     4 331
-5005608 MIRANDA                   25/03/24         196,0          61,32       2.740,86     3     4 331
-        Totais da Regiao:                          564,0         211,28       9.380,44     5     8        Totais da Regiao:                          564,0         211,28       9.380,44     5     8        Totais da Regiao:                          564,0         211,28       9.380,44     5     8
-
-    422 REDE TRAZZI    422 REDE TRAZZI    422 REDE TRAZZI
-5002704 CAMPO GRANDE              28/03/24           3,0           1,98         296,52     1     1 422
-        Totais da Regiao:                            3,0           1,98         296,52     1     1        Totais da Regiao:                            3,0           1,98         296,52     1     1        Totais da Regiao:                            3,0           1,98         296,52     1     1
-
-    423 REDE TRAZZI SIDRO E SP    423 REDE TRAZZI SIDRO E SP    423 REDE TRAZZI SIDRO E SP
-5002704 CAMPO GRANDE              28/03/24         950,0         338,20      15.228,50     3     4 423
-        Totais da Regiao:                          950,0         338,20      15.228,50     3     4        Totais da Regiao:                          950,0         338,20      15.228,50     3     4        Totais da Regiao:                          950,0         338,20      15.228,50     3     4
-        Total Geral....:                         1.775,0         632,72      28.964,00    20    27        Total Geral....:                         1.775,0         632,72      28.964,00    20    27        Total Geral....:                         1.775,0         632,72      28.964,00    20    27

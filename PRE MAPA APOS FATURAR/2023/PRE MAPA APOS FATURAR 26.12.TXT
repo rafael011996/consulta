@@ -1,112 +1,0 @@
- g 
----------------------------------------------------------------------------------------------------------
-01                                                                   12 Faturamento          Ref:ft12368
-Filial: 00                                                                        Emissao    Hora   Folha
-                                           PRE-MAPA DE CARGA                      26/12/23   10:12   0001
------GRUPO TRIUNFANTE-------------------------------------------------------------Usuario: willian-------
-
-Cidade                            DtUltFat    Quantidade     Peso Bruto  Valor Entrega QtdEn QtdNF RegCidade                            DtUltFat    Quantidade     Peso Bruto  Valor Entrega QtdEn QtdNF RegCidade                            DtUltFat    Quantidade     Peso Bruto  Valor Entrega QtdEn QtdNF Reg
-
-
-     30 TRES LAGOAS - BRASILANDIA     30 TRES LAGOAS - BRASILANDIA     30 TRES LAGOAS - BRASILANDIA
-5002308 BRASILANDIA               15/12/23          21,0         140,64       6.026,84     2     2  30
-5008305 TRES LAGOAS               22/12/23          80,0         133,55       6.070,64     4     4  30
-        Totais da Regiao:                          101,0         274,19      12.097,48     6     6        Totais da Regiao:                          101,0         274,19      12.097,48     6     6        Totais da Regiao:                          101,0         274,19      12.097,48     6     6
-
-     31 AMAMBAI - SETE QUEDAS     31 AMAMBAI - SETE QUEDAS     31 AMAMBAI - SETE QUEDAS
-5000609 AMAMBAI                   22/12/23           2,0          21,12       1.283,99     1     1  31
-        Totais da Regiao:                            2,0          21,12       1.283,99     1     1        Totais da Regiao:                            2,0          21,12       1.283,99     1     1        Totais da Regiao:                            2,0          21,12       1.283,99     1     1
-
-     32 PONTA PORA     32 PONTA PORA     32 PONTA PORA
-5006606 PONTA PORA                22/12/23          72,0         139,51       6.815,76     2     2  32
-        Totais da Regiao:                           72,0         139,51       6.815,76     2     2        Totais da Regiao:                           72,0         139,51       6.815,76     2     2        Totais da Regiao:                           72,0         139,51       6.815,76     2     2
-
-     35 DOURADOS     35 DOURADOS     35 DOURADOS
-5003702 DOURADOS                  22/12/23         307,0          96,78       5.257,28     4     4  35
-5004502 ITAPORA                   22/12/23          15,0           3,75         203,04     1     1  35
-        Totais da Regiao:                          322,0         100,53       5.460,32     5     5        Totais da Regiao:                          322,0         100,53       5.460,32     5     5        Totais da Regiao:                          322,0         100,53       5.460,32     5     5
-
-     36 NOVA ALVORADA     36 NOVA ALVORADA     36 NOVA ALVORADA
-5006002 NOVA ALVORADA DO SUL      22/12/23           6,0          11,88         693,42     1     1  36
-        Totais da Regiao:                            6,0          11,88         693,42     1     1        Totais da Regiao:                            6,0          11,88         693,42     1     1        Totais da Regiao:                            6,0          11,88         693,42     1     1
-
-     38 SIDROLANDIA     38 SIDROLANDIA     38 SIDROLANDIA
-5007901 SIDROLANDIA               22/12/23          81,0         373,85      15.353,21     2     2  38
-        Totais da Regiao:                           81,0         373,85      15.353,21     2     2        Totais da Regiao:                           81,0         373,85      15.353,21     2     2        Totais da Regiao:                           81,0         373,85      15.353,21     2     2
-
-     39 CHAPADAO -COSTA RICA     39 CHAPADAO -COSTA RICA     39 CHAPADAO -COSTA RICA
-5002902 CASSILANDIA               21/12/23          32,0          11,39         512,64     1     1  39
-        Totais da Regiao:                           32,0          11,39         512,64     1     1        Totais da Regiao:                           32,0          11,39         512,64     1     1        Totais da Regiao:                           32,0          11,39         512,64     1     1
-
-     40 PARANAIBA - SELVIRIA     40 PARANAIBA - SELVIRIA     40 PARANAIBA - SELVIRIA
-5006309 PARANAIBA                 22/12/23          26,0         108,31       4.275,20     2     2  40
-        Totais da Regiao:                           26,0         108,31       4.275,20     2     2        Totais da Regiao:                           26,0         108,31       4.275,20     2     2        Totais da Regiao:                           26,0         108,31       4.275,20     2     2
-
-     42 NAVIRAI     42 NAVIRAI     42 NAVIRAI
-5005152 JUTI                      15/12/23          17,0          11,83         652,90     3     3  42
-5005707 NAVIRAI                   22/12/23         367,0         352,21      17.391,70     6     6  42
-        Totais da Regiao:                          384,0         364,05      18.044,60     9     9        Totais da Regiao:                          384,0         364,05      18.044,60     9     9        Totais da Regiao:                          384,0         364,05      18.044,60     9     9
-
-     43 MUNDO NOVO - ITAQUIRAI     43 MUNDO NOVO - ITAQUIRAI     43 MUNDO NOVO - ITAQUIRAI
-5004601 ITAQUIRAI                 22/12/23         105,0         305,80      11.766,45     2     2  43
-        Totais da Regiao:                          105,0         305,80      11.766,45     2     2        Totais da Regiao:                          105,0         305,80      11.766,45     2     2        Totais da Regiao:                          105,0         305,80      11.766,45     2     2
-
-     44 FATIMA DO SUL - DEODAPOLI     44 FATIMA DO SUL - DEODAPOLI     44 FATIMA DO SUL - DEODAPOLI
-5003454 DEODAPOLIS                22/12/23          14,0          80,20       4.808,00     1     1  44
-5003801 FATIMA DO SUL             22/12/23           2,0          11,81         717,28     1     1  44
-5004007 GLORIA DE DOURADOS        15/12/23          10,0          68,71       3.586,44     1     1  44
----------------------------------------------------------------------------------------------------------
-01                                                                   12 Faturamento          Ref:ft12368
-Filial: 00                                                                        Emissao    Hora   Folha
-                                           PRE-MAPA DE CARGA                      26/12/23   10:12   0002
------GRUPO TRIUNFANTE-------------------------------------------------------------Usuario: willian-------
-
-Cidade                            DtUltFat    Quantidade     Peso Bruto  Valor Entrega QtdEn QtdNF RegCidade                            DtUltFat    Quantidade     Peso Bruto  Valor Entrega QtdEn QtdNF RegCidade                            DtUltFat    Quantidade     Peso Bruto  Valor Entrega QtdEn QtdNF Reg
-
-        Totais da Regiao:                           26,0         160,72       9.111,72     3     3        Totais da Regiao:                           26,0         160,72       9.111,72     3     3        Totais da Regiao:                           26,0         160,72       9.111,72     3     3
-
-     45 NOVA ANDRADINA - BATAYPOR     45 NOVA ANDRADINA - BATAYPOR     45 NOVA ANDRADINA - BATAYPOR
-5000807 ANAURILANDIA              22/12/23          52,0           5,83         332,68     1     1  45
-5002001 BATAYPORA                 22/12/23          14,0          54,49       3.245,77     2     3  45
-5006200 NOVA ANDRADINA            22/12/23         654,0         249,15      10.524,13     5     6  45
-        Totais da Regiao:                          720,0         309,48      14.102,58     8    10        Totais da Regiao:                          720,0         309,48      14.102,58     8    10        Totais da Regiao:                          720,0         309,48      14.102,58     8    10
-
-     46 BELA VISTA - PORTO MURTIN     46 BELA VISTA - PORTO MURTIN     46 BELA VISTA - PORTO MURTIN
-5002100 BELA VISTA                22/12/23         633,0         195,27       6.626,52     5     6  46
-        Totais da Regiao:                          633,0         195,27       6.626,52     5     6        Totais da Regiao:                          633,0         195,27       6.626,52     5     6        Totais da Regiao:                          633,0         195,27       6.626,52     5     6
-
-     47 BONITO - NIOAQUE     47 BONITO - NIOAQUE     47 BONITO - NIOAQUE
-5002209 BONITO                    22/12/23          28,0           8,69         396,01     1     1  47
-5004106 GUIA LOPES DA LAGUNA      22/12/23          31,0           5,63         204,30     1     1  47
-5005004 JARDIM                    22/12/23          55,0          11,34         389,87     2     2  47
-5005806 NIOAQUE                   15/12/23         220,0          60,56       2.634,43     3     3  47
-        Totais da Regiao:                          334,0          86,24       3.624,61     7     7        Totais da Regiao:                          334,0          86,24       3.624,61     7     7        Totais da Regiao:                          334,0          86,24       3.624,61     7     7
-
-     48 MARACAJU     48 MARACAJU     48 MARACAJU
-5005400 MARACAJU                  22/12/23          64,0           8,17         484,65     2     2  48
-        Totais da Regiao:                           64,0           8,17         484,65     2     2        Totais da Regiao:                           64,0           8,17         484,65     2     2        Totais da Regiao:                           64,0           8,17         484,65     2     2
-
-    301 RIBAS DO RIO PARDO    301 RIBAS DO RIO PARDO    301 RIBAS DO RIO PARDO
-5007109 RIBAS DO RIO PARDO        22/12/23          36,0          20,15         449,66     2     2 301
-        Totais da Regiao:                           36,0          20,15         449,66     2     2        Totais da Regiao:                           36,0          20,15         449,66     2     2        Totais da Regiao:                           36,0          20,15         449,66     2     2
-
-    302 AGUA CLARA    302 AGUA CLARA    302 AGUA CLARA
-5000203 AGUA CLARA                22/12/23          60,0          15,00         745,63     1     1 302
-        Totais da Regiao:                           60,0          15,00         745,63     1     1        Totais da Regiao:                           60,0          15,00         745,63     1     1        Totais da Regiao:                           60,0          15,00         745,63     1     1
-
-    320 ANDRE RICARDO PONTA PORA    320 ANDRE RICARDO PONTA PORA    320 ANDRE RICARDO PONTA PORA
-5006606 PONTA PORA                22/12/23         514,0         449,61      21.489,03     3     4 320
-        Totais da Regiao:                          514,0         449,61      21.489,03     3     4        Totais da Regiao:                          514,0         449,61      21.489,03     3     4        Totais da Regiao:                          514,0         449,61      21.489,03     3     4
-
-    422 REDE TRAZZI    422 REDE TRAZZI    422 REDE TRAZZI
-5002704 CAMPO GRANDE              26/12/23         309,0         129,08       5.093,69     1     2 422
-        Totais da Regiao:                          309,0         129,08       5.093,69     1     2        Totais da Regiao:                          309,0         129,08       5.093,69     1     2        Totais da Regiao:                          309,0         129,08       5.093,69     1     2
-
-    441 IVINHEMA - ANGELICA    441 IVINHEMA - ANGELICA    441 IVINHEMA - ANGELICA
-5004700 IVINHEMA                  22/12/23         344,0         341,54       5.018,87     2     2 441
-        Totais da Regiao:                          344,0         341,54       5.018,87     2     2        Totais da Regiao:                          344,0         341,54       5.018,87     2     2        Totais da Regiao:                          344,0         341,54       5.018,87     2     2
-
-    450 BATAGUASSU - SANTA RITA    450 BATAGUASSU - SANTA RITA    450 BATAGUASSU - SANTA RITA
-5001904 BATAGUASSU                22/12/23           5,0          17,50       1.793,22     1     1 450
-        Totais da Regiao:                            5,0          17,50       1.793,22     1     1        Totais da Regiao:                            5,0          17,50       1.793,22     1     1        Totais da Regiao:                            5,0          17,50       1.793,22     1     1
-        Total Geral....:                         4.176,0       3.443,46     144.843,25    66    71        Total Geral....:                         4.176,0       3.443,46     144.843,25    66    71        Total Geral....:                         4.176,0       3.443,46     144.843,25    66    71

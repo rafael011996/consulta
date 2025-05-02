@@ -1,134 +1,0 @@
- g 
----------------------------------------------------------------------------------------------------------
-01                                                                   12 Faturamento          Ref:ft12368
-Filial: 00                                                                        Emissao    Hora   Folha
-                                           PRE-MAPA DE CARGA                      04/04/24   11:42   0001
------GRUPO TRIUNFANTE-------------------------------------------------------------Usuario: willian-------
-
-Cidade                            DtUltFat    Quantidade     Peso Bruto  Valor Entrega QtdEn QtdNF RegCidade                            DtUltFat    Quantidade     Peso Bruto  Valor Entrega QtdEn QtdNF RegCidade                            DtUltFat    Quantidade     Peso Bruto  Valor Entrega QtdEn QtdNF Reg
-
-
-     30 TRES LAGOAS - BRASILANDIA     30 TRES LAGOAS - BRASILANDIA     30 TRES LAGOAS - BRASILANDIA
-5008305 TRES LAGOAS               30/03/24          66,0          14,59         880,42     5     6  30
-        Totais da Regiao:                           66,0          14,59         880,42     5     6        Totais da Regiao:                           66,0          14,59         880,42     5     6        Totais da Regiao:                           66,0          14,59         880,42     5     6
-
-     31 AMAMBAI - SETE QUEDAS     31 AMAMBAI - SETE QUEDAS     31 AMAMBAI - SETE QUEDAS
-5006358 PARANHOS                  30/03/24       1.077,0         523,50      20.480,94     8     9  31
-5007703 SETE QUEDAS               14/03/24         532,0         151,62       4.713,47     7    12  31
-5007950 TACURU                    30/03/24         203,0          63,68       3.801,33     4     4  31
-        Totais da Regiao:                        1.812,0         738,80      28.995,74    19    25        Totais da Regiao:                        1.812,0         738,80      28.995,74    19    25        Totais da Regiao:                        1.812,0         738,80      28.995,74    19    25
-
-     32 PONTA PORA     32 PONTA PORA     32 PONTA PORA
-5006606 PONTA PORA                30/03/24       2.546,0         616,22      23.870,27     9    11  32
-        Totais da Regiao:                        2.546,0         616,22      23.870,27     9    11        Totais da Regiao:                        2.546,0         616,22      23.870,27     9    11        Totais da Regiao:                        2.546,0         616,22      23.870,27     9    11
-
-     33 AQUIDAUANA - ANASTACIO     33 AQUIDAUANA - ANASTACIO     33 AQUIDAUANA - ANASTACIO
-5000708 ANASTACIO                 30/03/24         218,0          30,70       1.233,94     1     1  33
-5001102 AQUIDAUANA                30/03/24           2,0          22,00         919,44     1     1  33
-5003488 DOIS IRMAOS DO BURITI     30/03/24          90,0          32,04       1.442,70     1     1  33
-        Totais da Regiao:                          310,0          84,74       3.596,08     3     3        Totais da Regiao:                          310,0          84,74       3.596,08     3     3        Totais da Regiao:                          310,0          84,74       3.596,08     3     3
-
-     34 CORUMBA - LADARIO     34 CORUMBA - LADARIO     34 CORUMBA - LADARIO
-5003207 CORUMBA                   30/03/24         427,0         144,21       6.310,62     7    11  34
-5005202 LADARIO                   30/03/24       1.568,0         305,50      11.108,59     4     9  34
-        Totais da Regiao:                        1.995,0         449,72      17.419,21    11    20        Totais da Regiao:                        1.995,0         449,72      17.419,21    11    20        Totais da Regiao:                        1.995,0         449,72      17.419,21    11    20
-
-     35 DOURADOS     35 DOURADOS     35 DOURADOS
-5003702 DOURADOS                  30/03/24         305,0          77,58       3.306,15    12    13  35
-        Totais da Regiao:                          305,0          77,58       3.306,15    12    13        Totais da Regiao:                          305,0          77,58       3.306,15    12    13        Totais da Regiao:                          305,0          77,58       3.306,15    12    13
-
-     38 SIDROLANDIA     38 SIDROLANDIA     38 SIDROLANDIA
-5007901 SIDROLANDIA               30/03/24         553,0         203,51      10.223,34     7    14  38
-        Totais da Regiao:                          553,0         203,51      10.223,34     7    14        Totais da Regiao:                          553,0         203,51      10.223,34     7    14        Totais da Regiao:                          553,0         203,51      10.223,34     7    14
-
-     39 CHAPADAO -COSTA RICA     39 CHAPADAO -COSTA RICA     39 CHAPADAO -COSTA RICA
-5002951 CHAPADAO DO SUL           30/03/24          72,0          15,84         680,97     1     1  39
-5003256 COSTA RICA                30/03/24         534,0         108,11       6.608,91     6     6  39
-        Totais da Regiao:                          606,0         123,95       7.289,88     7     7        Totais da Regiao:                          606,0         123,95       7.289,88     7     7        Totais da Regiao:                          606,0         123,95       7.289,88     7     7
-
-     40 PARANAIBA - SELVIRIA     40 PARANAIBA - SELVIRIA     40 PARANAIBA - SELVIRIA
-5006309 PARANAIBA                 30/03/24          30,0          68,27       1.305,25     3     3  40
-        Totais da Regiao:                           30,0          68,27       1.305,25     3     3        Totais da Regiao:                           30,0          68,27       1.305,25     3     3        Totais da Regiao:                           30,0          68,27       1.305,25     3     3
-
-     41 RIO VERDE - SONORA     41 RIO VERDE - SONORA     41 RIO VERDE - SONORA
-5003306 COXIM                     30/03/24          24,0           5,28         226,99     1     1  41
-5007406 RIO VERDE DE MATO GROSSO  30/03/24         676,0         273,43      13.621,15    10    10  41
-        Totais da Regiao:                          700,0         278,71      13.848,14    11    11        Totais da Regiao:                          700,0         278,71      13.848,14    11    11        Totais da Regiao:                          700,0         278,71      13.848,14    11    11
-
-     42 NAVIRAI     42 NAVIRAI     42 NAVIRAI
-5005707 NAVIRAI                   30/03/24          39,0          13,88         638,56     1     1  42
----------------------------------------------------------------------------------------------------------
-01                                                                   12 Faturamento          Ref:ft12368
-Filial: 00                                                                        Emissao    Hora   Folha
-                                           PRE-MAPA DE CARGA                      04/04/24   11:42   0002
------GRUPO TRIUNFANTE-------------------------------------------------------------Usuario: willian-------
-
-Cidade                            DtUltFat    Quantidade     Peso Bruto  Valor Entrega QtdEn QtdNF RegCidade                            DtUltFat    Quantidade     Peso Bruto  Valor Entrega QtdEn QtdNF RegCidade                            DtUltFat    Quantidade     Peso Bruto  Valor Entrega QtdEn QtdNF Reg
-
-        Totais da Regiao:                           39,0          13,88         638,56     1     1        Totais da Regiao:                           39,0          13,88         638,56     1     1        Totais da Regiao:                           39,0          13,88         638,56     1     1
-
-     43 MUNDO NOVO - ITAQUIRAI     43 MUNDO NOVO - ITAQUIRAI     43 MUNDO NOVO - ITAQUIRAI
-5003751 ELDORADO                  30/03/24          64,0          11,78         478,59     3     3  43
-5004304 IGUATEMI                  15/03/24          67,0          40,72       2.241,97     4     5  43
-5004601 ITAQUIRAI                 28/03/24          58,0          53,42       1.864,68     4     4  43
-        Totais da Regiao:                          189,0         105,92       4.585,24    11    12        Totais da Regiao:                          189,0         105,92       4.585,24    11    12        Totais da Regiao:                          189,0         105,92       4.585,24    11    12
-
-     44 FATIMA DO SUL - DEODAPOLI     44 FATIMA DO SUL - DEODAPOLI     44 FATIMA DO SUL - DEODAPOLI
-5003454 DEODAPOLIS                30/03/24         130,0          36,86       1.832,39     2     3  44
-5003801 FATIMA DO SUL             30/03/24          62,0          16,10         599,66     3     3  44
-5006259 NOVO HORIZONTE DO SUL     30/03/24          40,0          16,63         791,89     1     1  44
-        Totais da Regiao:                          232,0          69,60       3.223,94     6     7        Totais da Regiao:                          232,0          69,60       3.223,94     6     7        Totais da Regiao:                          232,0          69,60       3.223,94     6     7
-
-     45 NOVA ANDRADINA - BATAYPOR     45 NOVA ANDRADINA - BATAYPOR     45 NOVA ANDRADINA - BATAYPOR
-5002001 BATAYPORA                 30/03/24         467,0         217,63       8.827,39     3     5  45
-5006200 NOVA ANDRADINA            30/03/24         883,0         238,78       9.854,50     6     6  45
-        Totais da Regiao:                        1.350,0         456,42      18.681,89     9    11        Totais da Regiao:                        1.350,0         456,42      18.681,89     9    11        Totais da Regiao:                        1.350,0         456,42      18.681,89     9    11
-
-     46 BELA VISTA - PORTO MURTIN     46 BELA VISTA - PORTO MURTIN     46 BELA VISTA - PORTO MURTIN
-5002803 CARACOL                   30/03/24         896,0         129,99       7.460,14     5     8  46
-5006903 PORTO MURTINHO            30/03/24       1.488,0         332,34      14.728,01     8    13  46
-        Totais da Regiao:                        2.384,0         462,33      22.188,15    13    21        Totais da Regiao:                        2.384,0         462,33      22.188,15    13    21        Totais da Regiao:                        2.384,0         462,33      22.188,15    13    21
-
-     47 BONITO - NIOAQUE     47 BONITO - NIOAQUE     47 BONITO - NIOAQUE
-5004106 GUIA LOPES DA LAGUNA      30/03/24         112,0          23,93       1.300,03     3     3  47
-5005004 JARDIM                    30/03/24          83,0         128,08       5.383,05     3     4  47
-5005806 NIOAQUE                   30/03/24         330,0          87,41       3.401,91     4     4  47
-        Totais da Regiao:                          525,0         239,42      10.084,99    10    11        Totais da Regiao:                          525,0         239,42      10.084,99    10    11        Totais da Regiao:                          525,0         239,42      10.084,99    10    11
-
-     48 MARACAJU     48 MARACAJU     48 MARACAJU
-5005400 MARACAJU                  30/03/24         153,0          49,93       1.947,72     2     2  48
-        Totais da Regiao:                          153,0          49,93       1.947,72     2     2        Totais da Regiao:                          153,0          49,93       1.947,72     2     2        Totais da Regiao:                          153,0          49,93       1.947,72     2     2
-
-     51 CAMAPUA- BANDEI. JARAGUAR     51 CAMAPUA- BANDEI. JARAGUAR     51 CAMAPUA- BANDEI. JARAGUAR
-5001508 BANDEIRANTES              30/03/24         433,0         133,57       5.279,86     6     8  51
-5002605 CAMAPUA                   30/03/24          66,0          38,76       1.030,51     3     4  51
-        Totais da Regiao:                          499,0         172,33       6.310,37     9    12        Totais da Regiao:                          499,0         172,33       6.310,37     9    12        Totais da Regiao:                          499,0         172,33       6.310,37     9    12
-
-    301 RIBAS DO RIO PARDO    301 RIBAS DO RIO PARDO    301 RIBAS DO RIO PARDO
-5007109 RIBAS DO RIO PARDO        30/03/24          16,0           3,52         151,33     1     1 301
-        Totais da Regiao:                           16,0           3,52         151,33     1     1        Totais da Regiao:                           16,0           3,52         151,33     1     1        Totais da Regiao:                           16,0           3,52         151,33     1     1
-
-    321 PARANAIBA    321 PARANAIBA    321 PARANAIBA
-5006309 PARANAIBA                 30/03/24           8,0           2,84         129,61     1     1 321
-        Totais da Regiao:                            8,0           2,84         129,61     1     1        Totais da Regiao:                            8,0           2,84         129,61     1     1        Totais da Regiao:                            8,0           2,84         129,61     1     1
-
-    331 MIRANDA - BODOQUENA    331 MIRANDA - BODOQUENA    331 MIRANDA - BODOQUENA
-5005608 MIRANDA                   30/03/24         270,0          96,12       4.327,22     2     2 331
----------------------------------------------------------------------------------------------------------
-01                                                                   12 Faturamento          Ref:ft12368
-Filial: 00                                                                        Emissao    Hora   Folha
-                                           PRE-MAPA DE CARGA                      04/04/24   11:42   0003
------GRUPO TRIUNFANTE-------------------------------------------------------------Usuario: willian-------
-
-Cidade                            DtUltFat    Quantidade     Peso Bruto  Valor Entrega QtdEn QtdNF RegCidade                            DtUltFat    Quantidade     Peso Bruto  Valor Entrega QtdEn QtdNF RegCidade                            DtUltFat    Quantidade     Peso Bruto  Valor Entrega QtdEn QtdNF Reg
-
-        Totais da Regiao:                          270,0          96,12       4.327,22     2     2        Totais da Regiao:                          270,0          96,12       4.327,22     2     2        Totais da Regiao:                          270,0          96,12       4.327,22     2     2
-
-    340 CORUMBA - QUADRI/FERNANDE    340 CORUMBA - QUADRI/FERNANDE    340 CORUMBA - QUADRI/FERNANDE
-5003207 CORUMBA                   30/03/24          59,0          99,34       3.639,40     1     1 340
-        Totais da Regiao:                           59,0          99,34       3.639,40     1     1        Totais da Regiao:                           59,0          99,34       3.639,40     1     1        Totais da Regiao:                           59,0          99,34       3.639,40     1     1
-
-    410 BENFICA - SAO GABRIELDO O    410 BENFICA - SAO GABRIELDO O    410 BENFICA - SAO GABRIELDO O
-5007695 SAO GABRIEL DO OESTE      30/03/24          19,0           6,76         320,72     1     1 410
-        Totais da Regiao:                           19,0           6,76         320,72     1     1        Totais da Regiao:                           19,0           6,76         320,72     1     1        Totais da Regiao:                           19,0           6,76         320,72     1     1
-        Total Geral....:                        14.666,0       4.434,62     186.963,62   154   196        Total Geral....:                        14.666,0       4.434,62     186.963,62   154   196        Total Geral....:                        14.666,0       4.434,62     186.963,62   154   196
