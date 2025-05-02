@@ -9,7 +9,7 @@ def carregar_dados():
 
 
 # Interface do app
-st.title('Consulta de Saldo de Produtos')
+st.title('Consulta de Produtos TRIUNFANTE')
 
 dados = carregar_dados()
 
