@@ -17,13 +17,14 @@ dados = carregar_dados()
 dados = dados[['Produto', 'Produto Fornecedor', 'Descricao', 'Saldo', 'Multiplo', 'Fator Conversao', 'Data Ult. Compra', 'NCM', 'CEST', '% IPI']]
 
 # Entrada de busca
-consulta = st.text_input('Digite o Código ou parte da Descrição do Produto:')
+consulta = st.text_input('Digite o Produto:')
 
 if consulta:
     # Filtro de busca
     resultado = dados[dados.apply(lambda row: 
                                   consulta.lower() in str(row['Produto']).lower() or 
                                   consulta.lower() in str(row['Descricao']).lower() or
+                                  consulta.lower() in str(row['Grupo']).lower() or
                                   consulta.lower() in str(row['Produto Fornecedor']).lower(), 
                                   axis=1)]
     
