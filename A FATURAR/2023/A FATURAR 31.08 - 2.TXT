@@ -1,57 +1,0 @@
- g 
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-TCG - TRIUNFANTE MATOGROSSENSE ALIMENTOS                                                                                                                                                12 Faturamento          Ref:ft12308
-Filial: CAMPO GRANDE                                                                                                                                                                                 Emissao    Hora   Folha
-                                                                                                    PEDIDOS A FATURAR                                                                                31/08/23   23:21   0001
------GRUPO TRIUNFANTE--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------Usuario: anapb---------
-
-0004   E   PJ LUAN - AB - FATIMA DO SUL0004   E   PJ LUAN - AB - FATIMA DO SUL0004   E   PJ LUAN - AB - FATIMA DO SUL
-
-     Pedido *--------------Clientes-------------*  Margem  COF  Portador  Lista  Saldo DMC     Trocas Total Pedido Prazos      Situacao Dig/Imp Programado P.Broker  Repre Usuario  Reg QtdCx Cidade     Pedido *--------------Clientes-------------*  Margem  COF  Portador  Lista  Saldo DMC     Trocas Total Pedido Prazos      Situacao Dig/Imp Programado P.Broker  Repre Usuario  Reg QtdCx Cidade     Pedido *--------------Clientes-------------*  Margem  COF  Portador  Lista  Saldo DMC     Trocas Total Pedido Prazos      Situacao Dig/Imp Programado P.Broker  Repre Usuario  Reg QtdCx Cidade
- 30.288.840 MACAUBA COMERCIO DE A 018201846000155    0,00 51234 ECOM CARTE   01     114,59       0,00     2.391,20 028 000 000 1-BLO   26/08/23   26/08/23               4          044 00017 DEODAPOLIS
- 30.293.625 LUIZ ANTONIO DOS SANT 002033660000102    0,00 51201 ECOM CARTE   01      13,50       0,00       282,38 028 000 000 1-BLO   29/08/23   29/08/23               4          044 00002 FATIMA DO SUL
-
-                                              Total Representante  Pedidos:       2      Valor:       2.673,58     Caixas:           0,00                                              Total Representante  Pedidos:       2      Valor:       2.673,58     Caixas:           0,00                                              Total Representante  Pedidos:       2      Valor:       2.673,58     Caixas:           0,00
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-0009   N   PJ MARCOS - AB - CHAPADAO0009   N   PJ MARCOS - AB - CHAPADAO0009   N   PJ MARCOS - AB - CHAPADAO
-
-      3.722 VT PARANA SUPERMERCAD 006088542000497    0,00 51201 BANCO        09      24,65       0,00       500,94 014 021 000 2-LIB   23/08/23   23/08/23               9 luiz     041 00000 ALCINOPOLIS
-      3.724 VT PARANA SUPERMERCAD 006088542000497    0,00 51201 BANCO        09       3,09-      0,00       239,85 028 000 000 2-LIB   24/08/23   23/08/23               9 laryssa  041 00001 ALCINOPOLIS
-      3.753 VT PARANA SUPERMERCAD 006088542000497    0,00 51201 BANCO        01      89,62-      0,00       389,47 028 000 000 2-LIB   31/08/23   31/08/23               9 luiz     041 00002 ALCINOPOLIS
-
-                                              Total Representante  Pedidos:       3      Valor:       1.130,26     Caixas:           0,00                                              Total Representante  Pedidos:       3      Valor:       1.130,26     Caixas:           0,00                                              Total Representante  Pedidos:       3      Valor:       1.130,26     Caixas:           0,00
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-0021   E   PJ SIDMAR - AB - AGUA RIBAS0021   E   PJ SIDMAR - AB - AGUA RIBAS0021   E   PJ SIDMAR - AB - AGUA RIBAS
-
- 30.299.607 RUY RODRIGUES PANIAGO 037577145000160    0,00 51201 ECOM BANCO   01     219,10       0,00     4.569,36 028 000 000 0-DIG   31/08/23   31/08/23              21          302 00039 AGUA CLARA
-
-                                              Total Representante  Pedidos:       1      Valor:       4.569,36     Caixas:           0,00                                              Total Representante  Pedidos:       1      Valor:       4.569,36     Caixas:           0,00                                              Total Representante  Pedidos:       1      Valor:       4.569,36     Caixas:           0,00
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-0211   E   PJ RODRIGO -AB- TRES LAGOAS0211   E   PJ RODRIGO -AB- TRES LAGOAS0211   E   PJ RODRIGO -AB- TRES LAGOAS
-
- 30.299.593 NOVA ESTRELA COMERCIO 012887219000214    0,00 51201 ECOM BANCO   01     855,78       0,00    17.749,44 028 000 000 0-DIG   31/08/23   31/08/23             211          304 00110 TRES LAGOAS
- 30.299.627 NOVA ESTRELA COMERCIO 012887219000567    0,00 51201 ECOM BANCO   01     821,14       0,00    17.069,04 028 000 000 0-DIG   31/08/23   31/08/23             211          306 00114 TRES LAGOAS
-
-                                              Total Representante  Pedidos:       2      Valor:      34.818,48     Caixas:           0,00                                              Total Representante  Pedidos:       2      Valor:      34.818,48     Caixas:           0,00                                              Total Representante  Pedidos:       2      Valor:      34.818,48     Caixas:           0,00
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-0414   P   PJ ELISANDRA - B - CORUMBA0414   P   PJ ELISANDRA - B - CORUMBA0414   P   PJ ELISANDRA - B - CORUMBA
-
-      6.438 R B GIMENES           014110529000172    0,00 51201 PIX / DINH   09       5,69-      0,00       108,20 000 000 000 1-BLO   25/08/23   24/08/23             414 anapb    034 00000 CORUMBA
-
-                                              Total Representante  Pedidos:       1      Valor:         108,20     Caixas:           0,00                                              Total Representante  Pedidos:       1      Valor:         108,20     Caixas:           0,00                                              Total Representante  Pedidos:       1      Valor:         108,20     Caixas:           0,00
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-0451   A   MARIA - B - VAREJO  CG0451   A   MARIA - B - VAREJO  CG0451   A   MARIA - B - VAREJO  CG
-
-      8.764 ERA DO GELO           019587634000110    0,00 51201 PIX / DINH   01       0,38-      0,00       215,59 000 000 000 0-DIG   31/08/23   04/09/23             451 luiz     007 00001 CAMPO GRANDE
-
-                                              Total Representante  Pedidos:       1      Valor:         215,59     Caixas:           0,00                                              Total Representante  Pedidos:       1      Valor:         215,59     Caixas:           0,00                                              Total Representante  Pedidos:       1      Valor:         215,59     Caixas:           0,00
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-                                              Total Representante  Pedidos:       0      Valor:           0,00     Caixas:           0,00                                              Total Representante  Pedidos:       0      Valor:           0,00     Caixas:           0,00                                              Total Representante  Pedidos:       0      Valor:           0,00     Caixas:           0,00
-
-                                                      Total Geral  Pedidos:      10      Valor:      43.515,47     Caixas:           0,00                                                      Total Geral  Pedidos:      10      Valor:      43.515,47     Caixas:           0,00                                                      Total Geral  Pedidos:      10      Valor:      43.515,47     Caixas:           0,00

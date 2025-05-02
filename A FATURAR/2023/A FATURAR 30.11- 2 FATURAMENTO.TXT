@@ -1,62 +1,0 @@
- g 
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-TCG - TRIUNFANTE MATOGROSSENSE ALIMENTOS                                                                                                                                                12 Faturamento   Ref:ft12308
-Filial: CAMPO GRANDE                                                                                                                                                                                 Emissao    Hora   Folha
-                                                                                                    PEDIDOS A FATURAR                                                                                30/11/23   00:07   0001
------GRUPO TRIUNFANTE--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------Usuario: willian-------
-
-0004   E   PJ LUAN - AB - FATIMA DO SUL0004   E   PJ LUAN - AB - FATIMA DO SUL0004   E   PJ LUAN - AB - FATIMA DO SUL
-
-     Pedido *--------------Clientes-------------*  Margem  COF  Portador  Lista  Saldo DMC     Trocas Total Pedido Prazos      Situacao Dig/Imp Programado P.Broker  Repre Usuario  Reg QtdCx Cidade     Pedido *--------------Clientes-------------*  Margem  COF  Portador  Lista  Saldo DMC     Trocas Total Pedido Prazos      Situacao Dig/Imp Programado P.Broker  Repre Usuario  Reg QtdCx Cidade     Pedido *--------------Clientes-------------*  Margem  COF  Portador  Lista  Saldo DMC     Trocas Total Pedido Prazos      Situacao Dig/Imp Programado P.Broker  Repre Usuario  Reg QtdCx Cidade
- 50.079.776 MACAUBA COMERCIO DE A 018201846000155    0,00 51234 ECOM CARTE   01       0,00       0,00     1.942,60 028 000 000 1-BLO   16/11/23   16/11/23               4          044 00005 DEODAPOLIS
-
-                                              Total Representante  Pedidos:       1      Valor:       1.942,60     Caixas:           0,00                                              Total Representante  Pedidos:       1      Valor:       1.942,60     Caixas:           0,00                                              Total Representante  Pedidos:       1      Valor:       1.942,60     Caixas:           0,00
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-0008   N   PJ GILMAR - AB - COXIM0008   N   PJ GILMAR - AB - COXIM0008   N   PJ GILMAR - AB - COXIM
-
-      3.331 DAVI OLIVEIRA FURTADO 000202986000182    0,00 51234 BANCO        01      10,70       0,00       356,68 021 000 000 2-LIB   30/11/23   30/11/23               8 willian  041 00001 ALCINOPOLIS
-
-                                              Total Representante  Pedidos:       1      Valor:         356,68     Caixas:           0,00                                              Total Representante  Pedidos:       1      Valor:         356,68     Caixas:           0,00                                              Total Representante  Pedidos:       1      Valor:         356,68     Caixas:           0,00
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-0016   N   CLAUDEIR - AB - B.VISTA-P.MURT0016   N   CLAUDEIR - AB - B.VISTA-P.MURT0016   N   CLAUDEIR - AB - B.VISTA-P.MURT
-
-        110 CAIO FELIPE FERNANDES 011804977000188    0,00 51201 BANCO        01      30,82-      0,00       765,80 021 028 035 2-LIB   21/11/23   21/11/23              16 luiz     046 00004 PORTO MURTINHO
-
-                                              Total Representante  Pedidos:       1      Valor:         765,80     Caixas:           0,00                                              Total Representante  Pedidos:       1      Valor:         765,80     Caixas:           0,00                                              Total Representante  Pedidos:       1      Valor:         765,80     Caixas:           0,00
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-0021   P   PJ SIDMAR - AB - AGUA RIBAS0021   P   PJ SIDMAR - AB - AGUA RIBAS0021   P   PJ SIDMAR - AB - AGUA RIBAS
-
-      3.909 RAFAEL SOUZA DOS SANT 050415368000199    0,00 51234 BANCO        01      82,84-      0,00       401,72 014 021 000 1-BLO   24/11/23   23/11/23              21 willian  302 00002 AGUA CLARA
-      3.926 RAFAEL SOUZA DOS SANT 050415368000199    0,00 51234 BANCO        01      85,78-      0,00       601,59 014 021 028 1-BLO   25/11/23   24/11/23              21 willian  302 00003 AGUA CLARA
-      3.935 RAFAEL SOUZA DOS SANT 050415368000199    0,00 51234 PIX / DINH   01      10,84       0,00       405,94 000 000 000 1-BLO   28/11/23   28/11/23              21 luiz     302 00001 AGUA CLARA
-
-                                              Total Representante  Pedidos:       3      Valor:       1.409,25     Caixas:           0,00                                              Total Representante  Pedidos:       3      Valor:       1.409,25     Caixas:           0,00                                              Total Representante  Pedidos:       3      Valor:       1.409,25     Caixas:           0,00
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-0153   P   JHONATAN - A - VAREJO  CG0153   P   JHONATAN - A - VAREJO  CG0153   P   JHONATAN - A - VAREJO  CG
-
-      8.193 NILO BARBOSA FERNANDE 097466858000188    0,00 51234 PIX / DINH   09       7,44-      0,00       113,30 000 000 000 2-LIB   23/09/23   22/09/23             153 willian  006 00000 CAMPO GRANDE
-
-                                              Total Representante  Pedidos:       1      Valor:         113,30     Caixas:           0,00                                              Total Representante  Pedidos:       1      Valor:         113,30     Caixas:           0,00                                              Total Representante  Pedidos:       1      Valor:         113,30     Caixas:           0,00
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-0415   P   PJ TATIANI - B - PONTA PORA0415   P   PJ TATIANI - B - PONTA PORA0415   P   PJ TATIANI - B - PONTA PORA
-
-      4.873 FIUSA CONVENIENCIA LT 034937993000144    0,00 51234 PIX / DINH   01      16,88       0,00       812,28 000 000 000 1-BLO   29/11/23   29/11/23             415 willian  032 00002 PONTA PORA
-
-                                              Total Representante  Pedidos:       1      Valor:         812,28     Caixas:           0,00                                              Total Representante  Pedidos:       1      Valor:         812,28     Caixas:           0,00                                              Total Representante  Pedidos:       1      Valor:         812,28     Caixas:           0,00
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-0447   P   CAROL - B - VJ DOURADOS0447   P   CAROL - B - VJ DOURADOS0447   P   CAROL - B - VJ DOURADOS
-
-      2.917 LUCIMARA PEREIRA DO N 028912745000146    0,00 51201 BANCO        01      19,33-      0,00       234,87 021 000 000 3-***** 29/11/23   28/11/23             447 willian  035 00001 DOURADOS
-
-                                              Total Representante  Pedidos:       1      Valor:         234,87     Caixas:           0,00                                              Total Representante  Pedidos:       1      Valor:         234,87     Caixas:           0,00                                              Total Representante  Pedidos:       1      Valor:         234,87     Caixas:           0,00
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-                                              Total Representante  Pedidos:       0      Valor:           0,00     Caixas:           0,00                                              Total Representante  Pedidos:       0      Valor:           0,00     Caixas:           0,00                                              Total Representante  Pedidos:       0      Valor:           0,00     Caixas:           0,00
-
-                                                      Total Geral  Pedidos:       9      Valor:       5.634,78     Caixas:           0,00                                                      Total Geral  Pedidos:       9      Valor:       5.634,78     Caixas:           0,00                                                      Total Geral  Pedidos:       9      Valor:       5.634,78     Caixas:           0,00

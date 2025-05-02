@@ -1,567 +1,0 @@
- M 
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-MCD - MILENIO COMERCIO DE ALIMENTO LTDA                                                                                                              12 Faturamento   Ref:ft12308
-Filial: CAMPO GRANDE                                                                                                                                              Emissao    Hora   Folha
-                                                                                   PEDIDOS A FATURAR                                                              11/01/23   11:55   0001
------MILENIO------------------------------------------------------------------------------------------------------------------------------------------------------Usuario: luiz----------
-
-0003   A   PJ KARINA SANTOS DA CRUZ0003   A   PJ KARINA SANTOS DA CRUZ0003   A   PJ KARINA SANTOS DA CRUZ
-
-     Pedido *--------------Clientes-------------*  Margem  COF  Portador  Lista  Saldo DMC     Trocas Total Pedido Prazos      Situacao Dig/Imp Programado P.Broker  Repre Usuario  Reg QtdCx Cidade     Pedido *--------------Clientes-------------*  Margem  COF  Portador  Lista  Saldo DMC     Trocas Total Pedido Prazos      Situacao Dig/Imp Programado P.Broker  Repre Usuario  Reg QtdCx Cidade     Pedido *--------------Clientes-------------*  Margem  COF  Portador  Lista  Saldo DMC     Trocas Total Pedido Prazos      Situacao Dig/Imp Programado P.Broker  Repre Usuario  Reg QtdCx Cidade
-     11.175 SUPERMERCADO NACAGAMI 010389924000185    0,00 51201 BANCO ITAU   08     108,11-      0,00     5.660,47 028 000 000 2-LIB   10/01/23   10/01/23               3 viviane  330 00040 AQUIDAUANA
-     11.177 PEDROSSINA DOS SANTOS 032786046000174    0,00 51201 PIX / DINH   08       0,00       0,00       330,89 000 000 000 2-LIB   09/01/23   09/01/23               3 alberto  033 00002 AQUIDAUANA
-     11.178 MAIDANA E OBA LTDA    004076297000120    0,00 51201 BANCO ITAU   08      41,67-      0,00     1.231,84 021 028 035 2-LIB   09/01/23   09/01/23               3 alberto  033 00009 AQUIDAUANA
-     11.180 VAGNER AVILA RUIZ     023538421000257    0,00 51201 BANCO ITAU   08       8,78       0,00       611,36 028 000 000 2-LIB   10/01/23   10/01/23               3 alberto  331 00007 MIRANDA
-     11.181 VALDECI JOSE BARBOSA  006062615000129    0,00 51201 BANCO ITAU   08      28,87-      0,00       688,22 021 035 000 2-LIB   10/01/23   10/01/23               3 viviane  331 00005 MIRANDA
-     11.182 GISLAINE APARECIDA OL 005756634000192    0,00 51201 BANCO ITAU   08      29,32       0,00     1.062,72 014 042 000 2-LIB   11/01/23   11/01/23               3 viviane  331 00010 MIRANDA
-     11.183 RONALDO LISBOA        033129529000240    0,00 51201 PIX / DINH   08      45,17-      0,00     1.223,47 000 000 000 2-LIB   10/01/23   10/01/23               3 viviane  331 00009 MIRANDA
-     11.186 GISLAINE APARECIDA OL 005756634000192    0,00 51201 BANCO ITAU   08      75,72-      0,00     2.010,62 021 028 035 2-LIB   11/01/23   11/01/23               3 viviane  331 00014 MIRANDA
-     11.187 JOSE DE SOUZA AGUIAR  017771397000118    0,00 51201 PIX / DINH   08       1,73       0,00       355,01 000 000 000 2-LIB   11/01/23   11/01/23               3 viviane  331 00003 MIRANDA
-
-                                              Total Representante  Pedidos:       9      Valor:      13.174,60     Caixas:           0,00                                              Total Representante  Pedidos:       9      Valor:      13.174,60     Caixas:           0,00                                              Total Representante  Pedidos:       9      Valor:      13.174,60     Caixas:           0,00
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-0004   A   PJ GENILTO TENORIO DANTAS0004   A   PJ GENILTO TENORIO DANTAS0004   A   PJ GENILTO TENORIO DANTAS
-
-      7.397 MARIA EVALDILMA MENDO 041085868000119    0,00 51201 BANCO ITAU   08       0,00       0,00       463,97 021 000 000 2-LIB   06/01/23   06/01/23               4 silvia   044 00003 FATIMA DO SUL
-      7.398 MARIA JOSE LIMA       003385014000169    0,00 51201 BANCO ITAU   08       0,00       0,00       402,53 028 000 000 2-LIB   09/01/23   06/01/23               4 viviane  044 00002 VICENTINA
-      7.399 JORGE PAULO SILVA     005027616000170    0,00 51201 BANCO ITAU   08     337,94-      0,00     6.538,77 028 000 000 2-LIB   09/01/23   06/01/23               4 viviane  044 00063 FATIMA DO SUL
-      7.401 JORGE PAULO SILVA     005027616000170    0,00 51201 BANCO ITAU   08       0,00       0,00     1.552,82 028 000 000 2-LIB   09/01/23   06/01/23               4 viviane  044 00008 FATIMA DO SUL
-      7.402 SUPERMERCADO MARAMBAI 015921612000194    0,00 51201 BANCO ITAU   08       0,00       0,00       954,39 021 028 035 2-LIB   09/01/23   09/01/23               4 alberto  044 00006 FATIMA DO SUL
-      7.403 FERNANDA RODRIGUES DE 038035918000149    0,00 51201 BANCO ITAU   08      21,13-      0,00       955,84 014 021 028 2-LIB   10/01/23   10/01/23               4 viviane  441 00006 IVINHEMA
-      7.405 B A MARQUES ME        015310799000190    0,00 51201 BANCO ITAU   08       4,08       0,00       797,95 021 028 035 2-LIB   10/01/23   10/01/23               4 viviane  441 00007 IVINHEMA
-      7.406 A F RIBEIRO           008674625000140    0,00 51201 BANCO ITAU   08      27,09       0,00     1.608,33 021 028 035 2-LIB   10/01/23   10/01/23               4 viviane  441 00007 IVINHEMA
-      7.407 EVERSON LIMA MAIA     014650484000129    0,00 51201 BANCO ITAU   08      68,83-      0,00     1.882,59 021 028 035 2-LIB   10/01/23   10/01/23               4 viviane  441 00013 IVINHEMA
-
-                                              Total Representante  Pedidos:       9      Valor:      15.157,19     Caixas:           0,00                                              Total Representante  Pedidos:       9      Valor:      15.157,19     Caixas:           0,00                                              Total Representante  Pedidos:       9      Valor:      15.157,19     Caixas:           0,00
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-0005   A   TATIANA MONTANHINI0005   A   TATIANA MONTANHINI0005   A   TATIANA MONTANHINI
-
-     10.051 CASARIL E CASARIL LTD 002980132000152    0,00 51201 BANCO ITAU   08      11,35-      0,00       344,11 028 000 000 2-LIB   28/12/22   28/12/22               5 alberto  450 00002 BATAGUASSU
-     10.058 GILMAR DE MATOS SILVA 001125355000170    0,00 51201 BANCO ITAU   08      45,67-      0,00     1.014,49 021 028 035 2-LIB   04/01/23   03/01/23               5 viviane  045 00010 TAQUARUSSU
-     10.059 MARCOS DE OLIVEIRA GO 020950925000100    0,00 51201 BANCO ITAU   08       0,01-      0,00       652,18 021 028 035 2-LIB   04/01/23   03/01/23               5 viviane  045 00008 TAQUARUSSU
-     10.060 ALOISIO PEREIRA MARTI 003803624000135    0,00 51201 BANCO ITAU   08     130,79-      0,00     1.471,86 021 028 035 2-LIB   04/01/23   03/01/23               5 viviane  045 00010 TAQUARUSSU
-     10.061 EDING DE SOUZA NEVES  021834092000185    0,00 51201 BANCO ITAU   08       6,62-      0,00       213,86 028 000 000 2-LIB   04/01/23   03/01/23               5 viviane  045 00001 TAQUARUSSU
-     10.062 BRUNO HENRIQUE SCHREI 027448130000148    0,00 51201 BANCO ITAU   08      78,83-      0,00     1.116,69 021 028 035 2-LIB   05/01/23   04/01/23               5 silvia   045 00006 NOVA ANDRADINA
-     10.064 CELIA F KOVALSKI DE S 000157726000132    0,00 51201 BANCO ITAU   08      56,29-      0,00       748,08 021 028 035 2-LIB   05/01/23   04/01/23               5 silvia   045 00003 NOVA ANDRADINA
-     10.067 SERGIO FERNANDES DE C 006354392000173    0,00 51201 BANCO ITAU   08       8,03-      0,00       265,01 021 000 000 2-LIB   05/01/23   04/01/23               5 silvia   045 00002 NOVA ANDRADINA
-     10.068 MAICON DE PAULA NASCI 034555769000198    0,00 51201 PIX / DINH   08      26,08-      0,00       404,41 000 000 000 2-LIB   05/01/23   04/01/23               5 viviane  045 00002 NOVA ANDRADINA
-     10.069 ELIANE CASTAGNAZZI DA 016896684000191    0,00 51201 PIX / DINH   08       2,49       0,00       225,03 000 000 000 2-LIB   05/01/23   05/01/23               5 luiz     045 00002 NOVA ANDRADINA
-     10.070 A M BRASIL ALIMENTOS  030260515000191    0,00 51201 BANCO ITAU   08      24,42-      0,00       516,16 016 024 000 2-LIB   05/01/23   05/01/23               5 viviane  045 00003 NOVA ANDRADINA
-     10.071 CONCORDIA MATERIAIS P 016041907000309    0,00 51201 BANCO ITAU   08     105,71-      0,00     1.039,71 021 028 035 2-LIB   09/01/23   06/01/23               5 viviane  045 00004 NOVA ANDRADINA
-     10.072 MAICON DE PAULA NASCI 034555769000198    0,00 51201 PIX / DINH   08      62,06-      0,00       480,56 000 000 000 2-LIB   05/01/23   05/01/23               5 viviane  045 00007 NOVA ANDRADINA
-     10.073 NELDAIR JOSE VANUCCHI 007961339000101    0,00 51201 BANCO ITAU   08       0,00       0,00     1.012,39 021 028 035 2-LIB   06/01/23   06/01/23               5 silvia   045 00006 NOVA ANDRADINA
-     10.074 DEDE FEST CONVENIENCI 006078468000185    0,00 51201 BANCO ITAU   08     133,32-      0,00     1.715,69 021 028 035 2-LIB   09/01/23   06/01/23               5 viviane  045 00015 NOVA ANDRADINA
-     10.076 CARLOS EDUARDO AZEVED 014854755000168    0,00 51201 PIX / DINH   08       4,41-      0,00       106,36 000 000 000 2-LIB   09/01/23   06/01/23               5 viviane  045 00000 NOVA ANDRADINA
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-MCD - MILENIO COMERCIO DE ALIMENTO LTDA                                                                                                              12 Faturamento   Ref:ft12308
-Filial: CAMPO GRANDE                                                                                                                                              Emissao    Hora   Folha
-                                                                                   PEDIDOS A FATURAR                                                              11/01/23   11:55   0002
------MILENIO------------------------------------------------------------------------------------------------------------------------------------------------------Usuario: luiz----------
-
-0005   A   TATIANA MONTANHINI0005   A   TATIANA MONTANHINI0005   A   TATIANA MONTANHINI
-
-     Pedido *--------------Clientes-------------*  Margem  COF  Portador  Lista  Saldo DMC     Trocas Total Pedido Prazos      Situacao Dig/Imp Programado P.Broker  Repre Usuario  Reg QtdCx Cidade     Pedido *--------------Clientes-------------*  Margem  COF  Portador  Lista  Saldo DMC     Trocas Total Pedido Prazos      Situacao Dig/Imp Programado P.Broker  Repre Usuario  Reg QtdCx Cidade     Pedido *--------------Clientes-------------*  Margem  COF  Portador  Lista  Saldo DMC     Trocas Total Pedido Prazos      Situacao Dig/Imp Programado P.Broker  Repre Usuario  Reg QtdCx Cidade
-     10.077 EDING DE SOUZA NEVES  021834092000185    0,00 51201 BANCO ITAU   08      91,42-      0,00     1.314,19 021 028 035 2-LIB   09/01/23   06/01/23               5 viviane  045 00008 TAQUARUSSU
-     10.078 JOAO FRANCISCO DE AND 001548999000170    0,00 51201 BANCO ITAU   08       0,01-      0,00       324,63 021 000 000 2-LIB   09/01/23   09/01/23               5 alberto  045 00001 ANAURILANDIA
-     10.079 A M DE MATOS E CIA LT 001460437000251    0,00 51201 BANCO ITAU   08       0,02-      0,00     1.192,92 021 028 035 2-LIB   09/01/23   09/01/23               5 alberto  045 00008 ANAURILANDIA
-     10.080 LEMES E LEMES         007505073000184    0,00 51201 BANCO ITAU   08       2,99       0,00     1.320,49 014 021 028 2-LIB   09/01/23   09/01/23               5 alberto  045 00011 ANAURILANDIA
-     10.081 JOSE GUEDES DA SILVA  012058315000179    0,00 51201 BANCO ITAU   08       2,92-      0,00       236,00 028 000 000 2-LIB   09/01/23   09/01/23               5 alberto  045 00001 ANAURILANDIA
-     10.082 NEEMIAS QUEIROZ MONTE 010819352000127    0,00 51201 BANCO ITAU   08       0,00       0,00       739,18 021 028 035 2-LIB   10/01/23   09/01/23               5 alberto  045 00004 ANAURILANDIA
-     10.085 PAMPA AGROVETERINARIA 037564523000170    0,00 51201 BANCO ITAU   08       0,01-      0,00       611,96 021 028 035 2-LIB   10/01/23   10/01/23               5 viviane  045 00003 BATAYPORA
-     10.086 SUSANA MARQUES        018218480000127    0,00 51201 BANCO ITAU   08       3,28-      0,00       341,50 028 000 000 2-LIB   10/01/23   10/01/23               5 viviane  045 00002 BATAYPORA
-
-0005   P   TATIANA MONTANHINI0005   P   TATIANA MONTANHINI0005   P   TATIANA MONTANHINI
-
-     10.075 SOUZA E QUEIROZ ALIME 007297361000190    0,00 51201 BANCO ITAU   08      14,04-      0,00       266,74 028 000 000 1-BLO   09/01/23   06/01/23               5 viviane  045 00001 NOVA ANDRADINA
-
-                                              Total Representante  Pedidos:      25      Valor:      17.674,20     Caixas:           0,00                                              Total Representante  Pedidos:      25      Valor:      17.674,20     Caixas:           0,00                                              Total Representante  Pedidos:      25      Valor:      17.674,20     Caixas:           0,00
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-0006   A   ROBERTO DE SENNA PEREIRA0006   A   ROBERTO DE SENNA PEREIRA0006   A   ROBERTO DE SENNA PEREIRA
-
-      6.321 MARQUES E FARINHA LTD 001932675000131    0,00 51201 BANCO ITAU   08       6,83-      0,00       413,30 021 028 000 2-LIB   09/01/23   09/01/23               6 alberto  040 00002 APARECIDA DO TABOADO
-      6.322 BELLA PHARMA FARMACIA 003300964000143    0,00 51201 BANCO ITAU   08       6,26       0,00       425,77 021 000 000 2-LIB   09/01/23   09/01/23               6 alberto  040 00001 APARECIDA DO TABOADO
-      6.323 MATEUS DA SILVA VIEIR 031868782000109    0,00 51201 PIX / DINH   08       1,62       0,00       186,36 000 000 000 2-LIB   09/01/23   09/01/23               6 alberto  040 00002 APARECIDA DO TABOADO
-      6.324 GRIMAR CAMARGO DE SOU 012513903000155    0,00 51201 BANCO ITAU   08       0,00       0,00       222,12 014 000 000 2-LIB   09/01/23   09/01/23               6 alberto  040 00001 APARECIDA DO TABOADO
-      6.325 DANIELA QUEIROZ SILVA 029046558000190    0,00 51201 BANCO ITAU   08       0,34       0,00       203,70 021 000 000 2-LIB   09/01/23   09/01/23               6 alberto  040 00001 APARECIDA DO TABOADO
-      6.326 JULIANO ALVES GIANINI 012026847000124    0,00 51201 BANCO ITAU   08      72,50       0,00     1.629,50 021 028 035 2-LIB   09/01/23   09/01/23               6 alberto  040 00012 APARECIDA DO TABOADO
-      6.327 OSVALDO MANIEIRO 0751 042991496000152    0,00 51201 BANCO ITAU   08       1,62       0,00       205,16 021 000 000 2-LIB   09/01/23   09/01/23               6 alberto  040 00004 PARANAIBA
-      6.328 DESIA ALVES FERREIRA  022673810000141    0,00 51201 PIX / DINH   08       8,56       0,00       171,32 000 000 000 2-LIB   09/01/23   09/01/23               6 alberto  040 00001 PARANAIBA
-      6.329 MERCADO AMERICA LTDA  005465924000349    0,00 51201 BANCO ITAU   08     842,37-      0,00     4.821,65 021 028 035 2-LIB   09/01/23   09/01/23               6 alberto  040 00032 PARANAIBA
-      6.330 D C PRODUTO ALIMENTIC 015000097000452    0,00 51201 BANCO ITAU   08     239,06-      0,00     1.354,66 028 000 000 2-LIB   09/01/23   09/01/23               6 alberto  039 00012 CHAPADAO DO SUL
-      6.331 A3 SUPERMERCADO EIREL 022965953000127    0,00 51201 BANCO ITAU   08      28,31-      0,00       410,28 028 000 000 2-LIB   10/01/23   10/01/23               6 viviane  040 00005 PARANAIBA
-      6.332 SUPERMERCADOS REAL LT 009310730000244    0,00 51201 BANCO ITAU   08   1.258,01-      0,00    11.441,49 021 028 035 2-LIB   10/01/23   10/01/23               6 viviane  040 00046 PARANAIBA
-
-                                              Total Representante  Pedidos:      12      Valor:      21.485,31     Caixas:           0,00                                              Total Representante  Pedidos:      12      Valor:      21.485,31     Caixas:           0,00                                              Total Representante  Pedidos:      12      Valor:      21.485,31     Caixas:           0,00
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-0008   A   PJ ALCINDO DA SILVA GOMES0008   A   PJ ALCINDO DA SILVA GOMES0008   A   PJ ALCINDO DA SILVA GOMES
-
-      7.143 FRANCISCO FERREIRA BA 000481290000132    0,00 51201 BANCO ITAU   08       0,02-      0,00       485,43 021 028 000 2-LIB   09/01/23   09/01/23               8 alberto  041 00004 COXIM
-      7.147 GESSI DOS SANTOS SALO 007317095000110    0,00 51201 BANCO ITAU   08     609,77-      0,00     8.932,89 021 028 035 2-LIB   10/01/23   10/01/23               8 viviane  041 00056 PEDRO GOMES
-      7.149 JOEL MENDES DA SILVA  004469972000180    0,00 51201 BANCO ITAU   08      26,84-      0,00       682,88 021 028 035 2-LIB   10/01/23   10/01/23               8 viviane  041 00005 PEDRO GOMES
-      7.150 BENELICE CUNHA ANGELI 000085327000103    0,00 51201 BANCO ITAU   08      78,90-      0,00     1.836,18 021 028 035 2-LIB   10/01/23   10/01/23               8 viviane  041 00013 PEDRO GOMES
-      7.151 IVANETE CARVALHO SOUZ 026827733000198    0,00 51201 BANCO ITAU   08       8,82-      0,00       701,36 021 028 035 2-LIB   10/01/23   10/01/23               8 viviane  041 00005 PEDRO GOMES
-      7.152 FABRICIO BORGES GONCA 014534037000104    0,00 51201 PIX / DINH   08       5,90-      0,00       159,43 000 000 000 2-LIB   10/01/23   10/01/23               8 viviane  041 00001 PEDRO GOMES
-
-                                              Total Representante  Pedidos:       6      Valor:      12.798,17     Caixas:           0,00                                              Total Representante  Pedidos:       6      Valor:      12.798,17     Caixas:           0,00                                              Total Representante  Pedidos:       6      Valor:      12.798,17     Caixas:           0,00
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-0009   A   PJ GILSICLEI SOUZA DE OLIVEIRA0009   A   PJ GILSICLEI SOUZA DE OLIVEIRA0009   A   PJ GILSICLEI SOUZA DE OLIVEIRA
-
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-MCD - MILENIO COMERCIO DE ALIMENTO LTDA                                                                                                              12 Faturamento   Ref:ft12308
-Filial: CAMPO GRANDE                                                                                                                                              Emissao    Hora   Folha
-                                                                                   PEDIDOS A FATURAR                                                              11/01/23   11:55   0003
------MILENIO------------------------------------------------------------------------------------------------------------------------------------------------------Usuario: luiz----------
-
-0009   A   PJ GILSICLEI SOUZA DE OLIVEIRA0009   A   PJ GILSICLEI SOUZA DE OLIVEIRA0009   A   PJ GILSICLEI SOUZA DE OLIVEIRA
-
-     Pedido *--------------Clientes-------------*  Margem  COF  Portador  Lista  Saldo DMC     Trocas Total Pedido Prazos      Situacao Dig/Imp Programado P.Broker  Repre Usuario  Reg QtdCx Cidade     Pedido *--------------Clientes-------------*  Margem  COF  Portador  Lista  Saldo DMC     Trocas Total Pedido Prazos      Situacao Dig/Imp Programado P.Broker  Repre Usuario  Reg QtdCx Cidade     Pedido *--------------Clientes-------------*  Margem  COF  Portador  Lista  Saldo DMC     Trocas Total Pedido Prazos      Situacao Dig/Imp Programado P.Broker  Repre Usuario  Reg QtdCx Cidade
-      6.481 MAURICIO DIOGO DE OLI 016436744000193    0,00 51201 BANCO ITAU   08      27,62       0,00     1.071,69 021 028 000 2-LIB   09/01/23   09/01/23               9 alberto  039 00009 CHAPADAO DO SUL
-      6.482 JOAO CARLOS DA CRUZ M 020469585000109    0,00 51201 BANCO ITAU   08       7,96-      0,00       430,18 014 021 000 2-LIB   09/01/23   09/01/23               9 alberto  039 00004 CHAPADAO DO SUL
-      6.484 AMADO SEVERINO DA SIL 027922955000152    0,00 51201 PIX / DINH   08      14,52-      0,00       275,98 000 000 000 2-LIB   10/01/23   10/01/23               9 viviane  039 00002 COSTA RICA
-      6.485 DOSANGELA MARCAL PAES 003544634000101    0,00 51201 BANCO ITAU   08      62,16-      0,00     3.099,73 014 021 028 2-LIB   10/01/23   10/01/23               9 viviane  039 00019 COSTA RICA
-      6.486 OSMAR RODRIGUES SANTO 025359410000154    0,00 51201 BANCO ITAU   08      40,78-      0,00       814,96 014 021 028 2-LIB   10/01/23   10/01/23               9 viviane  039 00006 COSTA RICA
-      6.487 SUPERMERCADO GUANABAR 024632432000264    0,00 51201 BANCO ITAU   08      52,37-      0,00     6.042,92 021 028 035 2-LIB   10/01/23   10/01/23               9 viviane  039 00046 COSTA RICA
-
-0009   P   PJ GILSICLEI SOUZA DE OLIVEIRA0009   P   PJ GILSICLEI SOUZA DE OLIVEIRA0009   P   PJ GILSICLEI SOUZA DE OLIVEIRA
-
-      6.464 DOSANGELA MARCAL PAES 003544634000101    0,00 51201 BANCO ITAU   08      45,53-      0,00       258,01 021 000 000 1-BLO   29/12/22   29/12/22               9 alberto  039 00003 COSTA RICA
-
-                                              Total Representante  Pedidos:       7      Valor:      11.993,47     Caixas:           0,00                                              Total Representante  Pedidos:       7      Valor:      11.993,47     Caixas:           0,00                                              Total Representante  Pedidos:       7      Valor:      11.993,47     Caixas:           0,00
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-0010   A   PJ LUIS EDUARDO AYALA0010   A   PJ LUIS EDUARDO AYALA0010   A   PJ LUIS EDUARDO AYALA
-
-      8.808 FC PET SHOP EIRELI    032138815000128    0,00 51201 BANCO ITAU   08       7,52-      0,00     1.350,59 028 000 000 2-LIB   09/01/23   06/01/23              10 viviane  038 00021 SIDROLANDIA
-      8.809 MERCADO FORTALEZA LTD 016605155000191    0,00 51201 BANCO ITAU   08       0,01-      0,00       282,90 021 000 000 2-LIB   06/01/23   06/01/23              10 silvia   048 00001 MARACAJU
-      8.810 CLAUDIO FERNANDO PARE 019988374000195    0,00 51201 BANCO ITAU   08       4,61       0,00       282,43 028 000 000 2-LIB   06/01/23   06/01/23              10 silvia   038 00001 SIDROLANDIA
-
-                                              Total Representante  Pedidos:       3      Valor:       1.915,92     Caixas:           0,00                                              Total Representante  Pedidos:       3      Valor:       1.915,92     Caixas:           0,00                                              Total Representante  Pedidos:       3      Valor:       1.915,92     Caixas:           0,00
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-0011   A   SABRINA DE FREITAS MUNDIM BARB0011   A   SABRINA DE FREITAS MUNDIM BARB0011   A   SABRINA DE FREITAS MUNDIM BARB
-
-      5.478 PALOMA DA S BARBOSA S 034480402000152    0,00 51201 PIX / DINH   08       0,00       0,00       105,52 000 000 000 2-LIB   09/01/23   09/01/23              11 alberto  030 00000 TRES LAGOAS
-      5.479 CLEUZA MARQUES DUTRA  020975994000179    0,00 51201 BANCO ITAU   08      14,42-      0,00     1.648,57 014 000 000 2-LIB   09/01/23   06/01/23              11 viviane  030 00011 TRES LAGOAS
-      5.480 LARISSA APARECIDA VIE 041699501000195    0,00 51201 BANCO ITAU   08      61,30-      0,00     1.483,83 021 028 000 2-LIB   09/01/23   09/01/23              11 alberto  030 00009 TRES LAGOAS
-      5.481 PONTO VET COM E SERV  011641811000198    0,00 51201 BANCO ITAU   08       0,00       0,00       295,84 028 000 000 2-LIB   09/01/23   09/01/23              11 alberto  030 00004 TRES LAGOAS
-      5.482 AMSTERDAM CONVENIENCI 039742618000162    0,00 51201 BANCO ITAU   05       0,00       0,00     1.915,30 021 000 000 2-LIB   09/01/23   09/01/23              11 alberto  030 00011 TRES LAGOAS
-      5.483 CECILIA SHINOHARA SAT 028563356000152    0,00 51201 BANCO ITAU   08       4,80       0,00       982,40 021 028 035 2-LIB   09/01/23   09/01/23              11 alberto  030 00006 TRES LAGOAS
-      5.484 FABIANA RANGEL REIS M 021429849000155    0,00 51201 BANCO ITAU   08       6,78       0,00       234,50 028 000 000 2-LIB   09/01/23   09/01/23              11 viviane  030 00003 TRES LAGOAS
-      5.485 ERENIR GOMES JESUS    026834978000142    0,00 51201 PIX / DINH   08       0,00       0,00       139,65 000 000 000 2-LIB   10/01/23   10/01/23              11 alberto  030 00001 BRASILANDIA
-      5.486 EDSON JOSE DEL PRETO  019906286000105    0,00 51201 BANCO ITAU   08      82,01-      0,00     2.741,95 021 028 035 2-LIB   10/01/23   10/01/23              11 viviane  030 00022 TRES LAGOAS
-      5.488 SUPERMERCADO BEIRA RI 008608892000209    0,00 51201 BANCO ITAU   08      61,95-      0,00     1.843,76 021 028 000 2-LIB   10/01/23   10/01/23              11 viviane  030 00016 BRASILANDIA
-      5.489 HILTON RISSELY FELIPE 026189470000139    0,00 51201 PIX / DINH   07       0,00       0,00       181,19 000 000 000 2-LIB   10/01/23   10/01/23              11 viviane  030 00001 BRASILANDIA
-      5.491 EDNA MARIA SAIA RODOL 000995498000170    0,00 51201 BANCO ITAU   08      34,36-      0,00       278,02 028 000 000 2-LIB   10/01/23   10/01/23              11 viviane  030 00002 BRASILANDIA
-
-                                              Total Representante  Pedidos:      12      Valor:      11.850,53     Caixas:           0,00                                              Total Representante  Pedidos:      12      Valor:      11.850,53     Caixas:           0,00                                              Total Representante  Pedidos:      12      Valor:      11.850,53     Caixas:           0,00
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-0012   A   VAGO0012   A   VAGO0012   A   VAGO
-
-      6.556 MERCADO ESTRELA GUIA  008980686000136    0,00 51201 BANCO ITAU   08       4,52-      0,00       236,40 028 000 000 2-LIB   09/01/23   09/01/23              12 alberto  047 00001 GUIA LOPES DA LAGUNA
-      6.557 ELAINE COLLE E CIA LT 007191282000109    0,00 51201 BANCO ITAU   08       6,78-      0,00       216,84 028 000 000 2-LIB   09/01/23   09/01/23              12 alberto  047 00001 GUIA LOPES DA LAGUNA
-      6.558 SIMONE DA SILVA LEITE 040441513000152    0,00 51201 BANCO ITAU   08       8,58       0,00       442,62 028 000 000 2-LIB   09/01/23   09/01/23              12 alberto  047 00004 GUIA LOPES DA LAGUNA
-      6.559 IVETE DOS SANTOS PERE 012966100000156    0,00 51201 BANCO ITAU   08      30,87       0,00     1.144,61 028 000 000 2-LIB   10/01/23   10/01/23              12 viviane  047 00008 BONITO
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-MCD - MILENIO COMERCIO DE ALIMENTO LTDA                                                                                                              12 Faturamento   Ref:ft12308
-Filial: CAMPO GRANDE                                                                                                                                              Emissao    Hora   Folha
-                                                                                   PEDIDOS A FATURAR                                                              11/01/23   11:55   0004
------MILENIO------------------------------------------------------------------------------------------------------------------------------------------------------Usuario: luiz----------
-
-0012   A   VAGO0012   A   VAGO0012   A   VAGO
-
-     Pedido *--------------Clientes-------------*  Margem  COF  Portador  Lista  Saldo DMC     Trocas Total Pedido Prazos      Situacao Dig/Imp Programado P.Broker  Repre Usuario  Reg QtdCx Cidade     Pedido *--------------Clientes-------------*  Margem  COF  Portador  Lista  Saldo DMC     Trocas Total Pedido Prazos      Situacao Dig/Imp Programado P.Broker  Repre Usuario  Reg QtdCx Cidade     Pedido *--------------Clientes-------------*  Margem  COF  Portador  Lista  Saldo DMC     Trocas Total Pedido Prazos      Situacao Dig/Imp Programado P.Broker  Repre Usuario  Reg QtdCx Cidade
-      6.560 SOUZA E MATOS LTDA    010602538000120    0,00 51201 BANCO ITAU   08       2,03       0,00       438,89 028 000 000 2-LIB   10/01/23   10/01/23              12 viviane  047 00003 BONITO
-      6.561 EDER CAIRES FERREIRA  012826837000173    0,00 51201 BANCO ITAU   08       4,30       0,00       739,84 028 000 000 2-LIB   10/01/23   10/01/23              12 viviane  047 00004 BONITO
-      6.562 ORMEZINDO FERNANDES H 008144439000108    0,00 51201 BANCO ITAU   08      14,29       0,00       507,62 028 000 000 2-LIB   10/01/23   10/01/23              12 viviane  047 00002 BONITO
-      6.563 MARIO MARCIO PEREIRA  019079539000106    0,00 51201 BANCO ITAU   08       1,06       0,00       224,65 028 000 000 2-LIB   10/01/23   10/01/23              12 viviane  047 00002 BONITO
-      6.564 JV HILGERT E CIA LTDA 002907435000140    0,00 51201 BANCO ITAU   08      11,07       0,00       331,88 028 000 000 2-LIB   10/01/23   10/01/23              12 viviane  047 00003 BONITO
-
-                                              Total Representante  Pedidos:       9      Valor:       4.283,35     Caixas:           0,00                                              Total Representante  Pedidos:       9      Valor:       4.283,35     Caixas:           0,00                                              Total Representante  Pedidos:       9      Valor:       4.283,35     Caixas:           0,00
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-0014   A   PJ GLEICE DA COSTA SILVA FERNA0014   A   PJ GLEICE DA COSTA SILVA FERNA0014   A   PJ GLEICE DA COSTA SILVA FERNA
-
-      6.395 G REGENOLD NETO ME    012454544000102    0,00 51201 BANCO ITAU   08      82,87       0,00     2.847,96 021 028 035 2-LIB   10/01/23   10/01/23              14 viviane  034 00023 CORUMBA
-
-                                              Total Representante  Pedidos:       1      Valor:       2.847,96     Caixas:           0,00                                              Total Representante  Pedidos:       1      Valor:       2.847,96     Caixas:           0,00                                              Total Representante  Pedidos:       1      Valor:       2.847,96     Caixas:           0,00
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-0015   A   PJ EMERSON - PONTA PORA0015   A   PJ EMERSON - PONTA PORA0015   A   PJ EMERSON - PONTA PORA
-
-      5.270 A R S SUPERMERCADOS L 020335148000275    0,00 51201 BANCO ITAU   08     106,98-      0,00       962,86 028 035 042 2-LIB   10/01/23   10/01/23              15 viviane  320 00008 PONTA PORA
-
-                                              Total Representante  Pedidos:       1      Valor:         962,86     Caixas:           0,00                                              Total Representante  Pedidos:       1      Valor:         962,86     Caixas:           0,00                                              Total Representante  Pedidos:       1      Valor:         962,86     Caixas:           0,00
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-0016   A   PJ GENIVALDO COEVA DA SILVA0016   A   PJ GENIVALDO COEVA DA SILVA0016   A   PJ GENIVALDO COEVA DA SILVA
-
-      6.147 TIAGO LADEIA GIROTO   013118060000155    0,00 51201 PIX / DINH   08      10,62-      0,00       469,51 000 000 000 2-LIB   06/01/23   06/01/23              16 viviane  046 00003 BELA VISTA
-      6.148 LETICIA GRACIENE COEN 014144366000149    0,00 51201 BANCO ITAU   08       6,02-      0,00       202,64 028 000 000 2-LIB   06/01/23   06/01/23              16 viviane  046 00001 BELA VISTA
-      6.149 COMERCIAL COSTA DOS S 039276512000110    0,00 51201 PIX / DINH   08      12,24-      0,00       399,55 000 000 000 2-LIB   09/01/23   09/01/23              16 alberto  046 00004 CARACOL
-      6.150 MARIA MIGUELINA SERVI 021403505000177    0,00 51201 PIX / DINH   08      10,45-      0,00       315,14 000 000 000 2-LIB   09/01/23   09/01/23              16 alberto  046 00002 CARACOL
-      6.151 JOANA CORONEL         026065835000113    0,00 51201 PIX / DINH   08       0,00       0,00       161,57 000 000 000 2-LIB   09/01/23   09/01/23              16 alberto  046 00001 BELA VISTA
-      6.154 LENIR CRISTALDO FERRE 006252403000104    0,00 51201 BANCO ITAU   08       4,07       0,00       457,46 021 035 000 2-LIB   10/01/23   10/01/23              16 alberto  046 00003 BELA VISTA
-
-                                              Total Representante  Pedidos:       6      Valor:       2.005,87     Caixas:           0,00                                              Total Representante  Pedidos:       6      Valor:       2.005,87     Caixas:           0,00                                              Total Representante  Pedidos:       6      Valor:       2.005,87     Caixas:           0,00
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-0017   A   PJ CLAUDIMIR PEREIRA0017   A   PJ CLAUDIMIR PEREIRA0017   A   PJ CLAUDIMIR PEREIRA
-
-        375 F A ARROYO EIRELLI    002310540000105    0,00 51201 BANCO ITAU   08   2.319,40-      0,00    18.037,45 021 028 035 2-LIB   06/01/23   06/01/23              17 silvia   031 00163 AMAMBAI
-        376 SIGNORI SUPERMERCADO  003450467000393    0,00 51201 BANCO ITAU   08      90,55-      0,00     1.192,62 021 028 035 2-LIB   09/01/23   06/01/23              17 viviane  031 00007 AMAMBAI
-        377 SIGNORI E SIGNORI LTD 003450467000121    0,00 51201 BANCO ITAU   08      25,49-      0,00       556,88 021 028 000 2-LIB   09/01/23   06/01/23              17 viviane  031 00005 AMAMBAI
-        378 CDA COMERCIO ATACADIS 019907415000171    0,00 51201 BANCO ITAU   08     740,01-      0,00     4.112,07 021 028 035 2-LIB   09/01/23   06/01/23              17 viviane  031 00017 AMAMBAI
-        379 E O DOS SANTOS CARVAL 020773036000115    0,00 51201 BANCO ITAU   08      94,88-      0,00       996,99 014 021 028 2-LIB   10/01/23   10/01/23              17 viviane  031 00004 AMAMBAI
-        380 VANDERLEI OLIVEIRA DO 017774342000161    0,00 51201 BANCO ITAU   08      15,38-      0,00       240,46 021 000 000 2-LIB   10/01/23   10/01/23              17 viviane  031 00002 AMAMBAI
-        381 SIRLENE R ROSSI DA SI 008695858000200    0,00 51201 BANCO ITAU   08      95,96-      0,00       863,64 021 028 035 2-LIB   10/01/23   10/01/23              17 viviane  031 00010 AMAMBAI
-
-                                              Total Representante  Pedidos:       7      Valor:      26.000,11     Caixas:           0,00                                              Total Representante  Pedidos:       7      Valor:      26.000,11     Caixas:           0,00                                              Total Representante  Pedidos:       7      Valor:      26.000,11     Caixas:           0,00
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-0018   A   PJ MAICON DOUGLAS DA SILVA MAR0018   A   PJ MAICON DOUGLAS DA SILVA MAR0018   A   PJ MAICON DOUGLAS DA SILVA MAR
-
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-MCD - MILENIO COMERCIO DE ALIMENTO LTDA                                                                                                              12 Faturamento   Ref:ft12308
-Filial: CAMPO GRANDE                                                                                                                                              Emissao    Hora   Folha
-                                                                                   PEDIDOS A FATURAR                                                              11/01/23   11:55   0005
------MILENIO------------------------------------------------------------------------------------------------------------------------------------------------------Usuario: luiz----------
-
-0018   A   PJ MAICON DOUGLAS DA SILVA MAR0018   A   PJ MAICON DOUGLAS DA SILVA MAR0018   A   PJ MAICON DOUGLAS DA SILVA MAR
-
-     Pedido *--------------Clientes-------------*  Margem  COF  Portador  Lista  Saldo DMC     Trocas Total Pedido Prazos      Situacao Dig/Imp Programado P.Broker  Repre Usuario  Reg QtdCx Cidade     Pedido *--------------Clientes-------------*  Margem  COF  Portador  Lista  Saldo DMC     Trocas Total Pedido Prazos      Situacao Dig/Imp Programado P.Broker  Repre Usuario  Reg QtdCx Cidade     Pedido *--------------Clientes-------------*  Margem  COF  Portador  Lista  Saldo DMC     Trocas Total Pedido Prazos      Situacao Dig/Imp Programado P.Broker  Repre Usuario  Reg QtdCx Cidade
-        662 DIOGO DE OLIVEIRA SEN 017702650000181    0,00 51201 BANCO ITAU   08       0,00       0,00       301,12 021 000 000 2-LIB   09/01/23   09/01/23              18 alberto  043 00002 ELDORADO
-        663 ELZA FERNANDES QUINHO 043503828000175    0,00 51201 PIX / DINH   08      53,81-      0,00     1.247,11 000 000 000 2-LIB   10/01/23   10/01/23              18 alberto  031 00013 TACURU
-        664 SANTANA DE LIMA E CIA 009646121000180    0,00 51201 PIX / DINH   08      48,22-      0,00       634,56 000 000 000 2-LIB   10/01/23   10/01/23              18 viviane  031 00006 TACURU
-        665 SILVA E XAVIER LTDA   007245950000125    0,00 51201 BANCO ITAU   08       3,72-      0,00       532,42 021 028 000 2-LIB   10/01/23   10/01/23              18 viviane  031 00002 TACURU
-        666 CLEIDE MARA DANTAS DA 037558301000145    0,00 51201 BANCO ITAU   08       8,36       0,00     1.314,11 021 000 000 2-LIB   10/01/23   10/01/23              18 viviane  031 00006 TACURU
-        667 NELSON CARDOSO ME     010597843000170    0,00 51201 BANCO ITAU   08      10,32-      0,00       555,05 021 028 000 2-LIB   10/01/23   10/01/23              18 viviane  031 00004 TACURU
-        668 JAIRO DE SOUZA TORQUE 011479047000104    0,00 51201 BANCO ITAU   08     107,91-      0,00     1.014,02 014 021 028 2-LIB   10/01/23   10/01/23              18 viviane  031 00007 TACURU
-        669 L G DISTRIBUIDORA DE  030720802000137    0,00 51201 BANCO ITAU   08      17,64-      0,00       527,73 021 000 000 2-LIB   10/01/23   10/01/23              18 viviane  031 00001 SETE QUEDAS
-        670 G A CELLI ANDRADE     003118384000130    0,00 51201 BANCO ITAU   08       0,00       0,00       717,58 021 000 000 2-LIB   10/01/23   10/01/23              18 viviane  031 00004 SETE QUEDAS
-        671 SUPERMERCADO PAGUE ME 024078672000188    0,00 51201 PIX / DINH   08      70,85-      0,00       817,96 000 000 000 2-LIB   10/01/23   10/01/23              18 viviane  031 00009 SETE QUEDAS
-        672 MAIKE JUNIOR OLIVEIRA 037323782000100    0,00 51201 PIX / DINH   08       2,26       0,00       301,43 000 000 000 2-LIB   10/01/23   10/01/23              18 viviane  031 00001 SETE QUEDAS
-        673 SUPERMERCADO PAGUE ME 024078672000188    0,00 51201 PIX / DINH   08       0,00       0,00       288,62 000 000 000 2-LIB   10/01/23   10/01/23              18 viviane  031 00001 SETE QUEDAS
-        674 MERCADO HR LTDA       030995055000140    0,00 51201 BANCO ITAU   08      99,36-      0,00     2.867,35 014 021 028 2-LIB   10/01/23   10/01/23              18 viviane  031 00031 SETE QUEDAS
-        675 MINI MERCADO ODNEY LT 005273258000185    0,00 51201 BANCO ITAU   08      13,64-      0,00       259,04 021 000 000 2-LIB   10/01/23   10/01/23              18 viviane  031 00000 SETE QUEDAS
-        676 MAIKE JUNIOR OLIVEIRA 037323782000100    0,00 51201 PIX / DINH   08       0,00       0,00     1.082,36 000 000 000 2-LIB   10/01/23   10/01/23              18 viviane  031 00006 SETE QUEDAS
-
-0018   P   PJ MAICON DOUGLAS DA SILVA MAR0018   P   PJ MAICON DOUGLAS DA SILVA MAR0018   P   PJ MAICON DOUGLAS DA SILVA MAR
-
-        661 LIRIANDIOY ANDRADE RO 028857718000118    0,00 51201 BANCO ITAU   08       8,49       0,00       411,59 014 028 000 1-BLO   09/01/23   09/01/23              18 alberto  043 00003 ELDORADO
-
-                                              Total Representante  Pedidos:      16      Valor:      12.872,05     Caixas:           0,00                                              Total Representante  Pedidos:      16      Valor:      12.872,05     Caixas:           0,00                                              Total Representante  Pedidos:      16      Valor:      12.872,05     Caixas:           0,00
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-0019   A   PJ VIVIANE DA SILVA SOUZA SOAR0019   A   PJ VIVIANE DA SILVA SOUZA SOAR0019   A   PJ VIVIANE DA SILVA SOUZA SOAR
-
-        678 JCHAGAS ALIMENTOS LTD 006813685000929    0,00 51201 BANCO ITAU   08       0,01-      0,00     2.575,52 028 035 042 2-LIB   06/01/23   05/01/23              19 viviane  048 00012 MARACAJU
-        685 NEIVA VIEIRA FRANCO   032174118000122    0,00 51201 BANCO ITAU   08       0,00       0,00       490,78 014 021 000 2-LIB   10/01/23   10/01/23              19 viviane  042 00003 NAVIRAI
-        686 DISTRIBUIDORA DE ALIM 008752211000192    0,00 51201 BANCO ITAU   08      70,38-      0,00     2.517,49 021 028 035 2-LIB   10/01/23   10/01/23              19 viviane  042 00012 NAVIRAI
-        688 CELCIO HAAG           079073144000128    0,00 51201 BANCO ITAU   08      37,98-      0,00     1.178,18 014 021 028 2-LIB   10/01/23   10/01/23              19 viviane  042 00011 NAVIRAI
-        689 PORTAL CONVENIENCIA E 026143482000122    0,00 51201 BANCO ITAU   09       0,00       0,00       263,58 021 000 000 2-LIB   10/01/23   10/01/23              19 viviane  042 00002 NAVIRAI
-
-                                              Total Representante  Pedidos:       5      Valor:       7.025,55     Caixas:           0,00                                              Total Representante  Pedidos:       5      Valor:       7.025,55     Caixas:           0,00                                              Total Representante  Pedidos:       5      Valor:       7.025,55     Caixas:           0,00
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-0021   A   PJ FABRICIO ALLENS DE OLIVEIRA0021   A   PJ FABRICIO ALLENS DE OLIVEIRA0021   A   PJ FABRICIO ALLENS DE OLIVEIRA
-
-      2.611 MARCIO COSTA BARBUENO 024293280000131    0,00 51201 BANCO ITAU   08       0,00       0,00       416,32 021 028 000 2-LIB   09/01/23   09/01/23              21 alberto  413 00009 TERENOS
-      2.613 LOIDE VIEIRA POVOAS   034814588000139    0,00 51201 BANCO ITAU   08      53,87-      0,00     1.093,23 014 021 028 2-LIB   10/01/23   10/01/23              21 alberto  302 00009 AGUA CLARA
-      2.615 MARGARETE RAINHA DE J 036984669000102    0,00 51201 BANCO ITAU   08      10,29-      0,00     1.149,29 014 021 028 2-LIB   10/01/23   10/01/23              21 viviane  302 00008 AGUA CLARA
-      2.616 MERCADO PAVANELI LTDA 045099016000131    0,00 51201 BANCO ITAU   08      22,13-      0,00     2.328,52 014 021 028 2-LIB   10/01/23   10/01/23              21 viviane  302 00018 AGUA CLARA
-      2.617 CONVENIENCIA REAL LTD 011257153000135    0,00 51201 BANCO ITAU   08       0,00       0,00       743,90 028 000 000 2-LIB   10/01/23   10/01/23              21 viviane  051 00005 CAMAPUA
-      2.618 CLAUDINEI PIRES       007632179000149    0,00 51201 BANCO ITAU   08      16,07       0,00       427,07 028 000 000 2-LIB   10/01/23   10/01/23              21 viviane  302 00003 AGUA CLARA
-      2.619 FABIANO VICENTE DIAS  017871774000190    0,00 51201 BANCO ITAU   08       9,08       0,00       204,79 021 000 000 2-LIB   10/01/23   10/01/23              21 viviane  302 00002 AGUA CLARA
-      2.620 CHURRASCARIA TALISMA  005878682000153    0,00 51201 BANCO ITAU   08      33,15-      0,00       298,50 021 000 000 2-LIB   10/01/23   10/01/23              21 viviane  030 00003 AGUA CLARA
-      2.621 J F MORAIS            036800530000161    0,00 51201 BANCO ITAU   08       7,14       0,00       477,29 021 028 000 2-LIB   10/01/23   10/01/23              21 viviane  302 00004 AGUA CLARA
-      2.622 CHURRASCARIA GRAMADAO 025246886000189    0,00 51201 BANCO ITAU   08       0,00       0,00       558,37 021 000 000 2-LIB   10/01/23   10/01/23              21 viviane  301 00003 AGUA CLARA
-      2.623 FRANCISCO OLIVEIRA HI 010359659000192    0,00 51201 PIX / DINH   08       1,88-      0,00       103,67 000 000 000 2-LIB   10/01/23   10/01/23              21 viviane  302 00000 AGUA CLARA
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-MCD - MILENIO COMERCIO DE ALIMENTO LTDA                                                                                                              12 Faturamento   Ref:ft12308
-Filial: CAMPO GRANDE                                                                                                                                              Emissao    Hora   Folha
-                                                                                   PEDIDOS A FATURAR                                                              11/01/23   11:55   0006
------MILENIO------------------------------------------------------------------------------------------------------------------------------------------------------Usuario: luiz----------
-
-0021   A   PJ FABRICIO ALLENS DE OLIVEIRA0021   A   PJ FABRICIO ALLENS DE OLIVEIRA0021   A   PJ FABRICIO ALLENS DE OLIVEIRA
-
-     Pedido *--------------Clientes-------------*  Margem  COF  Portador  Lista  Saldo DMC     Trocas Total Pedido Prazos      Situacao Dig/Imp Programado P.Broker  Repre Usuario  Reg QtdCx Cidade     Pedido *--------------Clientes-------------*  Margem  COF  Portador  Lista  Saldo DMC     Trocas Total Pedido Prazos      Situacao Dig/Imp Programado P.Broker  Repre Usuario  Reg QtdCx Cidade     Pedido *--------------Clientes-------------*  Margem  COF  Portador  Lista  Saldo DMC     Trocas Total Pedido Prazos      Situacao Dig/Imp Programado P.Broker  Repre Usuario  Reg QtdCx Cidade
-      2.624 CASA DE RACAO LF EIRE 022689217000193    0,00 51201 BANCO ITAU   08      12,73       0,00       254,69 028 000 000 2-LIB   10/01/23   10/01/23              21 viviane  302 00002 AGUA CLARA
-
-                                              Total Representante  Pedidos:      12      Valor:       8.055,64     Caixas:           0,00                                              Total Representante  Pedidos:      12      Valor:       8.055,64     Caixas:           0,00                                              Total Representante  Pedidos:      12      Valor:       8.055,64     Caixas:           0,00
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-0107   A   ELISANGELA DIAS CRUZ0107   A   ELISANGELA DIAS CRUZ0107   A   ELISANGELA DIAS CRUZ
-
-      3.328 BARROS E RABELO LTDA  008263365000110    0,00 51201 BANCO ITAU   08       0,07-      0,00     1.097,74 014 021 028 2-LIB   09/01/23   09/01/23             107 alberto  035 00011 DOURADOS
-      3.329 LINDACI DAS VIRGENS D 002633429000141    0,00 51201 BANCO ITAU   08       0,00       0,00       315,52 028 000 000 2-LIB   09/01/23   09/01/23             107 alberto  035 00003 DOURADOS
-      3.330 ALINE BRITO DE SANTAN 019100404000185    0,00 51201 BANCO ITAU   08      49,07-      0,00     2.788,16 014 021 028 2-LIB   09/01/23   09/01/23             107 alberto  035 00019 DOURADOS
-      3.331 JEFERSON DOS SANTOS N 043543162000189    0,00 51201 PIX / DINH   08       5,27-      0,00       100,15 000 000 000 2-LIB   09/01/23   09/01/23             107 alberto  035 00000 DOURADOS
-      3.332 MARIA VIRGENS DOS SAN 035173983000142    0,00 51201 PIX / DINH   08       5,27-      0,00       115,89 000 000 000 2-LIB   09/01/23   09/01/23             107 alberto  035 00000 DOURADOS
-      3.334 POROROCA AUTO POSTO L 013790094000191    0,00 51201 BANCO ITAU   05       0,00       0,00       766,78 014 021 000 2-LIB   10/01/23   10/01/23             107 viviane  035 00004 DOURADOS
-      3.335 CONVENIENCIA CERRADO  003096172000107    0,00 51201 BANCO ITAU   05       0,00       0,00       668,16 021 000 000 2-LIB   10/01/23   10/01/23             107 viviane  035 00004 DOURADOS
-      3.336 CONVENIENCIA CERRADO  003096172000107    0,00 59922 BONIFICACA   05       0,00       0,00       668,16 000 000 000 2-LIB   11/01/23   10/01/23             107 viviane  035 00004 DOURADOS
-
-                                              Total Representante  Pedidos:       8      Valor:       6.520,56     Caixas:           0,00                                              Total Representante  Pedidos:       8      Valor:       6.520,56     Caixas:           0,00                                              Total Representante  Pedidos:       8      Valor:       6.520,56     Caixas:           0,00
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-0114   A   THIAGO RODRIGO DA SILVA XIMENE0114   A   THIAGO RODRIGO DA SILVA XIMENE0114   A   THIAGO RODRIGO DA SILVA XIMENE
-
-      5.560 HILDA G ANTEZANA ME   024463906000100    0,00 51201 PIX / DINH   08     124,64-      0,00     4.002,87 000 000 000 2-LIB   09/01/23   09/01/23             114 alberto  034 00023 CORUMBA
-      5.561 ALBERTO CRUZ LLUSCO   033587215000100    0,00 51201 BANCO ITAU   08     181,10-      0,00     5.660,80 021 000 000 2-LIB   09/01/23   09/01/23             114 alberto  034 00030 CORUMBA
-      5.562 DATAIAM TACIO SOUZA D 030133317000167    0,00 51201 PIX / DINH   08      58,42-      0,00     2.025,04 000 000 000 2-LIB   09/01/23   09/01/23             114 alberto  034 00011 CORUMBA
-      5.563 E DE O GOUVEIA NETO   031404826000140    0,00 51201 PIX / DINH   08       1,95-      0,00       403,92 000 000 000 2-LIB   10/01/23   10/01/23             114 viviane  034 00003 CORUMBA
-      5.564 R Z VASCONCELLOS      013764286000123    0,00 51201 BANCO ITAU   08      14,61-      0,00     1.034,86 014 021 028 2-LIB   10/01/23   10/01/23             114 viviane  034 00007 CORUMBA
-
-0114   P   THIAGO RODRIGO DA SILVA XIMENE0114   P   THIAGO RODRIGO DA SILVA XIMENE0114   P   THIAGO RODRIGO DA SILVA XIMENE
-
-      5.565 YULIZA ANAI ALCON COC 044173485000190    0,00 51234 BANCO ITAU   08      58,42-      0,00     2.716,31 014 021 028 1-BLO   10/01/23   10/01/23             114 viviane  034 00016 CORUMBA
-
-                                              Total Representante  Pedidos:       6      Valor:      15.843,80     Caixas:           0,00                                              Total Representante  Pedidos:       6      Valor:      15.843,80     Caixas:           0,00                                              Total Representante  Pedidos:       6      Valor:      15.843,80     Caixas:           0,00
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-0115   A   PJ RODRIGO ALBUQUERQUE DE SOUZ0115   A   PJ RODRIGO ALBUQUERQUE DE SOUZ0115   A   PJ RODRIGO ALBUQUERQUE DE SOUZ
-
-      4.769 RACA FORT PRODUTOS AG 010396149000195    0,00 51201 PIX / DINH   08       8,81       0,00       176,28 000 000 000 2-LIB   06/01/23   06/01/23             115 silvia   032 00002 PONTA PORA
-      4.770 AUTO POSTO CENTRAL LT 003569993000105    0,00 51201 BANCO ITAU   05       0,00       0,00       897,48 021 000 000 2-LIB   09/01/23   09/01/23             115 viviane  032 00006 PONTA PORA
-      4.773 GILBERTO DE ARRUDA    015308206000150    0,00 51201 BANCO ITAU   08      37,27-      0,00       401,55 014 021 000 2-LIB   10/01/23   10/01/23             115 viviane  032 00002 PONTA PORA
-      4.774 CONVENIENCIA AQUIDABA 031035143000162    0,00 51201 BANCO ITAU   08      23,05       0,00     1.454,91 014 021 028 2-LIB   10/01/23   10/01/23             115 viviane  032 00009 PONTA PORA
-      4.775 BRAGA E BRAGA LTDA    037678837000102    0,00 51201 BANCO ITAU   08      21,32       0,00       677,96 014 021 028 2-LIB   10/01/23   10/01/23             115 viviane  032 00004 PONTA PORA
-
-                                              Total Representante  Pedidos:       5      Valor:       3.608,18     Caixas:           0,00                                              Total Representante  Pedidos:       5      Valor:       3.608,18     Caixas:           0,00                                              Total Representante  Pedidos:       5      Valor:       3.608,18     Caixas:           0,00
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-0130   A   HABNER COSTA BRUNO BATISTA0130   A   HABNER COSTA BRUNO BATISTA0130   A   HABNER COSTA BRUNO BATISTA
-
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-MCD - MILENIO COMERCIO DE ALIMENTO LTDA                                                                                                              12 Faturamento   Ref:ft12308
-Filial: CAMPO GRANDE                                                                                                                                              Emissao    Hora   Folha
-                                                                                   PEDIDOS A FATURAR                                                              11/01/23   11:55   0007
------MILENIO------------------------------------------------------------------------------------------------------------------------------------------------------Usuario: luiz----------
-
-0130   A   HABNER COSTA BRUNO BATISTA0130   A   HABNER COSTA BRUNO BATISTA0130   A   HABNER COSTA BRUNO BATISTA
-
-     Pedido *--------------Clientes-------------*  Margem  COF  Portador  Lista  Saldo DMC     Trocas Total Pedido Prazos      Situacao Dig/Imp Programado P.Broker  Repre Usuario  Reg QtdCx Cidade     Pedido *--------------Clientes-------------*  Margem  COF  Portador  Lista  Saldo DMC     Trocas Total Pedido Prazos      Situacao Dig/Imp Programado P.Broker  Repre Usuario  Reg QtdCx Cidade     Pedido *--------------Clientes-------------*  Margem  COF  Portador  Lista  Saldo DMC     Trocas Total Pedido Prazos      Situacao Dig/Imp Programado P.Broker  Repre Usuario  Reg QtdCx Cidade
-         75 J E J CONVENIENCIAS L 011196780000103    0,00 51201 BANCO ITAU   05       0,00       0,00     2.612,95 014 000 000 2-LIB   09/01/23   09/01/23             130 alberto  360 00015 CAMPO GRANDE
-         80 OHLM RESTAURANTE E LA 005523152000192    0,00 51201 BANCO ITAU   05       0,00       0,00       792,72 014 000 000 2-LIB   10/01/23   10/01/23             130 viviane  360 00006 CAMPO GRANDE
-
-0130   P   HABNER COSTA BRUNO BATISTA0130   P   HABNER COSTA BRUNO BATISTA0130   P   HABNER COSTA BRUNO BATISTA
-
-         78 BIONDO E CIA LTDA     000860197000139    0,00 51234 BANCO ITAU   08      20,37-      0,00     1.510,51 007 000 000 1-BLO   10/01/23   10/01/23             130 viviane  005 00007 CAMPO GRANDE
-
-                                              Total Representante  Pedidos:       3      Valor:       4.916,18     Caixas:           0,00                                              Total Representante  Pedidos:       3      Valor:       4.916,18     Caixas:           0,00                                              Total Representante  Pedidos:       3      Valor:       4.916,18     Caixas:           0,00
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-0151   P   EDER DIEGO JOSE DA SILVA0151   P   EDER DIEGO JOSE DA SILVA0151   P   EDER DIEGO JOSE DA SILVA
-
-     10.746 DEGAS ESTETICA ANIMAL 022871392000105    0,00 51234 BANCO ITAU   08       0,71       0,00       657,51 021 000 000 1-BLO   05/01/23   05/01/23             151 viviane  002 00003 CAMPO GRANDE
-     10.747 A DE OLIVEIRA SUPERME 008647783000101    0,00 51201 BANCO ITAU   08     106,36-      0,00     1.463,48 014 021 000 1-BLO   06/01/23   05/01/23             151 viviane  416 00010 CAMPO GRANDE
-
-                                              Total Representante  Pedidos:       2      Valor:       2.120,99     Caixas:           0,00                                              Total Representante  Pedidos:       2      Valor:       2.120,99     Caixas:           0,00                                              Total Representante  Pedidos:       2      Valor:       2.120,99     Caixas:           0,00
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-0153   P   ALESSANDRO RONALDO MOSCA JUNIO0153   P   ALESSANDRO RONALDO MOSCA JUNIO0153   P   ALESSANDRO RONALDO MOSCA JUNIO
-
-     11.455 CACHOEIRA COMERCIO DE 013557705000156    0,00 51201 BANCO ITAU   05       0,00       0,00     1.553,26 014 021 028 1-BLO   10/01/23   10/01/23             153 viviane  005 00008 CAMPO GRANDE
-
-                                              Total Representante  Pedidos:       1      Valor:       1.553,26     Caixas:           0,00                                              Total Representante  Pedidos:       1      Valor:       1.553,26     Caixas:           0,00                                              Total Representante  Pedidos:       1      Valor:       1.553,26     Caixas:           0,00
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-0155   A   NAURA CORREA PIRES CABREIRA0155   A   NAURA CORREA PIRES CABREIRA0155   A   NAURA CORREA PIRES CABREIRA
-
-      9.061 COMERCIO DE ALIMENTOS 010602507000179    0,00 51201 BANCO ITAU   08     128,21-      0,00       735,07 028 000 000 1-BLO   10/01/23   10/01/23             155 viviane  005 00006 CAMPO GRANDE
-      9.062 ANGELA MENDES DE SOUZ 032212285000110    0,00 51201 BANCO ITAU   08     113,86-      0,00     2.833,01 021 028 035 1-BLO   10/01/23   10/01/23             155 viviane  009 00023 CAMPO GRANDE
-      9.064 MERCADO SOARES EIRELI 034133534000108    0,00 51201 BANCO ITAU   08      35,14-      0,00     2.025,82 028 000 000 1-BLO   10/01/23   10/01/23             155 viviane  426 00015 CAMPO GRANDE
-      9.065 MERCADO SOARES EIRELI 034133534000299    0,00 51201 BANCO ITAU   08      37,33-      0,00       413,27 028 000 000 1-BLO   10/01/23   10/01/23             155 viviane  426 00003 CAMPO GRANDE
-      9.066 MERCADO SOARES EIRELI 034133534000370    0,00 51201 BANCO ITAU   08       1,45-      0,00       652,87 028 000 000 1-BLO   10/01/23   10/01/23             155 viviane  426 00003 CAMPO GRANDE
-      9.067 MERCADO SOARES LTDA   034133534000531    0,00 51201 BANCO ITAU   08      31,20-      0,00       507,41 028 000 000 1-BLO   10/01/23   10/01/23             155 viviane  426 00003 CAMPO GRANDE
-      9.068 MERCADO SOARES LTDA   034133534000450    0,00 51201 BANCO ITAU   08      36,51-      0,00     1.293,95 028 000 000 1-BLO   10/01/23   10/01/23             155 viviane  426 00008 CAMPO GRANDE
-      9.069 MERCADO SOARES LTDA   034133534000612    0,00 51201 BANCO ITAU   08      41,44-      0,00     1.013,57 028 000 000 1-BLO   10/01/23   10/01/23             155 viviane  426 00008 CAMPO GRANDE
-
-                                              Total Representante  Pedidos:       8      Valor:       9.474,97     Caixas:           0,00                                              Total Representante  Pedidos:       8      Valor:       9.474,97     Caixas:           0,00                                              Total Representante  Pedidos:       8      Valor:       9.474,97     Caixas:           0,00
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-0159   P   JOSE LUCAS SALLES DE OLIVEIRA0159   P   JOSE LUCAS SALLES DE OLIVEIRA0159   P   JOSE LUCAS SALLES DE OLIVEIRA
-
-      7.097 LH MARUYAMA           030445941000108    0,00 51201 BANCO ITAU   08       5,50       0,00       373,13 021 000 000 1-BLO   05/01/23   05/01/23             159 viviane  004 00003 CAMPO GRANDE
-
-                                              Total Representante  Pedidos:       1      Valor:         373,13     Caixas:           0,00                                              Total Representante  Pedidos:       1      Valor:         373,13     Caixas:           0,00                                              Total Representante  Pedidos:       1      Valor:         373,13     Caixas:           0,00
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-0207   A   PJ GERALDA A. DE CASTRO  ABV0207   A   PJ GERALDA A. DE CASTRO  ABV0207   A   PJ GERALDA A. DE CASTRO  ABV
-
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-MCD - MILENIO COMERCIO DE ALIMENTO LTDA                                                                                                              12 Faturamento   Ref:ft12308
-Filial: CAMPO GRANDE                                                                                                                                              Emissao    Hora   Folha
-                                                                                   PEDIDOS A FATURAR                                                              11/01/23   11:55   0008
------MILENIO------------------------------------------------------------------------------------------------------------------------------------------------------Usuario: luiz----------
-
-0207   A   PJ GERALDA A. DE CASTRO  ABV0207   A   PJ GERALDA A. DE CASTRO  ABV0207   A   PJ GERALDA A. DE CASTRO  ABV
-
-     Pedido *--------------Clientes-------------*  Margem  COF  Portador  Lista  Saldo DMC     Trocas Total Pedido Prazos      Situacao Dig/Imp Programado P.Broker  Repre Usuario  Reg QtdCx Cidade     Pedido *--------------Clientes-------------*  Margem  COF  Portador  Lista  Saldo DMC     Trocas Total Pedido Prazos      Situacao Dig/Imp Programado P.Broker  Repre Usuario  Reg QtdCx Cidade     Pedido *--------------Clientes-------------*  Margem  COF  Portador  Lista  Saldo DMC     Trocas Total Pedido Prazos      Situacao Dig/Imp Programado P.Broker  Repre Usuario  Reg QtdCx Cidade
-        691 ABV COMERCIO DE ALIME 004757459000519    0,00 51201 BANCO ITAU   08       0,00       0,00     1.807,33 035 045 050 2-LIB   06/01/23   06/01/23             207 silvia   336 00005 DOURADOS
-
-                                              Total Representante  Pedidos:       1      Valor:       1.807,33     Caixas:           0,00                                              Total Representante  Pedidos:       1      Valor:       1.807,33     Caixas:           0,00                                              Total Representante  Pedidos:       1      Valor:       1.807,33     Caixas:           0,00
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-0703   A   PJ FERNANDO ANJOS DE MACEDO0703   A   PJ FERNANDO ANJOS DE MACEDO0703   A   PJ FERNANDO ANJOS DE MACEDO
-
-        101 SUPERMERCADO NACAGAMI 010389924000185    0,00 51201 BANCO ITAU   08     664,00-      0,00     8.590,05 028 000 000 2-LIB   10/01/23   10/01/23             703 viviane  330 00055 AQUIDAUANA
-        102 MAIDANA E OBA LTDA    004076297000120    0,00 51201 BANCO ITAU   08     172,49-      0,00     1.148,72 021 028 035 2-LIB   09/01/23   09/01/23             703 alberto  033 00006 AQUIDAUANA
-        105 VALDECI JOSE BARBOSA  006062615000129    0,00 51201 BANCO ITAU   08      23,45-      0,00       316,73 021 000 000 2-LIB   10/01/23   10/01/23             703 viviane  331 00004 MIRANDA
-        106 RONALDO LISBOA        033129529000240    0,00 51201 PIX / DINH   08      34,12-      0,00       498,08 000 000 000 2-LIB   10/01/23   10/01/23             703 viviane  331 00002 MIRANDA
-
-                                              Total Representante  Pedidos:       4      Valor:      10.553,58     Caixas:           0,00                                              Total Representante  Pedidos:       4      Valor:      10.553,58     Caixas:           0,00                                              Total Representante  Pedidos:       4      Valor:      10.553,58     Caixas:           0,00
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-0704   A   PJ GILBERTO LOPES PEREIRA0704   A   PJ GILBERTO LOPES PEREIRA0704   A   PJ GILBERTO LOPES PEREIRA
-
-         59 UEMURA E SANCHES LTDA 026509993000115    0,00 51201 BANCO ITAU   08      56,92-      0,00       314,88 028 000 000 2-LIB   06/01/23   05/01/23             704 viviane  044 00005 FATIMA DO SUL
-         60 MARIA EVALDILMA MENDO 041085868000119    0,00 51201 BANCO ITAU   08       8,85-      0,00       286,14 021 000 000 2-LIB   06/01/23   06/01/23             704 silvia   044 00001 FATIMA DO SUL
-         62 SILVIA MARIA ROBERTO  018735628000109    0,00 51201 BANCO ITAU   08      13,82-      0,00       262,35 021 000 000 2-LIB   09/01/23   06/01/23             704 viviane  044 00004 FATIMA DO SUL
-         63 LUIZ MARQUES ANTONIO  026452538000120    0,00 51201 BANCO ITAU   08      81,27-      0,00       871,18 021 028 035 2-LIB   09/01/23   09/01/23             704 alberto  044 00014 FATIMA DO SUL
-         64 SUPERMERCADO LUISA LT 010141170000140    0,00 51201 BANCO ITAU   08      20,79-      0,00       276,21 028 000 000 2-LIB   09/01/23   09/01/23             704 alberto  044 00000 GLORIA DE DOURADOS
-         65 LILIAN CRISTINA MONTA 007615892000184    0,00 51201 BANCO ITAU   08      42,69-      0,00       229,26 028 000 000 2-LIB   10/01/23   10/01/23             704 viviane  441 00003 IVINHEMA
-         66 FERNANDA RODRIGUES DE 038035918000149    0,00 51201 BANCO ITAU   08     132,10-      0,00     1.169,36 014 021 028 2-LIB   10/01/23   10/01/23             704 viviane  441 00006 IVINHEMA
-         67 B A MARQUES ME        015310799000190    0,00 51201 CARTORIO     08     141,91-      0,00       886,38 028 000 000 2-LIB   10/01/23   10/01/23             704 viviane  441 00002 IVINHEMA
-    545.307 SUPERMERCADO LUISA LT 010141170000140    0,00 51201 ECOM BANCO   01       0,00       0,00       397,44 028 000 000 2-LIB   07/01/23   07/01/23             704          044 00001 GLORIA DE DOURADOS
-
-                                              Total Representante  Pedidos:       9      Valor:       4.693,20     Caixas:           0,00                                              Total Representante  Pedidos:       9      Valor:       4.693,20     Caixas:           0,00                                              Total Representante  Pedidos:       9      Valor:       4.693,20     Caixas:           0,00
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-0707   A   PJ MIRELLY DE SOUZA CARVALHO0707   A   PJ MIRELLY DE SOUZA CARVALHO0707   A   PJ MIRELLY DE SOUZA CARVALHO
-
-        110 SUPERMERCADO BOM JARD 000980516000140    0,00 51201 BANCO ITAU   08      45,00-      0,00       900,11 021 028 035 2-LIB   06/01/23   05/01/23             707 viviane  035 00017 DOURADOS
-        111 MERCEARIA O SUPER LTD 003489676000189    0,00 51201 BANCO ITAU   08     199,52-      0,00     1.130,63 021 028 000 2-LIB   09/01/23   09/01/23             707 alberto  035 00015 DOURADOS
-        113 ALIMENTOS SAMIRA LTDA 005440082000109    0,00 51201 BANCO ITAU   08      33,94-      0,00       443,52 028 000 000 2-LIB   10/01/23   10/01/23             707 viviane  035 00007 DOURADOS
-        115 FRANCIELE FERNANDA SA 019664229000159    0,00 51201 PIX / DINH   08      18,26-      0,00       205,28 000 000 000 2-LIB   10/01/23   10/01/23             707 viviane  035 00002 DOURADOS
-
-                                              Total Representante  Pedidos:       4      Valor:       2.679,54     Caixas:           0,00                                              Total Representante  Pedidos:       4      Valor:       2.679,54     Caixas:           0,00                                              Total Representante  Pedidos:       4      Valor:       2.679,54     Caixas:           0,00
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-0710   A   JOAO ALEXANDRE TEIXEIRA DUTRA0710   A   JOAO ALEXANDRE TEIXEIRA DUTRA0710   A   JOAO ALEXANDRE TEIXEIRA DUTRA
-
-          6 JOSAFA BALBINO FALCAO 036818227000196    0,00 51201 BANCO ITAU   08      46,55-      0,00       757,82 021 000 000 2-LIB   09/01/23   06/01/23             710 viviane  038 00003 SIDROLANDIA
-          7 SCHWINN E CIA LTDA    033750134000189    0,00 51201 CHEQUE       08       8,36-      0,00       108,01 028 000 000 2-LIB   09/01/23   05/01/23             710 viviane  048 00000 MARACAJU
-          8 TEREZA BENITES        027444167000106    0,00 51201 BANCO ITAU   08       8,70-      0,00       294,44 021 000 000 2-LIB   09/01/23   05/01/23             710 viviane  048 00004 MARACAJU
-          9 IVO ROSA              020890591000127    0,00 51201 PIX / DINH   08       5,61-      0,00       443,31 000 000 000 2-LIB   09/01/23   06/01/23             710 viviane  048 00003 MARACAJU
-         10 PRISCILA OCTACIO DE S 031398994000170    0,00 51201 BANCO ITAU   08     184,77-      0,00     2.820,83 014 021 028 2-LIB   09/01/23   06/01/23             710 viviane  048 00035 MARACAJU
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-MCD - MILENIO COMERCIO DE ALIMENTO LTDA                                                                                                              12 Faturamento   Ref:ft12308
-Filial: CAMPO GRANDE                                                                                                                                              Emissao    Hora   Folha
-                                                                                   PEDIDOS A FATURAR                                                              11/01/23   11:55   0009
------MILENIO------------------------------------------------------------------------------------------------------------------------------------------------------Usuario: luiz----------
-
-0710   A   JOAO ALEXANDRE TEIXEIRA DUTRA0710   A   JOAO ALEXANDRE TEIXEIRA DUTRA0710   A   JOAO ALEXANDRE TEIXEIRA DUTRA
-
-     Pedido *--------------Clientes-------------*  Margem  COF  Portador  Lista  Saldo DMC     Trocas Total Pedido Prazos      Situacao Dig/Imp Programado P.Broker  Repre Usuario  Reg QtdCx Cidade     Pedido *--------------Clientes-------------*  Margem  COF  Portador  Lista  Saldo DMC     Trocas Total Pedido Prazos      Situacao Dig/Imp Programado P.Broker  Repre Usuario  Reg QtdCx Cidade     Pedido *--------------Clientes-------------*  Margem  COF  Portador  Lista  Saldo DMC     Trocas Total Pedido Prazos      Situacao Dig/Imp Programado P.Broker  Repre Usuario  Reg QtdCx Cidade
-         11 CLAUDIO FERNANDO PARE 019988374000195    0,00 51201 BANCO ITAU   08       1,43-      0,00       214,49 028 000 000 2-LIB   09/01/23   06/01/23             710 viviane  038 00001 SIDROLANDIA
-         12 MERCADO FORTALEZA LTD 016605155000191    0,00 51201 BANCO ITAU   08     100,68-      0,00     1.341,21 021 000 000 2-LIB   09/01/23   06/01/23             710 viviane  048 00004 MARACAJU
-         13 ROMILDO ZIRONDI       017310620000120    0,00 51201 PIX / DINH   08       0,00       0,00       124,74 000 000 000 2-LIB   09/01/23   09/01/23             710 alberto  037 00003 RIO BRILHANTE
-         14 MAYFA SUPERMERCADO LT 010380264000171    0,00 51201 PIX / DINH   08       0,00       0,00       124,74 000 000 000 2-LIB   09/01/23   09/01/23             710 alberto  037 00003 RIO BRILHANTE
-         15 MARCIO MORAIS CHARAO  018725544000186    0,00 51201 BANCO ITAU   08       0,00       0,00       201,72 021 000 000 2-LIB   10/01/23   10/01/23             710 alberto  037 00001 RIO BRILHANTE
-         16 D A DA SILVA COMERCIO 045489892000174    0,00 51201 BANCO ITAU   08      22,73-      0,00       431,80 021 000 000 2-LIB   10/01/23   10/01/23             710 alberto  037 00002 RIO BRILHANTE
-         17 CRISTINA APARECIDA OL 022866770000154    0,00 51201 BANCO ITAU   08     115,14-      0,00     1.529,31 021 028 035 2-LIB   10/01/23   10/01/23             710 viviane  037 00006 RIO BRILHANTE
-         18 ROMILDO ZIRONDI       017310620000120    0,00 51201 BANCO ITAU   08      36,02-      0,00       905,24 014 021 028 2-LIB   10/01/23   10/01/23             710 viviane  037 00003 RIO BRILHANTE
-         19 EDENIR TAGARA MARECO  017515299000110    0,00 51201 BANCO ITAU   08       0,00       0,00       209,16 021 000 000 2-LIB   10/01/23   10/01/23             710 viviane  037 00004 RIO BRILHANTE
-         20 PATRICIA MARIA ALVES  044122978000100    0,00 51201 PIX / DINH   08       0,00       0,00       124,74 000 000 000 2-LIB   10/01/23   10/01/23             710 viviane  037 00003 RIO BRILHANTE
-         21 MINI MERCADO POR DO S 004951540000101    0,00 51201 BANCO ITAU   08      70,27-      0,00       997,82 014 021 028 2-LIB   10/01/23   10/01/23             710 viviane  037 00003 RIO BRILHANTE
-
-                                              Total Representante  Pedidos:      16      Valor:      10.629,38     Caixas:           0,00                                              Total Representante  Pedidos:      16      Valor:      10.629,38     Caixas:           0,00                                              Total Representante  Pedidos:      16      Valor:      10.629,38     Caixas:           0,00
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-0711   A   IGOR COSTA - TRES LAGOAS0711   A   IGOR COSTA - TRES LAGOAS0711   A   IGOR COSTA - TRES LAGOAS
-
-         21 MILENE BOMFIM DA SILV 026042466000143    0,00 51201 PIX / DINH   08      14,23-      0,00       134,88 000 000 000 2-LIB   09/01/23   05/01/23             711 viviane  030 00002 TRES LAGOAS
-         22 COPACABANA CONVENIENC 020763673000100    0,00 51201 BANCO ITAU   08      41,03-      0,00       779,51 028 000 000 2-LIB   09/01/23   06/01/23             711 viviane  030 00007 TRES LAGOAS
-         23 A L MENDES LTDA       035588327000100    0,00 51201 BANCO ITAU   08       3,20-      0,00       208,56 021 000 000 2-LIB   09/01/23   06/01/23             711 viviane  030 00000 TRES LAGOAS
-         24 DISTRIBUIDORA DE ISCA 020847236000175    0,00 51201 BANCO ITAU   05       2,15-      0,00       227,69 021 000 000 2-LIB   09/01/23   09/01/23             711 alberto  030 00002 TRES LAGOAS
-         25 SUPERMERCADO BEIRA RI 008608892000209    0,00 51201 BANCO ITAU   08   1.126,37-      0,00    11.007,11 021 028 035 2-LIB   10/01/23   10/01/23             711 viviane  030 00113 BRASILANDIA
-         26 MGC RODRIGUES EIRELI- 028808325000114    0,00 51201 BANCO ITAU   08      46,12-      0,00       513,84 028 000 000 2-LIB   10/01/23   10/01/23             711 viviane  030 00003 TRES LAGOAS
-         27 MERCAFRIOS PRATICO CO 021601892000156    0,00 51201 BANCO ITAU   08      23,97-      0,00       309,53 028 000 000 2-LIB   10/01/23   10/01/23             711 viviane  030 00001 BRASILANDIA
-
-                                              Total Representante  Pedidos:       7      Valor:      13.181,12     Caixas:           0,00                                              Total Representante  Pedidos:       7      Valor:      13.181,12     Caixas:           0,00                                              Total Representante  Pedidos:       7      Valor:      13.181,12     Caixas:           0,00
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-0712   A   PJ VALDEMIR DO NASCIMENTO BAMB0712   A   PJ VALDEMIR DO NASCIMENTO BAMB0712   A   PJ VALDEMIR DO NASCIMENTO BAMB
-
-          1 SIMONE DA SILVA LEITE 040441513000152    0,00 51201 BANCO ITAU   08      15,32-      0,00     1.014,29 021 028 035 2-LIB   09/01/23   09/01/23             712 alberto  047 00005 GUIA LOPES DA LAGUNA
-          2 PEDRO TEIXEIRA DA COS 012870059000110    0,00 51201 BANCO ITAU   08      31,56-      0,00       692,83 021 028 035 2-LIB   09/01/23   09/01/23             712 alberto  047 00010 GUIA LOPES DA LAGUNA
-          3 MERCADO ESTRELA GUIA  008980686000136    0,00 51201 BANCO ITAU   08       3,02-      0,00       344,57 028 000 000 2-LIB   09/01/23   09/01/23             712 alberto  047 00003 GUIA LOPES DA LAGUNA
-          4 ELAINE COLLE E CIA LT 007191282000109    0,00 51201 BANCO ITAU   08       5,45-      0,00       305,52 028 000 000 2-LIB   09/01/23   09/01/23             712 alberto  047 00001 GUIA LOPES DA LAGUNA
-          5 IVETE DOS SANTOS PERE 012966100000156    0,00 51201 BANCO ITAU   08       6,79-      0,00       934,12 028 000 000 2-LIB   10/01/23   10/01/23             712 viviane  047 00007 BONITO
-          6 SOUZA E MATOS LTDA    010602538000120    0,00 51201 BANCO ITAU   08       1,61       0,00       794,50 021 028 035 2-LIB   10/01/23   10/01/23             712 viviane  047 00005 BONITO
-          7 SILVEIRA E OLIVEIRA L 011641383000101    0,00 51201 BANCO ITAU   08      19,78-      0,00       770,45 014 021 028 2-LIB   10/01/23   10/01/23             712 viviane  047 00007 BONITO
-          8 EDER CAIRES FERREIRA  012826837000173    0,00 51201 BANCO ITAU   08      17,88-      0,00       757,65 021 028 035 2-LIB   10/01/23   10/01/23             712 viviane  047 00005 BONITO
-         10 MARIO MARCIO PEREIRA  019079539000106    0,00 51201 BANCO ITAU   08      25,52-      0,00       636,90 021 028 035 2-LIB   10/01/23   10/01/23             712 viviane  047 00005 BONITO
-         11 ORMEZINDO FERNANDES H 008144439000108    0,00 51201 BANCO ITAU   08       4,63       0,00       341,42 028 000 000 2-LIB   10/01/23   10/01/23             712 viviane  047 00001 BONITO
-         12 JV HILGERT E CIA LTDA 002907435000140    0,00 51201 BANCO ITAU   08       1,19-      0,00       238,66 028 000 000 2-LIB   10/01/23   10/01/23             712 viviane  047 00001 BONITO
-         13 JULIANO TON AGUIAR    016872575000134    0,00 51201 PIX / DINH   08       0,15       0,00       101,68 000 000 000 2-LIB   10/01/23   10/01/23             712 viviane  047 00000 BONITO
-
-                                              Total Representante  Pedidos:      12      Valor:       6.932,59     Caixas:           0,00                                              Total Representante  Pedidos:      12      Valor:       6.932,59     Caixas:           0,00                                              Total Representante  Pedidos:      12      Valor:       6.932,59     Caixas:           0,00
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-0714   A   MARCOS FELIPE - CORUMBA0714   A   MARCOS FELIPE - CORUMBA0714   A   MARCOS FELIPE - CORUMBA
-
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-MCD - MILENIO COMERCIO DE ALIMENTO LTDA                                                                                                              12 Faturamento   Ref:ft12308
-Filial: CAMPO GRANDE                                                                                                                                              Emissao    Hora   Folha
-                                                                                   PEDIDOS A FATURAR                                                              11/01/23   11:55   0010
------MILENIO------------------------------------------------------------------------------------------------------------------------------------------------------Usuario: luiz----------
-
-0714   A   MARCOS FELIPE - CORUMBA0714   A   MARCOS FELIPE - CORUMBA0714   A   MARCOS FELIPE - CORUMBA
-
-     Pedido *--------------Clientes-------------*  Margem  COF  Portador  Lista  Saldo DMC     Trocas Total Pedido Prazos      Situacao Dig/Imp Programado P.Broker  Repre Usuario  Reg QtdCx Cidade     Pedido *--------------Clientes-------------*  Margem  COF  Portador  Lista  Saldo DMC     Trocas Total Pedido Prazos      Situacao Dig/Imp Programado P.Broker  Repre Usuario  Reg QtdCx Cidade     Pedido *--------------Clientes-------------*  Margem  COF  Portador  Lista  Saldo DMC     Trocas Total Pedido Prazos      Situacao Dig/Imp Programado P.Broker  Repre Usuario  Reg QtdCx Cidade
-         57 BORDIN E RIBEIRO LTDA 005865139000111    0,00 51201 BANCO ITAU   08     166,27-      0,00     1.643,48 014 021 028 2-LIB   09/01/23   09/01/23             714 alberto  034 00039 CORUMBA
-         58 BENJAMIN ORELLANA CAN 008335231000168    0,00 51201 PIX / DINH   08      35,00-      0,00       402,64 000 000 000 2-LIB   09/01/23   09/01/23             714 alberto  034 00001 CORUMBA
-         59 DATAIAM TACIO SOUZA D 030133317000167    0,00 51201 PIX / DINH   08      34,40-      0,00       461,24 000 000 000 2-LIB   09/01/23   09/01/23             714 alberto  034 00002 CORUMBA
-         60 J OLIVEIRA            003383676000108    0,00 51201 BANCO ITAU   08      49,25-      0,00       458,58 014 021 000 2-LIB   10/01/23   10/01/23             714 viviane  034 00003 CORUMBA
-         61 R Z VASCONCELLOS      013764286000123    0,00 51201 BANCO ITAU   08      18,38-      0,00       754,84 014 021 028 2-LIB   10/01/23   10/01/23             714 viviane  034 00004 CORUMBA
-         62 E DE O GOUVEIA NETO   031404826000140    0,00 51201 PIX / DINH   08      22,72-      0,00       417,69 000 000 000 2-LIB   10/01/23   10/01/23             714 viviane  034 00003 CORUMBA
-
-                                              Total Representante  Pedidos:       6      Valor:       4.138,47     Caixas:           0,00                                              Total Representante  Pedidos:       6      Valor:       4.138,47     Caixas:           0,00                                              Total Representante  Pedidos:       6      Valor:       4.138,47     Caixas:           0,00
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-0715   A   PJ FLAVIA DA SILVA FERREIRA0715   A   PJ FLAVIA DA SILVA FERREIRA0715   A   PJ FLAVIA DA SILVA FERREIRA
-
-         83 CAMILA M.DE MATOS     014798930000147    0,00 51201 BANCO ITAU   08      65,61-      0,00       572,05 014 021 000 2-LIB   09/01/23   09/01/23             715 alberto  032 00008 PONTA PORA
-         84 DICA SUPERMERCADO EIR 006139684000193    0,00 51201 BANCO ITAU   08       0,00       0,00     1.058,19 014 000 000 2-LIB   09/01/23   09/01/23             715 alberto  032 00003 PONTA PORA
-         87 GILBERTO DE ARRUDA    015308206000150    0,00 51201 BANCO ITAU   08       8,69       0,00       697,61 014 021 028 2-LIB   10/01/23   10/01/23             715 viviane  032 00004 PONTA PORA
-         88 IYOBE E CIA LTDA      009401283000158    0,00 51201 BANCO ITAU   08       0,00       0,00       239,55 021 000 000 2-LIB   10/01/23   10/01/23             715 viviane  032 00002 PONTA PORA
-
-                                              Total Representante  Pedidos:       4      Valor:       2.567,40     Caixas:           0,00                                              Total Representante  Pedidos:       4      Valor:       2.567,40     Caixas:           0,00                                              Total Representante  Pedidos:       4      Valor:       2.567,40     Caixas:           0,00
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-0751   P   ANDRESA DE OLIVEIRA FERREIRA0751   P   ANDRESA DE OLIVEIRA FERREIRA0751   P   ANDRESA DE OLIVEIRA FERREIRA
-
-      2.380 SILVANIA DO AMARAL    013028598000179    0,00 51234 PIX / DINH   08       0,12       0,00       102,00 000 000 000 1-BLO   05/01/23   05/01/23             751 luiz     007 00000 CAMPO GRANDE
-
-                                              Total Representante  Pedidos:       1      Valor:         102,00     Caixas:           0,00                                              Total Representante  Pedidos:       1      Valor:         102,00     Caixas:           0,00                                              Total Representante  Pedidos:       1      Valor:         102,00     Caixas:           0,00
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-0755   P   TANIA RODRIGUES SANTOS0755   P   TANIA RODRIGUES SANTOS0755   P   TANIA RODRIGUES SANTOS
-
-      1.784 MERCADO ILHA GRANDE L 044896083000114    0,00 51201 BANCO ITAU   08      70,82-      0,00       600,80 021 035 000 1-BLO   27/12/22   27/12/22             755 viviane  006 00008 CAMPO GRANDE
-      1.800 CASA DE CARNE BEEF CH 007085809000102    0,00 51201 BANCO ITAU   08      23,39-      0,00       205,77 028 000 000 1-BLO   09/01/23   05/01/23             755 viviane  002 00001 CAMPO GRANDE
-
-                                              Total Representante  Pedidos:       2      Valor:         806,57     Caixas:           0,00                                              Total Representante  Pedidos:       2      Valor:         806,57     Caixas:           0,00                                              Total Representante  Pedidos:       2      Valor:         806,57     Caixas:           0,00
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-0759   P   BRUNO DE SOUZA NUNES0759   P   BRUNO DE SOUZA NUNES0759   P   BRUNO DE SOUZA NUNES
-
-      1.996 POINT BEER CONVENIENC 044180491000175    0,00 51201 PIX / DINH   08       4,74-      0,00       264,23 000 000 000 1-BLO   27/12/22   26/12/22             759 viviane  004 00001 CAMPO GRANDE
-      2.019 LH MARUYAMA           030445941000108    0,00 51201 BANCO ITAU   08      44,34-      0,00       484,36 014 021 000 1-BLO   05/01/23   04/01/23             759 silvia   004 00005 CAMPO GRANDE
-      2.030 CARAMBOLA HORTIFRUT E 037021891000172    0,00 51201 BANCO ITAU   08      24,45-      0,00       449,63 014 021 000 1-BLO   05/01/23   05/01/23             759 viviane  008 00005 CAMPO GRANDE
-      2.045 SUELI APARECIDA PEREI 037288692000125    0,00 51234 PIX / DINH   08       1,08-      0,00       103,16 000 000 000 1-BLO   10/01/23   10/01/23             759 viviane  003 00000 CAMPO GRANDE
-
-                                              Total Representante  Pedidos:       4      Valor:       1.301,38     Caixas:           0,00                                              Total Representante  Pedidos:       4      Valor:       1.301,38     Caixas:           0,00                                              Total Representante  Pedidos:       4      Valor:       1.301,38     Caixas:           0,00
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-                                              Total Representante  Pedidos:       0      Valor:           0,00     Caixas:           0,00                                              Total Representante  Pedidos:       0      Valor:           0,00     Caixas:           0,00                                              Total Representante  Pedidos:       0      Valor:           0,00     Caixas:           0,00
-
-                                                      Total Geral  Pedidos:     244      Valor:     273.906,41     Caixas:           0,00                                                      Total Geral  Pedidos:     244      Valor:     273.906,41     Caixas:           0,00                                                      Total Geral  Pedidos:     244      Valor:     273.906,41     Caixas:           0,00

@@ -1,83 +1,0 @@
- g 
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-TCG - TRIUNFANTE MATOGROSSENSE ALIMENTOS                                                                                                                                                12 Faturamento          Ref:ft12308
-Filial: CAMPO GRANDE                                                                                                                                                                                 Emissao    Hora   Folha
-                                                                                                    PEDIDOS A FATURAR                                                                                15/03/24   12:12   0001
------GRUPO TRIUNFANTE--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------Usuario: willian-------
-
-0003   A   PJ LAURA - A - AQUIDAUANA0003   A   PJ LAURA - A - AQUIDAUANA0003   A   PJ LAURA - A - AQUIDAUANA
-
-     Pedido *--------------Clientes-------------*  Margem  COF  Portador  Lista  Saldo DMC     Trocas Total Pedido Prazos      Situacao Dig/Imp Programado P.Broker  Repre Usuario  Reg QtdCx Cidade     Pedido *--------------Clientes-------------*  Margem  COF  Portador  Lista  Saldo DMC     Trocas Total Pedido Prazos      Situacao Dig/Imp Programado P.Broker  Repre Usuario  Reg QtdCx Cidade     Pedido *--------------Clientes-------------*  Margem  COF  Portador  Lista  Saldo DMC     Trocas Total Pedido Prazos      Situacao Dig/Imp Programado P.Broker  Repre Usuario  Reg QtdCx Cidade
-      3.758 DAIANA BENITEZ PEREIR 022208297000118    0,00 51234 PIX / DINH   01       0,03-      0,00       292,56 000 000 000 2-LIB   11/03/24   11/03/24               3 willian  033 00002 AQUIDAUANA
-      3.759 GLAUDISON ARAUJO LEIT 019950962000130    0,00 51201 PIX / DINH   01       0,02-      0,00       101,96 000 000 000 2-LIB   12/03/24   12/03/24               3 luiz     033 00000 AQUIDAUANA
-      3.764 LUCIANA ALEM MACIEL M 006129040000114    0,00 51201 BANCO        01       0,03-      0,00       220,38 014 000 000 2-LIB   14/03/24   14/03/24               3 willian  033 00001 ANASTACIO
-
-                                              Total Representante  Pedidos:       3      Valor:         614,90     Caixas:           0,00                                              Total Representante  Pedidos:       3      Valor:         614,90     Caixas:           0,00                                              Total Representante  Pedidos:       3      Valor:         614,90     Caixas:           0,00
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-0151   A   SERGIO - A - VAREJO CG0151   A   SERGIO - A - VAREJO CG0151   A   SERGIO - A - VAREJO CG
-
-     10.389 KS SUPERMERCADOS LTDA 049359282000107    0,00 51201 BANCO        02       8,88       0,00       296,52 026 000 000 2-LIB   12/03/24   11/03/24             151 willian  422 00003 CAMPO GRANDE
-
-                                              Total Representante  Pedidos:       1      Valor:         296,52     Caixas:           0,00                                              Total Representante  Pedidos:       1      Valor:         296,52     Caixas:           0,00                                              Total Representante  Pedidos:       1      Valor:         296,52     Caixas:           0,00
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-0155   A   JULIO - A - VAREJO CG0155   A   JULIO - A - VAREJO CG0155   A   JULIO - A - VAREJO CG
-
-      4.612 MERCADO E ACOUQUE BIG 013381282000166    0,00 51234 PIX / DINH   01      16,15-      0,00       509,86 000 000 000 0-DIG   14/03/24   18/03/24             155 willian  003 00003 CAMPO GRANDE
-
-                                              Total Representante  Pedidos:       1      Valor:         509,86     Caixas:           0,00                                              Total Representante  Pedidos:       1      Valor:         509,86     Caixas:           0,00                                              Total Representante  Pedidos:       1      Valor:         509,86     Caixas:           0,00
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-0413   A   PJ EZEQUIAS - B - AQUIDAUANA0413   A   PJ EZEQUIAS - B - AQUIDAUANA0413   A   PJ EZEQUIAS - B - AQUIDAUANA
-
-      6.610 DAIANA BENITEZ PEREIR 022208297000118    0,00 51234 PIX / DINH   01       0,00       0,00       456,80 000 000 000 2-LIB   08/03/24   08/03/24             413 luiz     033 00001 AQUIDAUANA
-      6.611 PAULO CESAR ALVES DE  009538316000106    0,00 51234 BANCO        01      37,25-      0,00       297,78 028 000 000 2-LIB   09/03/24   08/03/24             413 willian  033 00001 AQUIDAUANA
-      6.612 ANA CRISTINA FERREIRA 018061875000169    0,00 51201 PIX / DINH   01      27,01-      0,00       484,23 000 000 000 2-LIB   09/03/24   08/03/24             413 willian  033 00001 AQUIDAUANA
-      6.613 MAIDANA E OBA LTDA    004076297000120    0,00 51234 BANCO        01       1,59       0,00       244,53 028 000 000 2-LIB   08/03/24   08/03/24             413 luiz     033 00000 AQUIDAUANA
-      6.614 ANDRADE E ARGUELHO LT 009458975000132    0,00 51201 PIX / DINH   01       1,02       0,00       218,67 000 000 000 2-LIB   08/03/24   08/03/24             413 luiz     033 00000 AQUIDAUANA
-      6.615 JOELCIO ANTONIO DA SI 015447576000179    0,00 51201 BANCO        01      37,25-      0,00       297,78 028 000 000 2-LIB   09/03/24   08/03/24             413 willian  033 00001 AQUIDAUANA
-      6.616 GISLAINE APARECIDA OL 005756634000192    0,00 51201 BANCO        01      36,37-      0,00       729,11 021 028 035 2-LIB   12/03/24   11/03/24             413 willian  331 00003 MIRANDA
-      6.617 SANDRO ANTONIO MACIEL 005542293000152    0,00 51234 BANCO        01      27,38       0,00       913,04 028 000 000 2-LIB   11/03/24   11/03/24             413 willian  331 00002 MIRANDA
-      6.619 POSTO DE SERVICO IDEA 015388267000337    0,00 51201 BANCO        01       1,70       0,00       770,55 028 000 000 2-LIB   11/03/24   11/03/24             413 willian  331 00002 MIRANDA
-      6.622 MERCEARIA E CONVENIEN 048946626000111    0,00 51234 BANCO        01       1,59       0,00       233,86 021 000 000 2-LIB   12/03/24   12/03/24             413 luiz     331 00000 MIRANDA
-      6.623 CACIQUE SUPERMERCADO  019851425000132    0,00 51201 BANCO        01       3,14-      0,00     1.108,11 028 000 000 2-LIB   13/03/24   12/03/24             413 willian  331 00003 MIRANDA
-      6.624 YASMIM VILALBA LISBOA 036982811000182    0,00 51234 PIX / DINH   01       0,01-      0,00       413,38 000 000 000 2-LIB   12/03/24   12/03/24             413 luiz     331 00001 MIRANDA
-      6.627 POSTO SERVICO IDEAL L 015388267000175    0,00 51201 BANCO        01      19,79-      0,00     1.688,77 028 000 000 2-LIB   13/03/24   12/03/24             413 willian  331 00005 MIRANDA
-      6.628 GOMES E FREITAS LTDA  022191309000149    0,00 51234 BANCO        01      10,43       0,00       459,27 021 000 000 2-LIB   13/03/24   12/03/24             413 willian  331 00001 MIRANDA
-      6.629 SANDRO ANTONIO MACIEL 005542293000152    0,00 51234 BANCO        01      10,35       0,00       493,27 028 000 000 2-LIB   13/03/24   12/03/24             413 willian  331 00002 MIRANDA
-      6.630 MANSUR LOPES DUARTE   004579237000120    0,00 51201 BANCO        01       3,08       0,00       885,58 021 000 000 2-LIB   13/03/24   12/03/24             413 willian  331 00004 MIRANDA
-      6.631 MANSUR LOPES DUARTE E 004579237000200    0,00 51234 BANCO        01      22,97       0,00     1.262,49 021 000 000 2-LIB   13/03/24   12/03/24             413 willian  331 00004 MIRANDA
-      6.633 GLAUDISON ARAUJO LEIT 019950962000130    0,00 51201 PIX / DINH   01       4,27       0,00       327,32 000 000 000 2-LIB   15/03/24   14/03/24             413 willian  033 00000 AQUIDAUANA
-      6.634 ASSIS E MELO LTDA ME  023678670000167    0,00 51234 BANCO        01      26,21-      0,00       211,23 021 000 000 2-LIB   15/03/24   14/03/24             413 willian  033 00001 AQUIDAUANA
-    880.038 MANSUR LOPES DUARTE   004579237000120    0,00 51201 BANCO        01       0,02-      0,00       287,89 020 000 000 2-LIB   13/03/24   12/03/24             413 willian  331 00001 MIRANDA
-    880.039 MANSUR LOPES DUARTE E 004579237000200    0,00 51234 BANCO        01       0,00       0,00       276,60 020 000 000 2-LIB   13/03/24   12/03/24             413 willian  331 00000 MIRANDA
-    880.040 SANDRO ANTONIO MACIEL 005542293000152    0,00 51234 BANCO        01       0,03-      0,00       195,54 026 000 000 2-LIB   13/03/24   13/03/24             413 willian  331 00001 MIRANDA
-    880.041 POSTO SERVICO IDEAL L 015388267000175    0,00 51201 BANCO        01       0,00       0,00       276,60 026 000 000 2-LIB   13/03/24   13/03/24             413 willian  331 00000 MIRANDA
-
-                                              Total Representante  Pedidos:      23      Valor:      12.532,40     Caixas:           0,00                                              Total Representante  Pedidos:      23      Valor:      12.532,40     Caixas:           0,00                                              Total Representante  Pedidos:      23      Valor:      12.532,40     Caixas:           0,00
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-TCG - TRIUNFANTE MATOGROSSENSE ALIMENTOS                                                                                                                                                12 Faturamento          Ref:ft12308
-Filial: CAMPO GRANDE                                                                                                                                                                                 Emissao    Hora   Folha
-                                                                                                    PEDIDOS A FATURAR                                                                                15/03/24   12:12   0002
------GRUPO TRIUNFANTE--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------Usuario: willian-------
-
-0414   P   PJ ELISANDRA - B - CORUMBA0414   P   PJ ELISANDRA - B - CORUMBA0414   P   PJ ELISANDRA - B - CORUMBA
-
-     Pedido *--------------Clientes-------------*  Margem  COF  Portador  Lista  Saldo DMC     Trocas Total Pedido Prazos      Situacao Dig/Imp Programado P.Broker  Repre Usuario  Reg QtdCx Cidade     Pedido *--------------Clientes-------------*  Margem  COF  Portador  Lista  Saldo DMC     Trocas Total Pedido Prazos      Situacao Dig/Imp Programado P.Broker  Repre Usuario  Reg QtdCx Cidade     Pedido *--------------Clientes-------------*  Margem  COF  Portador  Lista  Saldo DMC     Trocas Total Pedido Prazos      Situacao Dig/Imp Programado P.Broker  Repre Usuario  Reg QtdCx Cidade
-      7.203 RITA HORTENCIA TABORG 018882395000169    0,00 51234 BANCO        01      33,01-      0,00       410,36 014 021 000 1-BLO   12/03/24   11/03/24             414 willian  034 00001 CORUMBA
-
-                                              Total Representante  Pedidos:       1      Valor:         410,36     Caixas:           0,00                                              Total Representante  Pedidos:       1      Valor:         410,36     Caixas:           0,00                                              Total Representante  Pedidos:       1      Valor:         410,36     Caixas:           0,00
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-0451   A   MARIA - B - VAREJO  CG0451   A   MARIA - B - VAREJO  CG0451   A   MARIA - B - VAREJO  CG
-
-      9.512 ELIANA FERREIRA DA SI 010930180000164    0,00 51234 PIX / DINH   01       3,00       0,00       101,28 000 000 000 0-DIG   14/03/24   18/03/24             451 willian  428 00000 CAMPO GRANDE
-
-                                              Total Representante  Pedidos:       1      Valor:         101,28     Caixas:           0,00                                              Total Representante  Pedidos:       1      Valor:         101,28     Caixas:           0,00                                              Total Representante  Pedidos:       1      Valor:         101,28     Caixas:           0,00
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-                                              Total Representante  Pedidos:       0      Valor:           0,00     Caixas:           0,00                                              Total Representante  Pedidos:       0      Valor:           0,00     Caixas:           0,00                                              Total Representante  Pedidos:       0      Valor:           0,00     Caixas:           0,00
-
-                                                      Total Geral  Pedidos:      30      Valor:      14.465,32     Caixas:           0,00                                                      Total Geral  Pedidos:      30      Valor:      14.465,32     Caixas:           0,00                                                      Total Geral  Pedidos:      30      Valor:      14.465,32     Caixas:           0,00

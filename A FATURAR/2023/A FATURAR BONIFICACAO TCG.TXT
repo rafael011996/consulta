@@ -1,503 +1,0 @@
- M 
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-TCG - TRIUNFANTE MATOGROSSENSE ALIMENTOS                                                                                                             12 Faturamento   Ref:ft12308
-Filial: CAMPO GRANDE                                                                                                                                              Emissao    Hora   Folha
-                                                                                   PEDIDOS A FATURAR                                                              31/05/23   10:09   0001
------GRUPO TRIUNFANTE---------------------------------------------------------------------------------------------------------------------------------------------Usuario: alyfer--------
-
-0005   B   PJ JOAO CARLOS -AB- N.ANDRADI0005   B   PJ JOAO CARLOS -AB- N.ANDRADI0005   B   PJ JOAO CARLOS -AB- N.ANDRADI
-
-     Pedido *--------------Clientes-------------*  Margem  COF  Portador  Lista  Saldo DMC     Trocas Total Pedido Prazos      Situacao Dig/Imp Programado P.Broker  Repre Usuario  Reg QtdCx Cidade     Pedido *--------------Clientes-------------*  Margem  COF  Portador  Lista  Saldo DMC     Trocas Total Pedido Prazos      Situacao Dig/Imp Programado P.Broker  Repre Usuario  Reg QtdCx Cidade     Pedido *--------------Clientes-------------*  Margem  COF  Portador  Lista  Saldo DMC     Trocas Total Pedido Prazos      Situacao Dig/Imp Programado P.Broker  Repre Usuario  Reg QtdCx Cidade
-     12.370 GULART E CIA LTDA EPP 005330582000198    0,00 59901 BONIFICACA   01      44,64-      0,00        44,64 000 000 000 2-LIB   25/05/23   25/05/23               5 luiz     450 00000 SANTA RITA DO PARDO
-
- *-----------------Mercadoria-------------------*          Total   Desconto    Qtde Prazo  %D.Maxi %D.Pedido    %DM  Diferenca        Pedido Repre. *-----------------Mercadoria-------------------*          Total   Desconto    Qtde Prazo  %D.Maxi %D.Pedido    %DM  Diferenca        Pedido Repre. *-----------------Mercadoria-------------------*          Total   Desconto    Qtde Prazo  %D.Maxi %D.Pedido    %DM  Diferenca        Pedido Repre.
-  802105 HIDRAT MILK PELE EXTRA SECA (T15).01X200          22,32       0,00       2    28     0,00      0,00   5,00       1,11        12.370     5
-   80265 HIDRAT SOFT MILK PELE SECA (T15)..01X200          22,32       0,00       2    28     0,00      0,00   5,00       1,11        12.370     5
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-     12.379 MEZACASA MORAES E CIA 005919761000165    0,00 59901 BONIFICACA   01      49,02-      0,00        49,02 000 000 000 2-LIB   30/05/23   30/05/23               5 alyfer   045 00000 BATAIPORA
-
- *-----------------Mercadoria-------------------*          Total   Desconto    Qtde Prazo  %D.Maxi %D.Pedido    %DM  Diferenca        Pedido Repre. *-----------------Mercadoria-------------------*          Total   Desconto    Qtde Prazo  %D.Maxi %D.Pedido    %DM  Diferenca        Pedido Repre. *-----------------Mercadoria-------------------*          Total   Desconto    Qtde Prazo  %D.Maxi %D.Pedido    %DM  Diferenca        Pedido Repre.
-  827335 DESOD AERO DEEP ORIG CARVAO.(T15).01X150          24,52       0,00       2    28     0,00      0,00   5,00       1,22        12.379     5
-  816025 DESOD AERO DRY IMPACT MASC.(T15)..01x150          24,50       0,00       2    28     0,00      0,00   5,00       1,22        12.379     5
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-     12.381 JOSE MANUEL DE JESUS  015901440000197    0,00 59901 BONIFICACA   01      11,16-      0,00        11,16 000 000 000 0-DIG   30/05/23   30/05/23               5 luiz     045 00000 BATAIPORA
-
- *-----------------Mercadoria-------------------*          Total   Desconto    Qtde Prazo  %D.Maxi %D.Pedido    %DM  Diferenca        Pedido Repre. *-----------------Mercadoria-------------------*          Total   Desconto    Qtde Prazo  %D.Maxi %D.Pedido    %DM  Diferenca        Pedido Repre. *-----------------Mercadoria-------------------*          Total   Desconto    Qtde Prazo  %D.Maxi %D.Pedido    %DM  Diferenca        Pedido Repre.
-   80265 HIDRAT SOFT MILK PELE SECA (T15)..01X200          11,16       0,00       1    28     0,00      0,00   5,00       0,55        12.381     5
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-     12.387 AGUIMAR MARTINS DA FO 013899030000123    0,00 59901 BONIFICACA   01      20,66-      0,00        20,66 000 000 000 0-DIG   31/05/23   30/05/23               5 alyfer   045 00000 NOVA ANDRADINA
-
- *-----------------Mercadoria-------------------*          Total   Desconto    Qtde Prazo  %D.Maxi %D.Pedido    %DM  Diferenca        Pedido Repre. *-----------------Mercadoria-------------------*          Total   Desconto    Qtde Prazo  %D.Maxi %D.Pedido    %DM  Diferenca        Pedido Repre. *-----------------Mercadoria-------------------*          Total   Desconto    Qtde Prazo  %D.Maxi %D.Pedido    %DM  Diferenca        Pedido Repre.
-  571635 TANG TANGERINA.....................18X18          20,66       0,00       1    28     0,00      0,00   5,00       1,03        12.387     5
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-     12.389 E R DOS SANTOS MERCEA 009127927000161    0,00 59901 BONIFICACA   01      20,66-      0,00        20,66 000 000 000 0-DIG   31/05/23   30/05/23               5 alyfer   045 00000 NOVA ANDRADINA
-
- *-----------------Mercadoria-------------------*          Total   Desconto    Qtde Prazo  %D.Maxi %D.Pedido    %DM  Diferenca        Pedido Repre. *-----------------Mercadoria-------------------*          Total   Desconto    Qtde Prazo  %D.Maxi %D.Pedido    %DM  Diferenca        Pedido Repre. *-----------------Mercadoria-------------------*          Total   Desconto    Qtde Prazo  %D.Maxi %D.Pedido    %DM  Diferenca        Pedido Repre.
-  571495 TANG GOIABA........................18X18          20,66       0,00       1    28     0,00      0,00   5,00       1,03        12.389     5
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-                                              Total Representante  Pedidos:       5      Valor:         146,14     Caixas:           0,73                                              Total Representante  Pedidos:       5      Valor:         146,14     Caixas:           0,73                                              Total Representante  Pedidos:       5      Valor:         146,14     Caixas:           0,73
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-0009   B   PJ MARCOS - AB - CHAPADAO0009   B   PJ MARCOS - AB - CHAPADAO0009   B   PJ MARCOS - AB - CHAPADAO
-
-      3.499 J P DA SILVA LTDA     026924349000103    0,00 59901 BONIFICACA   01     122,52-      0,00       122,52 000 000 000 2-LIB   26/05/23   26/05/23               9 luiz     039 00000 CHAPADAO DO SUL
-
- *-----------------Mercadoria-------------------*          Total   Desconto    Qtde Prazo  %D.Maxi %D.Pedido    %DM  Diferenca        Pedido Repre. *-----------------Mercadoria-------------------*          Total   Desconto    Qtde Prazo  %D.Maxi %D.Pedido    %DM  Diferenca        Pedido Repre. *-----------------Mercadoria-------------------*          Total   Desconto    Qtde Prazo  %D.Maxi %D.Pedido    %DM  Diferenca        Pedido Repre.
-  827335 DESOD AERO DEEP ORIG CARVAO.(T15).01X150          24,52       0,00       2    28     0,00      0,00   5,00       1,22         3.499     9
-  816025 DESOD AERO DRY IMPACT MASC.(T15)..01x150          24,50       0,00       2    28     0,00      0,00   5,00       1,22         3.499     9
-  822415 DESOD AERO BLCK WHITE MASC.(T15)..01X150          24,50       0,00       2    28     0,00      0,00   5,00       1,22         3.499     9
-  822375 DESOD AERO INV BL E WHITE FEM(T15)01X150          24,50       0,00       2    28     0,00      0,00   5,00       1,22         3.499     9
-  800135 DESOD AERO PROTECT CARE FEM.(T15).01x150          24,50       0,00       2    28     0,00      0,00   5,00       1,22         3.499     9
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-                                              Total Representante  Pedidos:       1      Valor:         122,52     Caixas:           0,83                                              Total Representante  Pedidos:       1      Valor:         122,52     Caixas:           0,83                                              Total Representante  Pedidos:       1      Valor:         122,52     Caixas:           0,83
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-0011   B   PJ LUCIANA - A - TRES LAGOAS0011   B   PJ LUCIANA - A - TRES LAGOAS0011   B   PJ LUCIANA - A - TRES LAGOAS
-
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-TCG - TRIUNFANTE MATOGROSSENSE ALIMENTOS                                                                                                             12 Faturamento   Ref:ft12308
-Filial: CAMPO GRANDE                                                                                                                                              Emissao    Hora   Folha
-                                                                                   PEDIDOS A FATURAR                                                              31/05/23   10:09   0002
------GRUPO TRIUNFANTE---------------------------------------------------------------------------------------------------------------------------------------------Usuario: alyfer--------
-
-0011   B   PJ LUCIANA - A - TRES LAGOAS0011   B   PJ LUCIANA - A - TRES LAGOAS0011   B   PJ LUCIANA - A - TRES LAGOAS
-
-     Pedido *--------------Clientes-------------*  Margem  COF  Portador  Lista  Saldo DMC     Trocas Total Pedido Prazos      Situacao Dig/Imp Programado P.Broker  Repre Usuario  Reg QtdCx Cidade     Pedido *--------------Clientes-------------*  Margem  COF  Portador  Lista  Saldo DMC     Trocas Total Pedido Prazos      Situacao Dig/Imp Programado P.Broker  Repre Usuario  Reg QtdCx Cidade     Pedido *--------------Clientes-------------*  Margem  COF  Portador  Lista  Saldo DMC     Trocas Total Pedido Prazos      Situacao Dig/Imp Programado P.Broker  Repre Usuario  Reg QtdCx Cidade
-      4.316 ELAINE APARECIDA GUIR 028193289000121    0,00 59901 BONIFICACA   01      22,32-      0,00        22,32 000 000 000 2-LIB   26/05/23   26/05/23              11 luiz     030 00000 TRES LAGOAS
-
- *-----------------Mercadoria-------------------*          Total   Desconto    Qtde Prazo  %D.Maxi %D.Pedido    %DM  Diferenca        Pedido Repre. *-----------------Mercadoria-------------------*          Total   Desconto    Qtde Prazo  %D.Maxi %D.Pedido    %DM  Diferenca        Pedido Repre. *-----------------Mercadoria-------------------*          Total   Desconto    Qtde Prazo  %D.Maxi %D.Pedido    %DM  Diferenca        Pedido Repre.
-   80265 HIDRAT SOFT MILK PELE SECA (T15)..01X200          11,16       0,00       1    28     0,00      0,00   5,00       0,55         4.316    11
-  802105 HIDRAT MILK PELE EXTRA SECA (T15).01X200          11,16       0,00       1    28     0,00      0,00   5,00       0,55         4.316    11
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-      4.321 PAULO ROBERTO PACINI  000563558000185    0,00 59901 BONIFICACA   01      23,20-      0,00        23,20 000 000 000 2-LIB   27/05/23   26/05/23              11 alyfer   030 00000 TRES LAGOAS
-
- *-----------------Mercadoria-------------------*          Total   Desconto    Qtde Prazo  %D.Maxi %D.Pedido    %DM  Diferenca        Pedido Repre. *-----------------Mercadoria-------------------*          Total   Desconto    Qtde Prazo  %D.Maxi %D.Pedido    %DM  Diferenca        Pedido Repre. *-----------------Mercadoria-------------------*          Total   Desconto    Qtde Prazo  %D.Maxi %D.Pedido    %DM  Diferenca        Pedido Repre.
-  942855 CREME FACIAL PELE NEGRA (T15).....01X100          23,20       0,00       1    00     0,00      0,00   5,00       1,16         4.321    11
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-      4.322 PAULO ROBERTO PACINI  000563558000185    0,00 59901 BONIFICACA   01      39,36-      0,00        39,36 000 000 000 2-LIB   27/05/23   26/05/23              11 alyfer   030 00000 TRES LAGOAS
-
- *-----------------Mercadoria-------------------*          Total   Desconto    Qtde Prazo  %D.Maxi %D.Pedido    %DM  Diferenca        Pedido Repre. *-----------------Mercadoria-------------------*          Total   Desconto    Qtde Prazo  %D.Maxi %D.Pedido    %DM  Diferenca        Pedido Repre. *-----------------Mercadoria-------------------*          Total   Desconto    Qtde Prazo  %D.Maxi %D.Pedido    %DM  Diferenca        Pedido Repre.
-  822405 DESOD ROLLON INVI BL WHITE FEM(T15)01x50          16,16       0,00       2    28     0,00      0,00   5,00       0,80         4.322    11
-  942855 CREME FACIAL PELE NEGRA (T15).....01X100          23,20       0,00       1    00     0,00      0,00   5,00       1,16         4.322    11
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-      4.323 PAULO ROBERTO PACINI  000563558000185    0,00 59901 BONIFICACA   01      23,20-      0,00        23,20 000 000 000 2-LIB   27/05/23   26/05/23              11 alyfer   030 00000 TRES LAGOAS
-
- *-----------------Mercadoria-------------------*          Total   Desconto    Qtde Prazo  %D.Maxi %D.Pedido    %DM  Diferenca        Pedido Repre. *-----------------Mercadoria-------------------*          Total   Desconto    Qtde Prazo  %D.Maxi %D.Pedido    %DM  Diferenca        Pedido Repre. *-----------------Mercadoria-------------------*          Total   Desconto    Qtde Prazo  %D.Maxi %D.Pedido    %DM  Diferenca        Pedido Repre.
-  942855 CREME FACIAL PELE NEGRA (T15).....01X100          23,20       0,00       1    00     0,00      0,00   5,00       1,16         4.323    11
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-      4.324 PAULO ROBERTO PACINI  000563558000185    0,00 59901 BONIFICACA   01      23,20-      0,00        23,20 000 000 000 2-LIB   27/05/23   26/05/23              11 alyfer   030 00000 TRES LAGOAS
-
- *-----------------Mercadoria-------------------*          Total   Desconto    Qtde Prazo  %D.Maxi %D.Pedido    %DM  Diferenca        Pedido Repre. *-----------------Mercadoria-------------------*          Total   Desconto    Qtde Prazo  %D.Maxi %D.Pedido    %DM  Diferenca        Pedido Repre. *-----------------Mercadoria-------------------*          Total   Desconto    Qtde Prazo  %D.Maxi %D.Pedido    %DM  Diferenca        Pedido Repre.
-  942855 CREME FACIAL PELE NEGRA (T15).....01X100          23,20       0,00       1    00     0,00      0,00   5,00       1,16         4.324    11
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-      4.328 C S BONANCIN EIRELI   014700996000152    0,00 59901 BONIFICACA   01      11,16-      0,00        11,16 000 000 000 2-LIB   29/05/23   29/05/23              11 luiz     030 00000 TRES LAGOAS
-
- *-----------------Mercadoria-------------------*          Total   Desconto    Qtde Prazo  %D.Maxi %D.Pedido    %DM  Diferenca        Pedido Repre. *-----------------Mercadoria-------------------*          Total   Desconto    Qtde Prazo  %D.Maxi %D.Pedido    %DM  Diferenca        Pedido Repre. *-----------------Mercadoria-------------------*          Total   Desconto    Qtde Prazo  %D.Maxi %D.Pedido    %DM  Diferenca        Pedido Repre.
-  802105 HIDRAT MILK PELE EXTRA SECA (T15).01X200          11,16       0,00       1    28     0,00      0,00   5,00       0,55         4.328    11
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-      4.331 A M DE MATOS E CIA LT 028399099000165    0,00 59901 BONIFICACA   01      91,44-      0,00        91,44 000 000 000 0-DIG   30/05/23   30/05/23              11 luiz     030 00000 BRASILANDIA
-
- *-----------------Mercadoria-------------------*          Total   Desconto    Qtde Prazo  %D.Maxi %D.Pedido    %DM  Diferenca        Pedido Repre. *-----------------Mercadoria-------------------*          Total   Desconto    Qtde Prazo  %D.Maxi %D.Pedido    %DM  Diferenca        Pedido Repre. *-----------------Mercadoria-------------------*          Total   Desconto    Qtde Prazo  %D.Maxi %D.Pedido    %DM  Diferenca        Pedido Repre.
-  802105 HIDRAT MILK PELE EXTRA SECA (T15).01X200          22,32       0,00       2    28     0,00      0,00   5,00       1,11         4.331    11
-   80265 HIDRAT SOFT MILK PELE SECA (T15)..01X200          22,32       0,00       2    28     0,00      0,00   5,00       1,11         4.331    11
-  884035 HIDRAT BELEZA RADIANTE PELE NEGRA.01x200          22,30       0,00       2    00     0,00      0,00   5,00       1,11         4.331    11
-  822415 DESOD AERO BLCK WHITE MASC.(T15)..01X150          24,50       0,00       2    28     0,00      0,00   5,00       1,22         4.331    11
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-      4.333 A M DE MATOS E CIA LT 028399099000165    0,00 59901 BONIFICACA   01      24,50-      0,00        24,50 000 000 000 0-DIG   30/05/23   30/05/23              11 luiz     030 00000 BRASILANDIA
-
- *-----------------Mercadoria-------------------*          Total   Desconto    Qtde Prazo  %D.Maxi %D.Pedido    %DM  Diferenca        Pedido Repre. *-----------------Mercadoria-------------------*          Total   Desconto    Qtde Prazo  %D.Maxi %D.Pedido    %DM  Diferenca        Pedido Repre. *-----------------Mercadoria-------------------*          Total   Desconto    Qtde Prazo  %D.Maxi %D.Pedido    %DM  Diferenca        Pedido Repre.
-  822415 DESOD AERO BLCK WHITE MASC.(T15)..01X150          24,50       0,00       2    28     0,00      0,00   5,00       1,22         4.333    11
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-      4.334 DROGARIA ODEON LTDA   000199752000638    0,00 59901 BONIFICACA   01      11,15-      0,00        11,15 000 000 000 0-DIG   30/05/23   30/05/23              11 luiz     030 00000 TRES LAGOAS
-
- *-----------------Mercadoria-------------------*          Total   Desconto    Qtde Prazo  %D.Maxi %D.Pedido    %DM  Diferenca        Pedido Repre. *-----------------Mercadoria-------------------*          Total   Desconto    Qtde Prazo  %D.Maxi %D.Pedido    %DM  Diferenca        Pedido Repre. *-----------------Mercadoria-------------------*          Total   Desconto    Qtde Prazo  %D.Maxi %D.Pedido    %DM  Diferenca        Pedido Repre.
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-TCG - TRIUNFANTE MATOGROSSENSE ALIMENTOS                                                                                                             12 Faturamento   Ref:ft12308
-Filial: CAMPO GRANDE                                                                                                                                              Emissao    Hora   Folha
-                                                                                   PEDIDOS A FATURAR                                                              31/05/23   10:09   0003
------GRUPO TRIUNFANTE---------------------------------------------------------------------------------------------------------------------------------------------Usuario: alyfer--------
-
-0011   B   PJ LUCIANA - A - TRES LAGOAS0011   B   PJ LUCIANA - A - TRES LAGOAS0011   B   PJ LUCIANA - A - TRES LAGOAS
-
-     Pedido *--------------Clientes-------------*  Margem  COF  Portador  Lista  Saldo DMC     Trocas Total Pedido Prazos      Situacao Dig/Imp Programado P.Broker  Repre Usuario  Reg QtdCx Cidade     Pedido *--------------Clientes-------------*  Margem  COF  Portador  Lista  Saldo DMC     Trocas Total Pedido Prazos      Situacao Dig/Imp Programado P.Broker  Repre Usuario  Reg QtdCx Cidade     Pedido *--------------Clientes-------------*  Margem  COF  Portador  Lista  Saldo DMC     Trocas Total Pedido Prazos      Situacao Dig/Imp Programado P.Broker  Repre Usuario  Reg QtdCx Cidade
-
- *-----------------Mercadoria-------------------*          Total   Desconto    Qtde Prazo  %D.Maxi %D.Pedido    %DM  Diferenca        Pedido Repre. *-----------------Mercadoria-------------------*          Total   Desconto    Qtde Prazo  %D.Maxi %D.Pedido    %DM  Diferenca        Pedido Repre. *-----------------Mercadoria-------------------*          Total   Desconto    Qtde Prazo  %D.Maxi %D.Pedido    %DM  Diferenca        Pedido Repre.
-  884035 HIDRAT BELEZA RADIANTE PELE NEGRA.01x200          11,15       0,00       1    00     0,00      0,00   5,00       0,55         4.334    11
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-      4.336 FARMACIA FARMAKO LTDA 009433797000195    0,00 59901 BONIFICACA   01      62,96-      0,00        62,96 000 000 000 0-DIG   30/05/23   30/05/23              11 luiz     030 00000 BRASILANDIA
-
- *-----------------Mercadoria-------------------*          Total   Desconto    Qtde Prazo  %D.Maxi %D.Pedido    %DM  Diferenca        Pedido Repre. *-----------------Mercadoria-------------------*          Total   Desconto    Qtde Prazo  %D.Maxi %D.Pedido    %DM  Diferenca        Pedido Repre. *-----------------Mercadoria-------------------*          Total   Desconto    Qtde Prazo  %D.Maxi %D.Pedido    %DM  Diferenca        Pedido Repre.
-  822405 DESOD ROLLON INVI BL WHITE FEM(T15)01x50          16,16       0,00       2    28     0,00      0,00   5,00       0,80         4.336    11
-  884035 HIDRAT BELEZA RADIANTE PELE NEGRA.01x200          22,30       0,00       2    00     0,00      0,00   5,00       1,11         4.336    11
-  816025 DESOD AERO DRY IMPACT MASC.(T15)..01x150          24,50       0,00       2    28     0,00      0,00   5,00       1,22         4.336    11
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-      4.338 FARMACIA FARMAKO LTDA 009433797000195    0,00 59901 BONIFICACA   01      24,50-      0,00        24,50 000 000 000 0-DIG   30/05/23   30/05/23              11 luiz     030 00000 BRASILANDIA
-
- *-----------------Mercadoria-------------------*          Total   Desconto    Qtde Prazo  %D.Maxi %D.Pedido    %DM  Diferenca        Pedido Repre. *-----------------Mercadoria-------------------*          Total   Desconto    Qtde Prazo  %D.Maxi %D.Pedido    %DM  Diferenca        Pedido Repre. *-----------------Mercadoria-------------------*          Total   Desconto    Qtde Prazo  %D.Maxi %D.Pedido    %DM  Diferenca        Pedido Repre.
-  822375 DESOD AERO INV BL E WHITE FEM(T15)01X150          24,50       0,00       2    28     0,00      0,00   5,00       1,22         4.338    11
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-      4.340 ROSANA PAULA S F MART 024930618000119    0,00 59901 BONIFICACA   01      40,66-      0,00        40,66 000 000 000 0-DIG   30/05/23   30/05/23              11 luiz     030 00000 BRASILANDIA
-
- *-----------------Mercadoria-------------------*          Total   Desconto    Qtde Prazo  %D.Maxi %D.Pedido    %DM  Diferenca        Pedido Repre. *-----------------Mercadoria-------------------*          Total   Desconto    Qtde Prazo  %D.Maxi %D.Pedido    %DM  Diferenca        Pedido Repre. *-----------------Mercadoria-------------------*          Total   Desconto    Qtde Prazo  %D.Maxi %D.Pedido    %DM  Diferenca        Pedido Repre.
-  822375 DESOD AERO INV BL E WHITE FEM(T15)01X150          24,50       0,00       2    28     0,00      0,00   5,00       1,22         4.340    11
-  822455 DESOD ROLLON INV BL WHITE MASC(T15)01x50          16,16       0,00       2    28     0,00      0,00   5,00       0,80         4.340    11
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-                                              Total Representante  Pedidos:      12      Valor:         397,65     Caixas:           2,15                                              Total Representante  Pedidos:      12      Valor:         397,65     Caixas:           2,15                                              Total Representante  Pedidos:      12      Valor:         397,65     Caixas:           2,15
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-0012   B   PJ JOELSON -AB- B.VISTA-BONITO0012   B   PJ JOELSON -AB- B.VISTA-BONITO0012   B   PJ JOELSON -AB- B.VISTA-BONITO
-
-      2.829 CLERIO OVELAR ROMERO  020999155000190    0,00 59901 BONIFICACA   01      73,52-      0,00        73,52 000 000 000 0-DIG   30/05/23   30/05/23              12 luiz     047 00000 NIOAQUE
-
- *-----------------Mercadoria-------------------*          Total   Desconto    Qtde Prazo  %D.Maxi %D.Pedido    %DM  Diferenca        Pedido Repre. *-----------------Mercadoria-------------------*          Total   Desconto    Qtde Prazo  %D.Maxi %D.Pedido    %DM  Diferenca        Pedido Repre. *-----------------Mercadoria-------------------*          Total   Desconto    Qtde Prazo  %D.Maxi %D.Pedido    %DM  Diferenca        Pedido Repre.
-  827335 DESOD AERO DEEP ORIG CARVAO.(T15).01X150          24,52       0,00       2    28     0,00      0,00   5,00       1,22         2.829    12
-  816025 DESOD AERO DRY IMPACT MASC.(T15)..01x150          24,50       0,00       2    28     0,00      0,00   5,00       1,22         2.829    12
-  822415 DESOD AERO BLCK WHITE MASC.(T15)..01X150          24,50       0,00       2    28     0,00      0,00   5,00       1,22         2.829    12
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-      2.831 RENATA BARBOSA NOGUEI 003253472000144    0,00 59901 BONIFICACA   01     105,84-      0,00       105,84 000 000 000 0-DIG   30/05/23   30/05/23              12 luiz     047 00000 NIOAQUE
-
- *-----------------Mercadoria-------------------*          Total   Desconto    Qtde Prazo  %D.Maxi %D.Pedido    %DM  Diferenca        Pedido Repre. *-----------------Mercadoria-------------------*          Total   Desconto    Qtde Prazo  %D.Maxi %D.Pedido    %DM  Diferenca        Pedido Repre. *-----------------Mercadoria-------------------*          Total   Desconto    Qtde Prazo  %D.Maxi %D.Pedido    %DM  Diferenca        Pedido Repre.
-  822405 DESOD ROLLON INVI BL WHITE FEM(T15)01x50          16,16       0,00       2    28     0,00      0,00   5,00       0,80         2.831    12
-  822455 DESOD ROLLON INV BL WHITE MASC(T15)01x50          16,16       0,00       2    28     0,00      0,00   5,00       0,80         2.831    12
-  827335 DESOD AERO DEEP ORIG CARVAO.(T15).01X150          24,52       0,00       2    28     0,00      0,00   5,00       1,22         2.831    12
-  816025 DESOD AERO DRY IMPACT MASC.(T15)..01x150          24,50       0,00       2    28     0,00      0,00   5,00       1,22         2.831    12
-  822415 DESOD AERO BLCK WHITE MASC.(T15)..01X150          24,50       0,00       2    28     0,00      0,00   5,00       1,22         2.831    12
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-                                              Total Representante  Pedidos:       2      Valor:         179,36     Caixas:           1,32                                              Total Representante  Pedidos:       2      Valor:         179,36     Caixas:           1,32                                              Total Representante  Pedidos:       2      Valor:         179,36     Caixas:           1,32
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-0014   B   LUA DOUGLAS  - A - CORUMBA0014   B   LUA DOUGLAS  - A - CORUMBA0014   B   LUA DOUGLAS  - A - CORUMBA
-
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-TCG - TRIUNFANTE MATOGROSSENSE ALIMENTOS                                                                                                             12 Faturamento   Ref:ft12308
-Filial: CAMPO GRANDE                                                                                                                                              Emissao    Hora   Folha
-                                                                                   PEDIDOS A FATURAR                                                              31/05/23   10:09   0004
------GRUPO TRIUNFANTE---------------------------------------------------------------------------------------------------------------------------------------------Usuario: alyfer--------
-
-0014   B   LUA DOUGLAS  - A - CORUMBA0014   B   LUA DOUGLAS  - A - CORUMBA0014   B   LUA DOUGLAS  - A - CORUMBA
-
-     Pedido *--------------Clientes-------------*  Margem  COF  Portador  Lista  Saldo DMC     Trocas Total Pedido Prazos      Situacao Dig/Imp Programado P.Broker  Repre Usuario  Reg QtdCx Cidade     Pedido *--------------Clientes-------------*  Margem  COF  Portador  Lista  Saldo DMC     Trocas Total Pedido Prazos      Situacao Dig/Imp Programado P.Broker  Repre Usuario  Reg QtdCx Cidade     Pedido *--------------Clientes-------------*  Margem  COF  Portador  Lista  Saldo DMC     Trocas Total Pedido Prazos      Situacao Dig/Imp Programado P.Broker  Repre Usuario  Reg QtdCx Cidade
-      3.637 MARIO GARCIA SILES    031810935000167    0,00 59901 BONIFICACA   01      22,32-      0,00        22,32 000 000 000 2-LIB   30/05/23   29/05/23              14 alyfer   034 00000 CORUMBA
-
- *-----------------Mercadoria-------------------*          Total   Desconto    Qtde Prazo  %D.Maxi %D.Pedido    %DM  Diferenca        Pedido Repre. *-----------------Mercadoria-------------------*          Total   Desconto    Qtde Prazo  %D.Maxi %D.Pedido    %DM  Diferenca        Pedido Repre. *-----------------Mercadoria-------------------*          Total   Desconto    Qtde Prazo  %D.Maxi %D.Pedido    %DM  Diferenca        Pedido Repre.
-  802105 HIDRAT MILK PELE EXTRA SECA (T15).01X200          22,32       0,00       2    28     0,00      0,00   5,00       1,11         3.637    14
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-                                              Total Representante  Pedidos:       1      Valor:          22,32     Caixas:           0,08                                              Total Representante  Pedidos:       1      Valor:          22,32     Caixas:           0,08                                              Total Representante  Pedidos:       1      Valor:          22,32     Caixas:           0,08
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-0018   B   PJ ROBSON -AB- ELDORADO0018   B   PJ ROBSON -AB- ELDORADO0018   B   PJ ROBSON -AB- ELDORADO
-
-      1.636 CASA DE CARNES E CONV 018380082000102    0,00 59901 BONIFICACA   01      33,47-      0,00        33,47 000 000 000 2-LIB   26/05/23   26/05/23              18 luiz     043 00000 ELDORADO
-
- *-----------------Mercadoria-------------------*          Total   Desconto    Qtde Prazo  %D.Maxi %D.Pedido    %DM  Diferenca        Pedido Repre. *-----------------Mercadoria-------------------*          Total   Desconto    Qtde Prazo  %D.Maxi %D.Pedido    %DM  Diferenca        Pedido Repre. *-----------------Mercadoria-------------------*          Total   Desconto    Qtde Prazo  %D.Maxi %D.Pedido    %DM  Diferenca        Pedido Repre.
-  884035 HIDRAT BELEZA RADIANTE PELE NEGRA.01x200          11,15       0,00       1    00     0,00      0,00   5,00       0,55         1.636    18
-  802105 HIDRAT MILK PELE EXTRA SECA (T15).01X200          11,16       0,00       1    28     0,00      0,00   5,00       0,55         1.636    18
-   80265 HIDRAT SOFT MILK PELE SECA (T15)..01X200          11,16       0,00       1    28     0,00      0,00   5,00       0,55         1.636    18
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-      1.640 M A ALVES PEREIRA DE  024493198000150    0,00 59901 BONIFICACA   01      71,34-      0,00        71,34 000 000 000 0-DIG   30/05/23   30/05/23              18 luiz     043 00000 ELDORADO
-
- *-----------------Mercadoria-------------------*          Total   Desconto    Qtde Prazo  %D.Maxi %D.Pedido    %DM  Diferenca        Pedido Repre. *-----------------Mercadoria-------------------*          Total   Desconto    Qtde Prazo  %D.Maxi %D.Pedido    %DM  Diferenca        Pedido Repre. *-----------------Mercadoria-------------------*          Total   Desconto    Qtde Prazo  %D.Maxi %D.Pedido    %DM  Diferenca        Pedido Repre.
-  827335 DESOD AERO DEEP ORIG CARVAO.(T15).01X150          24,52       0,00       2    28     0,00      0,00   5,00       1,22         1.640    18
-  816025 DESOD AERO DRY IMPACT MASC.(T15)..01x150          24,50       0,00       2    28     0,00      0,00   5,00       1,22         1.640    18
-  802105 HIDRAT MILK PELE EXTRA SECA (T15).01X200          11,16       0,00       1    28     0,00      0,00   5,00       0,55         1.640    18
-   80265 HIDRAT SOFT MILK PELE SECA (T15)..01X200          11,16       0,00       1    28     0,00      0,00   5,00       0,55         1.640    18
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-      1.642 LIRIANDIOY ANDRADE RO 028857718000118    0,00 59901 BONIFICACA   01      20,66-      0,00        20,66 000 000 000 0-DIG   30/05/23   30/05/23              18 luiz     043 00000 ELDORADO
-
- *-----------------Mercadoria-------------------*          Total   Desconto    Qtde Prazo  %D.Maxi %D.Pedido    %DM  Diferenca        Pedido Repre. *-----------------Mercadoria-------------------*          Total   Desconto    Qtde Prazo  %D.Maxi %D.Pedido    %DM  Diferenca        Pedido Repre. *-----------------Mercadoria-------------------*          Total   Desconto    Qtde Prazo  %D.Maxi %D.Pedido    %DM  Diferenca        Pedido Repre.
-  571525 TANG MANGA.........................18X18          20,66       0,00       1    28     0,00      0,00   5,00       1,03         1.642    18
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-                                              Total Representante  Pedidos:       3      Valor:         125,47     Caixas:           0,63                                              Total Representante  Pedidos:       3      Valor:         125,47     Caixas:           0,63                                              Total Representante  Pedidos:       3      Valor:         125,47     Caixas:           0,63
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-0019   B   PJ RODRIGO - AB - NAVIRAI0019   B   PJ RODRIGO - AB - NAVIRAI0019   B   PJ RODRIGO - AB - NAVIRAI
-
-      2.214 T A MILITAO LOPES     023566963000152    0,00 59901 BONIFICACA   01      32,32-      0,00        32,32 000 000 000 2-LIB   26/05/23   26/05/23              19 luiz     042 00000 NAVIRAI
-
- *-----------------Mercadoria-------------------*          Total   Desconto    Qtde Prazo  %D.Maxi %D.Pedido    %DM  Diferenca        Pedido Repre. *-----------------Mercadoria-------------------*          Total   Desconto    Qtde Prazo  %D.Maxi %D.Pedido    %DM  Diferenca        Pedido Repre. *-----------------Mercadoria-------------------*          Total   Desconto    Qtde Prazo  %D.Maxi %D.Pedido    %DM  Diferenca        Pedido Repre.
-  822455 DESOD ROLLON INV BL WHITE MASC(T15)01x50          32,32       0,00       4    28     0,00      0,00   5,00       1,61         2.214    19
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-      2.218 DISTRIBUIDORA DE ALIM 008752211000273    0,00 59901 BONIFICACA   01      81,32-      0,00        81,32 000 000 000 2-LIB   26/05/23   26/05/23              19 luiz     042 00000 NAVIRAI
-
- *-----------------Mercadoria-------------------*          Total   Desconto    Qtde Prazo  %D.Maxi %D.Pedido    %DM  Diferenca        Pedido Repre. *-----------------Mercadoria-------------------*          Total   Desconto    Qtde Prazo  %D.Maxi %D.Pedido    %DM  Diferenca        Pedido Repre. *-----------------Mercadoria-------------------*          Total   Desconto    Qtde Prazo  %D.Maxi %D.Pedido    %DM  Diferenca        Pedido Repre.
-  822405 DESOD ROLLON INVI BL WHITE FEM(T15)01x50          16,16       0,00       2    28     0,00      0,00   5,00       0,80         2.218    19
-  822455 DESOD ROLLON INV BL WHITE MASC(T15)01x50          16,16       0,00       2    28     0,00      0,00   5,00       0,80         2.218    19
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-TCG - TRIUNFANTE MATOGROSSENSE ALIMENTOS                                                                                                             12 Faturamento   Ref:ft12308
-Filial: CAMPO GRANDE                                                                                                                                              Emissao    Hora   Folha
-                                                                                   PEDIDOS A FATURAR                                                              31/05/23   10:09   0005
------GRUPO TRIUNFANTE---------------------------------------------------------------------------------------------------------------------------------------------Usuario: alyfer--------
-
-0019   B   PJ RODRIGO - AB - NAVIRAI0019   B   PJ RODRIGO - AB - NAVIRAI0019   B   PJ RODRIGO - AB - NAVIRAI
-
-     Pedido *--------------Clientes-------------*  Margem  COF  Portador  Lista  Saldo DMC     Trocas Total Pedido Prazos      Situacao Dig/Imp Programado P.Broker  Repre Usuario  Reg QtdCx Cidade     Pedido *--------------Clientes-------------*  Margem  COF  Portador  Lista  Saldo DMC     Trocas Total Pedido Prazos      Situacao Dig/Imp Programado P.Broker  Repre Usuario  Reg QtdCx Cidade     Pedido *--------------Clientes-------------*  Margem  COF  Portador  Lista  Saldo DMC     Trocas Total Pedido Prazos      Situacao Dig/Imp Programado P.Broker  Repre Usuario  Reg QtdCx Cidade
-
- *-----------------Mercadoria-------------------*          Total   Desconto    Qtde Prazo  %D.Maxi %D.Pedido    %DM  Diferenca        Pedido Repre. *-----------------Mercadoria-------------------*          Total   Desconto    Qtde Prazo  %D.Maxi %D.Pedido    %DM  Diferenca        Pedido Repre. *-----------------Mercadoria-------------------*          Total   Desconto    Qtde Prazo  %D.Maxi %D.Pedido    %DM  Diferenca        Pedido Repre.
-  822415 DESOD AERO BLCK WHITE MASC.(T15)..01X150          24,50       0,00       2    28     0,00      0,00   5,00       1,22         2.218    19
-  800135 DESOD AERO PROTECT CARE FEM.(T15).01x150          24,50       0,00       2    28     0,00      0,00   5,00       1,22         2.218    19
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-      2.228 IRINEU AVALOS         036316298000190    0,00 59901 BONIFICACA   01      16,16-      0,00        16,16 000 000 000 2-LIB   29/05/23   29/05/23              19 alyfer   042 00000 NAVIRAI
-
- *-----------------Mercadoria-------------------*          Total   Desconto    Qtde Prazo  %D.Maxi %D.Pedido    %DM  Diferenca        Pedido Repre. *-----------------Mercadoria-------------------*          Total   Desconto    Qtde Prazo  %D.Maxi %D.Pedido    %DM  Diferenca        Pedido Repre. *-----------------Mercadoria-------------------*          Total   Desconto    Qtde Prazo  %D.Maxi %D.Pedido    %DM  Diferenca        Pedido Repre.
-  822455 DESOD ROLLON INV BL WHITE MASC(T15)01x50          16,16       0,00       2    28     0,00      0,00   5,00       0,80         2.228    19
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-                                              Total Representante  Pedidos:       3      Valor:         129,80     Caixas:           1,16                                              Total Representante  Pedidos:       3      Valor:         129,80     Caixas:           1,16                                              Total Representante  Pedidos:       3      Valor:         129,80     Caixas:           1,16
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-0023   B   PJ LUCAS -AB-SATELITE0023   B   PJ LUCAS -AB-SATELITE0023   B   PJ LUCAS -AB-SATELITE
-
-        502 ASSIS E PASSOS LTDA   003675544000222    0,00 59901 BONIFICACA   01      49,00-      0,00        49,00 000 000 000 2-LIB   25/05/23   24/05/23              23 alyfer   051 00000 CAMAPUA
-
- *-----------------Mercadoria-------------------*          Total   Desconto    Qtde Prazo  %D.Maxi %D.Pedido    %DM  Diferenca        Pedido Repre. *-----------------Mercadoria-------------------*          Total   Desconto    Qtde Prazo  %D.Maxi %D.Pedido    %DM  Diferenca        Pedido Repre. *-----------------Mercadoria-------------------*          Total   Desconto    Qtde Prazo  %D.Maxi %D.Pedido    %DM  Diferenca        Pedido Repre.
-  816025 DESOD AERO DRY IMPACT MASC.(T15)..01x150          24,50       0,00       2    28     0,00      0,00   5,00       1,22           502    23
-  822415 DESOD AERO BLCK WHITE MASC.(T15)..01X150          24,50       0,00       2    28     0,00      0,00   5,00       1,22           502    23
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-                                              Total Representante  Pedidos:       1      Valor:          49,00     Caixas:           0,33                                              Total Representante  Pedidos:       1      Valor:          49,00     Caixas:           0,33                                              Total Representante  Pedidos:       1      Valor:          49,00     Caixas:           0,33
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-0151   B   SERGIO - A - VAREJO CG0151   B   SERGIO - A - VAREJO CG0151   B   SERGIO - A - VAREJO CG
-
-      9.140 LLI COM DE MEDIC E PE 013938314000181    0,00 59901 BONIFICACA   01      11,16-      0,00        11,16 000 000 000 0-DIG   30/05/23   30/05/23             151 luiz     004 00000 CAMPO GRANDE
-
- *-----------------Mercadoria-------------------*          Total   Desconto    Qtde Prazo  %D.Maxi %D.Pedido    %DM  Diferenca        Pedido Repre. *-----------------Mercadoria-------------------*          Total   Desconto    Qtde Prazo  %D.Maxi %D.Pedido    %DM  Diferenca        Pedido Repre. *-----------------Mercadoria-------------------*          Total   Desconto    Qtde Prazo  %D.Maxi %D.Pedido    %DM  Diferenca        Pedido Repre.
-  802105 HIDRAT MILK PELE EXTRA SECA (T15).01X200          11,16       0,00       1    28     0,00      0,00   5,00       0,55         9.140   151
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-      9.142 OLIVEIRA E IBANHEZ LT 004050862000260    0,00 59901 BONIFICACA   01      11,16-      0,00        11,16 000 000 000 0-DIG   30/05/23   30/05/23             151 luiz     008 00000 CAMPO GRANDE
-
- *-----------------Mercadoria-------------------*          Total   Desconto    Qtde Prazo  %D.Maxi %D.Pedido    %DM  Diferenca        Pedido Repre. *-----------------Mercadoria-------------------*          Total   Desconto    Qtde Prazo  %D.Maxi %D.Pedido    %DM  Diferenca        Pedido Repre. *-----------------Mercadoria-------------------*          Total   Desconto    Qtde Prazo  %D.Maxi %D.Pedido    %DM  Diferenca        Pedido Repre.
-  802105 HIDRAT MILK PELE EXTRA SECA (T15).01X200          11,16       0,00       1    28     0,00      0,00   5,00       0,55         9.142   151
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-      9.144 OI FARMA LTDA ME      024533075000104    0,00 59901 BONIFICACA   01      11,16-      0,00        11,16 000 000 000 0-DIG   30/05/23   30/05/23             151 luiz     420 00000 CAMPO GRANDE
-
- *-----------------Mercadoria-------------------*          Total   Desconto    Qtde Prazo  %D.Maxi %D.Pedido    %DM  Diferenca        Pedido Repre. *-----------------Mercadoria-------------------*          Total   Desconto    Qtde Prazo  %D.Maxi %D.Pedido    %DM  Diferenca        Pedido Repre. *-----------------Mercadoria-------------------*          Total   Desconto    Qtde Prazo  %D.Maxi %D.Pedido    %DM  Diferenca        Pedido Repre.
-  802105 HIDRAT MILK PELE EXTRA SECA (T15).01X200          11,16       0,00       1    28     0,00      0,00   5,00       0,55         9.144   151
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-      9.146 LLI COM DE MEDIC E PE 013938314000262    0,00 59901 BONIFICACA   01      11,16-      0,00        11,16 000 000 000 0-DIG   30/05/23   30/05/23             151 luiz     010 00000 CAMPO GRANDE
-
- *-----------------Mercadoria-------------------*          Total   Desconto    Qtde Prazo  %D.Maxi %D.Pedido    %DM  Diferenca        Pedido Repre. *-----------------Mercadoria-------------------*          Total   Desconto    Qtde Prazo  %D.Maxi %D.Pedido    %DM  Diferenca        Pedido Repre. *-----------------Mercadoria-------------------*          Total   Desconto    Qtde Prazo  %D.Maxi %D.Pedido    %DM  Diferenca        Pedido Repre.
-  802105 HIDRAT MILK PELE EXTRA SECA (T15).01X200          11,16       0,00       1    28     0,00      0,00   5,00       0,55         9.146   151
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-TCG - TRIUNFANTE MATOGROSSENSE ALIMENTOS                                                                                                             12 Faturamento   Ref:ft12308
-Filial: CAMPO GRANDE                                                                                                                                              Emissao    Hora   Folha
-                                                                                   PEDIDOS A FATURAR                                                              31/05/23   10:09   0006
------GRUPO TRIUNFANTE---------------------------------------------------------------------------------------------------------------------------------------------Usuario: alyfer--------
-
-0151   B   SERGIO - A - VAREJO CG0151   B   SERGIO - A - VAREJO CG0151   B   SERGIO - A - VAREJO CG
-
-     Pedido *--------------Clientes-------------*  Margem  COF  Portador  Lista  Saldo DMC     Trocas Total Pedido Prazos      Situacao Dig/Imp Programado P.Broker  Repre Usuario  Reg QtdCx Cidade     Pedido *--------------Clientes-------------*  Margem  COF  Portador  Lista  Saldo DMC     Trocas Total Pedido Prazos      Situacao Dig/Imp Programado P.Broker  Repre Usuario  Reg QtdCx Cidade     Pedido *--------------Clientes-------------*  Margem  COF  Portador  Lista  Saldo DMC     Trocas Total Pedido Prazos      Situacao Dig/Imp Programado P.Broker  Repre Usuario  Reg QtdCx Cidade
-      9.149 ANA MARIA MOREL INSAR 027228144000156    0,00 59901 BONIFICACA   01      27,32-      0,00        27,32 000 000 000 0-DIG   30/05/23   30/05/23             151 luiz     007 00000 CAMPO GRANDE
-
- *-----------------Mercadoria-------------------*          Total   Desconto    Qtde Prazo  %D.Maxi %D.Pedido    %DM  Diferenca        Pedido Repre. *-----------------Mercadoria-------------------*          Total   Desconto    Qtde Prazo  %D.Maxi %D.Pedido    %DM  Diferenca        Pedido Repre. *-----------------Mercadoria-------------------*          Total   Desconto    Qtde Prazo  %D.Maxi %D.Pedido    %DM  Diferenca        Pedido Repre.
-   80265 HIDRAT SOFT MILK PELE SECA (T15)..01X200          11,16       0,00       1    28     0,00      0,00   5,00       0,55         9.149   151
-  822405 DESOD ROLLON INVI BL WHITE FEM(T15)01x50           8,08       0,00       1    28     0,00      0,00   5,00       0,40         9.149   151
-  822455 DESOD ROLLON INV BL WHITE MASC(T15)01x50           8,08       0,00       1    28     0,00      0,00   5,00       0,40         9.149   151
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-      9.150 V BIEZON FERREIRA EIR 021008783000120    0,00 59901 BONIFICACA   01      22,32-      0,00        22,32 000 000 000 0-DIG   30/05/23   30/05/23             151 luiz     007 00000 CAMPO GRANDE
-
- *-----------------Mercadoria-------------------*          Total   Desconto    Qtde Prazo  %D.Maxi %D.Pedido    %DM  Diferenca        Pedido Repre. *-----------------Mercadoria-------------------*          Total   Desconto    Qtde Prazo  %D.Maxi %D.Pedido    %DM  Diferenca        Pedido Repre. *-----------------Mercadoria-------------------*          Total   Desconto    Qtde Prazo  %D.Maxi %D.Pedido    %DM  Diferenca        Pedido Repre.
-  802105 HIDRAT MILK PELE EXTRA SECA (T15).01X200          11,16       0,00       1    28     0,00      0,00   5,00       0,55         9.150   151
-   80265 HIDRAT SOFT MILK PELE SECA (T15)..01X200          11,16       0,00       1    28     0,00      0,00   5,00       0,55         9.150   151
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-                                              Total Representante  Pedidos:       6      Valor:          94,28     Caixas:           0,45                                              Total Representante  Pedidos:       6      Valor:          94,28     Caixas:           0,45                                              Total Representante  Pedidos:       6      Valor:          94,28     Caixas:           0,45
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-0153   B   DOUGLAS - A - VAREJO  CG0153   B   DOUGLAS - A - VAREJO  CG0153   B   DOUGLAS - A - VAREJO  CG
-
-      7.792 DUENHA COMERCIO ALIME 016582331000117    0,00 59901 BONIFICACA   01      49,00-      0,00        49,00 000 000 000 0-DIG   30/05/23   30/05/23             153 luiz     002 00000 CAMPO GRANDE
-
- *-----------------Mercadoria-------------------*          Total   Desconto    Qtde Prazo  %D.Maxi %D.Pedido    %DM  Diferenca        Pedido Repre. *-----------------Mercadoria-------------------*          Total   Desconto    Qtde Prazo  %D.Maxi %D.Pedido    %DM  Diferenca        Pedido Repre. *-----------------Mercadoria-------------------*          Total   Desconto    Qtde Prazo  %D.Maxi %D.Pedido    %DM  Diferenca        Pedido Repre.
-  816025 DESOD AERO DRY IMPACT MASC.(T15)..01x150          49,00       0,00       4    28     0,00      0,00   5,00       2,45         7.792   153
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-                                              Total Representante  Pedidos:       1      Valor:          49,00     Caixas:           0,33                                              Total Representante  Pedidos:       1      Valor:          49,00     Caixas:           0,33                                              Total Representante  Pedidos:       1      Valor:          49,00     Caixas:           0,33
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-0203   B   MARIANA - A - AS CAPITAL0203   B   MARIANA - A - AS CAPITAL0203   B   MARIANA - A - AS CAPITAL
-
-        991 OLIVEIRA E CARNEIRO L 009531413001220    0,00 59901 BONIFICACA   01   4.102,25-      0,00     4.102,25 000 000 000 0-DIG   31/05/23   30/05/23             203 alyfer   427 00027 CAMPO GRANDE
-
- *-----------------Mercadoria-------------------*          Total   Desconto    Qtde Prazo  %D.Maxi %D.Pedido    %DM  Diferenca        Pedido Repre. *-----------------Mercadoria-------------------*          Total   Desconto    Qtde Prazo  %D.Maxi %D.Pedido    %DM  Diferenca        Pedido Repre. *-----------------Mercadoria-------------------*          Total   Desconto    Qtde Prazo  %D.Maxi %D.Pedido    %DM  Diferenca        Pedido Repre.
-  782275 CONDICIONADOR OX LISO.............01X200         611,94       0,00      42    28     0,00      0,00   5,00      30,59           991   203
-  402495 CONDICIONADOR OX HIALURONICO......01X200         532,44       0,00      36    28     0,00      0,00   5,00      26,62           991   203
-  117571 COND KOLENE ORIGINAL..............12X300         868,40       0,00       8    00     0,00      0,00   5,00      43,42           991   203
-  401195 PROMOPACK SH COND NEUTROX 24MULTI.01x300         717,78       0,00      42    28     0,00      0,00   5,00      35,88           991   203
-  402481 SHAMPOO OX HIALURONICO............12X200         609,64       0,00       4    28     0,00      0,00   5,00      30,48           991   203
-  782261 SHAMPOO OX LISO ..................12X200         762,05       0,00       5    28     0,00      0,00   5,00      38,10           991   203
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-                                              Total Representante  Pedidos:       1      Valor:       4.102,25     Caixas:          27,00                                              Total Representante  Pedidos:       1      Valor:       4.102,25     Caixas:          27,00                                              Total Representante  Pedidos:       1      Valor:       4.102,25     Caixas:          27,00
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-0404   B   PJ LUAN - B - FATIMA DO SUL0404   B   PJ LUAN - B - FATIMA DO SUL0404   B   PJ LUAN - B - FATIMA DO SUL
-
-      2.065 EVA PINHEIRO HATAKEYA 012373895000199    0,00 59901 BONIFICACA   01      20,66-      0,00        20,66 000 000 000 0-DIG   30/05/23   30/05/23             404 luiz     044 00000 DEODAPOLIS
-
- *-----------------Mercadoria-------------------*          Total   Desconto    Qtde Prazo  %D.Maxi %D.Pedido    %DM  Diferenca        Pedido Repre. *-----------------Mercadoria-------------------*          Total   Desconto    Qtde Prazo  %D.Maxi %D.Pedido    %DM  Diferenca        Pedido Repre. *-----------------Mercadoria-------------------*          Total   Desconto    Qtde Prazo  %D.Maxi %D.Pedido    %DM  Diferenca        Pedido Repre.
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-TCG - TRIUNFANTE MATOGROSSENSE ALIMENTOS                                                                                                             12 Faturamento   Ref:ft12308
-Filial: CAMPO GRANDE                                                                                                                                              Emissao    Hora   Folha
-                                                                                   PEDIDOS A FATURAR                                                              31/05/23   10:09   0007
------GRUPO TRIUNFANTE---------------------------------------------------------------------------------------------------------------------------------------------Usuario: alyfer--------
-
-0404   B   PJ LUAN - B - FATIMA DO SUL0404   B   PJ LUAN - B - FATIMA DO SUL0404   B   PJ LUAN - B - FATIMA DO SUL
-
-     Pedido *--------------Clientes-------------*  Margem  COF  Portador  Lista  Saldo DMC     Trocas Total Pedido Prazos      Situacao Dig/Imp Programado P.Broker  Repre Usuario  Reg QtdCx Cidade     Pedido *--------------Clientes-------------*  Margem  COF  Portador  Lista  Saldo DMC     Trocas Total Pedido Prazos      Situacao Dig/Imp Programado P.Broker  Repre Usuario  Reg QtdCx Cidade     Pedido *--------------Clientes-------------*  Margem  COF  Portador  Lista  Saldo DMC     Trocas Total Pedido Prazos      Situacao Dig/Imp Programado P.Broker  Repre Usuario  Reg QtdCx Cidade
-
- *-----------------Mercadoria-------------------*          Total   Desconto    Qtde Prazo  %D.Maxi %D.Pedido    %DM  Diferenca        Pedido Repre. *-----------------Mercadoria-------------------*          Total   Desconto    Qtde Prazo  %D.Maxi %D.Pedido    %DM  Diferenca        Pedido Repre. *-----------------Mercadoria-------------------*          Total   Desconto    Qtde Prazo  %D.Maxi %D.Pedido    %DM  Diferenca        Pedido Repre.
-  571635 TANG TANGERINA.....................18X18          20,66       0,00       1    28     0,00      0,00   5,00       1,03         2.065   404
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-      2.067 W F MENDONCA DA SILVA 045961829000199    0,00 59901 BONIFICACA   01      20,66-      0,00        20,66 000 000 000 0-DIG   30/05/23   30/05/23             404 luiz     441 00000 ANGELICA
-
- *-----------------Mercadoria-------------------*          Total   Desconto    Qtde Prazo  %D.Maxi %D.Pedido    %DM  Diferenca        Pedido Repre. *-----------------Mercadoria-------------------*          Total   Desconto    Qtde Prazo  %D.Maxi %D.Pedido    %DM  Diferenca        Pedido Repre. *-----------------Mercadoria-------------------*          Total   Desconto    Qtde Prazo  %D.Maxi %D.Pedido    %DM  Diferenca        Pedido Repre.
-  571635 TANG TANGERINA.....................18X18          20,66       0,00       1    28     0,00      0,00   5,00       1,03         2.067   404
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-                                              Total Representante  Pedidos:       2      Valor:          41,32     Caixas:           0,19                                              Total Representante  Pedidos:       2      Valor:          41,32     Caixas:           0,19                                              Total Representante  Pedidos:       2      Valor:          41,32     Caixas:           0,19
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-0408   B   PJ GILMAR - B - COXIM0408   B   PJ GILMAR - B - COXIM0408   B   PJ GILMAR - B - COXIM
-
-      4.387 IRMAOS GP COMERCIO E  003735605000119    0,00 59901 BONIFICACA   01   1.000,04-      0,00     1.000,04 000 000 000 0-DIG   31/05/23   30/05/23             408 alyfer   041 00008 COXIM
-
- *-----------------Mercadoria-------------------*          Total   Desconto    Qtde Prazo  %D.Maxi %D.Pedido    %DM  Diferenca        Pedido Repre. *-----------------Mercadoria-------------------*          Total   Desconto    Qtde Prazo  %D.Maxi %D.Pedido    %DM  Diferenca        Pedido Repre. *-----------------Mercadoria-------------------*          Total   Desconto    Qtde Prazo  %D.Maxi %D.Pedido    %DM  Diferenca        Pedido Repre.
-  117571 COND KOLENE ORIGINAL..............12X300         217,10       0,00       2    00     0,00      0,00   5,00      10,85         4.387   408
-  401191 PROMOPACK SH COND NEUTROX 24MULTI.12x300         205,12       0,00       1    28     0,00      0,00   5,00      10,25         4.387   408
-  402221 SHAMPOO NEUTROX MAR E PISCINA.....12X300         104,73       0,00       1    28     0,00      0,00   5,00       5,23         4.387   408
-  402231 COND NEUTROX MAR E PISCINA........12X300         115,89       0,00       1    28     0,00      0,00   5,00       5,79         4.387   408
-  402441 SHAMPOO KOLENE FORCA E CRESCIMEN..12x300          98,85       0,00       1    28     0,00      0,00   5,00       4,94         4.387   408
-  440125 PROMOPACK SH COND NEUTROX CLASSIC.01X300          68,36       0,00       4    28     0,00      0,00   5,00       3,41         4.387   408
-  441501 COND KOLENE CABELOS CRESPOS.......12X300          99,52       0,00       1    28     0,00      0,00   5,00       4,97         4.387   408
-  844141 SHAMPOO KOLENE CRESPOS............12X300          90,47       0,00       1    28     0,00      0,00   5,00       4,52         4.387   408
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-      4.388 COMERCIAL DE ALIMENTO 019088260000199    0,00 59901 BONIFICACA   01     997,85-      0,00       997,85 000 000 000 0-DIG   31/05/23   30/05/23             408 alyfer   041 00007 COXIM
-
- *-----------------Mercadoria-------------------*          Total   Desconto    Qtde Prazo  %D.Maxi %D.Pedido    %DM  Diferenca        Pedido Repre. *-----------------Mercadoria-------------------*          Total   Desconto    Qtde Prazo  %D.Maxi %D.Pedido    %DM  Diferenca        Pedido Repre. *-----------------Mercadoria-------------------*          Total   Desconto    Qtde Prazo  %D.Maxi %D.Pedido    %DM  Diferenca        Pedido Repre.
-  117571 COND KOLENE ORIGINAL..............12X300         217,10       0,00       2    00     0,00      0,00   5,00      10,85         4.388   408
-  401191 PROMOPACK SH COND NEUTROX 24MULTI.12x300         205,12       0,00       1    28     0,00      0,00   5,00      10,25         4.388   408
-  402231 COND NEUTROX MAR E PISCINA........12X300         115,89       0,00       1    28     0,00      0,00   5,00       5,79         4.388   408
-  402441 SHAMPOO KOLENE FORCA E CRESCIMEN..12x300          98,85       0,00       1    28     0,00      0,00   5,00       4,94         4.388   408
-  440125 PROMOPACK SH COND NEUTROX CLASSIC.01X300         170,90       0,00      10    28     0,00      0,00   5,00       8,54         4.388   408
-  441501 COND KOLENE CABELOS CRESPOS.......12X300          99,52       0,00       1    28     0,00      0,00   5,00       4,97         4.388   408
-  844141 SHAMPOO KOLENE CRESPOS............12X300          90,47       0,00       1    28     0,00      0,00   5,00       4,52         4.388   408
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-      4.389 IRMAOS GP COMERCIO E  003735605000119    0,00 59901 BONIFICACA   01     123,96-      0,00       123,96 000 000 000 0-DIG   30/05/23   30/05/23             408 luiz     041 00000 COXIM
-
- *-----------------Mercadoria-------------------*          Total   Desconto    Qtde Prazo  %D.Maxi %D.Pedido    %DM  Diferenca        Pedido Repre. *-----------------Mercadoria-------------------*          Total   Desconto    Qtde Prazo  %D.Maxi %D.Pedido    %DM  Diferenca        Pedido Repre. *-----------------Mercadoria-------------------*          Total   Desconto    Qtde Prazo  %D.Maxi %D.Pedido    %DM  Diferenca        Pedido Repre.
-  571525 TANG MANGA.........................18X18          20,66       0,00       1    28     0,00      0,00   5,00       1,03         4.389   408
-  571495 TANG GOIABA........................18X18          20,66       0,00       1    28     0,00      0,00   5,00       1,03         4.389   408
-  571645 TANG UVA INTENSA..................18X18G          20,66       0,00       1    28     0,00      0,00   5,00       1,03         4.389   408
-  571845 TANG LARANJA MAMAO.................18X18          20,66       0,00       1    28     0,00      0,00   5,00       1,03         4.389   408
-  571815 TANG GUARANA.......................18X18          20,66       0,00       1    28     0,00      0,00   5,00       1,03         4.389   408
-  571635 TANG TANGERINA.....................18X18          20,66       0,00       1    28     0,00      0,00   5,00       1,03         4.389   408
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-                                              Total Representante  Pedidos:       3      Valor:       2.121,85     Caixas:          16,76                                              Total Representante  Pedidos:       3      Valor:       2.121,85     Caixas:          16,76                                              Total Representante  Pedidos:       3      Valor:       2.121,85     Caixas:          16,76
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-TCG - TRIUNFANTE MATOGROSSENSE ALIMENTOS                                                                                                             12 Faturamento   Ref:ft12308
-Filial: CAMPO GRANDE                                                                                                                                              Emissao    Hora   Folha
-                                                                                   PEDIDOS A FATURAR                                                              31/05/23   10:09   0008
------GRUPO TRIUNFANTE---------------------------------------------------------------------------------------------------------------------------------------------Usuario: alyfer--------
-
-0413   B   PJ EZEQUIAS - B - AQUIDAUANA0413   B   PJ EZEQUIAS - B - AQUIDAUANA0413   B   PJ EZEQUIAS - B - AQUIDAUANA
-
-     Pedido *--------------Clientes-------------*  Margem  COF  Portador  Lista  Saldo DMC     Trocas Total Pedido Prazos      Situacao Dig/Imp Programado P.Broker  Repre Usuario  Reg QtdCx Cidade     Pedido *--------------Clientes-------------*  Margem  COF  Portador  Lista  Saldo DMC     Trocas Total Pedido Prazos      Situacao Dig/Imp Programado P.Broker  Repre Usuario  Reg QtdCx Cidade     Pedido *--------------Clientes-------------*  Margem  COF  Portador  Lista  Saldo DMC     Trocas Total Pedido Prazos      Situacao Dig/Imp Programado P.Broker  Repre Usuario  Reg QtdCx Cidade
-      5.503 MERCEARIA E CONVENIEN 048946626000111    0,00 59901 BONIFICACA   01      41,32-      0,00        41,32 000 000 000 0-DIG   30/05/23   30/05/23             413 luiz     331 00000 MIRANDA
-
- *-----------------Mercadoria-------------------*          Total   Desconto    Qtde Prazo  %D.Maxi %D.Pedido    %DM  Diferenca        Pedido Repre. *-----------------Mercadoria-------------------*          Total   Desconto    Qtde Prazo  %D.Maxi %D.Pedido    %DM  Diferenca        Pedido Repre. *-----------------Mercadoria-------------------*          Total   Desconto    Qtde Prazo  %D.Maxi %D.Pedido    %DM  Diferenca        Pedido Repre.
-  571495 TANG GOIABA........................18X18          41,32       0,00       2    28     0,00      0,00   5,00       2,06         5.503   413
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-                                              Total Representante  Pedidos:       1      Valor:          41,32     Caixas:           0,19                                              Total Representante  Pedidos:       1      Valor:          41,32     Caixas:           0,19                                              Total Representante  Pedidos:       1      Valor:          41,32     Caixas:           0,19
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-0414   B   PJ ELISANDRA - B - CORUMBA0414   B   PJ ELISANDRA - B - CORUMBA0414   B   PJ ELISANDRA - B - CORUMBA
-
-      6.120 SUPERMERCADO FERNANDE 046876542000204    0,00 59901 BONIFICACA   01     542,75-      0,00       542,75 000 000 000 0-DIG   31/05/23   30/05/23             414 luiz     034 00005 LADARIO
-
- *-----------------Mercadoria-------------------*          Total   Desconto    Qtde Prazo  %D.Maxi %D.Pedido    %DM  Diferenca        Pedido Repre. *-----------------Mercadoria-------------------*          Total   Desconto    Qtde Prazo  %D.Maxi %D.Pedido    %DM  Diferenca        Pedido Repre. *-----------------Mercadoria-------------------*          Total   Desconto    Qtde Prazo  %D.Maxi %D.Pedido    %DM  Diferenca        Pedido Repre.
-  117571 COND KOLENE ORIGINAL..............12X300         542,75       0,00       5    00     0,00      0,00   5,00      27,13         6.120   414
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-      6.123 DISTRIBUIDORA DE BEBI 042082789000117    0,00 59901 BONIFICACA   01      20,66-      0,00        20,66 000 000 000 0-DIG   31/05/23   30/05/23             414 alyfer   034 00000 LADARIO
-
- *-----------------Mercadoria-------------------*          Total   Desconto    Qtde Prazo  %D.Maxi %D.Pedido    %DM  Diferenca        Pedido Repre. *-----------------Mercadoria-------------------*          Total   Desconto    Qtde Prazo  %D.Maxi %D.Pedido    %DM  Diferenca        Pedido Repre. *-----------------Mercadoria-------------------*          Total   Desconto    Qtde Prazo  %D.Maxi %D.Pedido    %DM  Diferenca        Pedido Repre.
-  571645 TANG UVA INTENSA..................18X18G          20,66       0,00       1    28     0,00      0,00   5,00       1,03         6.123   414
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-      6.125 LEONARDO BENIZ EIRELI 027323844000120    0,00 59901 BONIFICACA   01      20,66-      0,00        20,66 000 000 000 0-DIG   31/05/23   30/05/23             414 alyfer   034 00000 LADARIO
-
- *-----------------Mercadoria-------------------*          Total   Desconto    Qtde Prazo  %D.Maxi %D.Pedido    %DM  Diferenca        Pedido Repre. *-----------------Mercadoria-------------------*          Total   Desconto    Qtde Prazo  %D.Maxi %D.Pedido    %DM  Diferenca        Pedido Repre. *-----------------Mercadoria-------------------*          Total   Desconto    Qtde Prazo  %D.Maxi %D.Pedido    %DM  Diferenca        Pedido Repre.
-  571635 TANG TANGERINA.....................18X18          20,66       0,00       1    28     0,00      0,00   5,00       1,03         6.125   414
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-      6.127 TANIA BELEN HUANACOTA 049096389000100    0,00 59901 BONIFICACA   01      20,66-      0,00        20,66 000 000 000 0-DIG   31/05/23   30/05/23             414 alyfer   034 00000 CORUMBA
-
- *-----------------Mercadoria-------------------*          Total   Desconto    Qtde Prazo  %D.Maxi %D.Pedido    %DM  Diferenca        Pedido Repre. *-----------------Mercadoria-------------------*          Total   Desconto    Qtde Prazo  %D.Maxi %D.Pedido    %DM  Diferenca        Pedido Repre. *-----------------Mercadoria-------------------*          Total   Desconto    Qtde Prazo  %D.Maxi %D.Pedido    %DM  Diferenca        Pedido Repre.
-  571635 TANG TANGERINA.....................18X18          20,66       0,00       1    28     0,00      0,00   5,00       1,03         6.127   414
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-                                              Total Representante  Pedidos:       4      Valor:         604,73     Caixas:           5,29                                              Total Representante  Pedidos:       4      Valor:         604,73     Caixas:           5,29                                              Total Representante  Pedidos:       4      Valor:         604,73     Caixas:           5,29
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-0437   B   JHONATAN - B - VJ DOURADOS0437   B   JHONATAN - B - VJ DOURADOS0437   B   JHONATAN - B - VJ DOURADOS
-
-      1.207 MAGISLAINE DOS SANTOS 020277023000155    0,00 59901 BONIFICACA   01      20,66-      0,00        20,66 000 000 000 0-DIG   31/05/23   30/05/23             437 alyfer   035 00000 DOURADOS
-
- *-----------------Mercadoria-------------------*          Total   Desconto    Qtde Prazo  %D.Maxi %D.Pedido    %DM  Diferenca        Pedido Repre. *-----------------Mercadoria-------------------*          Total   Desconto    Qtde Prazo  %D.Maxi %D.Pedido    %DM  Diferenca        Pedido Repre. *-----------------Mercadoria-------------------*          Total   Desconto    Qtde Prazo  %D.Maxi %D.Pedido    %DM  Diferenca        Pedido Repre.
-  571525 TANG MANGA.........................18X18          20,66       0,00       1    28     0,00      0,00   5,00       1,03         1.207   437
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-                                              Total Representante  Pedidos:       1      Valor:          20,66     Caixas:           0,09                                              Total Representante  Pedidos:       1      Valor:          20,66     Caixas:           0,09                                              Total Representante  Pedidos:       1      Valor:          20,66     Caixas:           0,09
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-0457   B   DANILO - B - VAREJO  CG0457   B   DANILO - B - VAREJO  CG0457   B   DANILO - B - VAREJO  CG
-
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-TCG - TRIUNFANTE MATOGROSSENSE ALIMENTOS                                                                                                             12 Faturamento   Ref:ft12308
-Filial: CAMPO GRANDE                                                                                                                                              Emissao    Hora   Folha
-                                                                                   PEDIDOS A FATURAR                                                              31/05/23   10:09   0009
------GRUPO TRIUNFANTE---------------------------------------------------------------------------------------------------------------------------------------------Usuario: alyfer--------
-
-0457   B   DANILO - B - VAREJO  CG0457   B   DANILO - B - VAREJO  CG0457   B   DANILO - B - VAREJO  CG
-
-     Pedido *--------------Clientes-------------*  Margem  COF  Portador  Lista  Saldo DMC     Trocas Total Pedido Prazos      Situacao Dig/Imp Programado P.Broker  Repre Usuario  Reg QtdCx Cidade     Pedido *--------------Clientes-------------*  Margem  COF  Portador  Lista  Saldo DMC     Trocas Total Pedido Prazos      Situacao Dig/Imp Programado P.Broker  Repre Usuario  Reg QtdCx Cidade     Pedido *--------------Clientes-------------*  Margem  COF  Portador  Lista  Saldo DMC     Trocas Total Pedido Prazos      Situacao Dig/Imp Programado P.Broker  Repre Usuario  Reg QtdCx Cidade
-      7.652 ADRIANA PILLON DA COS 042355418000161    0,00 59901 BONIFICACA   01      20,66-      0,00        20,66 000 000 000 0-DIG   30/05/23   30/05/23             457 luiz     004 00000 CAMPO GRANDE
-
- *-----------------Mercadoria-------------------*          Total   Desconto    Qtde Prazo  %D.Maxi %D.Pedido    %DM  Diferenca        Pedido Repre. *-----------------Mercadoria-------------------*          Total   Desconto    Qtde Prazo  %D.Maxi %D.Pedido    %DM  Diferenca        Pedido Repre. *-----------------Mercadoria-------------------*          Total   Desconto    Qtde Prazo  %D.Maxi %D.Pedido    %DM  Diferenca        Pedido Repre.
-  571845 TANG LARANJA MAMAO.................18X18          20,66       0,00       1    28     0,00      0,00   5,00       1,03         7.652   457
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-      7.657 SANTOS E LOUVEIRO LTD 011352253000140    0,00 59901 BONIFICACA   01     100,16-      0,00       100,16 000 000 000 0-DIG   31/05/23   30/05/23             457 alyfer   010 00000 CAMPO GRANDE
-
- *-----------------Mercadoria-------------------*          Total   Desconto    Qtde Prazo  %D.Maxi %D.Pedido    %DM  Diferenca        Pedido Repre. *-----------------Mercadoria-------------------*          Total   Desconto    Qtde Prazo  %D.Maxi %D.Pedido    %DM  Diferenca        Pedido Repre. *-----------------Mercadoria-------------------*          Total   Desconto    Qtde Prazo  %D.Maxi %D.Pedido    %DM  Diferenca        Pedido Repre.
-  401195 PROMOPACK SH COND NEUTROX 24MULTI.01x300          34,18       0,00       2    28     0,00      0,00   5,00       1,70         7.657   457
-  440125 PROMOPACK SH COND NEUTROX CLASSIC.01X300          34,18       0,00       2    28     0,00      0,00   5,00       1,70         7.657   457
-  440165 PROMOPACK KOLENE CACHOS SH COND...01X300          31,80       0,00       2    28     0,00      0,00   5,00       1,59         7.657   457
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-                                              Total Representante  Pedidos:       2      Valor:         120,82     Caixas:           0,59                                              Total Representante  Pedidos:       2      Valor:         120,82     Caixas:           0,59                                              Total Representante  Pedidos:       2      Valor:         120,82     Caixas:           0,59
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-0459   B   ERIKSON - B - VAREJO  CG0459   B   ERIKSON - B - VAREJO  CG0459   B   ERIKSON - B - VAREJO  CG
-
-      8.104 JOSE CARLOS DA SILVA  011639680000104    0,00 59901 BONIFICACA   01     205,22-      0,00       205,22 000 000 000 0-DIG   31/05/23   30/05/23             459 alyfer   006 00002 CAMPO GRANDE
-
- *-----------------Mercadoria-------------------*          Total   Desconto    Qtde Prazo  %D.Maxi %D.Pedido    %DM  Diferenca        Pedido Repre. *-----------------Mercadoria-------------------*          Total   Desconto    Qtde Prazo  %D.Maxi %D.Pedido    %DM  Diferenca        Pedido Repre. *-----------------Mercadoria-------------------*          Total   Desconto    Qtde Prazo  %D.Maxi %D.Pedido    %DM  Diferenca        Pedido Repre.
-  402441 SHAMPOO KOLENE FORCA E CRESCIMEN..12x300          98,85       0,00       1    28     0,00      0,00   5,00       4,94         8.104   459
-  440165 PROMOPACK KOLENE CACHOS SH COND...01X300          15,90       0,00       1    28     0,00      0,00   5,00       0,79         8.104   459
-  844141 SHAMPOO KOLENE CRESPOS............12X300          90,47       0,00       1    28     0,00      0,00   5,00       4,52         8.104   459
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-                                              Total Representante  Pedidos:       1      Valor:         205,22     Caixas:           2,08                                              Total Representante  Pedidos:       1      Valor:         205,22     Caixas:           2,08                                              Total Representante  Pedidos:       1      Valor:         205,22     Caixas:           2,08
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-                                              Total Representante  Pedidos:       0      Valor:           0,00     Caixas:           0,00                                              Total Representante  Pedidos:       0      Valor:           0,00     Caixas:           0,00                                              Total Representante  Pedidos:       0      Valor:           0,00     Caixas:           0,00
-
-                                                      Total Geral  Pedidos:      50      Valor:       8.573,71     Caixas:          60,28                                                      Total Geral  Pedidos:      50      Valor:       8.573,71     Caixas:          60,28                                                      Total Geral  Pedidos:      50      Valor:       8.573,71     Caixas:          60,28

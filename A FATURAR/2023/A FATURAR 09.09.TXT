@@ -1,50 +1,0 @@
- g 
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-TCG - TRIUNFANTE MATOGROSSENSE ALIMENTOS                                                                                                                                                12 Faturamento          Ref:ft12308
-Filial: CAMPO GRANDE                                                                                                                                                                                 Emissao    Hora   Folha
-                                                                                                    PEDIDOS A FATURAR                                                                                09/09/23   13:01   0001
------GRUPO TRIUNFANTE--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------Usuario: willian-------
-
-0005   A   PJ JOAO CARLOS -AB- N.ANDRADI0005   A   PJ JOAO CARLOS -AB- N.ANDRADI0005   A   PJ JOAO CARLOS -AB- N.ANDRADI
-
-     Pedido *--------------Clientes-------------*  Margem  COF  Portador  Lista  Saldo DMC     Trocas Total Pedido Prazos      Situacao Dig/Imp Programado P.Broker  Repre Usuario  Reg QtdCx Cidade     Pedido *--------------Clientes-------------*  Margem  COF  Portador  Lista  Saldo DMC     Trocas Total Pedido Prazos      Situacao Dig/Imp Programado P.Broker  Repre Usuario  Reg QtdCx Cidade     Pedido *--------------Clientes-------------*  Margem  COF  Portador  Lista  Saldo DMC     Trocas Total Pedido Prazos      Situacao Dig/Imp Programado P.Broker  Repre Usuario  Reg QtdCx Cidade
-    810.032 JOSE MANUEL DE JESUS  015901440000197    0,00 51201 BANCO        01     128,93-      0,00       928,29 027 000 000 2-LIB   09/09/23   08/09/23               5 willian  045 00005 BATAIPORA
-
-                                              Total Representante  Pedidos:       1      Valor:         928,29     Caixas:           0,00                                              Total Representante  Pedidos:       1      Valor:         928,29     Caixas:           0,00                                              Total Representante  Pedidos:       1      Valor:         928,29     Caixas:           0,00
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-0008   A   PJ GILMAR - AB - COXIM0008   A   PJ GILMAR - AB - COXIM0008   A   PJ GILMAR - AB - COXIM
-
-      3.002 UNIBEM ATACADISTA LTD 043437785000177    0,00 51201 BANCO        01     263,63-      0,00     4.460,16 014 021 028 2-LIB   05/09/23   04/09/23               8 willian  041 00023 SONORA
-
-                                              Total Representante  Pedidos:       1      Valor:       4.460,16     Caixas:           0,00                                              Total Representante  Pedidos:       1      Valor:       4.460,16     Caixas:           0,00                                              Total Representante  Pedidos:       1      Valor:       4.460,16     Caixas:           0,00
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-0023   A   PJ LUCAS -AB-SATELITE0023   A   PJ LUCAS -AB-SATELITE0023   A   PJ LUCAS -AB-SATELITE
-
-        948 LUCICLEIA FABIA NOGUE 028441734000125    0,00 51201 BANCO        01       0,01-      0,00       241,29 021 000 000 2-LIB   08/09/23   08/09/23              23 willian  051 00001 CAMAPUA
-
-                                              Total Representante  Pedidos:       1      Valor:         241,29     Caixas:           0,00                                              Total Representante  Pedidos:       1      Valor:         241,29     Caixas:           0,00                                              Total Representante  Pedidos:       1      Valor:         241,29     Caixas:           0,00
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-0414   P   PJ ELISANDRA - B - CORUMBA0414   P   PJ ELISANDRA - B - CORUMBA0414   P   PJ ELISANDRA - B - CORUMBA
-
-      6.438 R B GIMENES           014110529000172    0,00 51201 PIX / DINH   09       5,69-      0,00       108,20 000 000 000 1-BLO   25/08/23   24/08/23             414 anapb    034 00000 CORUMBA
-
-                                              Total Representante  Pedidos:       1      Valor:         108,20     Caixas:           0,00                                              Total Representante  Pedidos:       1      Valor:         108,20     Caixas:           0,00                                              Total Representante  Pedidos:       1      Valor:         108,20     Caixas:           0,00
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-0451   P   MARIA - B - VAREJO  CG0451   P   MARIA - B - VAREJO  CG0451   P   MARIA - B - VAREJO  CG
-
-      8.786 SUPERMERCADO SANTA CR 006024789000105    0,00 51201 BANCO        01      10,53       0,00       533,03 021 000 000 1-BLO   08/09/23   08/09/23             451 luiz     002 00001 CAMPO GRANDE
-
-                                              Total Representante  Pedidos:       1      Valor:         533,03     Caixas:           0,00                                              Total Representante  Pedidos:       1      Valor:         533,03     Caixas:           0,00                                              Total Representante  Pedidos:       1      Valor:         533,03     Caixas:           0,00
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-0989   A   ECOMMERCE WHATSAPP0989   A   ECOMMERCE WHATSAPP0989   A   ECOMMERCE WHATSAPP
-
-    880.105 LA MAFIA CG BARBEARIA 035793480000170    0,00 51234 PIX / DINH   01       0,00       0,00       110,10 000 000 000 2-LIB   09/09/23   08/09/23             989 willian  005 00000 CAMPO GRANDE
-
-                                              Total Representante  Pedidos:       1      Valor:         110,10     Caixas:           0,00                                              Total Representante  Pedidos:       1      Valor:         110,10     Caixas:           0,00                                              Total Representante  Pedidos:       1      Valor:         110,10     Caixas:           0,00
-
-                                                      Total Geral  Pedidos:       6      Valor:       6.381,07     Caixas:           0,00                                                      Total Geral  Pedidos:       6      Valor:       6.381,07     Caixas:           0,00                                                      Total Geral  Pedidos:       6      Valor:       6.381,07     Caixas:           0,00

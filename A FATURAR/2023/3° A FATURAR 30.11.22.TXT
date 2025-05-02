@@ -1,115 +1,0 @@
- M 
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-TCG - TRIUNFANTE MATOGROSSENSE ALIMENTOS                                                                                                             12 Faturamento   Ref:ft12308
-Filial: CAMPO GRANDE                                                                                                                                              Emissao    Hora   Folha
-                                                                                   PEDIDOS A FATURAR                                                              30/11/22   13:08   0001
------GRUPO TRIUNFANTE---------------------------------------------------------------------------------------------------------------------------------------------Usuario: luiz----------
-
-0003   A   PJ BRUNO - A - AQUIDAUANA0003   A   PJ BRUNO - A - AQUIDAUANA0003   A   PJ BRUNO - A - AQUIDAUANA
-
-     Pedido *--------------Clientes-------------*  Margem  COF  Portador  Lista  Saldo DMC     Trocas Total Pedido Prazos      Situacao Dig/Imp Programado P.Broker  Repre Usuario  Reg QtdCx Cidade     Pedido *--------------Clientes-------------*  Margem  COF  Portador  Lista  Saldo DMC     Trocas Total Pedido Prazos      Situacao Dig/Imp Programado P.Broker  Repre Usuario  Reg QtdCx Cidade     Pedido *--------------Clientes-------------*  Margem  COF  Portador  Lista  Saldo DMC     Trocas Total Pedido Prazos      Situacao Dig/Imp Programado P.Broker  Repre Usuario  Reg QtdCx Cidade
-      2.780 D M MEDINA            007690271000165    0,00 51201 BANCO        01       0,02-      0,00       608,08 021 000 000 0-DIG   30/11/22   01/12/22               3 luiz     331 00012 BODOQUENA
-      2.781 FALKIEVICZ E NIEHUIES 013728591000160    0,00 51201 BANCO        01       8,44       0,00       215,50 021 000 000 0-DIG   30/11/22   01/12/22               3 luiz     331 00001 BODOQUENA
-
-                                              Total Representante  Pedidos:       2      Valor:         823,58     Caixas:           0,00                                              Total Representante  Pedidos:       2      Valor:         823,58     Caixas:           0,00                                              Total Representante  Pedidos:       2      Valor:         823,58     Caixas:           0,00
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-0004   P   PJ LUAN - AB - FATIMA DO SUL0004   P   PJ LUAN - AB - FATIMA DO SUL0004   P   PJ LUAN - AB - FATIMA DO SUL
-
-      5.308 MERCEARIA RJ LTDA     029891998000143    0,00 51201 BANCO        01       0,01-      0,00       456,47 021 000 000 1-BLO   29/11/22   29/11/22               4 nichelle 044 00002 DEODAPOLIS
-      5.321 MERCEARIA RJ LTDA     029891998000143    0,00 59901 BONIFICACA   01      58,49-      0,00        58,49 000 000 000 1-BLO   29/11/22   29/11/22               4 nichelle 044 00000 DEODAPOLIS
-      5.339 MERCEARIA RJ LTDA     029891998000143    0,00 51201 BANCO        01      23,98-      0,00       265,42 021 000 000 1-BLO   30/11/22   30/11/22               4 silvia   044 00001 DEODAPOLIS
-
-                                              Total Representante  Pedidos:       3      Valor:         780,38     Caixas:           0,00                                              Total Representante  Pedidos:       3      Valor:         780,38     Caixas:           0,00                                              Total Representante  Pedidos:       3      Valor:         780,38     Caixas:           0,00
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-0012   A   PJ JOELSON - A - JARDIM BONITO0012   A   PJ JOELSON - A - JARDIM BONITO0012   A   PJ JOELSON - A - JARDIM BONITO
-
-      2.091 RAMAO MENDES          008604527000137    0,00 51201 BANCO        01      83,07       0,00     1.661,55 021 000 000 0-DIG   30/11/22   01/12/22              12 luiz     046 00032 PORTO MURTINHO
-      2.092 NADDIA DE OLIVEIRA VI 014485527000168    0,00 51201 PIX / DINH   01       0,01-      0,00       268,53 000 000 000 0-DIG   30/11/22   01/12/22              12 luiz     046 00001 PORTO MURTINHO
-
-0012   P   PJ JOELSON - A - JARDIM BONITO0012   P   PJ JOELSON - A - JARDIM BONITO0012   P   PJ JOELSON - A - JARDIM BONITO
-
-      2.035 ODINEI PLACIDO AMARIL 002766915000138    0,00 51201 BANCO        01       2,84-      0,00       449,69 021 000 000 1-BLO   22/11/22   21/11/22              12 silvia   047 00004 JARDIM
-      2.084 ARY SERENA E CIA LTDA 001087634000196    0,00 51201 BANCO        01      44,66-      0,00       803,65 028 000 000 1-BLO   30/11/22   30/11/22              12 luiz     046 00003 BELA VISTA
-
-                                              Total Representante  Pedidos:       4      Valor:       3.183,42     Caixas:           0,00                                              Total Representante  Pedidos:       4      Valor:       3.183,42     Caixas:           0,00                                              Total Representante  Pedidos:       4      Valor:       3.183,42     Caixas:           0,00
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-0021   P   PJ SIDMAR - AB AGUA RIBAS0021   P   PJ SIDMAR - AB AGUA RIBAS0021   P   PJ SIDMAR - AB AGUA RIBAS
-
-      2.188 DANUZA MARIA OLIVEIRA 044785898000126    0,00 51201 BANCO        01      10,69       0,00       214,08 021 000 000 1-BLO   22/11/22   21/11/22              21 silvia   302 00001 AGUA CLARA
-
-                                              Total Representante  Pedidos:       1      Valor:         214,08     Caixas:           0,00                                              Total Representante  Pedidos:       1      Valor:         214,08     Caixas:           0,00                                              Total Representante  Pedidos:       1      Valor:         214,08     Caixas:           0,00
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-0153   A   DOUGLAS - A - VAREJO / CG0153   A   DOUGLAS - A - VAREJO / CG0153   A   DOUGLAS - A - VAREJO / CG
-
-      7.078 DARIO MENEZES         019502041000104    0,00 51201 PIX / DINH   01       0,00       0,00       444,60 000 000 000 0-DIG   30/11/22   01/12/22             153 luiz     002 00002 CAMPO GRANDE
-
-                                              Total Representante  Pedidos:       1      Valor:         444,60     Caixas:           0,00                                              Total Representante  Pedidos:       1      Valor:         444,60     Caixas:           0,00                                              Total Representante  Pedidos:       1      Valor:         444,60     Caixas:           0,00
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-0157   A   PJ THIAGO - A - VAREJO   CG0157   A   PJ THIAGO - A - VAREJO   CG0157   A   PJ THIAGO - A - VAREJO   CG
-
-      6.363 CLAUDINEI PEIXE       007033833000106    0,00 51201 BANCO        01     179,73-      0,00     1.936,80 021 000 000 0-DIG   30/11/22   05/12/22             157 silvia   005 00003 CAMPO GRANDE
-
-                                              Total Representante  Pedidos:       1      Valor:       1.936,80     Caixas:           0,00                                              Total Representante  Pedidos:       1      Valor:       1.936,80     Caixas:           0,00                                              Total Representante  Pedidos:       1      Valor:       1.936,80     Caixas:           0,00
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-TCG - TRIUNFANTE MATOGROSSENSE ALIMENTOS                                                                                                             12 Faturamento   Ref:ft12308
-Filial: CAMPO GRANDE                                                                                                                                              Emissao    Hora   Folha
-                                                                                   PEDIDOS A FATURAR                                                              30/11/22   13:08   0002
------GRUPO TRIUNFANTE---------------------------------------------------------------------------------------------------------------------------------------------Usuario: luiz----------
-
-0159   A   JONATAS - A - VAREJO / CG0159   A   JONATAS - A - VAREJO / CG0159   A   JONATAS - A - VAREJO / CG
-
-     Pedido *--------------Clientes-------------*  Margem  COF  Portador  Lista  Saldo DMC     Trocas Total Pedido Prazos      Situacao Dig/Imp Programado P.Broker  Repre Usuario  Reg QtdCx Cidade     Pedido *--------------Clientes-------------*  Margem  COF  Portador  Lista  Saldo DMC     Trocas Total Pedido Prazos      Situacao Dig/Imp Programado P.Broker  Repre Usuario  Reg QtdCx Cidade     Pedido *--------------Clientes-------------*  Margem  COF  Portador  Lista  Saldo DMC     Trocas Total Pedido Prazos      Situacao Dig/Imp Programado P.Broker  Repre Usuario  Reg QtdCx Cidade
-      6.112 EVANILDA MAIDANA      033203173000166    0,00 51201 PIX / DINH   01       2,54-      0,00       101,43 000 000 000 0-DIG   28/11/22   05/12/22             159 silvia   010 00002 CAMPO GRANDE
-
-                                              Total Representante  Pedidos:       1      Valor:         101,43     Caixas:           0,00                                              Total Representante  Pedidos:       1      Valor:         101,43     Caixas:           0,00                                              Total Representante  Pedidos:       1      Valor:         101,43     Caixas:           0,00
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-0410   P   PJ CLAYTON - B - MARACAJU0410   P   PJ CLAYTON - B - MARACAJU0410   P   PJ CLAYTON - B - MARACAJU
-
-      1.897 BASSO BASSO E GARLET  005885879000110    0,00 51234 PIX / DINH   01       5,29       0,00       106,11 000 000 000 1-BLO   23/11/22   23/11/22             410 luiz     037 00000 RIO BRILHANTE
-
-                                              Total Representante  Pedidos:       1      Valor:         106,11     Caixas:           0,00                                              Total Representante  Pedidos:       1      Valor:         106,11     Caixas:           0,00                                              Total Representante  Pedidos:       1      Valor:         106,11     Caixas:           0,00
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-0412   A   PJ JACKSON - B - JARDIM BONITO0412   A   PJ JACKSON - B - JARDIM BONITO0412   A   PJ JACKSON - B - JARDIM BONITO
-
-        163 RAMAO MENDES          008604527000137    0,00 51201 BANCO        01       7,39       0,00     2.346,81 021 028 035 0-DIG   30/11/22   01/12/22             412 luiz     046 00012 PORTO MURTINHO
-        164 NADDIA DE OLIVEIRA VI 014485527000168    0,00 51201 PIX / DINH   01       9,50-      0,00       299,17 000 000 000 0-DIG   30/11/22   01/12/22             412 luiz     046 00001 PORTO MURTINHO
-
-                                              Total Representante  Pedidos:       2      Valor:       2.645,98     Caixas:           0,00                                              Total Representante  Pedidos:       2      Valor:       2.645,98     Caixas:           0,00                                              Total Representante  Pedidos:       2      Valor:       2.645,98     Caixas:           0,00
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-0414   P   PJ ELISANDRA - B - CORUMBA0414   P   PJ ELISANDRA - B - CORUMBA0414   P   PJ ELISANDRA - B - CORUMBA
-
-      5.354 FRANCISCO LIMACHI AQU 023511760000169    0,00 51201 BANCO        01      18,96-      0,00       296,22 028 000 000 1-BLO   28/11/22   28/11/22             414 luiz     034 00001 CORUMBA
-
-                                              Total Representante  Pedidos:       1      Valor:         296,22     Caixas:           0,00                                              Total Representante  Pedidos:       1      Valor:         296,22     Caixas:           0,00                                              Total Representante  Pedidos:       1      Valor:         296,22     Caixas:           0,00
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-0437   P   ANA CLAUDIA - B - VJ/ DOURADOS0437   P   ANA CLAUDIA - B - VJ/ DOURADOS0437   P   ANA CLAUDIA - B - VJ/ DOURADOS
-
-        660 REGINALDO SATURNINO D 001191793000136    0,00 51234 BANCO        01      16,31-      0,00       385,53 021 000 000 1-BLO   21/11/22   21/11/22             437 luiz     035 00001 DOURADOS
-
-                                              Total Representante  Pedidos:       1      Valor:         385,53     Caixas:           0,00                                              Total Representante  Pedidos:       1      Valor:         385,53     Caixas:           0,00                                              Total Representante  Pedidos:       1      Valor:         385,53     Caixas:           0,00
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-0459   A   ERIKSON - B - VAREJO / CG0459   A   ERIKSON - B - VAREJO / CG0459   A   ERIKSON - B - VAREJO / CG
-
-      7.077 TIAGO GARCIA DA SILVA 022127289000147    0,00 51201 PIX / DINH   01       9,17       0,00       262,47 000 000 000 0-DIG   30/11/22   01/12/22             459 luiz     005 00001 CAMPO GRANDE
-
-0459   P   ERIKSON - B - VAREJO / CG0459   P   ERIKSON - B - VAREJO / CG0459   P   ERIKSON - B - VAREJO / CG
-
-      7.075 REBELO COMERCIO DE PR 012417592000201    0,00 51234 BANCO        01       6,28       0,00       254,82 028 000 000 1-BLO   30/11/22   30/11/22             459 silvia   006 00000 CAMPO GRANDE
-
-                                              Total Representante  Pedidos:       2      Valor:         517,29     Caixas:           0,00                                              Total Representante  Pedidos:       2      Valor:         517,29     Caixas:           0,00                                              Total Representante  Pedidos:       2      Valor:         517,29     Caixas:           0,00
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-                                              Total Representante  Pedidos:       0      Valor:           0,00     Caixas:           0,00                                              Total Representante  Pedidos:       0      Valor:           0,00     Caixas:           0,00                                              Total Representante  Pedidos:       0      Valor:           0,00     Caixas:           0,00
-
-                                                      Total Geral  Pedidos:      20      Valor:      11.435,42     Caixas:           0,00                                                      Total Geral  Pedidos:      20      Valor:      11.435,42     Caixas:           0,00                                                      Total Geral  Pedidos:      20      Valor:      11.435,42     Caixas:           0,00

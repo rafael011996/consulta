@@ -1,62 +1,0 @@
- g 
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-TCG - TRIUNFANTE MATOGROSSENSE ALIMENTOS                                                                                                                                                12 Faturamento          Ref:ft12308
-Filial: CAMPO GRANDE                                                                                                                                                                                 Emissao    Hora   Folha
-                                                                                                    PEDIDOS A FATURAR                                                                                12/01/24   12:01   0001
------GRUPO TRIUNFANTE--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------Usuario: willian-------
-
-0004   A   PJ LUAN - AB - FATIMA DO SUL0004   A   PJ LUAN - AB - FATIMA DO SUL0004   A   PJ LUAN - AB - FATIMA DO SUL
-
-     Pedido *--------------Clientes-------------*  Margem  COF  Portador  Lista  Saldo DMC     Trocas Total Pedido Prazos      Situacao Dig/Imp Programado P.Broker  Repre Usuario  Reg QtdCx Cidade     Pedido *--------------Clientes-------------*  Margem  COF  Portador  Lista  Saldo DMC     Trocas Total Pedido Prazos      Situacao Dig/Imp Programado P.Broker  Repre Usuario  Reg QtdCx Cidade     Pedido *--------------Clientes-------------*  Margem  COF  Portador  Lista  Saldo DMC     Trocas Total Pedido Prazos      Situacao Dig/Imp Programado P.Broker  Repre Usuario  Reg QtdCx Cidade
-      6.281 ABIR CRISPINIANO E FI 000551975000531    0,00 51201 BANCO        01       2,16       0,00       683,11 028 000 000 2-LIB   09/01/24   09/01/24               4 luiz     044 00003 DEODAPOLIS
-      6.282 MARIA EVALDILMA MENDO 041085868000119    0,00 51201 PIX / DINH   01       0,14-      0,00       464,33 000 000 000 2-LIB   11/01/24   11/01/24               4 nichelle 044 00002 FATIMA DO SUL
-      6.283 PELLIM E DE NADAI LTD 007027727000101    0,00 51201 BANCO        01       0,01-      0,00       762,81 028 000 000 2-LIB   10/01/24   10/01/24               4 willian  044 00003 GLORIA DE DOURADOS
-      6.284 SUPERMERCADO MIYAKE L 045127766000170    0,00 51201 BANCO        01       0,03-      0,00       384,50 021 000 000 2-LIB   11/01/24   10/01/24               4 willian  044 00002 GLORIA DE DOURADOS
-      6.285 LETICIA VIEIRA DA SIL 040965257000100    0,00 51234 BANCO        01       0,40       0,00     1.034,77 021 000 000 2-LIB   11/01/24   10/01/24               4 willian  044 00006 GLORIA DE DOURADOS
-      6.286 S. G CARDOSO LTDA     003047609000104    0,00 51201 BANCO        01       0,00       0,00     3.483,13 028 000 000 2-LIB   11/01/24   10/01/24               4 willian  044 00012 GLORIA DE DOURADOS
-      6.287 COMERCIAL JULIFRAN LT 037570181000100    0,00 51201 BANCO        01       0,00       0,00     3.208,27 035 000 000 2-LIB   11/01/24   11/01/24               4 nichelle 044 00010 FATIMA DO SUL
-
-                                              Total Representante  Pedidos:       7      Valor:      10.020,92     Caixas:           0,00                                              Total Representante  Pedidos:       7      Valor:      10.020,92     Caixas:           0,00                                              Total Representante  Pedidos:       7      Valor:      10.020,92     Caixas:           0,00
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-0005   A   PJ JOAO CARLOS -AB- N.ANDRADI0005   A   PJ JOAO CARLOS -AB- N.ANDRADI0005   A   PJ JOAO CARLOS -AB- N.ANDRADI
-
-     13.508 MINIMERCADO SOLDERA E 028464587000109    0,00 51201 BANCO        01       0,00       0,00       724,67 021 028 000 2-LIB   10/01/24   05/01/24               5 willian  441 00002 ANGELICA
-     13.525 GULART E CIA LTDA EPP 005330582000198    0,00 51201 BANCO        01      20,51-      0,00     2.939,66 028 000 000 2-LIB   11/01/24   10/01/24               5 willian  450 00012 SANTA RITA DO PARDO
-
-                                              Total Representante  Pedidos:       2      Valor:       3.664,33     Caixas:           0,00                                              Total Representante  Pedidos:       2      Valor:       3.664,33     Caixas:           0,00                                              Total Representante  Pedidos:       2      Valor:       3.664,33     Caixas:           0,00
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-0008   N   PJ GILMAR - AB - COXIM0008   N   PJ GILMAR - AB - COXIM0008   N   PJ GILMAR - AB - COXIM
-
-      3.440 VT PARANA SUPERMERCAD 006088542000497    0,00 51201 BANCO        01       2,31-      0,00       430,45 021 000 000 2-LIB   10/01/24   09/01/24               8 luiz     041 00001 ALCINOPOLIS
-      3.442 J PEIXOTO BARBOSA E C 004068545000190    0,00 51201 BANCO        01       0,00       0,00       987,07 014 021 028 2-LIB   10/01/24   09/01/24               8 willian  041 00006 SONORA
-      3.443 GESSI DOS SANTOS SALO 007317095000110    0,00 51234 BANCO        01       0,01-      0,00     5.659,19 014 021 028 2-LIB   11/01/24   11/01/24               8 willian  041 00016 PEDRO GOMES
-
-                                              Total Representante  Pedidos:       3      Valor:       7.076,71     Caixas:           0,00                                              Total Representante  Pedidos:       3      Valor:       7.076,71     Caixas:           0,00                                              Total Representante  Pedidos:       3      Valor:       7.076,71     Caixas:           0,00
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-0016   N   PJ CLAUDEIR - AB - B.VISTA-P.M0016   N   PJ CLAUDEIR - AB - B.VISTA-P.M0016   N   PJ CLAUDEIR - AB - B.VISTA-P.M
-
- 50.220.054 SERENA E CIA LTDA     000201278000399    0,00 51201 ECOM BANCO   01      11,81       0,00       410,88 028 000 000 2-LIB   05/01/24   05/01/24              16          046 00001 CARACOL
-
-                                              Total Representante  Pedidos:       1      Valor:         410,88     Caixas:           0,00                                              Total Representante  Pedidos:       1      Valor:         410,88     Caixas:           0,00                                              Total Representante  Pedidos:       1      Valor:         410,88     Caixas:           0,00
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-0151   P   SERGIO - A - VAREJO CG0151   P   SERGIO - A - VAREJO CG0151   P   SERGIO - A - VAREJO CG
-
-     10.191 ANTONIO GUALBERTO DA  019408387000148    0,00 51234 BANCO        01       6,00       0,00       200,80 021 000 000 1-BLO   11/01/24   11/01/24             151 nichelle 002 00001 CAMPO GRANDE
-
-                                              Total Representante  Pedidos:       1      Valor:         200,80     Caixas:           0,00                                              Total Representante  Pedidos:       1      Valor:         200,80     Caixas:           0,00                                              Total Representante  Pedidos:       1      Valor:         200,80     Caixas:           0,00
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-0450   A   WALMIR - B - FRE CH RD PIRES0450   A   WALMIR - B - FRE CH RD PIRES0450   A   WALMIR - B - FRE CH RD PIRES
-
-        512 BONANCA COMERCIO DE A 010513998000777    0,00 51201 BANCO        02      15,99-      0,00     2.227,92 028 000 000 2-LIB   12/01/24   11/01/24             450 willian  044 00003 DEODAPOLIS
-
-                                              Total Representante  Pedidos:       1      Valor:       2.227,92     Caixas:           0,00                                              Total Representante  Pedidos:       1      Valor:       2.227,92     Caixas:           0,00                                              Total Representante  Pedidos:       1      Valor:       2.227,92     Caixas:           0,00
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-                                              Total Representante  Pedidos:       0      Valor:           0,00     Caixas:           0,00                                              Total Representante  Pedidos:       0      Valor:           0,00     Caixas:           0,00                                              Total Representante  Pedidos:       0      Valor:           0,00     Caixas:           0,00
-
-                                                      Total Geral  Pedidos:      15      Valor:      23.601,56     Caixas:           0,00                                                      Total Geral  Pedidos:      15      Valor:      23.601,56     Caixas:           0,00                                                      Total Geral  Pedidos:      15      Valor:      23.601,56     Caixas:           0,00

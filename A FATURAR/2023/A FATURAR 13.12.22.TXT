@@ -1,435 +1,0 @@
- M 
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-TCG - TRIUNFANTE MATOGROSSENSE ALIMENTOS                                                                                                             12 Faturamento   Ref:ft12308
-Filial: CAMPO GRANDE                                                                                                                                              Emissao    Hora   Folha
-                                                                                   PEDIDOS A FATURAR                                                              13/12/22   12:01   0001
------GRUPO TRIUNFANTE---------------------------------------------------------------------------------------------------------------------------------------------Usuario: luiz----------
-
-0003   A   PJ BRUNO - A - AQUIDAUANA0003   A   PJ BRUNO - A - AQUIDAUANA0003   A   PJ BRUNO - A - AQUIDAUANA
-
-     Pedido *--------------Clientes-------------*  Margem  COF  Portador  Lista  Saldo DMC     Trocas Total Pedido Prazos      Situacao Dig/Imp Programado P.Broker  Repre Usuario  Reg QtdCx Cidade     Pedido *--------------Clientes-------------*  Margem  COF  Portador  Lista  Saldo DMC     Trocas Total Pedido Prazos      Situacao Dig/Imp Programado P.Broker  Repre Usuario  Reg QtdCx Cidade     Pedido *--------------Clientes-------------*  Margem  COF  Portador  Lista  Saldo DMC     Trocas Total Pedido Prazos      Situacao Dig/Imp Programado P.Broker  Repre Usuario  Reg QtdCx Cidade
-      2.804 GILDA SILVA           034432961000197    0,00 51201 BANCO        01       0,00       0,00       342,25 021 000 000 2-LIB   12/12/22   12/12/22               3 luiz     033 00003 AQUIDAUANA
-      2.805 GILDA SILVA           034432961000197    0,00 59901 BONIFICACA   01      50,20-      0,00        50,20 000 000 000 2-LIB   12/12/22   12/12/22               3 luiz     033 00000 AQUIDAUANA
-      2.806 MANOEL PEREIRA DAMACE 000931485000137    0,00 51201 PIX / DINH   01       0,94       0,00       100,41 000 000 000 2-LIB   12/12/22   12/12/22               3 luiz     033 00000 AQUIDAUANA
-      2.807 BATISTA QUADROS E CIA 005348350000167    0,00 51201 BANCO        01      11,97       0,00       239,50 021 000 000 2-LIB   12/12/22   12/12/22               3 luiz     330 00001 AQUIDAUANA
-      2.808 BATISTA QUADROS E CIA 005348350000248    0,00 51201 BANCO        01      11,97       0,00       239,50 021 000 000 2-LIB   12/12/22   12/12/22               3 luiz     330 00001 AQUIDAUANA
-      2.809 BATISTA QUADROS E CIA 005348350000329    0,00 51201 BANCO        01      11,97       0,00       239,50 021 000 000 2-LIB   12/12/22   12/12/22               3 luiz     033 00001 ANASTACIO
-
-                                              Total Representante  Pedidos:       6      Valor:       1.211,36     Caixas:           0,00                                              Total Representante  Pedidos:       6      Valor:       1.211,36     Caixas:           0,00                                              Total Representante  Pedidos:       6      Valor:       1.211,36     Caixas:           0,00
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-0004   A   PJ LUAN - AB - FATIMA DO SUL0004   A   PJ LUAN - AB - FATIMA DO SUL0004   A   PJ LUAN - AB - FATIMA DO SUL
-
-      5.370 JORGE PAULO SILVA     005027616000170    0,00 51201 BANCO        01   1.311,36-      0,00    50.071,46 028 035 000 2-LIB   13/12/22   12/12/22               4 luiz     044 00183 FATIMA DO SUL
-      5.377 MARTINS CARLOS SILVA  036812758000171    0,00 51201 BANCO        01       0,06-      0,00       378,70 028 000 000 2-LIB   12/12/22   12/12/22               4 luiz     044 00001 FATIMA DO SUL
-      5.378 MARIA EVALDILMA MENDO 041085868000119    0,00 51201 BANCO        01       0,12       0,00       921,97 021 028 000 2-LIB   12/12/22   12/12/22               4 luiz     044 00008 FATIMA DO SUL
-      5.379 MARIA SILVANEIDE NUNE 033728688000180    0,00 51201 PIX / DINH   01       0,02-      0,00       201,21 000 000 000 2-LIB   12/12/22   12/12/22               4 luiz     044 00003 FATIMA DO SUL
-
-0004   P   PJ LUAN - AB - FATIMA DO SUL0004   P   PJ LUAN - AB - FATIMA DO SUL0004   P   PJ LUAN - AB - FATIMA DO SUL
-
-      5.380 JOSE ROBERTO DA SILVA 046213581000140    0,00 51234 BANCO        01       1,63       0,00       294,95 021 000 000 1-BLO   12/12/22   12/12/22               4 luiz     044 00002 FATIMA DO SUL
-
-                                              Total Representante  Pedidos:       5      Valor:      51.868,29     Caixas:           0,00                                              Total Representante  Pedidos:       5      Valor:      51.868,29     Caixas:           0,00                                              Total Representante  Pedidos:       5      Valor:      51.868,29     Caixas:           0,00
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-0005   A   PJ JOAO CARLOS -AB- N.ANDRADI0005   A   PJ JOAO CARLOS -AB- N.ANDRADI0005   A   PJ JOAO CARLOS -AB- N.ANDRADI
-
-     11.490 QUEIROZ E SOUSA ALIME 005880618000298    0,00 51201 BANCO        01   1.902,32-      0,00    15.976,51 028 035 042 2-LIB   09/12/22   08/12/22               5 luiz     450 00135 BATAGUASSU
-     11.498 GULART E CIA LTDA EPP 005330582000198    0,00 51201 BANCO        01      10,30-      0,00     3.003,51 028 000 000 2-LIB   10/12/22   10/12/22               5 nichelle 450 00012 SANTA RITA DO PARDO
-     11.499 QUEIROZ E SOUSA ALIME 005880618000298    0,00 51201 BANCO        01      42,64       0,00       852,96 028 000 000 2-LIB   10/12/22   10/12/22               5 nichelle 450 00003 BATAGUASSU
-     11.500 MARTINS E NUNES LTDA  026371725000180    0,00 51201 BANCO        01       0,02-      0,00       340,01 028 000 000 2-LIB   12/12/22   12/12/22               5 luiz     045 00002 BATAIPORA
-     11.501 MARTINS E NUNES LTDA  026371725000180    0,00 59901 BONIFICACA   01      50,20-      0,00        50,20 000 000 000 2-LIB   12/12/22   12/12/22               5 luiz     045 00000 BATAIPORA
-     11.502 ALESSANDRO PICININ CH 013889171000165    0,00 51201 BANCO        01      22,37       0,00     1.428,78 021 028 035 2-LIB   12/12/22   12/12/22               5 luiz     045 00007 BATAIPORA
-     11.503 ALESSANDRO PICININ CH 013889171000165    0,00 59901 BONIFICACA   01      50,20-      0,00        50,20 000 000 000 2-LIB   12/12/22   12/12/22               5 luiz     045 00000 BATAIPORA
-     11.504 JOSE MANUEL DE JESUS  015901440000197    0,00 51201 BANCO        01      95,20       0,00     8.300,83 028 000 000 2-LIB   12/12/22   12/12/22               5 luiz     045 00044 BATAIPORA
-     11.505 MARCELO ADRIANO MORAE 013993174000144    0,00 51201 BANCO        01      11,07       0,00     1.258,10 021 028 000 2-LIB   13/12/22   13/12/22               5 viviane  045 00005 BATAIPORA
-     11.506 MARCELO ADRIANO MORAE 013993174000144    0,00 59901 BONIFICACA   01      50,20-      0,00        50,20 000 000 000 2-LIB   13/12/22   13/12/22               5 viviane  045 00000 BATAIPORA
-
-                                              Total Representante  Pedidos:      10      Valor:      31.311,30     Caixas:           0,00                                              Total Representante  Pedidos:      10      Valor:      31.311,30     Caixas:           0,00                                              Total Representante  Pedidos:      10      Valor:      31.311,30     Caixas:           0,00
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-0009   A   PJ MARCOS -AB- CHAPADAO0009   A   PJ MARCOS -AB- CHAPADAO0009   A   PJ MARCOS -AB- CHAPADAO
-
-      3.120 SENA E PENTEADO LTDA  018694393000146    0,00 51201 BANCO        01       0,03-      0,00       656,82 021 028 035 2-LIB   09/12/22   09/12/22               9 luiz     039 00004 CHAPADAO DO SUL
-      3.121 J P DA SILVA LTDA     026924349000103    0,00 51201 BANCO        01      25,03       0,00     1.439,42 014 021 028 2-LIB   09/12/22   09/12/22               9 luiz     039 00004 CHAPADAO DO SUL
-      3.122 MERCEARIA LN LTDA     042317821000104    0,00 51201 BANCO        01      27,03       0,00       907,27 014 021 028 2-LIB   09/12/22   09/12/22               9 luiz     039 00003 CASSILANDIA
-      3.123 MK MERCADO E CONVENIE 027007323000163    0,00 51201 BANCO        01       4,31-      0,00       290,27 021 000 000 2-LIB   12/12/22   12/12/22               9 luiz     039 00001 CHAPADAO DO SUL
-
-                                              Total Representante  Pedidos:       4      Valor:       3.293,78     Caixas:           0,00                                              Total Representante  Pedidos:       4      Valor:       3.293,78     Caixas:           0,00                                              Total Representante  Pedidos:       4      Valor:       3.293,78     Caixas:           0,00
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-TCG - TRIUNFANTE MATOGROSSENSE ALIMENTOS                                                                                                             12 Faturamento   Ref:ft12308
-Filial: CAMPO GRANDE                                                                                                                                              Emissao    Hora   Folha
-                                                                                   PEDIDOS A FATURAR                                                              13/12/22   12:01   0002
------GRUPO TRIUNFANTE---------------------------------------------------------------------------------------------------------------------------------------------Usuario: luiz----------
-
-0012   A   PJ JOELSON - A - JARDIM BONITO0012   A   PJ JOELSON - A - JARDIM BONITO0012   A   PJ JOELSON - A - JARDIM BONITO
-
-     Pedido *--------------Clientes-------------*  Margem  COF  Portador  Lista  Saldo DMC     Trocas Total Pedido Prazos      Situacao Dig/Imp Programado P.Broker  Repre Usuario  Reg QtdCx Cidade     Pedido *--------------Clientes-------------*  Margem  COF  Portador  Lista  Saldo DMC     Trocas Total Pedido Prazos      Situacao Dig/Imp Programado P.Broker  Repre Usuario  Reg QtdCx Cidade     Pedido *--------------Clientes-------------*  Margem  COF  Portador  Lista  Saldo DMC     Trocas Total Pedido Prazos      Situacao Dig/Imp Programado P.Broker  Repre Usuario  Reg QtdCx Cidade
-      2.125 SERENA E CIA LTDA     000201278000127    0,00 51201 BANCO        01      25,29-      0,00       918,75 028 000 000 2-LIB   09/12/22   09/12/22              12 luiz     046 00005 BELA VISTA
-      2.126 JORGE PEREIRA SANTOS  033183187000165    0,00 51201 BANCO        01       5,15-      0,00       363,60 028 000 000 2-LIB   09/12/22   09/12/22              12 luiz     046 00002 BELA VISTA
-      2.127 JORGE PEREIRA SANTOS  033183187000165    0,00 59901 BONIFICACA   01      16,58-      0,00        16,58 000 000 000 2-LIB   09/12/22   09/12/22              12 luiz     046 00000 BELA VISTA
-      2.129 MONICA SERPA GONCALVE 015116855000150    0,00 51201 BANCO        01      44,35       0,00     1.076,29 021 028 000 2-LIB   09/12/22   09/12/22              12 luiz     046 00008 BELA VISTA
-      2.130 JOB MELO ORTEGA ME    013660845000155    0,00 51201 BANCO        01      14,75       0,00       295,24 028 000 000 2-LIB   09/12/22   09/12/22              12 luiz     046 00006 BELA VISTA
-      2.131 PALOMARES E PEREIRA L 004019338000146    0,00 51201 BANCO        01      25,82       0,00       517,27 021 000 000 2-LIB   09/12/22   09/12/22              12 luiz     046 00002 BELA VISTA
-      2.132 MERCADO TROPICAL LTDA 008744207000182    0,00 51201 BANCO        01       0,09-      0,00       680,76 021 028 000 2-LIB   12/12/22   12/12/22              12 luiz     047 00004 JARDIM
-
-0012   P   PJ JOELSON - A - JARDIM BONITO0012   P   PJ JOELSON - A - JARDIM BONITO0012   P   PJ JOELSON - A - JARDIM BONITO
-
-      2.093 SUPERMERCADO GOURMET  032617475000118    0,00 51201 PIX / DINH   01       1,43       0,00     3.127,83 000 000 000 1-BLO   02/12/22   01/12/22              12 luiz     046 00021 PORTO MURTINHO
-
-                                              Total Representante  Pedidos:       8      Valor:       6.996,32     Caixas:           0,00                                              Total Representante  Pedidos:       8      Valor:       6.996,32     Caixas:           0,00                                              Total Representante  Pedidos:       8      Valor:       6.996,32     Caixas:           0,00
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-0014   A   LUA DOUGLAS  - A - CORUMBA0014   A   LUA DOUGLAS  - A - CORUMBA0014   A   LUA DOUGLAS  - A - CORUMBA
-
-      3.246 SUPERMERCADO FERNANDE 046876542000204    0,00 51201 BANCO        01      73,76-      0,00     2.507,16 028 035 042 2-LIB   12/12/22   12/12/22              14 luiz     034 00018 LADARIO
-      3.247 SUPERMERCADO FERNANDE 046876542000123    0,00 51201 BANCO        01       0,61-      0,00     7.964,74 028 035 042 2-LIB   13/12/22   12/12/22              14 viviane  034 00046 CORUMBA
-      3.248 PINHO COMERCIO PROD A 020267366000139    0,00 51201 BANCO        01      17,12       0,00       534,01 021 028 000 2-LIB   12/12/22   12/12/22              14 luiz     034 00002 CORUMBA
-      3.249 A M OQUENDO           027703638000145    0,00 51201 PIX / DINH   01       5,46       0,00       109,26 000 000 000 2-LIB   12/12/22   12/12/22              14 luiz     034 00002 CORUMBA
-      3.250 LUCIANO SALAS RIVERA  028649091000100    0,00 51201 BANCO        01      10,92       0,00       218,52 028 000 000 2-LIB   12/12/22   12/12/22              14 luiz     034 00004 CORUMBA
-
-                                              Total Representante  Pedidos:       5      Valor:      11.333,69     Caixas:           0,00                                              Total Representante  Pedidos:       5      Valor:      11.333,69     Caixas:           0,00                                              Total Representante  Pedidos:       5      Valor:      11.333,69     Caixas:           0,00
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-0015   A   PJ TATIANI- A - PONTA PORA0015   A   PJ TATIANI- A - PONTA PORA0015   A   PJ TATIANI- A - PONTA PORA
-
-      3.586 HELIO KAVAZOKO        003149834000151    0,00 51201 BANCO        01      11,72       0,00     3.498,18 014 021 028 1-BLO   12/12/22   12/12/22              15 luiz     032 00012 PONTA PORA
-      3.617 HELIO KAVAZOKO        003149834000151    0,00 51201 BANCO        01       1,03-      0,00     2.689,22 014 021 028 2-LIB   13/12/22   12/12/22              15 luiz     032 00010 PONTA PORA
-      3.618 GONCALVES E GONCALVES 009520930000140    0,00 51201 BANCO        01      83,32       0,00     3.081,06 014 021 028 2-LIB   13/12/22   12/12/22              15 luiz     032 00013 PONTA PORA
-      3.619 AUTO POSTO CENTRAL LT 003569993000105    0,00 51201 BANCO        01      46,93       0,00       985,22 021 028 000 2-LIB   13/12/22   12/12/22              15 luiz     032 00002 PONTA PORA
-      3.620 PASSOS E FRANCO LTDA  024616864000109    0,00 51201 BANCO        01      44,37       0,00     3.270,63 014 021 028 2-LIB   13/12/22   12/12/22              15 luiz     032 00014 PONTA PORA
-
-                                              Total Representante  Pedidos:       5      Valor:      13.524,31     Caixas:           0,00                                              Total Representante  Pedidos:       5      Valor:      13.524,31     Caixas:           0,00                                              Total Representante  Pedidos:       5      Valor:      13.524,31     Caixas:           0,00
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-0018   A   PJ ROBSON -AB- ELDORADO0018   A   PJ ROBSON -AB- ELDORADO0018   A   PJ ROBSON -AB- ELDORADO
-
-      1.224 MARCOS ROGERIO MINANT 018380082000102    0,00 51201 BANCO        01       7,93       0,00       770,90 028 000 000 2-LIB   09/12/22   09/12/22              18 luiz     043 00002 ELDORADO
-      1.225 COOPERATIVA AGROINDUS 081584278006358    0,00 51201 BANCO        01     174,70       0,00    16.006,68 028 000 000 2-LIB   12/12/22   12/12/22              18 luiz     043 00055 ELDORADO
-      1.226 SOCOLOSKI SUPERMERCAD 008664194000212    0,00 51201 BANCO        01       4,37       0,00     2.467,76 028 000 000 2-LIB   12/12/22   12/12/22              18 luiz     043 00013 MUNDO NOVO
-      1.227 COOPERATIVA AGROINDUS 081584278006358    0,00 51201 BANCO        01     192,78       0,00     3.856,32 028 000 000 2-LIB   13/12/22   12/12/22              18 luiz     043 00012 ELDORADO
-
-                                              Total Representante  Pedidos:       4      Valor:      23.101,66     Caixas:           0,00                                              Total Representante  Pedidos:       4      Valor:      23.101,66     Caixas:           0,00                                              Total Representante  Pedidos:       4      Valor:      23.101,66     Caixas:           0,00
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-0019   A   PJ RODRIGO - AB - NAVIRAI0019   A   PJ RODRIGO - AB - NAVIRAI0019   A   PJ RODRIGO - AB - NAVIRAI
-
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-TCG - TRIUNFANTE MATOGROSSENSE ALIMENTOS                                                                                                             12 Faturamento   Ref:ft12308
-Filial: CAMPO GRANDE                                                                                                                                              Emissao    Hora   Folha
-                                                                                   PEDIDOS A FATURAR                                                              13/12/22   12:01   0003
------GRUPO TRIUNFANTE---------------------------------------------------------------------------------------------------------------------------------------------Usuario: luiz----------
-
-0019   A   PJ RODRIGO - AB - NAVIRAI0019   A   PJ RODRIGO - AB - NAVIRAI0019   A   PJ RODRIGO - AB - NAVIRAI
-
-     Pedido *--------------Clientes-------------*  Margem  COF  Portador  Lista  Saldo DMC     Trocas Total Pedido Prazos      Situacao Dig/Imp Programado P.Broker  Repre Usuario  Reg QtdCx Cidade     Pedido *--------------Clientes-------------*  Margem  COF  Portador  Lista  Saldo DMC     Trocas Total Pedido Prazos      Situacao Dig/Imp Programado P.Broker  Repre Usuario  Reg QtdCx Cidade     Pedido *--------------Clientes-------------*  Margem  COF  Portador  Lista  Saldo DMC     Trocas Total Pedido Prazos      Situacao Dig/Imp Programado P.Broker  Repre Usuario  Reg QtdCx Cidade
-      1.558 ANDRESSA KELLY DOS SA 022802498000149    0,00 51201 BANCO        01      15,13-      0,00       480,91 014 021 000 2-LIB   09/12/22   09/12/22              19 luiz     042 00001 NAVIRAI
-      1.559 DISTRIBUIDORA DE ALIM 008752211000273    0,00 51201 BANCO        01      11,01       0,00       281,79 028 000 000 2-LIB   09/12/22   09/12/22              19 luiz     042 00000 NAVIRAI
-      1.560 PIT STOP CONVENIENCIA 020754167000155    0,00 51201 BANCO        01       2,34       0,00       200,02 021 000 000 2-LIB   09/12/22   09/12/22              19 luiz     042 00000 NAVIRAI
-      1.561 MINI MERCADO TEIXEIRA 019029516000197    0,00 51201 BANCO        01       7,27-      0,00       873,67 014 021 028 2-LIB   10/12/22   09/12/22              19 luiz     042 00002 NAVIRAI
-
-                                              Total Representante  Pedidos:       4      Valor:       1.836,39     Caixas:           0,00                                              Total Representante  Pedidos:       4      Valor:       1.836,39     Caixas:           0,00                                              Total Representante  Pedidos:       4      Valor:       1.836,39     Caixas:           0,00
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-0021   A   PJ SIDMAR - AB AGUA RIBAS0021   A   PJ SIDMAR - AB AGUA RIBAS0021   A   PJ SIDMAR - AB AGUA RIBAS
-
-      2.337 RUY RODRIGUES PANIAGO 037577145000160    0,00 51201 BANCO        01       8,07-      0,00       755,20 035 000 000 2-LIB   13/12/22   12/12/22              21 luiz     302 00002 AGUA CLARA
-      2.338 RUY RODRIGUES PANIAGO 037577145000240    0,00 51201 BANCO        01       8,07-      0,00       755,20 035 000 000 2-LIB   13/12/22   12/12/22              21 luiz     302 00002 AGUA CLARA
-      2.339 LOIDE VIEIRA POVOAS   034814588000139    0,00 51201 BANCO        01      47,88       0,00       988,43 014 021 028 2-LIB   12/12/22   12/12/22              21 luiz     302 00008 AGUA CLARA
-      2.340 ZEZINHO DE OLIVEIRA F 037172987000131    0,00 51201 BANCO        01      21,55       0,00       431,62 014 021 000 2-LIB   12/12/22   12/12/22              21 luiz     302 00001 AGUA CLARA
-      2.341 MARGARETE RAINHA DE J 036984669000102    0,00 51201 BANCO        01      62,84       0,00     1.224,28 014 021 028 2-LIB   13/12/22   12/12/22              21 luiz     302 00005 AGUA CLARA
-      2.342 ANTONIO MARCOS CANNO  026959481000150    0,00 51201 PIX / DINH   01       1,90-      0,00       113,10 000 000 000 2-LIB   13/12/22   12/12/22              21 luiz     302 00000 AGUA CLARA
-      2.343 DANUZA MARIA OLIVEIRA 044785898000126    0,00 51201 BANCO        01       5,26-      0,00       640,76 014 021 028 2-LIB   13/12/22   12/12/22              21 luiz     302 00001 AGUA CLARA
-      2.344 S A CORREA DE BRITO   042390004000173    0,00 51201 PIX / DINH   01       5,24       0,00       105,00 000 000 000 2-LIB   13/12/22   12/12/22              21 luiz     302 00000 AGUA CLARA
-
-                                              Total Representante  Pedidos:       8      Valor:       5.013,59     Caixas:           0,00                                              Total Representante  Pedidos:       8      Valor:       5.013,59     Caixas:           0,00                                              Total Representante  Pedidos:       8      Valor:       5.013,59     Caixas:           0,00
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-0101   P   PJ LUIS CARLOS - A - CAPITAL0101   P   PJ LUIS CARLOS - A - CAPITAL0101   P   PJ LUIS CARLOS - A - CAPITAL
-
-      1.671 COMERCIO VAREJ DE ALI 045547876000190    0,00 51234 BANCO        01       2,89       0,00       376,55 014 000 000 1-BLO   12/12/22   12/12/22             101 luiz     006 00001 CAMPO GRANDE
-
-                                              Total Representante  Pedidos:       1      Valor:         376,55     Caixas:           0,00                                              Total Representante  Pedidos:       1      Valor:         376,55     Caixas:           0,00                                              Total Representante  Pedidos:       1      Valor:         376,55     Caixas:           0,00
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-0107   A   THAMY - A - DOURADOS0107   A   THAMY - A - DOURADOS0107   A   THAMY - A - DOURADOS
-
-        847 LACERDA E MARTINS LTD 011356651000135    0,00 51201 BANCO        01       4,16       0,00       201,95 021 000 000 0-DIG   06/12/22   15/12/22             107 luiz     035 00004 DOURADOS
-        853 MARIA DE FATIMA SILVA 036807994000108    0,00 51201 PIX / DINH   01       0,00       0,00       103,80 000 000 000 2-LIB   06/12/22   12/12/22             107 luiz     035 00002 DOURADOS
-        864 LEANDRO APARECIDO MON 037287842000186    0,00 51201 PIX / DINH   01       0,03-      0,00       119,69 000 000 000 2-LIB   09/12/22   09/12/22             107 luiz     035 00000 DOURADOS
-        866 F F DA SILVA          003658490000106    0,00 51201 BANCO        01      30,42-      0,00     1.462,24 021 028 035 2-LIB   10/12/22   09/12/22             107 luiz     035 00008 DOURADOS
-        867 BRUNO DE SOUZA OLIVEI 027914173000171    0,00 51201 BANCO        01      19,89-      0,00       225,15 021 000 000 2-LIB   10/12/22   13/12/22             107 luiz     035 00005 DOURADOS
-        868 MARIA EDUARDA GONCALV 043296820000185    0,00 51201 PIX / DINH   01       0,02-      0,00       124,26 000 000 000 2-LIB   13/12/22   12/12/22             107 luiz     035 00001 DOURADOS
-        869 MARIA EDUARDA GONCALV 043296820000185    0,00 59901 BONIFICACA   01      16,58-      0,00        16,58 000 000 000 2-LIB   13/12/22   12/12/22             107 luiz     035 00000 DOURADOS
-        870 ROGERIO BIGATAO MENDE 009686967000143    0,00 51201 BANCO        01       0,65       0,00       200,32 021 000 000 2-LIB   13/12/22   12/12/22             107 luiz     035 00001 ITAPORA
-
-                                              Total Representante  Pedidos:       8      Valor:       2.453,99     Caixas:           0,00                                              Total Representante  Pedidos:       8      Valor:       2.453,99     Caixas:           0,00                                              Total Representante  Pedidos:       8      Valor:       2.453,99     Caixas:           0,00
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-0151   A   SERGIO - A - VAREJO / CG0151   A   SERGIO - A - VAREJO / CG0151   A   SERGIO - A - VAREJO / CG
-
-      8.103 PANIFICADORA REI DO T 016500180000100    0,00 51201 PIX / DINH   01       0,00       0,00       109,33 000 000 000 0-DIG   05/12/22   16/12/22             151 luiz     007 00003 CAMPO GRANDE
-      8.116 CAROLINA SANTOS FERRE 032597689000170    0,00 51201 PIX / DINH   01      12,27-      0,00       111,30 000 000 000 0-DIG   08/12/22   16/12/22             151 luiz     428 00000 CAMPO GRANDE
-
-                                              Total Representante  Pedidos:       2      Valor:         220,63     Caixas:           0,00                                              Total Representante  Pedidos:       2      Valor:         220,63     Caixas:           0,00                                              Total Representante  Pedidos:       2      Valor:         220,63     Caixas:           0,00
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-TCG - TRIUNFANTE MATOGROSSENSE ALIMENTOS                                                                                                             12 Faturamento   Ref:ft12308
-Filial: CAMPO GRANDE                                                                                                                                              Emissao    Hora   Folha
-                                                                                   PEDIDOS A FATURAR                                                              13/12/22   12:01   0004
------GRUPO TRIUNFANTE---------------------------------------------------------------------------------------------------------------------------------------------Usuario: luiz----------
-
-0153   A   DOUGLAS - A - VAREJO / CG0153   A   DOUGLAS - A - VAREJO / CG0153   A   DOUGLAS - A - VAREJO / CG
-
-     Pedido *--------------Clientes-------------*  Margem  COF  Portador  Lista  Saldo DMC     Trocas Total Pedido Prazos      Situacao Dig/Imp Programado P.Broker  Repre Usuario  Reg QtdCx Cidade     Pedido *--------------Clientes-------------*  Margem  COF  Portador  Lista  Saldo DMC     Trocas Total Pedido Prazos      Situacao Dig/Imp Programado P.Broker  Repre Usuario  Reg QtdCx Cidade     Pedido *--------------Clientes-------------*  Margem  COF  Portador  Lista  Saldo DMC     Trocas Total Pedido Prazos      Situacao Dig/Imp Programado P.Broker  Repre Usuario  Reg QtdCx Cidade
-      7.108 MARIA MARCIA ARAUJO F 028073397000160    0,00 51201 PIX / DINH   01       0,01-      0,00       124,78 000 000 000 0-DIG   12/12/22   14/12/22             153 luiz     009 00003 CAMPO GRANDE
-      7.109 TRANSPORTES CASANOVA  022706381000161    0,00 51201 PIX / DINH   01       6,56-      0,00       201,04 000 000 000 0-DIG   13/12/22   14/12/22             153 viviane  009 00004 CAMPO GRANDE
-      7.110 HF COMERCIO DE ALIMEN 028638434000130    0,00 51201 BANCO        01      82,16-      0,00     1.856,98 021 028 035 0-DIG   13/12/22   14/12/22             153 viviane  426 00026 CAMPO GRANDE
-      7.113 MATHEUS MELQUIDES LIM 041425718000107    0,00 51201 PIX / DINH   01       3,28-      0,00       100,52 000 000 000 0-DIG   13/12/22   14/12/22             153 viviane  009 00002 CAMPO GRANDE
-
-                                              Total Representante  Pedidos:       4      Valor:       2.283,32     Caixas:           0,00                                              Total Representante  Pedidos:       4      Valor:       2.283,32     Caixas:           0,00                                              Total Representante  Pedidos:       4      Valor:       2.283,32     Caixas:           0,00
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-0159   P   JONATAS - A - VAREJO / CG0159   P   JONATAS - A - VAREJO / CG0159   P   JONATAS - A - VAREJO / CG
-
-      6.169 DIORGENES M V FARIAS  047214272000158    0,00 51201 BANCO        01       0,00       0,00       355,52 014 000 000 1-BLO   13/12/22   12/12/22             159 luiz     004 00001 CAMPO GRANDE
-
-                                              Total Representante  Pedidos:       1      Valor:         355,52     Caixas:           0,00                                              Total Representante  Pedidos:       1      Valor:         355,52     Caixas:           0,00                                              Total Representante  Pedidos:       1      Valor:         355,52     Caixas:           0,00
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-0201   A   PJ GERALDA - A - REDE CG.0201   A   PJ GERALDA - A - REDE CG.0201   A   PJ GERALDA - A - REDE CG.
-
-      2.219 BONANCA COMERCIO DE A 010513998000939    0,00 51201 BANCO        01      85,45-      0,00       599,49 028 000 000 2-LIB   13/12/22   12/12/22             201 viviane  370 00003 RIO BRILHANTE
-      2.220 BONANCA COMERCIO DE A 010513998001315    0,00 51201 BANCO        01     206,45-      0,00     1.807,54 028 000 000 2-LIB   13/12/22   12/12/22             201 viviane  025 00011 CAMPO GRANDE
-      2.221 BONANCA COMERCIO DE A 010513998001234    0,00 51201 BANCO        01     662,73-      0,00     4.856,65 028 000 000 2-LIB   13/12/22   12/12/22             201 viviane  048 00032 MARACAJU
-      2.222 S PIRES COMERCIO DE A 012075667001457    0,00 51201 BANCO        01     287,02-      0,00     2.266,72 028 000 000 2-LIB   13/12/22   12/12/22             201 viviane  023 00013 CAMPO GRANDE
-      2.223 S PIRES COMERCIO DE A 012075667001376    0,00 51201 BANCO        01     345,25-      0,00     2.341,91 028 000 000 2-LIB   13/12/22   12/12/22             201 viviane  023 00014 CAMPO GRANDE
-      2.224 S PIRES COMERCIO DE A 012075667001295    0,00 51201 BANCO        01     202,24-      0,00     1.486,94 028 000 000 2-LIB   13/12/22   12/12/22             201 viviane  027 00008 CAMPO GRANDE
-      2.225 BONANCA COMERCIO DE A 010513998001072    0,00 51201 BANCO        01     296,64-      0,00     2.329,80 028 000 000 2-LIB   13/12/22   12/12/22             201 viviane  049 00017 DOURADOS
-      2.226 BONANCA COMERCIO DE A 010513998000777    0,00 51201 BANCO        01     203,28-      0,00     1.606,14 028 000 000 2-LIB   13/12/22   12/12/22             201 viviane  044 00010 DEODAPOLIS
-      2.227 BONANCA COMERCIO DE A 010513998000262    0,00 51201 BANCO        01     344,62-      0,00     2.248,49 028 000 000 2-LIB   13/12/22   12/12/22             201 viviane  370 00013 RIO BRILHANTE
-      2.229 BONANCA COMERCIO DE A 010513998000343    0,00 51201 BANCO        01     105,73-      0,00       977,60 028 000 000 2-LIB   13/12/22   12/12/22             201 viviane  370 00006 RIO BRILHANTE
-      2.230 BONANCA COM DE ALIMEN 010513998000181    0,00 51201 BANCO        01     144,37-      0,00     1.035,43 028 000 000 2-LIB   13/12/22   12/12/22             201 viviane  023 00005 CAMPO GRANDE
-      2.231 BONANCA COMERCIO DE A 010513998000424    0,00 51201 BANCO        01     355,67-      0,00     1.908,50 028 000 000 2-LIB   13/12/22   12/12/22             201 viviane  025 00009 CAMPO GRANDE
-      2.232 BONANCA COMERCIO DE A 010513998000505    0,00 51201 BANCO        01     204,02-      0,00     1.074,42 028 000 000 2-LIB   13/12/22   12/12/22             201 viviane  027 00006 CAMPO GRANDE
-      2.233 S PIRES COMERCIO DE A 012075667000990    0,00 51201 BANCO        01     153,63-      0,00     1.095,52 028 000 000 2-LIB   13/12/22   12/12/22             201 viviane  024 00007 CAMPO GRANDE
-      2.234 S PIRES COMERCIO DE A 012075667001023    0,00 51201 BANCO        01      53,71-      0,00       822,47 028 000 000 2-LIB   13/12/22   12/12/22             201 viviane  029 00006 CAMPO GRANDE
-      2.235 S PIRES COMERCIO DE A 012075667000809    0,00 51201 BANCO        01     160,24-      0,00     1.112,09 028 000 000 2-LIB   13/12/22   12/12/22             201 viviane  027 00005 CAMPO GRANDE
-      2.236 S PIRES COMERCIO DE A 012075667000485    0,00 51201 BANCO        01     559,10-      0,00     2.900,86 028 000 000 2-LIB   13/12/22   12/12/22             201 viviane  023 00013 CAMPO GRANDE
-      2.237 S PIRES COMERCIO DE A 012075667000302    0,00 51201 BANCO        01     548,53-      0,00     3.155,95 028 000 000 2-LIB   13/12/22   12/12/22             201 viviane  022 00017 CAMPO GRANDE
-      2.238 PIRES E CIA LTDA      007719683000423    0,00 51201 BANCO        01     593,38-      0,00     3.241,00 028 000 000 2-LIB   13/12/22   12/12/22             201 viviane  029 00016 CAMPO GRANDE
-      2.239 S PIRES COMERCIO DE A 012075667000213    0,00 51201 BANCO        01     411,18-      0,00     2.207,68 028 000 000 2-LIB   13/12/22   12/12/22             201 viviane  028 00010 CAMPO GRANDE
-      2.240 PIRES E CIA LTDA      007719683000342    0,00 51201 BANCO        01     419,10-      0,00     2.498,64 028 000 000 2-LIB   13/12/22   12/12/22             201 viviane  026 00014 CAMPO GRANDE
-      2.241 S PIRES COMERCIO DE A 012075667000132    0,00 51201 BANCO        01     420,90-      0,00     2.473,39 028 000 000 2-LIB   13/12/22   12/12/22             201 viviane  022 00013 CAMPO GRANDE
-      2.242 S PIRES COMERCIO DE A 012075667000728    0,00 51201 BANCO        01     644,05-      0,00     3.441,81 028 000 000 2-LIB   13/12/22   12/12/22             201 viviane  024 00018 CAMPO GRANDE
-      2.243 PIRES E CIA LTDA      007719683000180    0,00 51201 BANCO        01     287,31-      0,00     2.290,21 028 000 000 2-LIB   13/12/22   12/12/22             201 viviane  026 00014 CAMPO GRANDE
-      2.244 S PIRES COMERCIO DE A 012075667000566    0,00 51201 BANCO        01      74,77-      0,00       716,77 028 000 000 2-LIB   13/12/22   12/12/22             201 viviane  025 00002 CAMPO GRANDE
-      2.245 PIRES E CIA LTDA      007719683000261    0,00 51201 BANCO        01     191,35-      0,00     1.514,49 028 000 000 2-LIB   13/12/22   12/12/22             201 viviane  026 00010 CAMPO GRANDE
-      2.246 S PIRES COMERCIO DE A 012075667000647    0,00 51201 BANCO        01     287,32-      0,00     1.633,84 028 000 000 2-LIB   13/12/22   12/12/22             201 viviane  028 00009 CAMPO GRANDE
-
-                                              Total Representante  Pedidos:      27      Valor:      53.644,35     Caixas:           0,00                                              Total Representante  Pedidos:      27      Valor:      53.644,35     Caixas:           0,00                                              Total Representante  Pedidos:      27      Valor:      53.644,35     Caixas:           0,00
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-TCG - TRIUNFANTE MATOGROSSENSE ALIMENTOS                                                                                                             12 Faturamento   Ref:ft12308
-Filial: CAMPO GRANDE                                                                                                                                              Emissao    Hora   Folha
-                                                                                   PEDIDOS A FATURAR                                                              13/12/22   12:01   0005
------GRUPO TRIUNFANTE---------------------------------------------------------------------------------------------------------------------------------------------Usuario: luiz----------
-
-0401   P   ALEXANDRE - B - AS/CAPITAL0401   P   ALEXANDRE - B - AS/CAPITAL0401   P   ALEXANDRE - B - AS/CAPITAL
-
-     Pedido *--------------Clientes-------------*  Margem  COF  Portador  Lista  Saldo DMC     Trocas Total Pedido Prazos      Situacao Dig/Imp Programado P.Broker  Repre Usuario  Reg QtdCx Cidade     Pedido *--------------Clientes-------------*  Margem  COF  Portador  Lista  Saldo DMC     Trocas Total Pedido Prazos      Situacao Dig/Imp Programado P.Broker  Repre Usuario  Reg QtdCx Cidade     Pedido *--------------Clientes-------------*  Margem  COF  Portador  Lista  Saldo DMC     Trocas Total Pedido Prazos      Situacao Dig/Imp Programado P.Broker  Repre Usuario  Reg QtdCx Cidade
-        431 BUY AT HOME COM VAREJ 039575110000117    0,00 51234 BANCO        01      48,57-      0,00     1.041,71 021 028 035 1-BLO   10/12/22   09/12/22             401 luiz     003 00001 CAMPO GRANDE
-
-                                              Total Representante  Pedidos:       1      Valor:       1.041,71     Caixas:           0,00                                              Total Representante  Pedidos:       1      Valor:       1.041,71     Caixas:           0,00                                              Total Representante  Pedidos:       1      Valor:       1.041,71     Caixas:           0,00
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-0407   P   PJ CARINA - B - DOURADOS0407   P   PJ CARINA - B - DOURADOS0407   P   PJ CARINA - B - DOURADOS
-
-        337 LIDER COM E IND DE AL 008679814000700    0,00 51201 BANCO        01      59,09-      0,00     2.797,59 021 028 035 1-BLO   30/11/22   01/12/22             407 luiz     049 00012 DOURADOS
-        338 LIDER COMERCIO E INDU 008679814000378    0,00 51234 BANCO        01     153,72-      0,00     4.604,26 021 028 035 1-BLO   30/11/22   01/12/22             407 luiz     038 00018 SIDROLANDIA
-        339 LIDER COMERCIO E IND  008679814000530    0,00 51234 BANCO        01     123,72-      0,00     3.977,44 021 028 035 1-BLO   30/11/22   01/12/22             407 luiz     048 00015 MARACAJU
-        340 LIDER COMERCIO E INDU 008679814000459    0,00 51201 BANCO        01      53,92-      0,00     2.373,11 021 028 035 1-BLO   30/11/22   01/12/22             407 luiz     049 00009 ITAPORA
-        341 LIDER COM E INDUSTRIA 008679814000610    0,00 51201 BANCO        01     105,39-      0,00     2.768,52 021 028 035 1-BLO   30/11/22   01/12/22             407 luiz     049 00011 DOURADOS
-        342 LIDER COM E INDUSTRIA 008679814000882    0,00 51201 BANCO        01      38,64-      0,00     1.065,48 021 028 035 1-BLO   30/11/22   01/12/22             407 luiz     037 00005 RIO BRILHANTE
-
-                                              Total Representante  Pedidos:       6      Valor:      17.586,40     Caixas:           0,00                                              Total Representante  Pedidos:       6      Valor:      17.586,40     Caixas:           0,00                                              Total Representante  Pedidos:       6      Valor:      17.586,40     Caixas:           0,00
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-0408   A   PJ GILMAR - B - COXIM0408   A   PJ GILMAR - B - COXIM0408   A   PJ GILMAR - B - COXIM
-
-      2.638 CREZENIR SOUSA FILHO  035110940000118    0,00 51234 PIX / DINH   01       0,00       0,00       104,28 000 000 000 2-LIB   30/11/22   01/12/22             408 luiz     041 00000 COXIM
-      3.784 MARCIANO BORTOLI      012271408000187    0,00 51201 BANCO        01     139,22-      0,00     2.924,69 021 028 035 2-LIB   09/12/22   08/12/22             408 luiz     410 00015 SAO GABRIEL DO OESTE
-      3.786 IRMAOS GP COMERCIO E  003735605000119    0,00 51201 BANCO        01       0,08-      0,00     3.358,41 021 028 035 2-LIB   09/12/22   09/12/22             408 luiz     041 00011 COXIM
-      3.787 COMERCIAL DE ALIMENTO 019088260000199    0,00 51201 BANCO        01       0,08-      0,00     3.358,41 021 028 035 2-LIB   09/12/22   09/12/22             408 luiz     041 00011 COXIM
-      3.788 G P COMERCIAL DE ALIM 037193828000113    0,00 51201 BANCO        01       0,08-      0,00     3.358,41 021 028 035 2-LIB   09/12/22   09/12/22             408 luiz     041 00011 COXIM
-      3.789 UNIBEM ATACADISTA LTD 043437785000177    0,00 51201 BANCO        01       0,03-      0,00    10.380,54 021 028 035 2-LIB   09/12/22   09/12/22             408 luiz     041 00034 SONORA
-      3.790 ATACADO DA CASA LTDA  005318045000122    0,00 51201 BANCO        01       6,02       0,00     1.310,18 021 028 035 2-LIB   12/12/22   12/12/22             408 luiz     041 00007 RIO VERDE DE MATO GROSSO
-      3.791 ATACADO DO LAR LTDA - 036776375000195    0,00 51201 BANCO        01      16,05       0,00     1.288,51 021 028 035 2-LIB   12/12/22   12/12/22             408 luiz     041 00004 RIO VERDE DE MATO GROSSO
-      3.792 PITSTOP MERCEARIA CON 041683932000163    0,00 51201 PIX / DINH   01       8,02       0,00       160,68 000 000 000 2-LIB   12/12/22   12/12/22             408 luiz     041 00000 COXIM
-      3.794 DAVI OLIVEIRA FURTADO 000202986000182    0,00 51201 BANCO        01       0,01-      0,00       357,89 028 000 000 2-LIB   12/12/22   12/12/22             408 luiz     041 00001 ALCINOPOLIS
-
-0408   P   PJ GILMAR - B - COXIM0408   P   PJ GILMAR - B - COXIM0408   P   PJ GILMAR - B - COXIM
-
-      3.793 SUPERMERCADO COLOMBI  014749448000117    0,00 51234 BANCO        01      12,46       0,00       249,81 028 000 000 1-BLO   12/12/22   12/12/22             408 luiz     041 00000 ALCINOPOLIS
-
-                                              Total Representante  Pedidos:      11      Valor:      26.851,81     Caixas:           0,00                                              Total Representante  Pedidos:      11      Valor:      26.851,81     Caixas:           0,00                                              Total Representante  Pedidos:      11      Valor:      26.851,81     Caixas:           0,00
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-0410   A   PJ CLAYTON - B - MARACAJU0410   A   PJ CLAYTON - B - MARACAJU0410   A   PJ CLAYTON - B - MARACAJU
-
-      2.016 SUPERMERCADO CERRADO  019943952000177    0,00 51201 BANCO        01     174,05-      0,00     2.331,21 028 000 000 2-LIB   12/12/22   12/12/22             410 luiz     036 00007 NOVA ALVORADA DO SUL
-      2.017 DROGARIA FARMAVIDA DE 004237820000152    0,00 51201 BANCO        01      10,67       0,00       213,99 028 000 000 2-LIB   12/12/22   12/12/22             410 luiz     048 00000 MARACAJU
-
-                                              Total Representante  Pedidos:       2      Valor:       2.545,20     Caixas:           0,00                                              Total Representante  Pedidos:       2      Valor:       2.545,20     Caixas:           0,00                                              Total Representante  Pedidos:       2      Valor:       2.545,20     Caixas:           0,00
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-0411   A   DANYELLE - B - TRES LAGOAS0411   A   DANYELLE - B - TRES LAGOAS0411   A   DANYELLE - B - TRES LAGOAS
-
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-TCG - TRIUNFANTE MATOGROSSENSE ALIMENTOS                                                                                                             12 Faturamento   Ref:ft12308
-Filial: CAMPO GRANDE                                                                                                                                              Emissao    Hora   Folha
-                                                                                   PEDIDOS A FATURAR                                                              13/12/22   12:01   0006
------GRUPO TRIUNFANTE---------------------------------------------------------------------------------------------------------------------------------------------Usuario: luiz----------
-
-0411   A   DANYELLE - B - TRES LAGOAS0411   A   DANYELLE - B - TRES LAGOAS0411   A   DANYELLE - B - TRES LAGOAS
-
-     Pedido *--------------Clientes-------------*  Margem  COF  Portador  Lista  Saldo DMC     Trocas Total Pedido Prazos      Situacao Dig/Imp Programado P.Broker  Repre Usuario  Reg QtdCx Cidade     Pedido *--------------Clientes-------------*  Margem  COF  Portador  Lista  Saldo DMC     Trocas Total Pedido Prazos      Situacao Dig/Imp Programado P.Broker  Repre Usuario  Reg QtdCx Cidade     Pedido *--------------Clientes-------------*  Margem  COF  Portador  Lista  Saldo DMC     Trocas Total Pedido Prazos      Situacao Dig/Imp Programado P.Broker  Repre Usuario  Reg QtdCx Cidade
-      4.489 A E F CONVENIENCIAS E 024226819000130    0,00 51201 BANCO        01      26,34-      0,00       936,89 014 021 028 2-LIB   13/12/22   12/12/22             411 luiz     030 00003 TRES LAGOAS
-
-                                              Total Representante  Pedidos:       1      Valor:         936,89     Caixas:           0,00                                              Total Representante  Pedidos:       1      Valor:         936,89     Caixas:           0,00                                              Total Representante  Pedidos:       1      Valor:         936,89     Caixas:           0,00
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-0412   A   PJ JACKSON - B - JARDIM BONITO0412   A   PJ JACKSON - B - JARDIM BONITO0412   A   PJ JACKSON - B - JARDIM BONITO
-
-        197 ARY SERENA E CIA LTDA 001087634000196    0,00 51201 BANCO        01       5,15-      0,00       699,30 028 000 000 2-LIB   10/12/22   10/12/22             412 nichelle 046 00005 BELA VISTA
-        198 MERCADO TROPICAL LTDA 008744207000182    0,00 51201 BANCO        01      19,71       0,00       483,64 021 028 000 2-LIB   12/12/22   12/12/22             412 luiz     047 00002 JARDIM
-        200 DANI COMERCI DE BEBID 011732580000128    0,00 51201 BANCO        01       0,08-      0,00       620,22 021 000 000 2-LIB   12/12/22   12/12/22             412 luiz     047 00002 JARDIM
-        201 DR ARISTIMUNHA.ME     023036414000176    0,00 51201 BANCO        01       0,05-      0,00       601,03 014 021 000 2-LIB   12/12/22   12/12/22             412 luiz     047 00002 JARDIM
-        202 JOSE EDUARDO FERREIRA 030760942000309    0,00 51201 BANCO        01       0,21-      0,00     1.996,35 014 021 028 2-LIB   12/12/22   12/12/22             412 luiz     047 00010 JARDIM
-        203 BOM GOSTO COM DE ALIM 070364807000199    0,00 51201 PIX / DINH   01       0,07-      0,00       787,02 000 000 000 2-LIB   13/12/22   12/12/22             412 luiz     046 00003 BELA VISTA
-
-0412   P   PJ JACKSON - B - JARDIM BONITO0412   P   PJ JACKSON - B - JARDIM BONITO0412   P   PJ JACKSON - B - JARDIM BONITO
-
-        166 SUPERMERCADO GOURMET  032617475000118    0,00 51201 PIX / DINH   01      65,54-      0,00     3.124,04 000 000 000 1-BLO   30/11/22   01/12/22             412 luiz     046 00013 PORTO MURTINHO
-        174 ODINEI PLACIDO AMARIL 002766915000138    0,00 51201 BANCO        01       2,35       0,00       250,91 021 000 000 1-BLO   05/12/22   05/12/22             412 luiz     047 00001 JARDIM
-
-                                              Total Representante  Pedidos:       8      Valor:       8.562,51     Caixas:           0,00                                              Total Representante  Pedidos:       8      Valor:       8.562,51     Caixas:           0,00                                              Total Representante  Pedidos:       8      Valor:       8.562,51     Caixas:           0,00
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-0413   A   PJ EZEQUIAS - B - AQUIDAUANA0413   A   PJ EZEQUIAS - B - AQUIDAUANA0413   A   PJ EZEQUIAS - B - AQUIDAUANA
-
-      4.737 GILDA SILVA           034432961000197    0,00 51201 BANCO        01      17,85       0,00       612,97 014 021 028 2-LIB   12/12/22   12/12/22             413 luiz     033 00002 AQUIDAUANA
-      4.738 MANOEL PEREIRA DAMACE 000931485000137    0,00 51201 PIX / DINH   01      14,04       0,00       362,59 000 000 000 2-LIB   12/12/22   12/12/22             413 luiz     033 00001 AQUIDAUANA
-
-                                              Total Representante  Pedidos:       2      Valor:         975,56     Caixas:           0,00                                              Total Representante  Pedidos:       2      Valor:         975,56     Caixas:           0,00                                              Total Representante  Pedidos:       2      Valor:         975,56     Caixas:           0,00
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-0414   A   PJ ELISANDRA - B - CORUMBA0414   A   PJ ELISANDRA - B - CORUMBA0414   A   PJ ELISANDRA - B - CORUMBA
-
-      5.378 J OLIVEIRA            003383676000108    0,00 51201 BANCO        01       9,33       0,00       457,05 021 028 000 2-LIB   07/12/22   07/12/22             414 luiz     034 00001 CORUMBA
-      5.390 D M ALVES             011224856000167    0,00 51201 PIX / DINH   01      23,06       0,00       461,68 000 000 000 2-LIB   07/12/22   07/12/22             414 luiz     034 00001 CORUMBA
-      5.395 S B DINIZ             031190962000184    0,00 51201 BANCO        01       0,00       0,00       610,61 014 028 000 2-LIB   07/12/22   07/12/22             414 luiz     034 00002 CORUMBA
-      5.397 DGG SUPERMERCADO LTDA 016605389000210    0,00 51201 BANCO        01      16,06       0,00       321,38 028 000 000 2-LIB   08/12/22   08/12/22             414 luiz     034 00001 CORUMBA
-      5.399 KAIANE CONVENIENCIA L 011180306000193    0,00 51201 BANCO        01      43,14       0,00       863,66 021 028 035 2-LIB   08/12/22   08/12/22             414 luiz     034 00003 CORUMBA
-      5.400 DGG SUPERMERCADO LTDA 016605389000210    0,00 51201 BANCO        01       0,01-      0,00     2.442,55 028 000 000 2-LIB   08/12/22   08/12/22             414 luiz     034 00008 CORUMBA
-      5.414 G REGENOLD NETO ME    012454544000102    0,00 51201 BANCO        01      58,39       0,00     4.256,92 021 028 035 2-LIB   13/12/22   12/12/22             414 luiz     034 00019 CORUMBA
-      5.416 PINHO COMERCIO PROD A 020267366000139    0,00 51201 BANCO        01      33,93       0,00       749,28 021 028 035 2-LIB   12/12/22   12/12/22             414 luiz     034 00002 CORUMBA
-      5.417 A M OQUENDO           027703638000145    0,00 51201 BANCO        01       0,00       0,00       895,00 021 028 035 2-LIB   12/12/22   12/12/22             414 luiz     034 00005 CORUMBA
-      5.418 FRANCISCO LIMACHI AQU 023511760000169    0,00 51201 BANCO        01       4,86       0,00       617,44 021 028 035 2-LIB   12/12/22   12/12/22             414 luiz     034 00003 CORUMBA
-      5.419 SANDRA FRANCO SOLIZ   026620285000157    0,00 51201 PIX / DINH   01       0,04-      0,00       320,29 000 000 000 2-LIB   12/12/22   12/12/22             414 luiz     034 00001 CORUMBA
-      5.420 WILLIAMS ZERNA CUELLA 033481134000120    0,00 51201 BANCO        01       0,01-      0,00       212,45 021 000 000 2-LIB   12/12/22   12/12/22             414 luiz     034 00001 CORUMBA
-      5.421 FRANK FRANCA CHURA CR 040705864000123    0,00 51201 BANCO        01       0,01-      0,00       225,86 021 000 000 2-LIB   12/12/22   12/12/22             414 luiz     034 00001 CORUMBA
-      5.423 MARISOL ROSMERY ALMAR 026394298000155    0,00 51201 BANCO        01       0,01-      0,00       522,58 014 028 000 2-LIB   13/12/22   12/12/22             414 luiz     034 00002 CORUMBA
-
-                                              Total Representante  Pedidos:      14      Valor:      12.956,75     Caixas:           0,00                                              Total Representante  Pedidos:      14      Valor:      12.956,75     Caixas:           0,00                                              Total Representante  Pedidos:      14      Valor:      12.956,75     Caixas:           0,00
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-TCG - TRIUNFANTE MATOGROSSENSE ALIMENTOS                                                                                                             12 Faturamento   Ref:ft12308
-Filial: CAMPO GRANDE                                                                                                                                              Emissao    Hora   Folha
-                                                                                   PEDIDOS A FATURAR                                                              13/12/22   12:01   0007
------GRUPO TRIUNFANTE---------------------------------------------------------------------------------------------------------------------------------------------Usuario: luiz----------
-
-0437   A   ANA CLAUDIA - B - VJ/ DOURADOS0437   A   ANA CLAUDIA - B - VJ/ DOURADOS0437   A   ANA CLAUDIA - B - VJ/ DOURADOS
-
-     Pedido *--------------Clientes-------------*  Margem  COF  Portador  Lista  Saldo DMC     Trocas Total Pedido Prazos      Situacao Dig/Imp Programado P.Broker  Repre Usuario  Reg QtdCx Cidade     Pedido *--------------Clientes-------------*  Margem  COF  Portador  Lista  Saldo DMC     Trocas Total Pedido Prazos      Situacao Dig/Imp Programado P.Broker  Repre Usuario  Reg QtdCx Cidade     Pedido *--------------Clientes-------------*  Margem  COF  Portador  Lista  Saldo DMC     Trocas Total Pedido Prazos      Situacao Dig/Imp Programado P.Broker  Repre Usuario  Reg QtdCx Cidade
-        739 MIRELLY DE SOUZA CARV 046932101000100    0,00 51201 BANCO        01      10,36       0,00       207,70 021 000 000 2-LIB   09/12/22   09/12/22             437 luiz     035 00000 DOURADOS
-        740 DANIEL RODRIGUES DE L 040135007000135    0,00 51201 PIX / DINH   01       3,65       0,00       120,38 000 000 000 2-LIB   12/12/22   12/12/22             437 luiz     035 00000 DOURADOS
-        741 GILMAR CEZAR MEDEIROS 019474300000130    0,00 51201 BANCO        01       8,78-      0,00       609,03 014 021 028 2-LIB   12/12/22   12/12/22             437 luiz     035 00002 DOURADOS
-        742 EDIGAR DIAS DE MORAIS 022590154000113    0,00 51201 BANCO        01      60,84-      0,00       828,48 014 021 000 1-BLO   13/12/22   12/12/22 742         437 valdinei 035 00003 DOURADOS
-        744 CARINA PERROUT VALENT 045627151000102    0,00 51201 PIX / DINH   01       5,09       0,00       101,88 000 000 000 2-LIB   12/12/22   12/12/22             437 luiz     035 00000 DOURADOS
-        745 SOLANGE MARES         026650456000190    0,00 51201 PIX / DINH   01      16,58-      0,00       278,96 000 000 000 2-LIB   13/12/22   12/12/22             437 luiz     035 00001 DOURADOS
-        746 SOLANGE MARES         026650456000190    0,00 51201 PIX / DINH   01       1,33-      0,00       260,55 000 000 000 2-LIB   13/12/22   13/12/22             437 viviane  035 00001 DOURADOS
-
-                                              Total Representante  Pedidos:       7      Valor:       2.406,98     Caixas:           0,00                                              Total Representante  Pedidos:       7      Valor:       2.406,98     Caixas:           0,00                                              Total Representante  Pedidos:       7      Valor:       2.406,98     Caixas:           0,00
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-0447   A   CAROL - B - VJ/ DOURADOS0447   A   CAROL - B - VJ/ DOURADOS0447   A   CAROL - B - VJ/ DOURADOS
-
-      1.838 MERCEARIA O SUPER LTD 003489676000189    0,00 51201 BANCO        01      34,50       0,00     1.617,32 014 021 000 2-LIB   09/12/22   09/12/22             447 luiz     035 00007 DOURADOS
-      1.839 DROGARIA ULTRA POPULA 020483440000154    0,00 51201 BANCO        01      37,76       0,00     1.214,17 028 000 000 2-LIB   10/12/22   09/12/22             447 luiz     035 00004 DOURADOS
-      1.840 PAULO TRINDADE LEITE  022604535000104    0,00 51201 BANCO        01       6,01-      0,00       201,75 021 000 000 2-LIB   10/12/22   09/12/22             447 luiz     035 00001 DOURADOS
-      1.841 LACERDA E MARTINS LTD 011356651000135    0,00 51201 PIX / DINH   01       4,82       0,00       150,38 000 000 000 2-LIB   10/12/22   09/12/22             447 luiz     035 00000 DOURADOS
-      1.842 MAXI POPULAR DOURADOS 012550675000193    0,00 51201 BANCO        01      18,45       0,00       370,02 028 000 000 2-LIB   12/12/22   12/12/22             447 luiz     035 00000 DOURADOS
-      1.843 MAXI POPULAR DOURADOS 012550675000274    0,00 51201 BANCO        01      37,24       0,00       814,89 028 000 000 2-LIB   12/12/22   12/12/22             447 luiz     035 00001 DOURADOS
-      1.844 MAXI POPULAR DOURADOS 012550675000355    0,00 51201 BANCO        01      29,03       0,00       581,74 014 021 000 2-LIB   12/12/22   12/12/22             447 luiz     035 00001 DOURADOS
-      1.845 MAXI POPULAR DOURADOS 012550675000436    0,00 51201 BANCO        01      10,69       0,00       214,34 028 000 000 2-LIB   13/12/22   12/12/22             447 luiz     035 00000 DOURADOS
-      1.846 MAXI POPULAR DOURADOS 012550675000517    0,00 51201 BANCO        01      26,27       0,00       526,60 028 000 000 2-LIB   13/12/22   12/12/22             447 luiz     035 00001 DOURADOS
-      1.847 MAXI POPULAR DOURADOS 012550675000606    0,00 51201 BANCO        01      21,54       0,00       431,79 028 000 000 2-LIB   13/12/22   12/12/22             447 luiz     035 00000 DOURADOS
-      1.848 MAXI POPULAR DOURADOS 012550675000789    0,00 51201 BANCO        01      19,07       0,00       382,42 028 000 000 2-LIB   13/12/22   12/12/22             447 luiz     035 00001 DOURADOS
-      1.849 MAXI POPULAR DOURADOS 012550675000860    0,00 51201 BANCO        01      45,08       0,00       903,45 017 021 000 2-LIB   13/12/22   12/12/22             447 luiz     035 00002 DOURADOS
-      1.850 MAXI POPULAR DOURADOS 012550675000940    0,00 51201 BANCO        01      13,56       0,00       271,94 028 000 000 2-LIB   13/12/22   12/12/22             447 luiz     035 00000 DOURADOS
-      1.851 MAXI POPULAR DOURADOS 012550675001084    0,00 51201 BANCO        01      41,90       0,00       839,75 014 021 028 2-LIB   13/12/22   12/12/22             447 luiz     035 00002 DOURADOS
-      1.852 MAXI POPULAR DOURADOS 012550675001165    0,00 51201 BANCO        01      24,26       0,00       486,43 021 028 000 2-LIB   13/12/22   12/12/22             447 luiz     035 00001 DOURADOS
-      1.853 MAXI POPULAR DOURADOS 012550675001246    0,00 51201 BANCO        01      20,14       0,00       403,92 021 028 000 2-LIB   13/12/22   12/12/22             447 luiz     035 00001 DOURADOS
-      1.854 MAXI POPULAR DOURADOS 012550675001327    0,00 51201 BANCO        01      22,53       0,00       451,65 021 028 000 2-LIB   13/12/22   12/12/22             447 luiz     035 00001 DOURADOS
-
-0447   P   CAROL - B - VJ/ DOURADOS0447   P   CAROL - B - VJ/ DOURADOS0447   P   CAROL - B - VJ/ DOURADOS
-
-      1.823 FERNANDA DA SILVA LIM 044111883000182    0,00 51234 BANCO        01      15,43       0,00       309,07 021 000 000 1-BLO   06/12/22   05/12/22             447 luiz     035 00000 DOURADOS
-
-                                              Total Representante  Pedidos:      18      Valor:      10.171,63     Caixas:           0,00                                              Total Representante  Pedidos:      18      Valor:      10.171,63     Caixas:           0,00                                              Total Representante  Pedidos:      18      Valor:      10.171,63     Caixas:           0,00
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-0455   P   JOEL - B - VAREJO / CG0455   P   JOEL - B - VAREJO / CG0455   P   JOEL - B - VAREJO / CG
-
-      7.920 G. E. DOS SANTOS SOAR 097524505000197    0,00 51234 BANCO        01      12,03       0,00       241,02 021 000 000 1-BLO   08/12/22   07/12/22             455 luiz     005 00000 CAMPO GRANDE
-
-                                              Total Representante  Pedidos:       1      Valor:         241,02     Caixas:           0,00                                              Total Representante  Pedidos:       1      Valor:         241,02     Caixas:           0,00                                              Total Representante  Pedidos:       1      Valor:         241,02     Caixas:           0,00
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-0457   A   WALMIR - B - VAREJO / CG0457   A   WALMIR - B - VAREJO / CG0457   A   WALMIR - B - VAREJO / CG
-
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-TCG - TRIUNFANTE MATOGROSSENSE ALIMENTOS                                                                                                             12 Faturamento   Ref:ft12308
-Filial: CAMPO GRANDE                                                                                                                                              Emissao    Hora   Folha
-                                                                                   PEDIDOS A FATURAR                                                              13/12/22   12:01   0008
------GRUPO TRIUNFANTE---------------------------------------------------------------------------------------------------------------------------------------------Usuario: luiz----------
-
-0457   A   WALMIR - B - VAREJO / CG0457   A   WALMIR - B - VAREJO / CG0457   A   WALMIR - B - VAREJO / CG
-
-     Pedido *--------------Clientes-------------*  Margem  COF  Portador  Lista  Saldo DMC     Trocas Total Pedido Prazos      Situacao Dig/Imp Programado P.Broker  Repre Usuario  Reg QtdCx Cidade     Pedido *--------------Clientes-------------*  Margem  COF  Portador  Lista  Saldo DMC     Trocas Total Pedido Prazos      Situacao Dig/Imp Programado P.Broker  Repre Usuario  Reg QtdCx Cidade     Pedido *--------------Clientes-------------*  Margem  COF  Portador  Lista  Saldo DMC     Trocas Total Pedido Prazos      Situacao Dig/Imp Programado P.Broker  Repre Usuario  Reg QtdCx Cidade
-      6.916 E B DA SILVA ME       002568717000160    0,00 51201 BANCO        01       6,12-      0,00       292,93 021 000 000 2-LIB   13/12/22   12/12/22             457 luiz     034 00001 CORUMBA
-      6.917 E B C DA SILVA E CIA  004843882000108    0,00 51201 BANCO        01       6,11-      0,00       280,28 021 000 000 2-LIB   13/12/22   12/12/22             457 luiz     034 00001 LADARIO
-
-                                              Total Representante  Pedidos:       2      Valor:         573,21     Caixas:           0,00                                              Total Representante  Pedidos:       2      Valor:         573,21     Caixas:           0,00                                              Total Representante  Pedidos:       2      Valor:         573,21     Caixas:           0,00
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-0801   A   COORD CLAUDIO BRAVO0801   A   COORD CLAUDIO BRAVO0801   A   COORD CLAUDIO BRAVO
-
-        176 ASSIS E PASSOS LTDA   003675544000222    0,00 51201 BANCO        01     169,22       0,00     7.327,89 028 000 000 2-LIB   09/12/22   09/12/22             801 luiz     051 00025 CAMAPUA
-
-                                              Total Representante  Pedidos:       1      Valor:       7.327,89     Caixas:           0,00                                              Total Representante  Pedidos:       1      Valor:       7.327,89     Caixas:           0,00                                              Total Representante  Pedidos:       1      Valor:       7.327,89     Caixas:           0,00
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-0805   A   COORD BRENO0805   A   COORD BRENO0805   A   COORD BRENO
-
-         44 E B C DA SILVA E CIA  004843882000108    0,00 51201 BANCO        01      29,03-      0,00       238,72 028 000 000 2-LIB   13/12/22   12/12/22             805 luiz     034 00000 LADARIO
-         49 E B DA SILVA ME       002568717000160    0,00 51201 BANCO        01      26,83-      0,00       223,29 028 000 000 2-LIB   13/12/22   12/12/22             805 luiz     034 00000 CORUMBA
-
-                                              Total Representante  Pedidos:       2      Valor:         462,01     Caixas:           0,00                                              Total Representante  Pedidos:       2      Valor:         462,01     Caixas:           0,00                                              Total Representante  Pedidos:       2      Valor:         462,01     Caixas:           0,00
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-                                              Total Representante  Pedidos:       0      Valor:           0,00     Caixas:           0,00                                              Total Representante  Pedidos:       0      Valor:           0,00     Caixas:           0,00                                              Total Representante  Pedidos:       0      Valor:           0,00     Caixas:           0,00
-
-                                                      Total Geral  Pedidos:     178      Valor:     301.464,62     Caixas:           0,00                                                      Total Geral  Pedidos:     178      Valor:     301.464,62     Caixas:           0,00                                                      Total Geral  Pedidos:     178      Valor:     301.464,62     Caixas:           0,00

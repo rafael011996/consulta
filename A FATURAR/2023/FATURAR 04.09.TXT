@@ -1,130 +1,0 @@
- g 
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-TRIUNFANTE MATOGROSSENSE ALIMENTOS LTDA                                                                                                                                                 12 Faturamento          Ref:ft12308
-Filial: CAMPO GRANDE                                                                                                                                                                                 Emissao    Hora   Folha
-                                                                                                    PEDIDOS A FATURAR                                                                                04/09/23   10:48   0001
------GRUPO TRIUNFANTE--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------Usuario: willian-------
-
-0003   A   PJ LAURA - A - AQUIDAUANA0003   A   PJ LAURA - A - AQUIDAUANA0003   A   PJ LAURA - A - AQUIDAUANA
-
-     Pedido *--------------Clientes-------------*  Margem  COF  Portador  Lista  Saldo DMC     Trocas Total Pedido Prazos      Situacao Dig/Imp Programado P.Broker  Repre Usuario  Reg QtdCx Cidade     Pedido *--------------Clientes-------------*  Margem  COF  Portador  Lista  Saldo DMC     Trocas Total Pedido Prazos      Situacao Dig/Imp Programado P.Broker  Repre Usuario  Reg QtdCx Cidade     Pedido *--------------Clientes-------------*  Margem  COF  Portador  Lista  Saldo DMC     Trocas Total Pedido Prazos      Situacao Dig/Imp Programado P.Broker  Repre Usuario  Reg QtdCx Cidade
-      3.478 GILDA SILVA           034432961000197    0,00 51201 BANCO        01       0,04-      0,00     1.074,07 014 028 000 2-LIB   31/08/23   01/09/23               3 anapb    033 00008 AQUIDAUANA
-
-                                              Total Representante  Pedidos:       1      Valor:       1.074,07     Caixas:           0,00                                              Total Representante  Pedidos:       1      Valor:       1.074,07     Caixas:           0,00                                              Total Representante  Pedidos:       1      Valor:       1.074,07     Caixas:           0,00
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-0004   A   PJ LUAN - AB - FATIMA DO SUL0004   A   PJ LUAN - AB - FATIMA DO SUL0004   A   PJ LUAN - AB - FATIMA DO SUL
-
-      6.028 V A GOMES E CIA LTDA  033189598000168    0,00 51201 BANCO        01       0,00       0,00       310,70 028 000 000 2-LIB   01/09/23   01/09/23               4 willian  044 00001 FATIMA DO SUL
-      6.029 JORGE PAULO SILVA     005027616000170    0,00 51201 BANCO        01       2,67-      0,00     1.080,00 035 000 000 2-LIB   01/09/23   01/09/23               4 willian  044 00001 FATIMA DO SUL
-      6.030 RODRIGUES E CARVALHO  000984716000170    0,00 51201 BANCO        01       0,03-      0,00       315,57 028 000 000 2-LIB   01/09/23   01/09/23               4 willian  044 00001 VICENTINA
-
-                                              Total Representante  Pedidos:       3      Valor:       1.706,27     Caixas:           0,00                                              Total Representante  Pedidos:       3      Valor:       1.706,27     Caixas:           0,00                                              Total Representante  Pedidos:       3      Valor:       1.706,27     Caixas:           0,00
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-0005   A   PJ JOAO CARLOS -AB- N.ANDRADI0005   A   PJ JOAO CARLOS -AB- N.ANDRADI0005   A   PJ JOAO CARLOS -AB- N.ANDRADI
-
-     12.881 MATOS E SILVA LTDA    011311873000301    0,00 51201 BANCO        01       0,01-      0,00       398,86 028 000 000 2-LIB   31/08/23   01/09/23               5 anapb    045 00003 NOVA ANDRADINA
-     12.882 SOUZA E QUEIROZ ALIME 007297361000190    0,00 51201 BANCO        01       0,00       0,00     1.840,29 028 000 000 2-LIB   31/08/23   01/09/23               5 anapb    045 00006 NOVA ANDRADINA
-
-                                              Total Representante  Pedidos:       2      Valor:       2.239,15     Caixas:           0,00                                              Total Representante  Pedidos:       2      Valor:       2.239,15     Caixas:           0,00                                              Total Representante  Pedidos:       2      Valor:       2.239,15     Caixas:           0,00
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-0009   A   PJ MARCOS - AB - CHAPADAO0009   A   PJ MARCOS - AB - CHAPADAO0009   A   PJ MARCOS - AB - CHAPADAO
-
-      3.754 D C PRODUTOS ALIMENTI 015000097000452    0,00 51201 BANCO        01      36,86-      0,00     2.208,57 028 000 000 2-LIB   01/09/23   01/09/23               9 willian  039 00012 CHAPADAO DO SUL
-
-                                              Total Representante  Pedidos:       1      Valor:       2.208,57     Caixas:           0,00                                              Total Representante  Pedidos:       1      Valor:       2.208,57     Caixas:           0,00                                              Total Representante  Pedidos:       1      Valor:       2.208,57     Caixas:           0,00
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-0012   A   VAGO -AB- B.VISTA-BONITO0012   A   VAGO -AB- B.VISTA-BONITO0012   A   VAGO -AB- B.VISTA-BONITO
-
-      3.137 ARY SERENA E CIA LTDA 001087634000196    0,00 51201 BANCO        01     125,73-      0,00     1.445,67 028 000 000 2-LIB   01/09/23   02/09/23              12 willian  046 00009 BELA VISTA
-      3.138 SERENA E CIA LTDA     000201278000399    0,00 51201 BANCO        01     103,51-      0,00     1.480,12 028 000 000 2-LIB   04/09/23   02/09/23              12 willian  046 00011 CARACOL
-      3.139 SERENA E CIA LTDA     000201278000127    0,00 51201 BANCO        01     125,73-      0,00     1.445,67 020 000 000 2-LIB   04/09/23   02/09/23              12 willian  046 00009 BELA VISTA
-
-                                              Total Representante  Pedidos:       3      Valor:       4.371,46     Caixas:           0,00                                              Total Representante  Pedidos:       3      Valor:       4.371,46     Caixas:           0,00                                              Total Representante  Pedidos:       3      Valor:       4.371,46     Caixas:           0,00
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-0014   A   LUA DOUGLAS  - A - CORUMBA0014   A   LUA DOUGLAS  - A - CORUMBA0014   A   LUA DOUGLAS  - A - CORUMBA
-
-      3.832 BENITA CONDORI VARGAS 044126038000180    0,00 51201 PIX / DINH   01      39,57-      0,00       181,55 000 000 000 2-LIB   01/09/23   01/09/23              14 willian  034 00001 CORUMBA
-
-                                              Total Representante  Pedidos:       1      Valor:         181,55     Caixas:           0,00                                              Total Representante  Pedidos:       1      Valor:         181,55     Caixas:           0,00                                              Total Representante  Pedidos:       1      Valor:         181,55     Caixas:           0,00
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-0015   A   PJ JOSE FRANCISCO - AB - PONTA0015   A   PJ JOSE FRANCISCO - AB - PONTA0015   A   PJ JOSE FRANCISCO - AB - PONTA
-
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-TRIUNFANTE MATOGROSSENSE ALIMENTOS LTDA                                                                                                                                                 12 Faturamento          Ref:ft12308
-Filial: CAMPO GRANDE                                                                                                                                                                                 Emissao    Hora   Folha
-                                                                                                    PEDIDOS A FATURAR                                                                                04/09/23   10:48   0002
------GRUPO TRIUNFANTE--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------Usuario: willian-------
-
-0015   A   PJ JOSE FRANCISCO - AB - PONTA0015   A   PJ JOSE FRANCISCO - AB - PONTA0015   A   PJ JOSE FRANCISCO - AB - PONTA
-
-     Pedido *--------------Clientes-------------*  Margem  COF  Portador  Lista  Saldo DMC     Trocas Total Pedido Prazos      Situacao Dig/Imp Programado P.Broker  Repre Usuario  Reg QtdCx Cidade     Pedido *--------------Clientes-------------*  Margem  COF  Portador  Lista  Saldo DMC     Trocas Total Pedido Prazos      Situacao Dig/Imp Programado P.Broker  Repre Usuario  Reg QtdCx Cidade     Pedido *--------------Clientes-------------*  Margem  COF  Portador  Lista  Saldo DMC     Trocas Total Pedido Prazos      Situacao Dig/Imp Programado P.Broker  Repre Usuario  Reg QtdCx Cidade
-      4.070 HIPERMERCADO BOM GOST 015489834000180    0,00 51201 BANCO        01      43,86-      0,00       232,34 021 000 000 2-LIB   04/09/23   01/09/23              15 willian  032 00003 PONTA PORA
-    810.004 A R S SUPERMERCADOS L 020335148000275    0,00 51201 BANCO        01     218,28-      0,00     1.363,89 034 000 000 2-LIB   04/09/23   01/09/23              15 willian  320 00005 PONTA PORA
-
-                                              Total Representante  Pedidos:       2      Valor:       1.596,23     Caixas:           0,00                                              Total Representante  Pedidos:       2      Valor:       1.596,23     Caixas:           0,00                                              Total Representante  Pedidos:       2      Valor:       1.596,23     Caixas:           0,00
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-0019   A   PJ RODRIGO - AB - NAVIRAI0019   A   PJ RODRIGO - AB - NAVIRAI0019   A   PJ RODRIGO - AB - NAVIRAI
-
-      2.586 JCHAGAS ALIMENTOS LTD 006813685001496    0,00 51201 BANCO        01   1.202,08-      0,00    18.838,17 028 000 000 2-LIB   04/09/23   01/09/23              19 willian  042 00031 NAVIRAI
-
-                                              Total Representante  Pedidos:       1      Valor:      18.838,17     Caixas:           0,00                                              Total Representante  Pedidos:       1      Valor:      18.838,17     Caixas:           0,00                                              Total Representante  Pedidos:       1      Valor:      18.838,17     Caixas:           0,00
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-0021   A   PJ SIDMAR - AB - AGUA RIBAS0021   A   PJ SIDMAR - AB - AGUA RIBAS0021   A   PJ SIDMAR - AB - AGUA RIBAS
-
-      3.587 MARDEGAN E SANTOS LTD 013425704000158    0,00 51201 BANCO        01      25,92       0,00       518,98 014 021 000 2-LIB   01/09/23   01/09/23              21 willian  301 00001 RIBAS DO RIO PARDO
-      3.588 SR MARDEGAN           030076512000100    0,00 51201 BANCO        01      25,79-      0,00     1.306,80 014 021 028 2-LIB   01/09/23   01/09/23              21 willian  301 00004 RIBAS DO RIO PARDO
-
-                                              Total Representante  Pedidos:       2      Valor:       1.825,78     Caixas:           0,00                                              Total Representante  Pedidos:       2      Valor:       1.825,78     Caixas:           0,00                                              Total Representante  Pedidos:       2      Valor:       1.825,78     Caixas:           0,00
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-0411   A   PJ CLARA -B- TRES LAGOAS0411   A   PJ CLARA -B- TRES LAGOAS0411   A   PJ CLARA -B- TRES LAGOAS
-
-      5.034 JOSE EDUARDO TURIBIO  025125696000103    0,00 51201 BANCO        01       5,56       0,00       653,16 014 021 028 2-LIB   01/09/23   01/09/23             411 willian  030 00002 TRES LAGOAS
-      5.035 DROGARIA ODEON LTDA   000199752000638    0,00 51201 BANCO        01       2,05       0,00       210,99 021 000 000 2-LIB   31/08/23   01/09/23             411 silvia   030 00000 TRES LAGOAS
-
-                                              Total Representante  Pedidos:       2      Valor:         864,15     Caixas:           0,00                                              Total Representante  Pedidos:       2      Valor:         864,15     Caixas:           0,00                                              Total Representante  Pedidos:       2      Valor:         864,15     Caixas:           0,00
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-0413   A   PJ EZEQUIAS - B - AQUIDAUANA0413   A   PJ EZEQUIAS - B - AQUIDAUANA0413   A   PJ EZEQUIAS - B - AQUIDAUANA
-
- 49.815.233 DAMASCENO E DAMASCENO 001274396000390    0,00 51201 ECOM BANCO   01       0,00       0,00       502,80 028 000 000 2-LIB   01/09/23   01/09/23             413          330 00002 AQUIDAUANA
- 49.815.263 DAMASCENO E DAMASCENO 001274396000632    0,00 51201 ECOM BANCO   01       0,00       0,00     6.536,40 028 000 000 2-LIB   01/09/23   01/09/23             413          330 00038 ANASTACIO
-
-                                              Total Representante  Pedidos:       2      Valor:       7.039,20     Caixas:           0,00                                              Total Representante  Pedidos:       2      Valor:       7.039,20     Caixas:           0,00                                              Total Representante  Pedidos:       2      Valor:       7.039,20     Caixas:           0,00
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-0414   P   PJ ELISANDRA - B - CORUMBA0414   P   PJ ELISANDRA - B - CORUMBA0414   P   PJ ELISANDRA - B - CORUMBA
-
-      6.438 R B GIMENES           014110529000172    0,00 51201 PIX / DINH   09       5,69-      0,00       108,20 000 000 000 1-BLO   25/08/23   24/08/23             414 anapb    034 00000 CORUMBA
-
-                                              Total Representante  Pedidos:       1      Valor:         108,20     Caixas:           0,00                                              Total Representante  Pedidos:       1      Valor:         108,20     Caixas:           0,00                                              Total Representante  Pedidos:       1      Valor:         108,20     Caixas:           0,00
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-0447   A   CAROL - B - VJ DOURADOS0447   A   CAROL - B - VJ DOURADOS0447   A   CAROL - B - VJ DOURADOS
-
-      2.661 A. P. TEIXEIRA E CIA  019813076000164    0,00 51201 BANCO        01      20,46       0,00       409,75 014 021 000 2-LIB   01/09/23   01/09/23             447 willian  035 00001 ITAPORA
-
-                                              Total Representante  Pedidos:       1      Valor:         409,75     Caixas:           0,00                                              Total Representante  Pedidos:       1      Valor:         409,75     Caixas:           0,00                                              Total Representante  Pedidos:       1      Valor:         409,75     Caixas:           0,00
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-TRIUNFANTE MATOGROSSENSE ALIMENTOS LTDA                                                                                                                                                 12 Faturamento          Ref:ft12308
-Filial: CAMPO GRANDE                                                                                                                                                                                 Emissao    Hora   Folha
-                                                                                                    PEDIDOS A FATURAR                                                                                04/09/23   10:48   0003
------GRUPO TRIUNFANTE--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------Usuario: willian-------
-
-0989   E   ECOMMERCE WHATSAPP0989   E   ECOMMERCE WHATSAPP0989   E   ECOMMERCE WHATSAPP
-
-     Pedido *--------------Clientes-------------*  Margem  COF  Portador  Lista  Saldo DMC     Trocas Total Pedido Prazos      Situacao Dig/Imp Programado P.Broker  Repre Usuario  Reg QtdCx Cidade     Pedido *--------------Clientes-------------*  Margem  COF  Portador  Lista  Saldo DMC     Trocas Total Pedido Prazos      Situacao Dig/Imp Programado P.Broker  Repre Usuario  Reg QtdCx Cidade     Pedido *--------------Clientes-------------*  Margem  COF  Portador  Lista  Saldo DMC     Trocas Total Pedido Prazos      Situacao Dig/Imp Programado P.Broker  Repre Usuario  Reg QtdCx Cidade
- 49.819.664 BONANCA COM DE ALIMEN 010513998000181    0,00 51201 ECOM BANCO   01       4,67       0,00       308,69 028 000 000 0-DIG   04/09/23   04/09/23             989          023 00000 CAMPO GRANDE
-
-                                              Total Representante  Pedidos:       1      Valor:         308,69     Caixas:           0,00                                              Total Representante  Pedidos:       1      Valor:         308,69     Caixas:           0,00                                              Total Representante  Pedidos:       1      Valor:         308,69     Caixas:           0,00
-
-                                                      Total Geral  Pedidos:      23      Valor:      42.771,24     Caixas:           0,00                                                      Total Geral  Pedidos:      23      Valor:      42.771,24     Caixas:           0,00                                                      Total Geral  Pedidos:      23      Valor:      42.771,24     Caixas:           0,00

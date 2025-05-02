@@ -1,204 +1,0 @@
- M 
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-TCG - TRIUNFANTE MATOGROSSENSE ALIMENTOS                                                                                                             12 Faturamento   Ref:ft12308
-Filial: CAMPO GRANDE                                                                                                                                              Emissao    Hora   Folha
-                                                                                   PEDIDOS A FATURAR                                                              26/05/23   12:15   0001
------GRUPO TRIUNFANTE---------------------------------------------------------------------------------------------------------------------------------------------Usuario: alyfer--------
-
-0003   A   PJ LAURA - A - AQUIDAUANA0003   A   PJ LAURA - A - AQUIDAUANA0003   A   PJ LAURA - A - AQUIDAUANA
-
-     Pedido *--------------Clientes-------------*  Margem  COF  Portador  Lista  Saldo DMC     Trocas Total Pedido Prazos      Situacao Dig/Imp Programado P.Broker  Repre Usuario  Reg QtdCx Cidade     Pedido *--------------Clientes-------------*  Margem  COF  Portador  Lista  Saldo DMC     Trocas Total Pedido Prazos      Situacao Dig/Imp Programado P.Broker  Repre Usuario  Reg QtdCx Cidade     Pedido *--------------Clientes-------------*  Margem  COF  Portador  Lista  Saldo DMC     Trocas Total Pedido Prazos      Situacao Dig/Imp Programado P.Broker  Repre Usuario  Reg QtdCx Cidade
-      3.265 DAMASCENO E DAMASCENO 001274396000632    0,00 51201 BANCO        01     144,23-      0,00     2.348,97 021 028 035 2-LIB   23/05/23   22/05/23               3 alyfer   330 00012 ANASTACIO
-      3.266 ANTONIO FERREIRA DOS  004527097000146    0,00 51201 BANCO        01       9,35-      0,00       277,97 021 000 000 2-LIB   22/05/23   22/05/23               3 alyfer   033 00001 ANASTACIO
-      3.267 ANTONIO FERREIRA DOS  004527097000146    0,00 59901 BONIFICACA   01      11,16-      0,00        11,16 000 000 000 2-LIB   22/05/23   22/05/23               3 alyfer   033 00000 ANASTACIO
-      3.268 SUPERMERCADO NACAGAMI 010389924000185    0,00 51201 BANCO        01       0,03-      0,00       426,58 021 000 000 2-LIB   23/05/23   22/05/23               3 alyfer   033 00001 AQUIDAUANA
-      3.270 UJOHNY SANTOS QUEIROZ 017017752000168    0,00 51201 BANCO        01       1,24-      0,00       526,53 021 028 000 2-LIB   24/05/23   23/05/23               3 luiz     033 00003 ANASTACIO
-      3.271 ASSIS E MELO LTDA ME  023678670000167    0,00 51201 BANCO        01       0,02-      0,00       215,41 021 000 000 2-LIB   23/05/23   23/05/23               3 alyfer   033 00001 AQUIDAUANA
-      3.272 UJOHNY SANTOS QUEIROZ 017017752000168    0,00 59901 BONIFICACA   01      98,02-      0,00        98,02 000 000 000 2-LIB   23/05/23   23/05/23               3 alyfer   033 00000 ANASTACIO
-      3.273 DIOLINDA DA CONCEICAO 037570371000119    0,00 51201 BANCO        01       0,03-      0,00       694,24 021 028 000 2-LIB   23/05/23   23/05/23               3 alyfer   033 00004 AQUIDAUANA
-      3.274 DIOLINDA DA CONCEICAO 037570371000119    0,00 59901 BONIFICACA   01      16,16-      0,00        16,16 000 000 000 2-LIB   23/05/23   23/05/23               3 alyfer   033 00000 AQUIDAUANA
-      3.275 FALKIEVICZ E NIEHUIES 013728591000160    0,00 51201 BANCO        01       8,01       0,00       627,86 021 028 000 2-LIB   24/05/23   24/05/23               3 alyfer   331 00003 BODOQUENA
-      3.276 FALKIEVICZ E NIEHUIES 013728591000160    0,00 59901 BONIFICACA   01      34,35-      0,00        34,35 000 000 000 2-LIB   24/05/23   24/05/23               3 alyfer   331 00000 BODOQUENA
-      3.277 FALKIEVICZ E NIEHUIES 013728591000240    0,00 51201 BANCO        01      18,83-      0,00       576,99 021 028 000 2-LIB   25/05/23   24/05/23               3 alyfer   331 00002 BODOQUENA
-      3.278 ROSSANA LORENZO BARBO 007249369000262    0,00 51201 BANCO        01      42,14-      0,00     1.237,53 021 028 035 2-LIB   25/05/23   24/05/23               3 alyfer   331 00009 MIRANDA
-      3.279 ROSSANA LORENZO BARBO 007249369000262    0,00 59901 BONIFICACA   01      60,16-      0,00        60,16 000 000 000 2-LIB   25/05/23   24/05/23               3 alyfer   331 00000 MIRANDA
-      3.280 FALKIEVICZ E NIEHUIES 013728591000240    0,00 59901 BONIFICACA   01      11,16-      0,00        11,16 000 000 000 2-LIB   25/05/23   24/05/23               3 alyfer   331 00000 BODOQUENA
-      3.281 AQUINO COMERCIO VAREJ 001547436000168    0,00 51201 BANCO        01      74,53-      0,00     2.753,02 021 028 035 2-LIB   25/05/23   24/05/23               3 alyfer   331 00016 BODOQUENA
-      3.282 AQUINO COMERCIO VAREJ 001547436000168    0,00 59901 BONIFICACA   01     172,80-      0,00       172,80 000 000 000 2-LIB   25/05/23   24/05/23               3 alyfer   331 00001 BODOQUENA
-      3.283 JOAO ROBERTO TAVEIRA  005558376000300    0,00 51201 BANCO        01      42,37-      0,00       627,38 021 028 000 2-LIB   26/05/23   25/05/23               3 luiz     330 00003 AQUIDAUANA
-      3.284 OLIVEIRA E FREIRE LTD 036999542000167    0,00 51201 PIX / DINH   01       0,00       0,00       279,28 000 000 000 2-LIB   25/05/23   25/05/23               3 luiz     033 00002 AQUIDAUANA
-      3.285 EVERALDO DE OLIVEIRA  017184625000153    0,00 51201 PIX / DINH   01       0,00       0,00       279,28 000 000 000 2-LIB   25/05/23   25/05/23               3 alyfer   033 00002 ANASTACIO
-
-                                              Total Representante  Pedidos:      20      Valor:      11.274,85     Caixas:           0,00                                              Total Representante  Pedidos:      20      Valor:      11.274,85     Caixas:           0,00                                              Total Representante  Pedidos:      20      Valor:      11.274,85     Caixas:           0,00
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-0005   A   PJ JOAO CARLOS -AB- N.ANDRADI0005   A   PJ JOAO CARLOS -AB- N.ANDRADI0005   A   PJ JOAO CARLOS -AB- N.ANDRADI
-
-     12.367 A M DE MATOS EIRELI M 001460437000170    0,00 51201 BANCO        01     141,23-      0,00     2.091,27 021 028 000 2-LIB   25/05/23   25/05/23               5 luiz     450 00010 SANTA RITA DO PARDO
-     12.369 GULART E CIA LTDA EPP 005330582000198    0,00 51201 BANCO        01      21,90       0,00     3.125,11 028 000 000 2-LIB   25/05/23   25/05/23               5 luiz     450 00013 SANTA RITA DO PARDO
-     12.370 GULART E CIA LTDA EPP 005330582000198    0,00 59901 BONIFICACA   01      44,64-      0,00        44,64 000 000 000 2-LIB   25/05/23   25/05/23               5 luiz     450 00000 SANTA RITA DO PARDO
-
-0005   P   PJ JOAO CARLOS -AB- N.ANDRADI0005   P   PJ JOAO CARLOS -AB- N.ANDRADI0005   P   PJ JOAO CARLOS -AB- N.ANDRADI
-
-     12.358 CILHA PEREIRA ME      015619835000100    0,00 51201 BANCO        01       1,65-      0,00       287,26 028 000 000 1-BLO   24/05/23   24/05/23               5 alyfer   045 00001 NOVA ANDRADINA
-
-                                              Total Representante  Pedidos:       4      Valor:       5.548,28     Caixas:           0,00                                              Total Representante  Pedidos:       4      Valor:       5.548,28     Caixas:           0,00                                              Total Representante  Pedidos:       4      Valor:       5.548,28     Caixas:           0,00
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-0008   A   PJ LUDY HENRIQUE -A-COXIM0008   A   PJ LUDY HENRIQUE -A-COXIM0008   A   PJ LUDY HENRIQUE -A-COXIM
-
-      2.824 BENFICA SUPERMERCADOS 037532249000158    0,00 51201 BANCO        01   1.962,97-      0,00    15.363,06 007 000 000 2-LIB   26/05/23   25/05/23               8 alyfer   410 00133 SAO GABRIEL DO OESTE
-
-                                              Total Representante  Pedidos:       1      Valor:      15.363,06     Caixas:           0,00                                              Total Representante  Pedidos:       1      Valor:      15.363,06     Caixas:           0,00                                              Total Representante  Pedidos:       1      Valor:      15.363,06     Caixas:           0,00
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-0012   A   PJ JOELSON -AB- B.VISTA-BONITO0012   A   PJ JOELSON -AB- B.VISTA-BONITO0012   A   PJ JOELSON -AB- B.VISTA-BONITO
-
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-TCG - TRIUNFANTE MATOGROSSENSE ALIMENTOS                                                                                                             12 Faturamento   Ref:ft12308
-Filial: CAMPO GRANDE                                                                                                                                              Emissao    Hora   Folha
-                                                                                   PEDIDOS A FATURAR                                                              26/05/23   12:15   0002
------GRUPO TRIUNFANTE---------------------------------------------------------------------------------------------------------------------------------------------Usuario: alyfer--------
-
-0012   A   PJ JOELSON -AB- B.VISTA-BONITO0012   A   PJ JOELSON -AB- B.VISTA-BONITO0012   A   PJ JOELSON -AB- B.VISTA-BONITO
-
-     Pedido *--------------Clientes-------------*  Margem  COF  Portador  Lista  Saldo DMC     Trocas Total Pedido Prazos      Situacao Dig/Imp Programado P.Broker  Repre Usuario  Reg QtdCx Cidade     Pedido *--------------Clientes-------------*  Margem  COF  Portador  Lista  Saldo DMC     Trocas Total Pedido Prazos      Situacao Dig/Imp Programado P.Broker  Repre Usuario  Reg QtdCx Cidade     Pedido *--------------Clientes-------------*  Margem  COF  Portador  Lista  Saldo DMC     Trocas Total Pedido Prazos      Situacao Dig/Imp Programado P.Broker  Repre Usuario  Reg QtdCx Cidade
-      2.804 GMAIS COMERCIO DE ALI 033168717000600    0,00 51201 BANCO        01      19,76       0,00       718,49 028 000 000 2-LIB   24/05/23   23/05/23              12 luiz     036 00001 NOVA ALVORADA DO SUL
-      2.815 SERENA E CIA LTDA     000201278000399    0,00 51201 BANCO        01      59,61-      0,00     1.072,66 021 000 000 2-LIB   26/05/23   25/05/23              12 alyfer   046 00001 CARACOL
-      2.819 GMAIS COMERCIO DE ALI 033168717000600    0,00 51201 BANCO        01     116,63       0,00     2.333,28 028 000 000 2-LIB   25/05/23   25/05/23              12 luiz     036 00015 NOVA ALVORADA DO SUL
-
-                                              Total Representante  Pedidos:       3      Valor:       4.124,43     Caixas:           0,00                                              Total Representante  Pedidos:       3      Valor:       4.124,43     Caixas:           0,00                                              Total Representante  Pedidos:       3      Valor:       4.124,43     Caixas:           0,00
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-0019   A   PJ RODRIGO - AB - NAVIRAI0019   A   PJ RODRIGO - AB - NAVIRAI0019   A   PJ RODRIGO - AB - NAVIRAI
-
-      2.195 C VALE COOPERATIVA AG 077863223020990    0,00 51201 BANCO        01   1.391,04-      0,00     9.866,39 028 000 000 2-LIB   24/05/23   23/05/23              19 alyfer   037 00071 RIO BRILHANTE
-      2.211 C VALE COOPERATIVA AG 077863223020990    0,00 51201 BANCO        01      61,74-      0,00       357,21 028 000 000 2-LIB   26/05/23   25/05/23              19 alyfer   037 00003 RIO BRILHANTE
-
-                                              Total Representante  Pedidos:       2      Valor:      10.223,60     Caixas:           0,00                                              Total Representante  Pedidos:       2      Valor:      10.223,60     Caixas:           0,00                                              Total Representante  Pedidos:       2      Valor:      10.223,60     Caixas:           0,00
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-0023   A   PJ LUCAS -AB-SATELITE0023   A   PJ LUCAS -AB-SATELITE0023   A   PJ LUCAS -AB-SATELITE
-
-        499 ROBERTO CARLOS DA SIL 022289301000110    0,00 51201 PIX / DINH   01       0,90       0,00       472,92 000 000 000 2-LIB   25/05/23   24/05/23              23 alyfer   051 00001 CAMAPUA
-        500 ASSIS E PASSOS LTDA   003675544000222    0,00 51201 BANCO        01      15,66-      0,00     1.655,94 028 000 000 2-LIB   25/05/23   24/05/23              23 alyfer   051 00007 CAMAPUA
-        501 ASSIS E PASSOS LTDA   003675544000222    0,00 51201 BANCO        01     105,93-      0,00     1.584,90 028 000 000 2-LIB   25/05/23   24/05/23              23 alyfer   051 00010 CAMAPUA
-        502 ASSIS E PASSOS LTDA   003675544000222    0,00 59901 BONIFICACA   01      49,00-      0,00        49,00 000 000 000 2-LIB   25/05/23   24/05/23              23 alyfer   051 00000 CAMAPUA
-        503 LUZIA MAIDANA DA ROCH 074007519000138    0,00 51201 PIX / DINH   01      45,76-      0,00       451,38 000 000 000 2-LIB   25/05/23   24/05/23              23 alyfer   051 00002 CAMAPUA
-        504 ASSIS E PASSOS LTDA   003675544000222    0,00 51201 BANCO        01       0,10-      0,00     1.220,51 021 000 000 2-LIB   25/05/23   24/05/23              23 alyfer   051 00002 CAMAPUA
-        505 MERCADO PRIMOS LTDA   046154534000254    0,00 51201 BANCO        01       0,04-      0,00     2.189,76 014 021 028 2-LIB   26/05/23   25/05/23              23 alyfer   051 00006 JARAGUARI
-
-                                              Total Representante  Pedidos:       7      Valor:       7.624,41     Caixas:           0,00                                              Total Representante  Pedidos:       7      Valor:       7.624,41     Caixas:           0,00                                              Total Representante  Pedidos:       7      Valor:       7.624,41     Caixas:           0,00
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-0101   A   PJ NARA -AB- CAPITAL0101   A   PJ NARA -AB- CAPITAL0101   A   PJ NARA -AB- CAPITAL
-
-      2.326 SUPERMERCADO ACACIA L 005103751000157    0,00 51201 BANCO        01     943,97-      0,00    11.667,68 028 000 000 2-LIB   26/05/23   25/05/23             101 alyfer   413 00096 TERENOS
-      2.327 SUPERMERCADO ACACIA L 005103751000157    0,00 59901 BONIFICACA   01     223,12-      0,00       223,12 000 000 000 2-LIB   25/05/23   25/05/23             101 luiz     413 00000 TERENOS
-
-                                              Total Representante  Pedidos:       2      Valor:      11.890,80     Caixas:           0,00                                              Total Representante  Pedidos:       2      Valor:      11.890,80     Caixas:           0,00                                              Total Representante  Pedidos:       2      Valor:      11.890,80     Caixas:           0,00
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-0151   A   SERGIO - A - VAREJO CG0151   A   SERGIO - A - VAREJO CG0151   A   SERGIO - A - VAREJO CG
-
-      9.062 MERCADO PONTO FACIL L 044263450000142    0,00 51201 PIX / DINH   01       3,98-      0,00       103,79 000 000 000 0-DIG   24/05/23   29/05/23             151 luiz     007 00000 CAMPO GRANDE
-      9.078 IVANI DOS SANTOS CAMA 041562482000150    0,00 51201 PIX / DINH   01       0,01-      0,00       106,39 000 000 000 0-DIG   24/05/23   29/05/23             151 alyfer   428 00000 CAMPO GRANDE
-      9.084 ELIANA FERREIRA DA SI 010930180000164    0,00 51201 PIX / DINH   01       0,05-      0,00       116,41 000 000 000 0-DIG   25/05/23   31/05/23             151 luiz     428 00000 CAMPO GRANDE
-
-                                              Total Representante  Pedidos:       3      Valor:         326,59     Caixas:           0,00                                              Total Representante  Pedidos:       3      Valor:         326,59     Caixas:           0,00                                              Total Representante  Pedidos:       3      Valor:         326,59     Caixas:           0,00
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-0403   A   ORIVELTON - B - AS/CAPITAL0403   A   ORIVELTON - B - AS/CAPITAL0403   A   ORIVELTON - B - AS/CAPITAL
-
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-TCG - TRIUNFANTE MATOGROSSENSE ALIMENTOS                                                                                                             12 Faturamento   Ref:ft12308
-Filial: CAMPO GRANDE                                                                                                                                              Emissao    Hora   Folha
-                                                                                   PEDIDOS A FATURAR                                                              26/05/23   12:15   0003
------GRUPO TRIUNFANTE---------------------------------------------------------------------------------------------------------------------------------------------Usuario: alyfer--------
-
-0403   A   ORIVELTON - B - AS/CAPITAL0403   A   ORIVELTON - B - AS/CAPITAL0403   A   ORIVELTON - B - AS/CAPITAL
-
-     Pedido *--------------Clientes-------------*  Margem  COF  Portador  Lista  Saldo DMC     Trocas Total Pedido Prazos      Situacao Dig/Imp Programado P.Broker  Repre Usuario  Reg QtdCx Cidade     Pedido *--------------Clientes-------------*  Margem  COF  Portador  Lista  Saldo DMC     Trocas Total Pedido Prazos      Situacao Dig/Imp Programado P.Broker  Repre Usuario  Reg QtdCx Cidade     Pedido *--------------Clientes-------------*  Margem  COF  Portador  Lista  Saldo DMC     Trocas Total Pedido Prazos      Situacao Dig/Imp Programado P.Broker  Repre Usuario  Reg QtdCx Cidade
-      3.584 OLIVEIRA E CARNEIRO L 009531413001068    0,00 51201 BANCO        01      28,08       0,00     2.420,09 028 035 042 2-LIB   19/05/23   19/05/23             403 luiz     413 00004 TERENOS
-
-                                              Total Representante  Pedidos:       1      Valor:       2.420,09     Caixas:           0,00                                              Total Representante  Pedidos:       1      Valor:       2.420,09     Caixas:           0,00                                              Total Representante  Pedidos:       1      Valor:       2.420,09     Caixas:           0,00
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-0408   A   PJ GILMAR - B - COXIM0408   A   PJ GILMAR - B - COXIM0408   A   PJ GILMAR - B - COXIM
-
-      4.331 DISTRIBUIDORA DE ALIM 002339292000117    0,00 51234 BANCO        01      12,33       0,00       246,90 014 000 000 2-LIB   18/05/23   17/05/23             408 alyfer   041 00001 SONORA
-      4.332 J PEIXOTO BARBOSA E C 004068545000190    0,00 51201 BANCO        01      10,96       0,00       219,72 021 000 000 2-LIB   18/05/23   17/05/23             408 alyfer   041 00001 SONORA
-      4.352 PATRICIA NUNES FRANCA 023556359000145    0,00 51201 PIX / DINH   01      17,66-      0,00       295,37 000 000 000 2-LIB   22/05/23   22/05/23             408 alyfer   041 00001 ALCINOPOLIS
-
-0408   P   PJ GILMAR - B - COXIM0408   P   PJ GILMAR - B - COXIM0408   P   PJ GILMAR - B - COXIM
-
-      4.355 UBALDO DOS SANTOS SAN 027066419000100    0,00 51234 BANCO        01       4,66       0,00       337,36 027 000 000 1-BLO   23/05/23   23/05/23             408 alyfer   041 00001 RIO VERDE DE MATO GROSSO
-
-                                              Total Representante  Pedidos:       4      Valor:       1.099,35     Caixas:           0,00                                              Total Representante  Pedidos:       4      Valor:       1.099,35     Caixas:           0,00                                              Total Representante  Pedidos:       4      Valor:       1.099,35     Caixas:           0,00
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-0410   A   PJ CLAYTON - B - MARACAJU0410   A   PJ CLAYTON - B - MARACAJU0410   A   PJ CLAYTON - B - MARACAJU
-
-      2.562 SUPERMERCADO CERRADO  019943952000177    0,00 51201 BANCO        01     121,27-      0,00     2.918,35 028 000 000 2-LIB   25/05/23   23/05/23             410 alyfer   036 00013 NOVA ALVORADA DO SUL
-      2.563 JOSE PEREIRA E SILVA  028878467000158    0,00 51201 BANCO        01       1,56       0,00       634,60 014 021 028 2-LIB   23/05/23   23/05/23             410 alyfer   036 00002 NOVA ALVORADA DO SUL
-      2.564 WAGNER MONTEIRO BARBO 019744159000149    0,00 51234 BANCO        01       2,06       0,00     1.297,65 014 021 028 2-LIB   23/05/23   23/05/23             410 alyfer   036 00003 NOVA ALVORADA DO SUL
-      2.565 GRILL CONVENIENCIA EI 010343194000181    0,00 51201 BANCO        01      14,04       0,00       610,20 014 021 028 2-LIB   24/05/23   23/05/23             410 alyfer   036 00001 NOVA ALVORADA DO SUL
-      2.566 MINI MERCADO SORRISO  002947326000156    0,00 51201 BANCO        01       1,63       0,00       641,40 014 021 028 2-LIB   24/05/23   23/05/23             410 alyfer   037 00002 RIO BRILHANTE
-      2.567 SANDRA CORREA RODRIGU 015008888000186    0,00 51201 BANCO        01       0,55       0,00       651,44 028 000 000 2-LIB   24/05/23   24/05/23             410 alyfer   036 00002 NOVA ALVORADA DO SUL
-      2.568 CRISTINA APARECIDA OL 022866770000154    0,00 51201 BANCO        01       2,63       0,00     3.629,98 014 021 028 2-LIB   24/05/23   24/05/23             410 alyfer   037 00010 RIO BRILHANTE
-      2.569 LUCAS ALLAN SCHWENGBE 023467253000175    0,00 51201 BANCO        01       5,01       0,00       340,97 021 000 000 2-LIB   24/05/23   24/05/23             410 alyfer   037 00001 RIO BRILHANTE
-      2.570 BASSO BASSO E GARLET  005885879000110    0,00 51201 PIX / DINH   01       0,01-      0,00       134,33 000 000 000 2-LIB   24/05/23   24/05/23             410 alyfer   037 00000 RIO BRILHANTE
-      2.571 MERCADO FENIX EIRELI  010567059000110    0,00 51201 BANCO        01      37,99       0,00     1.179,57 020 030 040 2-LIB   24/05/23   24/05/23             410 alyfer   037 00003 RIO BRILHANTE
-      2.572 PADOVANI E BALEEIRO L 017919137000147    0,00 51201 BANCO        01       4,16       0,00       218,54 028 000 000 2-LIB   24/05/23   24/05/23             410 luiz     037 00000 RIO BRILHANTE
-      2.573 SONILTON REIS DA ROSA 031711605000114    0,00 51201 BANCO        01       3,66       0,00       423,92 021 000 000 2-LIB   24/05/23   24/05/23             410 luiz     037 00001 RIO BRILHANTE
-      2.574 ROSELI CHAMORRO RUIZ  047418392000177    0,00 51201 PIX / DINH   01       0,00       0,00       126,20 000 000 000 2-LIB   24/05/23   24/05/23             410 luiz     037 00000 RIO BRILHANTE
-      2.575 CREUZA VIANA DE SOUZA 015105010000169    0,00 51201 PIX / DINH   01       8,83       0,00       176,76 000 000 000 2-LIB   24/05/23   24/05/23             410 luiz     037 00000 RIO BRILHANTE
-
-                                              Total Representante  Pedidos:      14      Valor:      12.983,91     Caixas:           0,00                                              Total Representante  Pedidos:      14      Valor:      12.983,91     Caixas:           0,00                                              Total Representante  Pedidos:      14      Valor:      12.983,91     Caixas:           0,00
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-0412   A   PJ JACKSON - B - JARDIM BONITO0412   A   PJ JACKSON - B - JARDIM BONITO0412   A   PJ JACKSON - B - JARDIM BONITO
-
-        197 GMAIS COMERCIO DE ALI 033168717000600    0,00 51201 BANCO        01      51,01       0,00     1.232,21 028 000 000 2-LIB   23/05/23   23/05/23             412 alyfer   036 00003 NOVA ALVORADA DO SUL
-
-                                              Total Representante  Pedidos:       1      Valor:       1.232,21     Caixas:           0,00                                              Total Representante  Pedidos:       1      Valor:       1.232,21     Caixas:           0,00                                              Total Representante  Pedidos:       1      Valor:       1.232,21     Caixas:           0,00
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-0413   A   PJ EZEQUIAS - B - AQUIDAUANA0413   A   PJ EZEQUIAS - B - AQUIDAUANA0413   A   PJ EZEQUIAS - B - AQUIDAUANA
-
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-TCG - TRIUNFANTE MATOGROSSENSE ALIMENTOS                                                                                                             12 Faturamento   Ref:ft12308
-Filial: CAMPO GRANDE                                                                                                                                              Emissao    Hora   Folha
-                                                                                   PEDIDOS A FATURAR                                                              26/05/23   12:15   0004
------GRUPO TRIUNFANTE---------------------------------------------------------------------------------------------------------------------------------------------Usuario: alyfer--------
-
-0413   A   PJ EZEQUIAS - B - AQUIDAUANA0413   A   PJ EZEQUIAS - B - AQUIDAUANA0413   A   PJ EZEQUIAS - B - AQUIDAUANA
-
-     Pedido *--------------Clientes-------------*  Margem  COF  Portador  Lista  Saldo DMC     Trocas Total Pedido Prazos      Situacao Dig/Imp Programado P.Broker  Repre Usuario  Reg QtdCx Cidade     Pedido *--------------Clientes-------------*  Margem  COF  Portador  Lista  Saldo DMC     Trocas Total Pedido Prazos      Situacao Dig/Imp Programado P.Broker  Repre Usuario  Reg QtdCx Cidade     Pedido *--------------Clientes-------------*  Margem  COF  Portador  Lista  Saldo DMC     Trocas Total Pedido Prazos      Situacao Dig/Imp Programado P.Broker  Repre Usuario  Reg QtdCx Cidade
-      5.463 UJOHNY SANTOS QUEIROZ 017017752000168    0,00 51201 BANCO        01      19,88-      0,00       215,68 028 000 000 2-LIB   23/05/23   22/05/23             413 alyfer   033 00001 ANASTACIO
-      5.464 SIMONE A SANTOS EIREL 042177442000158    0,00 51201 BANCO        01       2,74       0,00       295,52 021 000 000 2-LIB   23/05/23   22/05/23             413 alyfer   033 00001 AQUIDAUANA
-      5.467 ANTONIO FERREIRA DOS  004527097000146    0,00 51201 PIX / DINH   01       0,00       0,00       104,66 000 000 000 2-LIB   23/05/23   23/05/23             413 alyfer   033 00000 ANASTACIO
-      5.468 GLAUDISON ARAUJO LEIT 019950962000130    0,00 51201 PIX / DINH   01       2,11-      0,00       358,64 000 000 000 2-LIB   25/05/23   24/05/23             413 alyfer   033 00000 AQUIDAUANA
-      5.469 ASSIS E MELO LTDA ME  023678670000167    0,00 51201 BANCO        01      27,82-      0,00       423,14 021 000 000 2-LIB   26/05/23   25/05/23             413 alyfer   033 00001 AQUIDAUANA
-      5.470 GEDEILSON GERCINO LOP 023162608000118    0,00 51201 PIX / DINH   01       3,30-      0,00       150,47 000 000 000 2-LIB   25/05/23   24/05/23             413 alyfer   033 00001 AQUIDAUANA
-      5.477 MERCEARIA E CONVENIEN 019724120000160    0,00 51201 BANCO        01      19,88-      0,00       265,50 021 000 000 2-LIB   25/05/23   24/05/23             413 alyfer   033 00001 AQUIDAUANA
-      5.480 PAMELLA DOS SANTOS CO 032836147000102    0,00 51201 PIX / DINH   01       0,07-      0,00       450,89 000 000 000 2-LIB   25/05/23   25/05/23             413 alyfer   033 00001 ANASTACIO
-      5.481 ARNALDO DE ASSIS SANT 006332561000174    0,00 51201 BANCO        01       5,09       0,00       593,96 021 028 000 2-LIB   25/05/23   25/05/23             413 luiz     033 00002 ANASTACIO
-    880.007 GLAUDISON ARAUJO LEIT 019950962000130    0,00 51201 PIX / DINH   01       0,02-      0,00       291,62 000 000 000 2-LIB   25/05/23   24/05/23             413 alyfer   033 00000 AQUIDAUANA
-
-                                              Total Representante  Pedidos:      10      Valor:       3.150,08     Caixas:           0,00                                              Total Representante  Pedidos:      10      Valor:       3.150,08     Caixas:           0,00                                              Total Representante  Pedidos:      10      Valor:       3.150,08     Caixas:           0,00
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-0455   A   JOEL - B - VAREJO  CG0455   A   JOEL - B - VAREJO  CG0455   A   JOEL - B - VAREJO  CG
-
-      8.521 TAG RESTAURANTE E CON 049787623000145    0,00 51201 PIX / DINH   01      13,03       0,00       262,03 000 000 000 2-LIB   12/04/23   12/04/23             455 luiz     605 00000 CAMPO GRANDE
-      8.555 TAG RESTAURANTE E CON 049787623000145    0,00 51201 PIX / DINH   01      17,12       0,00       343,20 000 000 000 2-LIB   26/04/23   25/04/23             455 luiz     605 00001 CAMPO GRANDE
-      8.606 TAG RESTAURANTE E CON 049787623000145    0,00 51201 PIX / DINH   01      16,47       0,00       330,51 000 000 000 2-LIB   10/05/23   09/05/23             455 alyfer   605 00001 CAMPO GRANDE
-      8.694 TAG RESTAURANTE E CON 049787623000145    0,00 51201 PIX / DINH   01      25,33       0,00       507,68 000 000 000 2-LIB   24/05/23   23/05/23             455 alyfer   605 00001 CAMPO GRANDE
-
-                                              Total Representante  Pedidos:       4      Valor:       1.443,42     Caixas:           0,00                                              Total Representante  Pedidos:       4      Valor:       1.443,42     Caixas:           0,00                                              Total Representante  Pedidos:       4      Valor:       1.443,42     Caixas:           0,00
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-                                              Total Representante  Pedidos:       0      Valor:           0,00     Caixas:           0,00                                              Total Representante  Pedidos:       0      Valor:           0,00     Caixas:           0,00                                              Total Representante  Pedidos:       0      Valor:           0,00     Caixas:           0,00
-
-                                                      Total Geral  Pedidos:      76      Valor:      88.705,08     Caixas:           0,00                                                      Total Geral  Pedidos:      76      Valor:      88.705,08     Caixas:           0,00                                                      Total Geral  Pedidos:      76      Valor:      88.705,08     Caixas:           0,00
