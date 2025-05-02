@@ -23,7 +23,8 @@ if consulta:
     # Filtro de busca
     resultado = dados[dados.apply(lambda row: 
                                   consulta.lower() in str(row['Produto']).lower() or 
-                                  consulta.lower() in str(row['Descricao']).lower() or                          
+                                  consulta.lower() in str(row['Descricao']).lower() or 
+                                  consulta.lower() in str(row['Codigo Getin']).lower() or
                                   consulta.lower() in str(row['Produto Fornecedor']).lower(), 
                                   axis=1)]
     
