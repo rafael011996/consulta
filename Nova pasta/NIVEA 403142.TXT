@@ -1,38 +1,0 @@
- M 
-------------------------------------------------------------------------------------------------------------------------------------------------------
-TCG - TRIUNFANTE MATOGROSSENSE ALIMENTOS                                                                          12 Faturamento   Ref:lf07500
-Filial: CAMPO GRANDE                                                                                                           Emissao    Hora   Folha
-                                                               ESPELHO DE NOTA FISCAL                                          12/12/23   16:54   0001
------GRUPO TRIUNFANTE----------------------------------------------------------------------------------------------------------Usuario: willian-------
-
-    Operacao: 02102 COMPRA P/ COMERCIALIZACAO                                            Serie: 001 Nota:      403.142
-
-Destinatario: BDF NIVEA LTDA                                   046.389.383/0005 66               Emissao: 28/11/23
-
-    Endereco: ROD VICE PREF HERMENEGILDO                Numero:         Cidade: JUNDIAI              UF: SP Telefone:           11
-
-  Chave NF-e: 35231146389383000566550010004031421053718557
-
-  Codigo    Qtd Uni Descricao                                 Custo Vig   Custo NF  Custo Rep   Unitario   Desc   Vlr.Desc         Total ICMS MBruta  Codigo    Qtd Uni Descricao                                 Custo Vig   Custo NF  Custo Rep   Unitario   Desc   Vlr.Desc         Total ICMS MBruta  Codigo    Qtd Uni Descricao                                 Custo Vig   Custo NF  Custo Rep   Unitario   Desc   Vlr.Desc         Total ICMS MBruta
-----------------------------------------------------------------------------------------------------------------------------------------------------
-  330121      4 CX  PROTETOR SOLAR PH FPS30 GTS 100ML.12X200     358,52     358,52     358,52     358,51   0,00       0,00      1.434,06   07  35,00
-  332221      2 CX  PROTETOR SOLAR PH FPS50 GTS 100ML.12X200     424,38     424,38     424,38     424,37   0,00       0,00        848,75   07  35,00
-                                                                                                   Total das Mercadorias:       2.282,81                                                                                                   Total das Mercadorias:       2.282,81
-
-                       Frete:           0,00 Seguro:           0,00 Outras:           0,00 IPI:           0,00  Total NF:       2.282,81
-                                                                                                         Total de Trocas:           0,00
-                                                                                                      Total de Descontos:           0,00
-Base de Calculo(1):       2.282,81 Aliquota.......(1):   7,00 Valor ICMS.....(1):         159,79
-Base de Calculo(2):           0,00 Aliquota.......(2):   0,00 Valor ICMS.....(2):           0,00
-Base de Calculo(3):           0,00 Aliquota.......(3):   0,00 Valor ICMS.....(3):           0,00
-Base de Calculo(4):           0,00 Aliquota.......(4):   0,00 Valor ICMS.....(4):           0,00
-Isento............:           0,00 Outros............:           0,00
-
-Setor: 0000 Pedido:       0 Portador: BANCO
-
-Motivo da Devolucao:
-
-Desdobramentos: Titulo             Vecto          Valor
-                     0004031420 19/12/23         760,86
-                     0004031420 19/01/24         760,86
-                     0004031420 19/02/24         761,09

@@ -1,61 +1,0 @@
- g 
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-TCG - TRIUNFANTE MATOGROSSENSE ALIMENTOS                                                                                                                                                12 Faturamento          Ref:ft12308
-Filial: CAMPO GRANDE                                                                                                                                                                                 Emissao    Hora   Folha
-                                                                                                    PEDIDOS A FATURAR                                                                                29/02/24   12:58   0001
------GRUPO TRIUNFANTE--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------Usuario: willian-------
-
-0003   P   PJ LAURA - A - AQUIDAUANA0003   P   PJ LAURA - A - AQUIDAUANA0003   P   PJ LAURA - A - AQUIDAUANA
-
-     Pedido *--------------Clientes-------------*  Margem  COF  Portador  Lista  Saldo DMC     Trocas Total Pedido Prazos      Situacao Dig/Imp Programado P.Broker  Repre Usuario  Reg QtdCx Cidade     Pedido *--------------Clientes-------------*  Margem  COF  Portador  Lista  Saldo DMC     Trocas Total Pedido Prazos      Situacao Dig/Imp Programado P.Broker  Repre Usuario  Reg QtdCx Cidade     Pedido *--------------Clientes-------------*  Margem  COF  Portador  Lista  Saldo DMC     Trocas Total Pedido Prazos      Situacao Dig/Imp Programado P.Broker  Repre Usuario  Reg QtdCx Cidade
-      3.736 ALINE SANTOS FLORENCA 011237793000183    0,00 51201 BANCO        01       1,14       0,00       204,98 014 000 000 1-BLO   19/02/24   19/02/24               3 luiz     033 00001 AQUIDAUANA
-      3.737 AMARAL E GOIS LTDA  E 006133042000187    0,00 51201 BANCO        01       0,01-      0,00       840,87 021 000 000 2-LIB   20/02/24   20/02/24               3 luiz     331 00003 MIRANDA
- 30.629.831 ALINE SANTOS FLORENCA 011237793000183    0,00 51201 ECOM BANCO   01       9,44       0,00       327,60 014 000 000 1-BLO   19/02/24   19/02/24               3          033 00002 AQUIDAUANA
- 30.635.898 AMARAL E GOIS LTDA  E 006133042000187    0,00 51201 ECOM BANCO   01      50,13       0,00     1.741,08 021 000 000 1-BLO   21/02/24   21/02/24               3          331 00013 MIRANDA
-
-                                              Total Representante  Pedidos:       4      Valor:       3.114,53     Caixas:           0,00                                              Total Representante  Pedidos:       4      Valor:       3.114,53     Caixas:           0,00                                              Total Representante  Pedidos:       4      Valor:       3.114,53     Caixas:           0,00
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-0010   P   PJ CLAYTON - AB - MARACAJU0010   P   PJ CLAYTON - AB - MARACAJU0010   P   PJ CLAYTON - AB - MARACAJU
-
-      5.898 LOJA E SUPERMERCADO E 003514174000160    0,00 51201 BANCO        01       0,00       0,00       308,22 021 000 000 1-BLO   10/02/24   09/02/24              10 luiz     048 00001 MARACAJU
-
-                                              Total Representante  Pedidos:       1      Valor:         308,22     Caixas:           0,00                                              Total Representante  Pedidos:       1      Valor:         308,22     Caixas:           0,00                                              Total Representante  Pedidos:       1      Valor:         308,22     Caixas:           0,00
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-0151   P   SERGIO - A - VAREJO CG0151   P   SERGIO - A - VAREJO CG0151   P   SERGIO - A - VAREJO CG
-
-     10.321 ELOY COM VAREJISTA DE 038099536000189    0,00 51234 BANCO        01       0,79       0,00       277,62 021 000 000 1-BLO   23/02/24   23/02/24             151 willian  428 00002 CAMPO GRANDE
-
-                                              Total Representante  Pedidos:       1      Valor:         277,62     Caixas:           0,00                                              Total Representante  Pedidos:       1      Valor:         277,62     Caixas:           0,00                                              Total Representante  Pedidos:       1      Valor:         277,62     Caixas:           0,00
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-0407   P   PJ KAMILLA - B - DOURADOS0407   P   PJ KAMILLA - B - DOURADOS0407   P   PJ KAMILLA - B - DOURADOS
-
- 50.393.693 L R SUPERMERCADOS LTD 002349229000161    0,00 51201 ECOM BANCO   01      36,73       0,00     1.277,76 028 000 000 1-BLO   28/02/24   28/02/24             407          049 00007 DOURADOS
- 50.393.695 L R SUPERMERCADOS LTD 002349229000161    0,00 51201 ECOM BANCO   01      42,68       0,00     1.485,72 028 000 000 1-BLO   28/02/24   28/02/24             407          049 00004 DOURADOS
- 50.393.713 L R SUPERMERCADOS LTD 002349229000323    0,00 51201 ECOM BANCO   01      28,20       0,00       980,56 021 000 000 1-BLO   28/02/24   28/02/24             407          049 00006 DOURADOS
- 50.393.715 L R SUPERMERCADOS LTD 002349229000323    0,00 51201 ECOM BANCO   01      24,67       0,00       860,48 028 000 000 1-BLO   28/02/24   28/02/24             407          049 00004 DOURADOS
- 50.393.721 L R SUPERMERCADOS LTD 002349229000323    0,00 51201 ECOM BANCO   01      31,48       0,00     1.095,72 028 000 000 1-BLO   28/02/24   28/02/24             407          049 00002 DOURADOS
-
-                                              Total Representante  Pedidos:       5      Valor:       5.700,24     Caixas:           0,00                                              Total Representante  Pedidos:       5      Valor:       5.700,24     Caixas:           0,00                                              Total Representante  Pedidos:       5      Valor:       5.700,24     Caixas:           0,00
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-0451   P   MARIA - B - VAREJO  CG0451   P   MARIA - B - VAREJO  CG0451   P   MARIA - B - VAREJO  CG
-
-      9.432 ELOY COM VAREJISTA DE 038099536000189    0,00 51234 BANCO        01      23,15-      0,00       206,72 021 000 000 1-BLO   23/02/24   23/02/24             451 willian  428 00000 CAMPO GRANDE
-
-                                              Total Representante  Pedidos:       1      Valor:         206,72     Caixas:           0,00                                              Total Representante  Pedidos:       1      Valor:         206,72     Caixas:           0,00                                              Total Representante  Pedidos:       1      Valor:         206,72     Caixas:           0,00
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-0459   P   ERIKSON - B - VAREJO  CG0459   P   ERIKSON - B - VAREJO  CG0459   P   ERIKSON - B - VAREJO  CG
-
-      9.457 SOUZA E BERTEMES LTDA 012476120000149    0,00 51234 BANCO        01      40,79       0,00     4.304,55 007 014 021 1-BLO   29/02/24   29/02/24             459 luiz     418 00017 CAMPO GRANDE
- 50.394.065 SOUZA E BERTEMES LTDA 012476120000149    0,00 51234 ECOM BANCO   01      34,24       0,00     1.144,20 014 026 000 1-BLO   29/02/24   29/02/24             459          418 00001 CAMPO GRANDE
-
-                                              Total Representante  Pedidos:       2      Valor:       5.448,75     Caixas:           0,00                                              Total Representante  Pedidos:       2      Valor:       5.448,75     Caixas:           0,00                                              Total Representante  Pedidos:       2      Valor:       5.448,75     Caixas:           0,00
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-                                              Total Representante  Pedidos:       0      Valor:           0,00     Caixas:           0,00                                              Total Representante  Pedidos:       0      Valor:           0,00     Caixas:           0,00                                              Total Representante  Pedidos:       0      Valor:           0,00     Caixas:           0,00
-
-                                                      Total Geral  Pedidos:      14      Valor:      15.056,08     Caixas:           0,00                                                      Total Geral  Pedidos:      14      Valor:      15.056,08     Caixas:           0,00                                                      Total Geral  Pedidos:      14      Valor:      15.056,08     Caixas:           0,00

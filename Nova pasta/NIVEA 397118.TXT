@@ -1,44 +1,0 @@
- M 
-------------------------------------------------------------------------------------------------------------------------------------------------------
-TCG - TRIUNFANTE MATOGROSSENSE ALIMENTOS                                                                          12 Faturamento   Ref:lf07500
-Filial: CAMPO GRANDE                                                                                                           Emissao    Hora   Folha
-                                                               ESPELHO DE NOTA FISCAL                                          13/10/23   16:52   0001
------GRUPO TRIUNFANTE----------------------------------------------------------------------------------------------------------Usuario: willian-------
-
-    Operacao: 02102 COMPRA P/ COMERCIALIZACAO                                            Serie: 001 Nota:      397.118
-
-Destinatario: BDF NIVEA LTDA                                   046.389.383/0005 66               Emissao: 10/10/23
-
-    Endereco: ROD VICE PREF HERMENEGILDO                Numero:         Cidade: JUNDIAI              UF: SP Telefone:           11
-
-  Chave NF-e: 35231046389383000566550010003971181665548597
-
-  Codigo    Qtd Uni Descricao                                 Custo Vig   Custo NF  Custo Rep   Unitario   Desc   Vlr.Desc         Total ICMS MBruta  Codigo    Qtd Uni Descricao                                 Custo Vig   Custo NF  Custo Rep   Unitario   Desc   Vlr.Desc         Total ICMS MBruta  Codigo    Qtd Uni Descricao                                 Custo Vig   Custo NF  Custo Rep   Unitario   Desc   Vlr.Desc         Total ICMS MBruta
-----------------------------------------------------------------------------------------------------------------------------------------------------
- 8583311      1 CX  PROT SOLAR KIDS FPS 60............12X150     532,13     532,13     532,13     532,13   0,00       0,00        532,13   07  33,00
-  854361      1 CX  PROT SOLAR PRT BRZ FPS 15 (I).....12X200     298,69     298,69     298,69     298,69   0,00       0,00        298,69   07  33,00
-  855181      1 CX  PROT SOLAR PRT E BRONZE FPS 30....12X125     286,71     286,71     286,71     286,71   0,00       0,00        286,71   07  33,00
-  858251      2 CX  PROT SOLAR SUN PRT BZR FPS 30.....12X200     358,51     358,52     358,52     358,51   0,00       0,00        717,03   07  33,00
-  855721      2 CX  PROT SOLAR SUN PROT HID FPS 30....12X125     286,71     286,72     286,72     286,71   0,00       0,00        573,43   07  34,30
-   85661      2 CX  PROT SOLAR SUN FPS 50.............12X125     340,55     340,55     340,55     340,55   0,00       0,00        681,10   07  33,00
-  330121      2 CX  PROTETOR SOLAR PH FPS30 GTS 100ML.12X200     358,51     358,52     358,52     358,51   0,00       0,00        717,03   07  35,00
-  332221      2 CX  PROTETOR SOLAR PH FPS50 GTS 100ML.12X200     424,38     424,38     424,38     424,37   0,00       0,00        848,75   07  35,00
-                                                                                                   Total das Mercadorias:       4.654,87                                                                                                   Total das Mercadorias:       4.654,87
-
-                       Frete:           0,00 Seguro:           0,00 Outras:           0,00 IPI:           0,00  Total NF:       4.654,87
-                                                                                                         Total de Trocas:           0,00
-                                                                                                      Total de Descontos:           0,00
-Base de Calculo(1):       4.654,87 Aliquota.......(1):   7,00 Valor ICMS.....(1):         325,84
-Base de Calculo(2):           0,00 Aliquota.......(2):   0,00 Valor ICMS.....(2):           0,00
-Base de Calculo(3):           0,00 Aliquota.......(3):   0,00 Valor ICMS.....(3):           0,00
-Base de Calculo(4):           0,00 Aliquota.......(4):   0,00 Valor ICMS.....(4):           0,00
-Isento............:           0,00 Outros............:           0,00
-
-Setor: 0000 Pedido:       0 Portador: BANCO
-
-Motivo da Devolucao:
-
-Desdobramentos: Titulo             Vecto          Valor
-                     0003971180 19/12/23       1.551,47
-                     0003971180 19/01/24       1.551,47
-                     0003971180 19/02/24       1.551,93

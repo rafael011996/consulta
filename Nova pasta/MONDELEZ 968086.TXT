@@ -1,48 +1,0 @@
- M 
-------------------------------------------------------------------------------------------------------------------------------------------------------
-TCG - TRIUNFANTE MATOGROSSENSE ALIMENTOS                                                                          12 Faturamento   Ref:lf07500
-Filial: CAMPO GRANDE                                                                                                           Emissao    Hora   Folha
-                                                               ESPELHO DE NOTA FISCAL                                          06/11/23   17:33   0001
------GRUPO TRIUNFANTE----------------------------------------------------------------------------------------------------------Usuario: willian-------
-
-    Operacao: 02102 COMPRA P/ COMERCIALIZACAO                                            Serie: 015 Nota:      968.086
-
-Destinatario: A-MONDELEZ BRASIL LTDA.....-M-                   033.033.028/0036 04               Emissao: 31/10/23
-
-    Endereco: AV JOSE LUIZ MAZZALI 360      PARTE A     Numero:         Cidade: LOUVEIRA             UF: SP Telefone:
-
-  Chave NF-e: 35231033033028003604550150009680861966722405
-
-  Codigo    Qtd Uni Descricao                                 Custo Vig   Custo NF  Custo Rep   Unitario   Desc   Vlr.Desc         Total ICMS MBruta  Codigo    Qtd Uni Descricao                                 Custo Vig   Custo NF  Custo Rep   Unitario   Desc   Vlr.Desc         Total ICMS MBruta  Codigo    Qtd Uni Descricao                                 Custo Vig   Custo NF  Custo Rep   Unitario   Desc   Vlr.Desc         Total ICMS MBruta
-----------------------------------------------------------------------------------------------------------------------------------------------------
-  564961     12 CX  CHOC LACTA LAKA OREO..............48X165     256,61     276,59     276,59     267,88   0,00       0,00      3.319,08   07  33,00
-  567541     15 CX  CHOC LACTA OREO....................68X90     231,26     231,26     231,26     223,98   0,00       0,00      3.468,97   07  33,00
-  575971     79 CX  BIS LEITE FLOWPACK..............65X100.8     254,27     254,27     254,27     254,27   0,00       0,00     20.087,61   07  33,00
-  833381     60 CX  BIS BLACK FLOWPACK..............65X100.8     254,27     254,27     254,27     254,27   0,00       0,00     15.256,41   07  33,00
-  759991     16 CX  BIS LAKA 3 PACK..............25X03X100.8     269,93     269,93     269,93     269,92   0,00       0,00      4.318,84   07  33,00
- 7896191     10 CX  CHOC SONHO DE VALSA...............10X1kg     307,67     307,67     307,67     307,66   0,00       0,00      3.076,66   07  32,53
-  896701      2 CX  CHOC LACTA CACAU 60 CAFE...........68X85     292,89     292,90     292,90     283,67   0,00       0,00        585,79   07  35,65
-  221071      5 CX  CHOC LACTA CACAU 40 ORIGINAL.......68X85     292,89     292,89     292,89     283,67   0,00       0,00      1.464,47   07  35,65
-  709421     12 CX  CHOC LACTA DIAMANTE NEGRO.........48X165     256,61     276,59     276,59     267,88   0,00       0,00      3.319,08   07  33,00
-  709561     20 CX  CHOC LACTA AO LEITE...............48X165     256,61     276,59     276,59     267,88   0,00       0,00      5.531,81   07  33,00
-  709621     16 CX  CHOC LACTA SHOT...................48X165     256,61     276,59     276,59     267,88   0,00       0,00      4.425,45   07  33,00
-  789691     30 CX  CHOC OURO BRANCO..................10X1kg     307,67     307,66     307,67     307,66   0,00       0,00      9.229,94   07  32,53
-   78961     44 CX  CHOC AMANDITA RECHEADA............30x200     240,36     240,36     240,36     240,36   0,00       0,00     10.575,87   07  33,00
- 7622931      2 CX  CHOC TOBLERONE AO LEITE...........80X100     670,39     670,40     670,40     649,29   0,00       0,00      1.340,79   04  39,00
-                                                                                                   Total das Mercadorias:      85.262,48                                                                                                   Total das Mercadorias:      85.262,48
-
-                       Frete:           0,00 Seguro:           0,00 Outras:           0,00 IPI:         738,29  Total NF:      86.000,77
-                                                                                                         Total de Trocas:           0,00
-                                                                                                      Total de Descontos:           0,00
-Base de Calculo(1):      83.963,89 Aliquota.......(1):   7,00 Valor ICMS.....(1):       5.877,47
-Base de Calculo(2):       1.298,59 Aliquota.......(2):   4,00 Valor ICMS.....(2):          51,94
-Base de Calculo(3):           0,00 Aliquota.......(3):   0,00 Valor ICMS.....(3):           0,00
-Base de Calculo(4):           0,00 Aliquota.......(4):   0,00 Valor ICMS.....(4):           0,00
-Isento............:           0,00 Outros............:         738,29
-
-Setor: 0000 Pedido:       0 Portador: BANCO
-
-Motivo da Devolucao:
-
-Desdobramentos: Titulo             Vecto          Valor
-                     0009680860 28/11/23      86.000,77

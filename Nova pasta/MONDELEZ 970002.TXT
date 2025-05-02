@@ -1,38 +1,0 @@
- M 
-------------------------------------------------------------------------------------------------------------------------------------------------------
-TCG - TRIUNFANTE MATOGROSSENSE ALIMENTOS                                                                          12 Faturamento   Ref:lf07500
-Filial: CAMPO GRANDE                                                                                                           Emissao    Hora   Folha
-                                                               ESPELHO DE NOTA FISCAL                                          21/11/23   17:28   0001
------GRUPO TRIUNFANTE----------------------------------------------------------------------------------------------------------Usuario: willian-------
-
-    Operacao: 02102 COMPRA P/ COMERCIALIZACAO                                            Serie: 015 Nota:      970.002
-
-Destinatario: A-MONDELEZ BRASIL LTDA.....-M-                   033.033.028/0036 04               Emissao: 16/11/23
-
-    Endereco: AV JOSE LUIZ MAZZALI 360      PARTE A     Numero:         Cidade: LOUVEIRA             UF: SP Telefone:
-
-  Chave NF-e: 35231133033028003604550150009700021803336817
-
-  Codigo    Qtd Uni Descricao                                 Custo Vig   Custo NF  Custo Rep   Unitario   Desc   Vlr.Desc         Total ICMS MBruta  Codigo    Qtd Uni Descricao                                 Custo Vig   Custo NF  Custo Rep   Unitario   Desc   Vlr.Desc         Total ICMS MBruta  Codigo    Qtd Uni Descricao                                 Custo Vig   Custo NF  Custo Rep   Unitario   Desc   Vlr.Desc         Total ICMS MBruta
-----------------------------------------------------------------------------------------------------------------------------------------------------
-  642001    640 CX  BRAND MIX LACTA VARIEDADE.........30x250     261,86     260,85     261,86     252,64   0,00       0,00    166.945,25   07  33,00
-  575911     22 CX  BIS LAKA 5 PACK..............15X05X100.8     258,20     257,33     258,20     257,33   0,00       0,00      5.661,35   07  33,00
-  759991    100 CX  BIS LAKA 3 PACK..............25X03X100.8     269,93     269,02     269,93     269,01   0,00       0,00     26.901,96   07  33,00
-  575951     60 CX  BIS LEITE 5 PACK.............15X05X100.8     258,20     257,33     258,20     257,33   0,00       0,00     15.440,04   07  33,00
-                                                                                                   Total das Mercadorias:     209.693,66                                                                                                   Total das Mercadorias:     209.693,66
-
-                       Frete:           0,00 Seguro:           0,00 Outras:           0,00 IPI:       5.254,94  Total NF:     214.948,60
-                                                                                                         Total de Trocas:           0,00
-                                                                                                      Total de Descontos:           0,00
-Base de Calculo(1):     209.693,66 Aliquota.......(1):   7,00 Valor ICMS.....(1):      14.678,55
-Base de Calculo(2):           0,00 Aliquota.......(2):   0,00 Valor ICMS.....(2):           0,00
-Base de Calculo(3):           0,00 Aliquota.......(3):   0,00 Valor ICMS.....(3):           0,00
-Base de Calculo(4):           0,00 Aliquota.......(4):   0,00 Valor ICMS.....(4):           0,00
-Isento............:           0,00 Outros............:       5.254,94
-
-Setor: 0000 Pedido:       0 Portador: BANCO
-
-Motivo da Devolucao:
-
-Desdobramentos: Titulo             Vecto          Valor
-                     0009700020 14/12/23     214.948,60

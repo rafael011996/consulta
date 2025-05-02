@@ -1,37 +1,0 @@
- M 
-------------------------------------------------------------------------------------------------------------------------------------------------------
-TCG - TRIUNFANTE MATOGROSSENSE ALIMENTOS                                                                          12 Faturamento          Ref:lf07500
-Filial: CAMPO GRANDE                                                                                                           Emissao    Hora   Folha
-                                                               ESPELHO DE NOTA FISCAL                                          26/12/23   17:25   0001
------GRUPO TRIUNFANTE----------------------------------------------------------------------------------------------------------Usuario: willian-------
-
-    Operacao: 02102 COMPRA P/ COMERCIALIZACAO                                            Serie: 015 Nota:      976.840
-
-Destinatario: A-MONDELEZ BRASIL LTDA.....-M-                   033.033.028/0036 04               Emissao: 22/12/23
-
-    Endereco: AV JOSE LUIZ MAZZALI 360      PARTE A     Numero:         Cidade: LOUVEIRA             UF: SP Telefone:
-
-  Chave NF-e: 35231233033028003604550150009768401169645764
-
-  Codigo    Qtd Uni Descricao                                 Custo Vig   Custo NF  Custo Rep   Unitario   Desc   Vlr.Desc         Total ICMS MBruta  Codigo    Qtd Uni Descricao                                 Custo Vig   Custo NF  Custo Rep   Unitario   Desc   Vlr.Desc         Total ICMS MBruta  Codigo    Qtd Uni Descricao                                 Custo Vig   Custo NF  Custo Rep   Unitario   Desc   Vlr.Desc         Total ICMS MBruta
-----------------------------------------------------------------------------------------------------------------------------------------------------
-  119601     26 CX  FERMENTO PO ROYAL.................72x100     179,04     178,35     179,04     178,35   0,00       0,00      4.637,21   07  35,00
-  947001     15 CX  BISC OREO MILKSHAKE MORANGO........48X90      89,85      89,47      89,85      89,46   0,00       0,00      1.342,03   07  33,00
-  926701     65 CX  BISC TRAKINAS MEIO CHOC CH BRANCO.54X126      88,92      88,57      88,92      88,56   0,00       0,00      5.757,04   07  34,80
-                                                                                                   Total das Mercadorias:      11.736,28                                                                                                   Total das Mercadorias:      11.736,28
-
-                       Frete:           0,00 Seguro:           0,00 Outras:           0,00 IPI:           0,00  Total NF:      11.736,28
-                                                                                                         Total de Trocas:           0,00
-                                                                                                      Total de Descontos:           0,00
-Base de Calculo(1):      11.736,28 Aliquota.......(1):   7,00 Valor ICMS.....(1):         821,53
-Base de Calculo(2):           0,00 Aliquota.......(2):   0,00 Valor ICMS.....(2):           0,00
-Base de Calculo(3):           0,00 Aliquota.......(3):   0,00 Valor ICMS.....(3):           0,00
-Base de Calculo(4):           0,00 Aliquota.......(4):   0,00 Valor ICMS.....(4):           0,00
-Isento............:           0,00 Outros............:           0,00
-
-Setor: 0000 Pedido:       0 Portador: BANCO
-
-Motivo da Devolucao:
-
-Desdobramentos: Titulo             Vecto          Valor
-                     0009768400 19/01/24      11.736,28

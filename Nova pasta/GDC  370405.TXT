@@ -1,47 +1,0 @@
- M 
-------------------------------------------------------------------------------------------------------------------------------------------------------
-TCG - TRIUNFANTE MATOGROSSENSE ALIMENTOS                                                                          12 Faturamento          Ref:lf07500
-Filial: CAMPO GRANDE                                                                                                           Emissao    Hora   Folha
-                                                               ESPELHO DE NOTA FISCAL                                          20/12/23   15:36   0001
------GRUPO TRIUNFANTE----------------------------------------------------------------------------------------------------------Usuario: willian-------
-
-    Operacao: 02102 COMPRA P/ COMERCIALIZACAO                                            Serie: 003 Nota:      370.405
-
-Destinatario: A-GDC ALIMENTOS SA.........-M-                   002.279.324/0001 36               Emissao: 18/12/23
-
-    Endereco: R EUGENIO PEZZINI 500                     Numero:         Cidade: ITAJAI               UF: SC Telefone: 473.341.2600
-
-  Chave NF-e: 42231202279324000136550030003704051747948681
-
-  Codigo    Qtd Uni Descricao                                 Custo Vig   Custo NF  Custo Rep   Unitario   Desc   Vlr.Desc         Total ICMS MBruta  Codigo    Qtd Uni Descricao                                 Custo Vig   Custo NF  Custo Rep   Unitario   Desc   Vlr.Desc         Total ICMS MBruta  Codigo    Qtd Uni Descricao                                 Custo Vig   Custo NF  Custo Rep   Unitario   Desc   Vlr.Desc         Total ICMS MBruta
-----------------------------------------------------------------------------------------------------------------------------------------------------
-  405061     10 CX  ATUM BONITO SOLIDO EM OLEO........24X140      96,51     100,56     100,56     100,56   0,00       0,00      1.005,60   07  34,00
-  196671      1 CX  SARD.GDC RALADA AO MOLHO TOMATE...50X125     133,66     133,50     133,66     133,50   0,00       0,00        133,50   07  31,22
-  119661     40 CX  SARD.GDC SABOR DEFUMADO...........50X125     144,69     144,69     144,69     144,69   0,00       0,00      5.787,60   07  31,72
-  117421     50 CX  ATUM GDC RALADO EM OLEO (LC15)....24X170      99,16      99,16      99,16      99,16   0,00       0,00      4.958,00   07  31,00
-  196651    300 CX  SARD.GDC OLEO COMEST (LC15).......50X125     144,69     144,69     144,69     144,69   0,00       0,00     43.407,00   07  31,72
-  196611    300 CX  SARD.GDC MOLHO TOMATE TEMP.(LC15).50X125     144,69     144,69     144,69     144,69   0,00       0,00     43.407,00   07  31,72
-  196661     45 CX  SARD.GDC MOLHO TOMATE PICANTE.....50X125     141,95     144,69     144,69     144,69   0,00       0,00      6.511,05   07  31,72
-  196621     15 CX  SARD.GDC COM MOLHO DE ERVAS.......50X125     144,69     144,69     144,69     144,69   0,00       0,00      2.170,35   07  31,72
-  196741     80 CX  SARD.88 COM OLEO COMESTIVEL.......50X125     131,78     131,78     131,78     131,78   0,00       0,00     10.542,40   07  31,92
-  230201     80 CX  SARD.88 COM MOLHO DE TOMATE.......50X125     131,78     131,78     131,78     131,78   0,00       0,00     10.542,40   07  31,92
-  196591     70 CX  SARD.GDC COM MOLHO DE TOMATE......48X250     247,54     247,54     247,54     247,54   0,00       0,00     17.327,80   07  34,60
-  414901     10 CX  ATUM BONITO SOLIDO NATURAL........24X140     100,53     100,56     100,56     100,56   0,00       0,00      1.005,60   07  34,00
-                                                                                                   Total das Mercadorias:     146.798,30                                                                                                   Total das Mercadorias:     146.798,30
-
-                       Frete:           0,00 Seguro:           0,00 Outras:           0,00 IPI:           0,00  Total NF:     146.798,30
-                                                                                                         Total de Trocas:           0,00
-                                                                                                      Total de Descontos:           0,00
-Base de Calculo(1):     146.798,30 Aliquota.......(1):   7,00 Valor ICMS.....(1):      10.275,88
-Base de Calculo(2):           0,00 Aliquota.......(2):   0,00 Valor ICMS.....(2):           0,00
-Base de Calculo(3):           0,00 Aliquota.......(3):   0,00 Valor ICMS.....(3):           0,00
-Base de Calculo(4):           0,00 Aliquota.......(4):   0,00 Valor ICMS.....(4):           0,00
-Isento............:           0,00 Outros............:           0,00
-
-Setor: 0000 Pedido:       0 Portador: BANCO
-
-Motivo da Devolucao:
-
-Desdobramentos: Titulo             Vecto          Valor
-                     0003704050 21/01/24      73.399,15
-                     0003704050 21/03/24      73.399,15

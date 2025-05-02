@@ -1,50 +1,0 @@
- M 
-------------------------------------------------------------------------------------------------------------------------------------------------------
-TRIUNFANTE MATOGROSSENSE ALIMENTOS LTDA                                                                           12 Faturamento   Ref:lf07500
-Filial: CAMPO GRANDE                                                                                                           Emissao    Hora   Folha
-                                                               ESPELHO DE NOTA FISCAL                                          17/11/23   16:56   0001
------GRUPO TRIUNFANTE----------------------------------------------------------------------------------------------------------Usuario: willian-------
-
-    Operacao: 02102 COMPRA P/ COMERCIALIZACAO                                            Serie: 015 Nota:      969.748
-
-Destinatario: A-MONDELEZ BRASIL LTDA.....-M-                   033.033.028/0036 04               Emissao: 14/11/23
-
-    Endereco: AV JOSE LUIZ MAZZALI 360      PARTE A     Numero:         Cidade: LOUVEIRA             UF: SP Telefone:
-
-  Chave NF-e: 35231133033028003604550150009697481025746031
-
-  Codigo    Qtd Uni Descricao                                 Custo Vig   Custo NF  Custo Rep   Unitario   Desc   Vlr.Desc         Total ICMS MBruta  Codigo    Qtd Uni Descricao                                 Custo Vig   Custo NF  Custo Rep   Unitario   Desc   Vlr.Desc         Total ICMS MBruta  Codigo    Qtd Uni Descricao                                 Custo Vig   Custo NF  Custo Rep   Unitario   Desc   Vlr.Desc         Total ICMS MBruta
-----------------------------------------------------------------------------------------------------------------------------------------------------
-  566321     10 CX  BIS XTRA OREO......................96X45     151,85     160,08     160,08     160,07   0,00       0,00      1.600,75   07  32,50
-  567541     30 CX  CHOC LACTA OREO....................68X90     231,27     230,34     231,27     223,09   0,00       0,00      6.910,27   07  33,00
-  575971    100 CX  BIS LEITE FLOWPACK..............65X100.8     254,27     253,42     254,27     253,41   0,00       0,00     25.341,89   07  33,00
-  575991    100 CX  BIS LAKA FLOWPACK...............65X100.8     254,27     253,42     254,27     253,41   0,00       0,00     25.341,89   07  33,00
-  575961    114 CX  BIS AO LEITE 3 PACK..........25X03X100.8     269,93     269,02     269,93     269,01   0,00       0,00     30.668,24   07  33,00
-  759991     81 CX  BIS LAKA 3 PACK..............25X03X100.8     269,93     269,02     269,93     269,01   0,00       0,00     21.790,59   07  33,00
-  674391     30 CX  CHOC LACTA SHOT....................68X80     216,11     230,34     230,34     223,09   0,00       0,00      6.910,23   07  33,00
-  674431     30 CX  CHOC LACTA AMARO...................68X80     216,11     230,34     230,34     223,09   0,00       0,00      6.910,23   07  33,00
-  896301     10 CX  CHOC LACTA CACAU 60 ORIGINAL.......68X85     292,90     291,57     292,90     282,39   0,00       0,00      2.915,74   07  35,65
-  896701      2 CX  CHOC LACTA CACAU 60 CAFE...........68X85     292,90     291,58     292,90     282,39   0,00       0,00        583,15   07  35,65
-  221071      2 CX  CHOC LACTA CACAU 40 ORIGINAL.......68X85     292,90     291,58     292,90     282,39   0,00       0,00        583,15   07  35,65
-  709561      1 CX  CHOC LACTA AO LEITE...............48X165     276,59     275,48     276,59     266,81   0,00       0,00        275,48   07  33,00
-  709621     15 CX  CHOC LACTA SHOT...................48X165     276,59     275,49     276,59     266,81   0,00       0,00      4.132,31   07  33,00
-  732331      5 CX  CHOC LACTA CACAU 60 M NUT..........68X85     292,90     291,57     292,90     282,39   0,00       0,00      1.457,87   07  35,65
-  789691    100 CX  CHOC OURO BRANCO..................10X1kg     307,67     306,75     307,67     306,74   0,00       0,00     30.674,77   07  32,53
-   78961     44 CX  CHOC AMANDITA RECHEADA............30x200     240,36     239,78     240,36     239,78   0,00       0,00     10.550,47   07  33,00
-                                                                                                   Total das Mercadorias:     175.681,37                                                                                                   Total das Mercadorias:     175.681,37
-
-                       Frete:           0,00 Seguro:           0,00 Outras:           0,00 IPI:         965,66  Total NF:     176.647,03
-                                                                                                         Total de Trocas:           0,00
-                                                                                                      Total de Descontos:           0,00
-Base de Calculo(1):     175.681,37 Aliquota.......(1):   7,00 Valor ICMS.....(1):      12.297,70
-Base de Calculo(2):           0,00 Aliquota.......(2):   0,00 Valor ICMS.....(2):           0,00
-Base de Calculo(3):           0,00 Aliquota.......(3):   0,00 Valor ICMS.....(3):           0,00
-Base de Calculo(4):           0,00 Aliquota.......(4):   0,00 Valor ICMS.....(4):           0,00
-Isento............:           0,00 Outros............:         965,66
-
-Setor: 0000 Pedido:       0 Portador: BANCO
-
-Motivo da Devolucao:
-
-Desdobramentos: Titulo             Vecto          Valor
-                     0009697480 12/12/23     176.647,03

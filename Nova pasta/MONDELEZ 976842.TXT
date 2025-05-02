@@ -1,42 +1,0 @@
- M 
-------------------------------------------------------------------------------------------------------------------------------------------------------
-TCG - TRIUNFANTE MATOGROSSENSE ALIMENTOS                                                                          12 Faturamento          Ref:lf07500
-Filial: CAMPO GRANDE                                                                                                           Emissao    Hora   Folha
-                                                               ESPELHO DE NOTA FISCAL                                          26/12/23   17:26   0001
------GRUPO TRIUNFANTE----------------------------------------------------------------------------------------------------------Usuario: willian-------
-
-    Operacao: 02102 COMPRA P/ COMERCIALIZACAO                                            Serie: 015 Nota:      976.842
-
-Destinatario: A-MONDELEZ BRASIL LTDA.....-M-                   033.033.028/0036 04               Emissao: 22/12/23
-
-    Endereco: AV JOSE LUIZ MAZZALI 360      PARTE A     Numero:         Cidade: LOUVEIRA             UF: SP Telefone:
-
-  Chave NF-e: 35231233033028003604550150009768421978902110
-
-  Codigo    Qtd Uni Descricao                                 Custo Vig   Custo NF  Custo Rep   Unitario   Desc   Vlr.Desc         Total ICMS MBruta  Codigo    Qtd Uni Descricao                                 Custo Vig   Custo NF  Custo Rep   Unitario   Desc   Vlr.Desc         Total ICMS MBruta  Codigo    Qtd Uni Descricao                                 Custo Vig   Custo NF  Custo Rep   Unitario   Desc   Vlr.Desc         Total ICMS MBruta
-----------------------------------------------------------------------------------------------------------------------------------------------------
-  966371      1 CX  CLIGHT LARANJA....................150x8G     131,16     130,70     131,16     130,70   0,00       0,00        130,70   07  32,50
-   78201      2 CX  TRIDENT CANELA 5S..................672x8     757,00     756,55     757,00     756,55   0,00       0,00      1.513,10   07  32,50
-  998201      2 CX  TRIDENT SM HORTELA................40x4x8     146,15     145,59     146,15     145,58   0,00       0,00        291,17   07  32,50
- 6969501      2 CX  TRIDENT 14S INTENSE.............12x12x25     416,57     416,57     416,57     416,56   0,00       0,00        833,13   07  32,50
-  573261      2 CX  TRIDENT GARRAFA HORTELA............36X54     193,37     192,72     193,37     192,72   0,00       0,00        385,44   07  34,50
-  573481      2 CX  TRIDENT 14S BLUEBERRY...........144x25.2     418,53     416,57     418,53     416,56   0,00       0,00        833,13   07  32,50
-   87351     26 CX  BISC OREO CHOCOLATE...............28X144      89,70      89,35      89,70      89,34   0,00       0,00      2.323,04   07  34,50
-  945001      4 CX  BISC OREO MILKSHAKE MORANGO.....28X04X36      89,70      89,35      89,70      89,34   0,00       0,00        357,39   07  34,50
-                                                                                                   Total das Mercadorias:       6.667,10                                                                                                   Total das Mercadorias:       6.667,10
-
-                       Frete:           0,00 Seguro:           0,00 Outras:           0,00 IPI:           0,00  Total NF:       6.667,10
-                                                                                                         Total de Trocas:           0,00
-                                                                                                      Total de Descontos:           0,00
-Base de Calculo(1):       6.667,10 Aliquota.......(1):   7,00 Valor ICMS.....(1):         466,70
-Base de Calculo(2):           0,00 Aliquota.......(2):   0,00 Valor ICMS.....(2):           0,00
-Base de Calculo(3):           0,00 Aliquota.......(3):   0,00 Valor ICMS.....(3):           0,00
-Base de Calculo(4):           0,00 Aliquota.......(4):   0,00 Valor ICMS.....(4):           0,00
-Isento............:           0,00 Outros............:           0,00
-
-Setor: 0000 Pedido:       0 Portador: BANCO
-
-Motivo da Devolucao:
-
-Desdobramentos: Titulo             Vecto          Valor
-                     0009768420 19/01/24       6.667,10
